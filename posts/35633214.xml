@@ -1,0 +1,58 @@
+<item>
+	<title>Hello world</title>
+	<link>http://hernad.bring.out.ba/hello-world</link>
+	<pubDate>Tue Dec 07 09:10:00 -0800 2010</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/hello-world</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Svaki informatičar će znati &scaron;ta misli&scaron; kada mu kaže&scaron;:</p>
+<blockquote class="posterous_short_quote">
+<p>Napi&scaron;i "hello world" u tom i tom programskom jeziku ...</p>
+</blockquote>
+<p><!--more--><a href="http://en.wikipedia.org/wiki/Hello_world_program">Hello world program</a>&nbsp; je prva smislena stvar koju informatičar prilikom učenja novog programskog jezika nauči.</p>
+<p>"Hello world" je nije izum informatike. To je opći koncept učenja.<p />U svakoj nauci mora&scaron; prvo naučiti "hello world" da bi i&scaron;ao dalje.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>"Hello world" problem</strong></span></p>
+<p>Zato kod učenja novih stvari uvijek prvo tražim "hello world" problem.</p>
+<p>Tako sam prilikom pisanja <a href="/aks-seminarski-fulana-tema">seminarskog rada iz "Analize kompjuterskih sistema"</a>&nbsp; intuitivno krenuo ka traženju "hello world" rje&scaron;enja.</p>
+<p>Naravno, prije svega sam morao utvrditi &scaron;ta je uop&scaron;te "hello world" u oblasti koju obrađujem.&nbsp; <p />Kada sam seminarski napisao, ispostavilo se da se na seminarskom tražilo da obradim sve elemente.<p />Međutim, &scaron;ta bih ja uop&scaron;te mogao skontati da sam preskočio VHDL "hello world" ?! Ni&scaron;ta.<p />Mnogi predmeti preskaču&nbsp; "hello world". A on je ključ svega.</p>
+<p>Ako prve pojmove ne uvede&scaron; kako treba, ako student krene "lupati" po pojmovima bez ikakvog reda, njegovo učenje biva jedna besmislena radnja.<p />Kao učenje telefonskog imenika.<p />Zato izjavljujem:</p>
+<blockquote class="posterous_short_quote">
+<p>Ja sam najbolje savladao VHDL-u na predmetu "Arhitektura kompjuterskih sistema" od svih dosada&scaron;njih generacija studenata FIT-a !</p>
+</blockquote>
+<p>Za&scaron;to? Zato &scaron;to sam ja učio i naučio "hello world" VHDL-a, a druge kolege nisu. Ostali studenti su "lupali" po skripti učeči silne konstrukte VHDL-a isto k'o da je to pjesmica iz bosanskog. <p />Zato ja, iako sam pro&scaron;ao najmanje VHDL iskaza od svih, najbolje poznajem VHDL. Znam 1+1 VHDL-a, i to znam dobro. Ostalim kolegama je VHDL jasan koliko "vžljkvkhvhblbXzyubA".</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Sudbina neznalice</strong></span></p>
+<p>U čemu je kvaka ? Kvaka je u pristupu. Ko preskoči "hello world", ne gine mu sudbina neznalice u tome &scaron;to uči.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Kako izbjeći sudbinu neznalice</strong></span></p>
+<p>Svako ko se bavi podučavanjem mora imati na umu sljedeće:</p>
+<blockquote class="posterous_medium_quote">
+<p>1) preskakanje "hello world" je nemoguće</p>
+<p><br />2) iz tog razloga za "hello world" odvojite vremena onoliko koliko treba. Nemojte se vaditi na &scaron;uplju priču: ja moram preći nastavni plan i program. Vi trebate ljudima dati znanje, a ne nastavni plan i program !</p>
+<p><br />3) ako je fond časova ograničen, ostanite na "hello world" - no sikiriki. Ako student bude trebao ići dalje, on će na osnovu tog moći nastaviti. <br />Ako mu vi u glavu ubacite konfuziju (preskakanjem temeljnih pojmova, ubacivanjem bruke za njega nepozvezanih termina) on će, ako mu znanje iz va&scaron;eg ispita bude trebalo, morati prvo proći jedno ispumpavanje tog antiznanja. Nemojte to ljudima raditi! Budite humani!&nbsp;</p>
+</blockquote>
+<p>Hello world je zakon. Čovječe, ja sam fakat <a href="/genijalac">genijalac</a> !</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Svaki informatičar će znati šta misliš kada mu kažeš: Napiši "hello world" u tom i tom programskom jeziku ... Hello world program je prva smislena stvar koju informatičar prilikom učenja novog programskog jezika nauči. "Hello world" je nije izum i...]]></excerpt:encoded>	
+
+	<wp:post_date>Tue Dec 07 09:10:00 -0800 2010</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>hello-world</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

@@ -1,0 +1,62 @@
+<item>
+	<title>Linux/Kerberos, manje para Amerikancima više Bosancima</title>
+	<link>http://hernad.bring.out.ba/linuxkerberos-manje-para-amerikancima-vise-bo</link>
+	<pubDate>Mon Apr 23 13:50:00 -0700 2012</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="fit_3_godina"><![CDATA[fit_3_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/linuxkerberos-manje-para-amerikancima-vise-bo</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>U Video predavanju <a href="http://www.youtube.com/watch?v=JGfd-uy5xIw">"Sigurnosni protokoli"</a> kolega profesor Jasmin Azemović je pomenuo "Kerberos" kao protokol koji najvi&scaron;e koristi Windows OS.</p>
+<p>To je tačno. Microsoft Active directory (AD/SSO) koristi modificiranu verziju MIT Kerberos-a.&nbsp;</p>
+<p>"Kerberos" je međutim podržan i za <a href="https://help.ubuntu.com/community/Kerberos">Linux OS</a>.&nbsp;</p>
+<p>Bilo bi sjajno da se praktični predmeta "SiZIS" vi&scaron;e bavi tim dijelom IT infrastrukture.</p>
+<p>Komercijalno gledajući Microsoft AD instalacija ko&scaron;ta za mrežu od 10-20 računara vi&scaron;e hiljada KM&nbsp;samo po osnovu MS licenci.</p>
+<p>Kada se tome dodaju tro&scaron;kovi sistemskog inžinjera, uspostava takvog sistema u je redovno 5-cifren iznos.</p>
+<p>Za bosanskog korisnika to su velike pare. To se do sada u mnogim firmama "rje&scaron;avalo" piraterijom.</p>
+<p>Međutim, stvari su se odnedavno <a href="http://hernad.bring.out.ba/drzava-i-bosansko-hercegovacki-it">promijenile</a>.&nbsp;</p>
+<p>Zato mislim da je znanje setup-a Kerberos SSO sistema na Linuxu iznimno atraktivna stvar.&nbsp;&nbsp;</p>
+<p>Kolega Jasmin svakom često nagla&scaron;ava da edukacija treba biti u skladu sa potrebama trži&scaron;ta, sa čim se u principu naravno slažem.</p>
+<p>Znanje setup-u LAN Linux/Kerberos sistem-a bilo bi od velike koristi:</p>
+<p>1) edukativno, studenti bi upoznali kako se pode&scaron;ava moderan poslovni LAN sistem autentifikacije/autorizacije.</p>
+<p>2) postoji velika potreba na trži&scaron;tu za ovakvim rje&scaron;enjem.</p>
+<p>Za kraj, malo o naslovu.</p>
+<p>Sa otvorenim sistemima je moguće u IT sistem ugraditi vi&scaron;e sopstvenog znanja.</p>
+<p>Akcija "Legalizacije" je akcija koja je pokazala dvije stvari:</p>
+<p>1) Koliko se država ne brine za svoje porezne obveznike</p>
+<p>2) Koje su posljedice potpunog monopola jednog vendora.&nbsp;</p>
+<p>Ishod je taj da je obični bosanski poslovni korisnik doslovno na&scaron;ao u stupici iz jednostavnog razloga &scaron;to &nbsp;trži&scaron;te alternativnih (non-Microsoft) IT provajdera praktično ne postoji.</p>
+<p>Kada se uzme da je cijena Licence za Window OS-a u procesu legalizacije cca 400 KM + PDV, te da je većina račuanara 4-5 godina stara (trži&scaron;na cijena takvog hardware-a je cca 100 KM) čitava akcija se pretvorila u brutalnu pljačku.</p>
+<p>U ovom krugu su stvari gotove. Big corporation je naravno pobjednik. Dugoročno ?</p>
+<p>Dugoročno je jedino rje&scaron;enje da se na bosanskom trži&scaron;tu stvori alternativa.</p>
+<p>Ta alternativa se može stvoriti samo sistemskim potezima. Državu je pokazala svoju nebrigu.</p>
+<p>Da li su obrazovne institucije zainteresovane za ovaj problem ? Da li se na FIT-u može ne&scaron;to učiniti ?</p>
+<p>Može. Temama kao &scaron;to je "Linux/Kerberos LAN infrastruktura".</p>
+<p>Stoga je moj prijedlog za praktični dio nastave na "SiZIS"-u: &nbsp;Vi&scaron;e tema a-la "Kerberos", manje "hacker" tema.&nbsp;</p>
+<p>&nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[U Video predavanju "Sigurnosni protokoli" kolega profesor Jasmin Azemović je pomenuo "Kerberos" kao protokol koji najviše koristi Windows OS. To je tačno. Microsoft Active directory (AD/SSO) koristi modificiranu verziju MIT Kerberos-a. "Kerberos" ...]]></excerpt:encoded>	
+
+	<wp:post_date>Mon Apr 23 13:50:00 -0700 2012</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>linuxkerberos-manje-para-amerikancima-vise-bo</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

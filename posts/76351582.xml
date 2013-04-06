@@ -1,0 +1,408 @@
+<item>
+	<title>Hello programiranje, al' čestito, hernad &quot;The agresivni&quot;</title>
+	<link>http://hernad.bring.out.ba/hello-programiranje-al-cestito</link>
+	<pubDate>Thu Oct 20 23:02:00 -0700 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="h_samra"><![CDATA[h_samra]]></category>
+	
+		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
+	
+		<category domain="tag" nicename="software_development"><![CDATA[software_development]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/hello-programiranje-al-cestito</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>U jednom od po meni najboljih članaka na temu obrazovanje i FIT:</p>
+<p><a href="http://hernad.bring.out.ba/mogucnost-izbora-je-takode-stvar-koja-se-uci">"Mogućnost izbora" je stvar koja se takođe uči !</a>&nbsp;</p>
+<div>u poglavlju "Za&scaron;to je Microsoft Visual studio pogre&scaron;an izbor" dotakao sam se ove teme.</div>
+<p />
+<div>Jutros sam se u to jo&scaron; jednom uvjerio radeći sa Samrom na njenom <a href="http://hernad.bring.out.ba/ljudi-citajte">CT projektu</a>.</div>
+<p>Jutros je Samra bila u svojoj "nja-nja" fazi:</p>
+<blockquote class="posterous_short_quote">
+<p>Ja ovo ni&scaron;ta ne razumijem, &scaron;ta je 'pascal', &scaron;ta je free pascal compiler ? Kako ću ja objasniti kad nisam imala pascal(*), nja-nja-nja-nja ...</p>
+</blockquote>
+<p><!--more-->Ovo nja-nja pona&scaron;anje me uvijek razbjesni. To je Samrina metoda da "okupira" čitavu kuću da se bavi njenim problemom. Ako je to i bilo prihvatljivo za dijete, do&scaron;ao je vakat da takvo pona&scaron;anje ne nagrađujemo.</p>
+<p>Zato sam odlučio da je za takvo pona&scaron;anje kažnjavam:</p>
+<blockquote class="posterous_medium_quote">
+<p>"Njanjanje" ničemu ne vodi. "Rezili&scaron;" mater, "rezili&scaron;" mene. Svi smo "otrovani" nakon ovakve kuknjave. Mi se "ubismo" da ti pomognemo, ali ako nastavi&scaron; sa "njanjanjem" neće&scaron; dobiti NIKAKVU pomoć. Od ocjene iz CT-a meni je puno bitnije da postane&scaron; RAZUMAN čovjek. Razuman čovjek razumije da i drugi ljudi imaju obaveze, da cijeni napore drugih, i da njegov problem nije jedini na svijetu.&nbsp;</p>
+Zato sad "razguli" - u svoju sobu.</blockquote>
+<p>Neki će sigurno prokomentarisati:</p>
+<blockquote class="posterous_short_quote">
+<p>Ja ovog čovjeka! Pravi agresivac. Sa djecom treba lijepo ... peace brothers</p>
+</blockquote>
+<p>Ja sam međutim ubijeđen da je ovo ne&scaron;to <strong>najbolje</strong> &scaron;to mogu učiniti za svoje dijete.&nbsp;</p>
+<p>Ostavimo po strani odgoj djece. Vratimo se učenju i CT-u.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>(Ne)razumjevanje koncepta</strong></span></p>
+<p>Za&scaron;to Samra ne razumije da je <strong><span style="color: #ff6600;">svejedno</span></strong> da li će:</p>
+<p><span style="text-decoration: underline;"><strong>1) Compile &amp; Link iz vi editora</strong></span></p>
+<p>u vi editoru ukucati:</p>
+<p>&nbsp; &nbsp;:cd <a href="https://github.com/hsamra/CT_pascal">~/github/CT_pascal</a></p>
+<p>&nbsp; &nbsp;:!fpc&nbsp;<span style="color: #484848; font-family: helvetica, arial, freesans, clean, sans-serif; line-height: 18px; background-color: #f8f8f8;"><a href="https://github.com/hsamra/CT_pascal/blob/master/geometry_calculator.pas" class="js-slide-to js-rewrite-sha" style="color: #4183c4; text-decoration: underline; padding: 0px; margin: 0px;">geometry_calculator.pas</a></span></p>
+<p><span style="text-decoration: underline;"><strong>2) Compile &amp; Link iz TurboPascal IDE-a</strong></span></p>
+<p>Ili će u <a href="http://en.wikipedia.org/wiki/Turbo_Pascal">Turbo pascal</a> <a href="http://en.wikipedia.org/wiki/Integrated_development_environment">IDE-u</a>&nbsp;kreirati novi projekat (koji će mu automatski kreirati ime_projekta.pas fajl i otvoriti ga u internom editoru pa pokrenuti "Compile" menu.</p>
+<p><span style="text-decoration: underline;"><strong>3) Compile sa konzole:</strong></span></p>
+<p>ili će na konzoli - terminal aplikaciji svoje Mac OSX ma&scaron;ine zadati:</p>
+<p>&nbsp; &nbsp; $ cd ~/github/CT_pascal</p>
+<p>&nbsp; &nbsp; $ fpc geometry_calculator</p>
+<p><span style="text-decoration: underline;"><strong>4) Compile na komandnom promptu na Windows OS-u(**)</strong></span></p>
+<p>&nbsp; &nbsp; &nbsp;&gt; c:</p>
+<p>&nbsp; &nbsp; &nbsp;&gt; cd \github\CT_pascal</p>
+<p>&nbsp; &nbsp; &nbsp;&gt; bpc gemetry_calculator.pas</p>
+<p>Sve ovo daje rezultat. Ali samra to jednostavno ne konta. Zato &scaron;to ne razumije osnovne koncepte (***) da bi razumjela ono &scaron;to radi.</p>
+<p><span style="font-size: medium;"><strong style="text-decoration: underline;">Source code</strong></span></p>
+<p><a href="http://en.wikipedia.org/wiki/Source_code">source code</a>&nbsp;je set linija koje imaju određena pravila (sintaksu) koje određeni programski compiler može prevesti u <a href="http://en.wikipedia.org/wiki/Executable">izvr&scaron;ni kod</a>.</p>
+<p><span style="text-decoration: underline;"><span style="font-size: medium;"><strong>Executable code</strong></span></span></p>
+<p>Source code je input, executable code je output.</p>
+<p>Jo&scaron; jednom:</p>
+<p>&nbsp; &nbsp; <span style="font-size: medium;"><span style="color: #0000ff;">SOURCE_CODE</span></span></p>
+<p><span style="font-size: medium;"><span style="color: #0000ff;">&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;=&gt; <span style="color: #ff0000;">COMPILE PROCES</span>(***) </span></p>
+<p><span style="font-size: medium;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; =&gt; <span style="color: #008000;">EXECUTABLE_CODE</span></span></p>
+<p>Izvr&scaron;ni kod je ono &scaron;to će na&scaron; računar, tačnije na&scaron; operativni sistem znati pokrenuti.</p>
+<p><span style="text-decoration: underline; font-size: large;"><strong>Operativni sistem</strong></span></p>
+<p>Ako program nema gre&scaron;ke, kompajler <strong>generi&scaron;e -</strong>&nbsp;<strong>proizvodi</strong> executable code - izvr&scaron;ni program.</p>
+<p>Taj izvr&scaron;ni program se različito imenuje i pokreće na različitim operativnim sistemima:</p>
+<p><span style="text-decoration: underline;">a) linux, Mac OS X (unix like operativni sistemi)</span></p>
+<p>Kada se nalazimo na terminal konzoli,</p>
+<p>&nbsp; &nbsp; &nbsp; ~/github/CT_pascal$ ./geometry_calculator</p>
+<p><span style="text-decoration: underline;">b) Microsoft DOS/Windows OS familija operativnih sistema (DOS, Windows XP, Windows 7)</span></p>
+<p>Slično, na <a href="http://en.wikipedia.org/wiki/Command_Prompt">komandnom promptu</a> Windows OS-a:</p>
+<p>&nbsp; &nbsp; &nbsp; c:\github\CT_pascal&gt; geometry_calculator.exe</p>
+<p>Razlike su minorne, ali ipak postoje.</p>
+<p>Tako vidimo da na unix operativnim sistemima moramo navesti "./" + &lt;ime executable fajla&gt;.</p>
+<p>Razlog leži u tome &scaron;to unix operativni sistemi u <a href="http://en.wikipedia.org/wiki/PATH_(variable)">PATH</a> varijabli ne sadrže tekući direktoriji dok je tekući direktorij kod Windows-a explicitno uvr&scaron;ten u listu direktorija koje operativni sistem traži prilikom poku&scaron;aja da pokrene - izvr&scaron;i program.&nbsp;</p>
+<p>c) GUI</p>
+<p>Ovo isto se može dobiti i tako &scaron;to u Mac OSX finder-u &nbsp;ili Windows Exploreru dva puta kliknemo na geometry_calculator, odnosno geometry_calculator.exe:</p>
+<p><div class='p_embed p_image_embed'>
+<a href="http://getfile6.posterous.com/getfile/files.posterous.com/temp-2011-10-21/JvwDdpgarEaqqCIaelxBlcbjpmoHCyuhizGihHtwGglzfgpmEcaBypvGksGo/finder_CT_project.png.scaled1000.png"><img alt="Finder_ct_project" height="245" src="http://getfile9.posterous.com/getfile/files.posterous.com/temp-2011-10-21/JvwDdpgarEaqqCIaelxBlcbjpmoHCyuhizGihHtwGglzfgpmEcaBypvGksGo/finder_CT_project.png.scaled500.png" width="500" /></a>
+</div>
+</p>
+<p>dupli klik, pokrećemo na&scaron; program:</p>
+<p><div class='p_embed p_image_embed'>
+<a href="http://getfile4.posterous.com/getfile/files.posterous.com/temp-2011-10-21/JgkgGuECnsuxmlJylHyxhyfaaljHjBDbfkCuoGvtqJeIgbrrmbxEakHgCCDF/run_from_console.png.scaled1000.png"><img alt="Run_from_console" height="303" src="http://getfile6.posterous.com/getfile/files.posterous.com/temp-2011-10-21/JgkgGuECnsuxmlJylHyxhyfaaljHjBDbfkCuoGvtqJeIgbrrmbxEakHgCCDF/run_from_console.png.scaled500.png" width="500" /></a>
+</div>
+</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Program compiler</strong></span></p>
+<p>Programski kompajler je taj koji je zadužen za ovaj proces prevođenja.</p>
+<p><a href="http://en.wikipedia.org/wiki/Compiler">Compile</a> = kompajliranje =&gt; prevođenje.&nbsp;</p>
+<p>Slično jeziku čovjeka, &nbsp;"source code"-a može biti napisan na različitim <a href="http://en.wikipedia.org/wiki/Programming_language">programskim jezicima</a>.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Sintaksa programskog jezika "Pascal"</strong></span></p>
+<p>Za razliku od čovjeka, programski kompajleri su puno osjetljiviji na gre&scaron;ke.</p>
+<p>Pa počnimo od hello world pascal programa:</p>
+<p><a href="https://github.com/hernad/CT_pascal/blob/d1193344618dfe71e9e2f2f1d311b02f97cf9ffb/hello.pas">hello world pas verzija 1</a></p>
+<p><span style="text-decoration: underline;"><strong>Keywords</strong></span></p>
+<p>Ovdje imamo sljedeće ključne riječi(keywords):</p>
+<ol>
+<li>program</li>
+<li>begin / end programski blok</li>
+</ol>
+<p>Pored ključnih riječi imamo i znakove kojima označavamo kraj komande ili komandnog bloka ";", odnosno kraj programa ".".</p>
+<p>&Scaron;ta je ovdje bitno uočiti: Svaki pascal kompajler mora ove kewords na isti način interpretirati.</p>
+<p>Nije bitno da li je to fpc ili borland_turbo_pascal ili neki treći.</p>
+<p><span style="text-decoration: underline;"><strong>"Writeln" funkcija</strong></span></p>
+<p>"Writeln" je funkcija koja na ekran ispisuje ono &scaron;to joj zadamo. Ona postoji u svakoj implementaciji pascal-a. Međutim, ona u užem smislu te riječi, nije keyword.</p>
+<p><span style="text-decoration: underline;"><strong>Operatori, if-then-else konstrukt</strong></span></p>
+<p>Napravimo novu verziju na&scaron;eg hello world programa.</p>
+<p>Na početku programa ćemo definisati "samrin_babo". Na na osnovu vrijednosti te konstante u programu treba ispisati:</p>
+<p>&nbsp; &nbsp; <em>hello from Samra Husremović</em></p>
+<p>ako je samrin_babo = 'hernad'. Ako je neka druga vrijednost, program treba ispisati:</p>
+<p>&nbsp; &nbsp;<em>hello from neka druga Samra</em></p>
+<p>Nave&scaron;ću rje&scaron;enje: <a href="https://github.com/hernad/CT_pascal/blob/e1c9f918325b85e2bd494fcddaa83f6bad0e97e7/hello.pas  ">hello world verzija 2</a></p>
+<p>A sada, idemo u analizu i razumjevanje nove verzije:</p>
+<p>Novi programski elementi/konstrukti:</p>
+<ol>
+<li><a href="https://gist.github.com/1303320">if-then-else</a></li>
+<li>const - deklarisanje konstante. vrijednosti koja se tokom izvr&scaron;enja neće mijenjati</li>
+</ol>
+<p>Pored toga treba uočiti i sljedeće:</p>
+<ol>
+<li>stringovi(****) u pascal-u se ograničavaju jednostrukim navodnik separatorom&nbsp;</li>
+</ol>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Iterativni, Step-by-step proces</strong></span></p>
+<p>Jedan od glavnih problema u procesu učenja je iterativnost, odnosno nedostatak iste.</p>
+<p><span style="text-decoration: underline;"><span style="color: #ff0000; font-size: medium;"><strong>Samra je svoj CT zadatak krenula rje&scaron;avati kao da je to tekst iz bosanskog - prepisujući program od početka do kraja.</strong></span></span></p>
+<p>To je kardinalna gre&scaron;ka. Gre&scaron;ka svih gre&scaron;ki u procesu učenja programiranja.</p>
+<p>Ako pi&scaron;ete programski kod, a da pri tome ne možete identificirati osnovne elemente programskog jezika, idete u pogre&scaron;nom smjeru.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Primjeri Samrinih gre&scaron;aka</strong></span></p>
+<p>Tokom rada uočio sam sljedeće nerazumjevanje:</p>
+<p>1) "a : = 1" nije isto &scaron;to i "a := 1"</p>
+<p>Na prvi pogled ovo izlgeda kao obični tipfeler, međutim nije. Ona je pokazala da Samra nije razumjela da je operator ":=" asignment operator u pascal-u.</p>
+<p>Pascal opet ne razumiije da "s a m r a" znači "samra" :)</p>
+<p>2) If-then-else i "borba" gdje treba a gdje ne treba staviti ";".</p>
+<p>Ovo je po meni boljka pascal sintakse, ali kako god. Bila sintaksta intuitinivna ili ne, ona se mora savladati da bi se moglo programirati.</p>
+<p><span style="text-decoration: underline; font-size: large;"><strong>Kritika nastavnika</strong></span></p>
+<p>Razumjevanje. Razumjevanje. Razumjevanje.</p>
+<p>Rad Samrinog nastavnika mi se ne sviđa previ&scaron;e.&nbsp;</p>
+<p>Podržavam konkretan projekat. Međutim priprema đaka mora ukazati na ovo o čemu sam ovdje pisao.&nbsp;</p>
+<p>Priprema mora biti usmjerena na principe i osnovne pojmove - &scaron;ta, kako, čemu služi.</p>
+<p>Davati djeci zadatke koji su daleko od baznog znanja rezultira sljedećim:</p>
+<ol>
+<li>učenik ne može zavr&scaron;iti zadatak</li>
+<li>učenik "podžoni" zadatak sa interneta ili svojih drugova</li>
+<li>roditelji pi&scaron;u učeničke radove</li>
+</ol>
+<p>Znači postoje samo dvije opcije: <strong><span style="color: #ff0000;"><span style="font-size: medium;">plagijat</span> ili <span style="font-size: medium;">negativni rezultat</span></span></strong>.</p>
+<p>Ne znam koja je gora. U stvari znam. Ova prva. Ona je rak-rana bosanskog obrazovnog sistema.</p>
+<p>Treba ovdje jo&scaron; par stvari dodati: talentovanim učenicima ne treba sve rastavljati na proste faktore. Međutim, odgovorno tvrdim da većina učenika mora biti pripremljena na ovakav način.&nbsp;</p>
+<p><strong><span style="text-decoration: underline; color: #ff0000;"><span style="font-size: medium;">Sve dok ne dođu do tačke da razumjevaju sve sve bazne elemente i ključne koncepte(*****) učenici ne mogu pristupiti izradi konkretnog projektnog zadatka</span>.</span></strong></p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Pohvala koncepta u Samrinoj &scaron;koli</strong></span></p>
+<p>U svim tim Samrinim projektima se ukazuje na metodolo&scaron;ki pristup: planiranje, dizajn rje&scaron;enja, pisanje dokumentacije kada se radi o informatičkom projektu.</p>
+<p>To je odlična stvar. To je ispravno. Ali, bez bazičnog razumjevanja materije sva ta metodologija pada u vodu.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Postignuće</strong></span></p>
+<p>Projektni zadatak čiji bi finalni artifakt po pitanju izvornog koda bio <a href="https://github.com/hernad/CT_pascal/blob/e1c9f918325b85e2bd494fcddaa83f6bad0e97e7/hello.pas">hello world verzija 2</a>&nbsp;zajedno sa kvalitetnom dokumentacijom bi bilo&nbsp;VELIKO POSTIGNUĆE za učenika drugog razreda opće gimnazije. Dovoljno za najveću ocjenu.</p>
+<p>Ako bi se tome dodala realizacija u jo&scaron; jednom statičkom jeziku (C/C++ ili java) i &nbsp;jednom dinamičkom jeziku (python ili ruby), nakon čega bi slijedila <span style="color: #ff0000;"><strong>komparativna analiza</strong></span> pojedinih rje&scaron;enja, taj učenik bi bio "mraka".</p>
+<p>Rezultat bi bio:</p>
+<ol>
+<li>učenik je ovladao osnovnim konceptima software development-a</li>
+<li>GENERALNI (multi OS, multi programming language) pristup bi mu pomogao su&scaron;tinskom razumjevanju materije &nbsp;</li>
+</ol>
+<p><span style="text-decoration: underline;"><span style="color: #ff0000;"><span style="font-size: medium;"><strong>Sve dok se u &scaron;kolama na ovaj način ne bude pristupalo, prosječan učenik NEĆE NAUČITI GOTOVO NI&Scaron;TA</strong></span>.</span></span></p>
+<p>Mi djeci moramo dati znanje da rasuđuju. Znanje da budu stvaraoci a ne konzumenti.</p>
+<p>Zato kao roditelj tražim od prosvjetnih radnika ovom prilikom sljedeće:</p>
+<blockquote class="posterous_short_quote">
+<p>Nastavnici i profesori učite na&scaron;u djecu. Al oprave.</p>
+</blockquote>
+<p>Za to vas plaćamo. Mogućnost izbora se uči.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>hernad "The agresivni"</strong></span></p>
+<p>Ako mi kojim slučajem neki prosvjetni radnik kaže da su oni ograničeni nastavnim planom i programom ... uh .... bolje da mi ne bude u blizini.</p>
+<p>Bojim se da bih izgubio moć samokontrole. Ja vas plaćam (<a href="http://hernad.bring.out.ba/bosanski-nacionalista">plaćanjem poreza</a>) da mi <span style="color: #ff0000;"><strong>učite djecu</strong></span>, a ne da ispunite nastavne planove i programe !</p>
+<p>Efekat nastavnika koji na kritike roditelja odgovaraju krilaticom: "Po&scaron;tovanja plana i programa" redovno je poražavajuće za učenike, za ovu zemlju, za dru&scaron;tvo u cjelini.</p>
+<p>---</p>
+<p>(*) misleći na Turbo Pascal okruženje koje imaju instalirano u &scaron;koli a ona kod sebe nema</p>
+<p>(**) Pretpostavka je da u direktoriju c:\github\CT_Pascal postoji source code projekta - u ovom slučaju geometry_calculator.pas.&nbsp;</p>
+<p>(***) Ovo je pojednostavljeno, nakon Compile procesa koji proizvodi objektne fajlove (.o), slijedi Linking proces. fpc compiler automatski nakon uspje&scaron;ne kompilacije vr&scaron;i link proces i proizvodi executable code. Za profil čitaoca kao &scaron;to je Samra, gornja &scaron;ema je sasvim dovoljna.</p>
+<p>(****) string - niz znakova</p>
+<p>(*****) U konkretnom primjeru, sve dok u potpunosti ne razumiju hello.pas verziju 1 i hello pas verziju 2</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[U jednom od po meni najboljih članaka na temu obrazovanje i FIT: "Mogućnost izbora" je stvar koja se takođe uči ! u poglavlju "Zašto je Microsoft Visual studio pogrešan izbor" dotakao sam se ove teme. Jutros sam se u to još jednom uvjerio radeći s...]]></excerpt:encoded>	
+
+	<wp:post_date>Thu Oct 20 23:02:00 -0700 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>hello-programiranje-al-cestito</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Fri Oct 21 03:06:54 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Fri Oct 21 03:06:54 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://hernad.bring.out.ba/free-pascal-compiler-edit-compile-run-ciklus]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Fri Oct 21 05:18:00 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Fri Oct 21 05:18:00 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Mišljenje psihologa, mame Dženane:
+
+http://hernad.bring.out.ba/ukljucujemo-i-psihologe-u-temu-hello-programi]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[famous samra]]></wp:comment_author>
+			<wp:comment_author_email>samra.husremovic@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Fri Oct 21 11:52:20 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Fri Oct 21 11:52:20 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[a) linux, Mac OS X (unix like operativni sistemi)
+
+Kada se nalazimo na terminal konzoli,
+
+      ~/github/CT_pascal$ ./geometry_calculator
+
+b) Microsoft DOS/Windows OS familija operativnih sistema (DOS, Windows XP, Windows 7)
+
+Slično, na komandnom promptu Windows OS-a:
+
+      c:\github\CT_pascal&gt; geometry_calculator.exe
+
+
+je li ovo imenuje fajl ili ga pokreće ili oboje?]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Fri Oct 21 12:03:25 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Fri Oct 21 12:03:25 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Samra, tim primjerima se pokreće execute fajl (geometry_calculator) koji je dobijen procesom kompajliranja
+
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[famous samra]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Fri Oct 21 12:12:19 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Fri Oct 21 12:12:19 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[a kako se imenuje fajl?]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Fri Oct 21 12:33:21 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Fri Oct 21 12:33:21 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Ne pratiš pažljvo tekst. 
+
+prije toga imaš: &quot;3) Compile sa konzole&quot; u kome se navode mogući načini kompilacije. Proizvod te kompilacije je u svakoj opciji izvršni fajl koji se imenuje na osnovu imena source fajla (.pas fajla).
+
+fpc samra_1.pas će generisati samra_1 execute na unix sistemu, samra_1.exe na windows sistemu.
+
+Jesam li ti sada dovoljno pojasnio.
+
+Probaj na svom računaru i razmišljaj. Pročitaj onoliko puta dok ne shvatiš principe.
+
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[famous samra]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Sat Oct 22 02:17:32 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Sat Oct 22 02:17:32 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Zato kada napisem i spasim neki code kao npr samra.pas ne mogu odmah kompajlirati jer mi prijavljuje gresku da nisam kompajlirala souce file? Kada sam otvorila file na finderu i kompajlirala proces je bio uspjesan. ]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Sat Oct 22 02:39:02 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Sat Oct 22 02:39:02 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Budi konkretnija. Ne mogu ti pomoći dok jasno ne izložiš problem koji imaš.
+
+Konkretno, nemoj PREPRIČAVATI o grešci koju ti program prijavljuje nego je doslovno navedi.
+
+&gt; Kada sam otvorila file na finderu i kompajlirala proces je bio uspjesan
+
+Iz ovoga ne mogu znati KAKO, ŠTA si ti ovom prilikom učinila.
+
+Zaključak: ne mogu ti pomoći dok jasno ne izložiš ŠTA si radila na koje probleme (prijave grešaka) si naišla.
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Sat Oct 22 02:42:06 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Sat Oct 22 02:42:06 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Iako ti ovo može djelovati kao još jedno babino &quot;mučenje&quot;, kako ti ne želim pomoći, nisi u pravu.
+
+Moraš naučiti prijaviti svoj problem. On podrazumjeva da svom mentoru jasno i prezicno izložiš ono što si radila.
+
+Ovo je vrlo bitna vještina.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[famous samra]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Sat Oct 22 03:38:04 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Sat Oct 22 03:38:04 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[kada napisem neki kod u editoru i sacuvam ga ne mogu da ga kompajliram jer se prijavi greska da nisam kompajlirala source code. Kada taj fajl otvorim u finderu moze se kompajlirati. Drugi fajl ni tako nisam mogla kompajlirati jer je opet prijavio gresku da nisam kompajlirala source code]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Sat Oct 22 09:29:21 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Sat Oct 22 09:29:21 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Opet si prepričala bez potrebnih detalja, vrlo slično kao predhodni put.
+
+Opet ne mogu razumjeti šta si radila.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Sat Oct 22 11:07:39 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Sat Oct 22 11:07:39 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://hernad.bring.out.ba/hello-programiranje-al-cestito-drugi-dio]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[sladja]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Fri Oct 28 05:09:06 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Fri Oct 28 05:09:06 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[:D ]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

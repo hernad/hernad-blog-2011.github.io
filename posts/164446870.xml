@@ -1,0 +1,53 @@
+<item>
+	<title>PeB seminarski rad - web shop sa recommender systemom</title>
+	<link>http://hernad.bring.out.ba/peb-seminarski-rad-oss-web-shop-sa-recommende</link>
+	<pubDate>Sun Oct 07 00:26:00 -0700 2012</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="fit_3_godina"><![CDATA[fit_3_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/peb-seminarski-rad-oss-web-shop-sa-recommende</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>PeB(*) seminarski rad je obuhvatio implementaciju e-commerce web shop rje&scaron;enja sa ugrađenim recommender engine-om. Kori&scaron;tene komponente su open source software.</p>
+<p><!--more--></p>
+<p>Fokus rada je bio "recomender" sistem. Web shop je stoga služio prvenstveno kao poligon za istraživanje "recommender engine"-a.</p>
+<p><div class='p_embed p_file_embed'>
+<a href="http://getfile8.posterous.com/getfile/files.posterous.com/temp-2012-10-07/hfGCegiGAgbniEvnztvCfpwDvbrnEdqneAnoibsmpByGoysppoCdwbepbehC/OSS_recommend_system.pdf"><div class='p_icon'></div>
+<div class='p_text'>OSS_recommend_system.pdf</div>
+</a></div>
+</p>
+<p>Ovaj seminarski rad ću svakako zapamtiti po neprospavanoj noći uoči odbrane rada(*).</p>
+<p>Naime, tamo negdje oko ponoći sam shvatio da ključni plugin unutar reccomender-a uop&scaron;te ne obrađuje podatke. Tokom noći sam pretragom po <a href="http://easyrec.org/implement">javascript API-ju</a>&nbsp;uspio poslati <a href="https://github.com/hernad/easyrec_for_ubercart/commit/84d851b43e9ce6061b0a615e15a8a9922260df0b">easyrec engine-u "rate" akcije&nbsp;</a>&nbsp;tako da sam na taj način "okinuo" <a href="http://lemire.me/fr/documents/publications/lemiremaclachlan_sdm05.pdf">slope one</a>&nbsp;plugin.</p>
+<p>Neprospavana noć je uzela svoj danak na samoj prezentaciji rada.</p>
+<p>Samu prezentaciju sam odradio dosta traljavo ... Kada sam prikopčao računar na projektor, moj Mac je odabrao neku pravo malu rezoluciju. Sve aplikacije koje sam pred prezentaciju pripremio su "proklizale" po ekranu ... a ja sam na to reagovao k'o "burek u svemiru" ...</p>
+<p>Neise.&nbsp;Rad je prihvaćen, &scaron;to je najbitnije.</p>
+<p>Sistemi preporuke su veoma interesantna tema za izučavanje.</p>
+<p>Ono &scaron;to sam ja uspio postići, moglo bi se nazvati "hello" od "hello world" aplikacije sa recommender sistemom.</p>
+<p>------</p>
+<p>(*) PeB - Principi elektronsko poslovanja/biznisa</p>
+<p>(**) Radi ima dosta gramatičkih gre&scaron;aka i nespretnih konstrukcija ... Kad je čovjek neispavan, bolje ne može</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[PeB(*) seminarski rad je obuhvatio implementaciju e-commerce web shop rješenja sa ugrađenim recommender engine-om. Korištene komponente su open source software. Fokus rada je bio "recomender" sistem. Web shop je stoga služio prvenstveno kao poligo...]]></excerpt:encoded>	
+
+	<wp:post_date>Sun Oct 07 00:26:00 -0700 2012</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>peb-seminarski-rad-oss-web-shop-sa-recommende</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

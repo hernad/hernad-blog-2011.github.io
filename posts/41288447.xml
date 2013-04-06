@@ -1,0 +1,44 @@
+<item>
+	<title>Uvod u baze podataka, pubs database </title>
+	<link>http://hernad.bring.out.ba/uvod-u-baze-podataka-pubs-database</link>
+	<pubDate>Fri Jan 28 17:02:00 -0800 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="database"><![CDATA[database]]></category>
+	
+		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/uvod-u-baze-podataka-pubs-database</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Sutra je najavljeno da će na ispitu biti izrada query-ja sa pubs database.</p>
+<p>Napravio sam R dijagram sa ermasterom:</p>
+<p><div class='p_embed p_image_embed'>
+<a href="http://getfile1.posterous.com/getfile/files.posterous.com/temp-2011-01-28/wmqbIljAqwiDupiuwgxHbrCjbgtCqeCwucfknFCrAdjzvHlBFiyccjGwxJFu/pubs.png.scaled1000.png"><img alt="Pubs" height="288" src="http://getfile5.posterous.com/getfile/files.posterous.com/temp-2011-01-28/wmqbIljAqwiDupiuwgxHbrCjbgtCqeCwucfknFCrAdjzvHlBFiyccjGwxJFu/pubs.png.scaled500.png" width="500" /></a>
+</div>
+</p>
+<p>source dijagrama je na <a href="https://github.com/hernad/FIT_UBP/tree/master/ermaster_pubs">github repos-u</a></p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Sutra je najavljeno da će na ispitu biti izrada query-ja sa pubs database. Napravio sam R dijagram sa ermasterom: source dijagrama je na github repos-u]]></excerpt:encoded>	
+
+	<wp:post_date>Fri Jan 28 17:02:00 -0800 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>uvod-u-baze-podataka-pubs-database</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

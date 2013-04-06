@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<link href='../../../exports.css' rel='stylesheet'>
+<link href='../../../exports.css' rel='stylesheet'>
+
+</head>
+<body>
+<div id='wrap'>
+<div id='header'>
+<h1>hernad</h1>
+<h2>This is an archived post
+This is an archived post
+</h2>
+</div>
+<div id='content'><div id='nav'>
+<a href="../../../posts/2010/06/pr1-polozen.html">Previous</a>
+&nbsp; 
+<a href="../../../index-15.html">Index</a>
+&nbsp; 
+<a href="../../../posts/2010/05/pocetak.html">Next</a>
+</div>
+<div class='post'>
+<div class='post_header'>
+<h3>Programiranje 1, II parcijalni, 1. put</h3>
+<div class='post_info'>
+<span class='post_time'>June 20 2010,  3:08 PM</span>
+<span class='author'>&nbsp;by Ernad Husremović</span>
+</div>
+</div>
+<div class='post_body'>
+Bio sam jutros na ovom ispitu.
+<p>Nažalost, sam naslov kaže da vrlo lahko može biti i II parcijalni / 2. put :(</p>
+<p>Ustvari ne znam da li, ako ne položim ovaj put, imam pravo ponovo polagati parcijalno. Valjda imam.</p>
+<h2>Prije ispita</h2>
+<p>Do&scaron;ao sam puno ranije nego će ispit početi, pa sam otvorio notebook.</p>
+<p>Asistent Denis mi je rekao: &ldquo;Kolega, ne treba vam računar, samo sveska i olovka :)&rdquo;</p>
+<p>&ldquo;Ma znam, al' da ubijem vrijeme&rdquo;, rekoh.</p>
+<h2>cin.getline, cin.ignore</h2>
+<p><!--more--></p>
+<p>I tu sam počeo čačkati oko cin.getline, cin.ignore.</p>
+<p>Znam da mi nije bitno za ispit, al' nekako mi je to ostalo i nakon  par čitanja &ldquo;u magli&rdquo;,  pa rekoh taman da vidim kako ta stvar  funkcioni&scaron;e.</p>
+<p><p><a href="https://gist.github.com/716062">https://gist.github.com/716062</a></p></p>
+<p>&Scaron;ta ovaj gore kod radi:</p>
+<ul>
+<li>defini&scaron;e dvija null terminated stringa temp, temp_2</li>
+<li>temp je tamam tol'ki da može 9 znakova (+ 0) primiti, a ovaj temp_2 sam &ldquo;rasteg'o&rdquo;</li>
+<li>nakon toga se de&scaron;ava prvi getline koji puni temp varijablu</li>
+<li>iza toga ide ignore koji bi trebao počistiti vi&scaron;ak iza getline-a</li>
+<li>nakon toga ispisuje se sadržaj temp-a da vidimo &scaron;ta se u njemu desi</li>
+<li>nakon toga se de&scaron;ava drugi getline za temp_2 i sve isto za njega</li>
+</ul>
+<p>Ovaj kod funkcioni&scaron;e &ldquo;ko čvoka&rdquo;, ali samo pod uslovom da se držimo  toga da unesemo &lt;=9 znakova. U suprotnom, misteriozno temp_2 getline  se uop&scaron;te ne desi, a temp_2 varijabla čak ni ne dobije ono &scaron;to je  &ldquo;prekipilo&rdquo; znakova u cin buffer-u nakon prvog unosa.</p>
+<p>Poku&scaron;avao sam dodavati vi&scaron;e ignore linija ali ni&scaron;ta, pa zadavati  razne parametre (cin.igore(100,&lsquo;\n&rsquo;), cin.ignore(100,&lsquo;#&rsquo;) ali ni&scaron;ta.</p>
+<h2>Pitanje asistentima</h2>
+<p>Po&scaron;to sve to definitivno nije plaho bitno, nisam ni htio pitati  asistente (Denis i jo&scaron; jedna kolegica sa drugog predmeta koja je  dežurala mislim da se zove Emina) za ovo.</p>
+<p>Onda se pojavio problem &scaron;to su oni zaboravili prazne papire, pa sam ja na&scaron;ao dvije prazne teke koje sam im dao.</p>
+<p>Denis je pitao za protuslugu, a ja sam prvo rekao: &ldquo;Neka to bude moj mali doprinos FIT-u :)&rdquo;.</p>
+<p>Međutim, kako je ovaj cin.ignore stajao &hellip;. malo kasnije sam nastavio:  &ldquo;Ipak ću tražiti protuuslugu, ovdje imam ne&scaron;to &scaron;to mi nije jasno pa me  interesuje imate li vi ideju za&scaron;to ovaj kod ne radi ?&rdquo;</p>
+<p>&ldquo;Hah znao sam da će ipak biti ne&scaron;to&rdquo;, dobronamjerno je odgovorio Denis.</p>
+<h2>Zajedničkim snagama, al' opet ni&scaron;ta</h2>
+<p>Prvi problem za Denisa i Eminu je bio moj vi editor i gcc kompajler.  Nema kod mene  Visual studija :).</p>
+<p>&ldquo;Nema&scaron; ti IDE sa negdje intellisense-om ?&rdquo;, pitao je Denis.</p>
+<p>Ma imam eclipse, al' sad da se ne tro&scaron;imo vrijeme. Evo kucaću ja, samo vi pogledajte kod.</p>
+<p>Međutim, Denis je sjeo za moj računar &hellip; i gledao, i probao par stvari  sa parametrima ignore-a, ali ni&scaron;ta. Uglavnom sam se i ja vrtio oko  toga.</p>
+<p>Kasnije je do&scaron;la i Emina, predložila flush() da se buffer isprazni,  ali ispostavilo se da flush() metod  postoji samo za cout stream, a za  cin takav metod nema.</p>
+<p>U to je do&scaron;lo vrijeme ispitu, pa smo problem ostavili po strani.</p>
+<h2>Početak ispita</h2>
+<p>Ja sam jedini parcijalno polagao, ostali integralno. Dobio sam ispitni zadatak:<div class='p_embed p_file_embed'>
+<div class='p_embed_description'>
+<strong>parc_2_21062010.pdf</strong>
+<a href="../../../file/2010/11/4502560-parc_2_21062010.pdf">View this file</a>
+</div>
+</div>
+</p>
+<p>Postoji i <a href="http://gitorious.org/fit-mostar/pr1/blobs/master/ispitni_zadaci/parc_2_21062010.pdf">ovdje na mom gitorious repozitoriju pr1</a>, ali radi veličine trebate napraviti <a href="http://gitorious.org/fit-mostar/pr1">git clone ovog repozitorija</a></p>
+<p>Pro&scaron;ao sam po zadatku, i rekao u sebi: &ldquo;Ok ovo znam&rdquo;.</p>
+<p>Jo&scaron; kada je Denis rekao da mogu pisati i ja dva sahata sa &ldquo;integralcima&rdquo;, bio sam ubjeđene da za ovaj ispit zime :(</p>
+<p>Ali' to je bila lo&scaron;a procjena.</p>
+<p>Prvo sam krenuo, pa sam se na Unos funkcijama zagubio. Uobičajeno bi  bilo da te funkcije idu bez parametara, pa da se unutar njih sav unos  desi. Kasnije mi je Denis to prokomentarisao: &ldquo;Shvatam &scaron;ta govorite, ali  jednostavno cilj je da vidimo kako studenti barataju sa parametrima &hellip;&rdquo;.</p>
+<p>U tom mi je prvih pola sahata i pobjeglo &hellip; Tek nakon toga sam se ufurao o počeo pisati.</p>
+<h2>Denis konta o ignore-u</h2>
+<p>Denis je prilazio studentima i davao kratke komentare i upute. Do&scaron;ao je do mene.</p>
+<p>Pitao me: &ldquo;Kako ste uradili prvi parcijalni ?&rdquo; Rekoh 85%. &ldquo;Aha, pa  kako sada kako ide ?&rdquo;. &ldquo;Ma ove Unos funkcije me zbunjuju&rdquo;,  prokomentarisao sam. On će mi objasniti what&rsquo;s the point kao &scaron;to sam u  predhodnom pasusu rekao.</p>
+<p>Nastavi Denis, &ldquo;Vezano za cin buffer &ndash; javite mi se ja ću to pogledati&rdquo;.</p>
+<p>Vidim čovjeka &ldquo;golica&rdquo; u čemu je kvaka &hellip;</p>
+<p>&ldquo;Hehe pravi informatičar ..&rdquo;  pomislim.</p>
+<p>I bi mi drago. Jer ko se &ldquo;pali&rdquo; na ovakve stvari, taj je sigurno spreman da se potrudi i da studentima objasni.</p>
+<p>Ranije prilaženje studentima i napominjanje 3-4 puta: &ldquo;pazite da  dereferencirate pointere &hellip;&rdquo; reklo je da se radi o čovjeku koji zna &scaron;ta  radi i &scaron;ta on treba postići. Treba ljude naučiti. A ne glumiti neku  bijesnu glistu.</p>
+<p>Hvala Bogu da se <a href="/bajgorologija-ii-polozena">bajgorolo&scaron;ke doktrine</a> nisu pro&scaron;irile na na ovakve predmete.</p>
+<p>Ja bih onda definitivno kapitulirao, jer bi konačna ocjena bila: &ldquo;FIT je besmislica&rdquo;.</p>
+<h2>Nebo trepti, mozak gori</h2>
+<p>Vratimo se ispitu.</p>
+<p>Za razliku od prvog parcijalnog, iako sam imao duplo vi&scaron;e vremena, ovaj mi je ba&scaron; ne&scaron;to lo&scaron;e i&scaron;ao &hellip;</p>
+<p>Ti su me &ldquo;Unos-i&rdquo; odvukli i očigledno potro&scaron;ili onu početnu energiju koja je potrebna da se posao uradi kako treba.</p>
+<p>I kako sam lo&scaron;e otvorio utakmicu, tako je sve nekako ćopavo i&scaron;lo.</p>
+<p>Nakon nekh 45 minuta počeo sam ja to pisati &hellip; Stvari su se počele  rje&scaron;avati, ali počeo se i umor de&scaron;avati. Osjetim da mi je CPU 100%, i da  se baterije tro&scaron;e. Čovječe jesam ostario &hellip;</p>
+<h2>Epilog</h2>
+<p>Dosta toga uop&scaron;te nisam uradio. Pred kraj ispita sam počeo pregledati  dijelove za koje sam procijenio da demonstriraju određene oblasti koje  su se željele provjeriti ispitom.</p>
+<p>Mislim (nadam se) da sam ono &scaron;to sam uradio &ndash; uglavno uradio dobro.</p>
+<p>Ako sam kod ovog &scaron;to sam uradio napravio puno gre&scaron;aka &ndash; nema dvojbe da padam k'o kru&scaron;ka. Pa i trebam.</p>
+<p>Ako je tačno, onda imam &scaron;ansi za prolaz. Al' da je rad &ldquo;tanaka-ogato&rdquo;,  brate jeste.</p>
+<p>Međutim, nisam u crnjaku. Jer sam radio jedan smislen ispit.</p>
+<h2>Komentari ostale raje nakon ispita</h2>
+<p>Ostala raja koja je radila integralno je žalila je uglavnom  komentarisala: Izgubio/la sam se &hellip; Pointer na pointer na pointer &hellip; Pa  onda je bilo komentara: Joj stid me &scaron;ta sam ono napisao/napisala. Joj,  kada sam vidio enumeracije smrklo mi se, nisam ih ni pogledao  &hellip;.</p>
+<p>Sve u svemu ono &scaron;to studenti trebaju pričati.</p>
+<p>Za razliku od komentara kad se zavr&scaron;ila prekjuče &ldquo;Bajgorologija II&rdquo;:</p>
+<ul>
+<li>&ldquo;Je li tamo neki IBM model pripada ovoj ili onoj kategoriji po tamo nekoj klasifikaciji &hellip;&rdquo;</li>
+<li>&ldquo;je li &lsquo;92 ili '90 M$ objavio win32 layer &hellip;&rdquo;</li>
+</ul>
+<p><a href="uos-pitanja-sta-me-briga">Ma koga je briga ?!!</a></p>
+<p>Tačno je da studenti uvijek raspredaju priču <em>prvenstveno da ispit polože</em>.</p>
+<p>I upravo to je najbolji indikator kako se nastava odvija. Ako čuje&scaron; besmislene priče &ndash; tu ne&scaron;to garant' smrdi.</p>
+<h2>&Scaron;ta se tražilo na drugom parcijalnom</h2>
+<p>Dobro je zabilježiti, koje su glavne stvari koje su trebale za ispit:</p>
+<ol>
+<li>strukture i member funkcije</li>
+<li>handliranje dinamičkih i statičkih članova u strukturama</li>
+<li> alociranje i dealociranje dinamičkih elemenata</li>
+<li>rukovanje nizovima</li>
+<li>prosljeđivanje parametara pointer/value</li>
+<li>fstream &ndash; (ios:app, ios::binary i slično)</li>
+<li>enumeracije</li>
+</ol>
+<h3>Kako ja stojim sa ovim</h3>
+<p>Da me je neko prije ispita pitao ovo &ndash; znam li, rekao bih znam.</p>
+<p>Ali kad je trebalo na ispitu to odrađivati, stvar je ipak dobrano  za&scaron;tekala. Možda nije bio moj dana, a možda sam trebao vi&scaron;e jednostavno  vremena odvojiti za pripremu ispita.</p>
+<p>Ono &scaron;to nisam siguran da sam dobro uradio je:</p>
+<h3>dilema 1) ofstream.write</h3>
+<p>Jesam li dobro koristio fstream.write u strukturi koja je ugniježdena  (Kandidat u sebi sadrži matricu Kategorija, koja je za svakog Kandidata  različite veličine). Po&scaron;to su primjeri po kojima sam priprema bili samo  trivijalni slučajevi, ja sam analogijom onako &ldquo;napamet&rdquo; ovo napisao.  Dal to radi ne znam. Vjerovatno ne radi :(</p>
+<h4>dilema 2) kori&scaron;tenje enumeracija</h4>
+<p>Enumeracije su jednostavne do boli. Ne kontam kako da na tome zastanem:</p>
+<p><p><a href="https://gist.github.com/716071">https://gist.github.com/716071</a></p></p>
+<p>Ja sam zastao na &ldquo;case A&rdquo; jer mi nikako nije mogla doći &ldquo;slika&rdquo; kori&scaron;tenja enum vrijednosti.</p>
+<p>Mislim da je ovo na kraju ipak ok.</p>
+<p>Namjerno neću da gledam u literaturu da ne pokvarim objektivnost ovog prikaza :)</p>
+<h2>Povratak u kancelariju</h2>
+<p>Po&scaron;to sam jednom od mladih kolega obećao da ću publikovati zadatke sa parcijalnog, palo mi je na pamet: za&scaron;to ovo ne blogirati.</p>
+<p>Posebno zato &scaron;to sam do sada uglavnom pisao o ružnim stranama FIT-a.</p>
+<p>Programiranje-1 je definitivno lijepa strana FIT-a, pa za&scaron;to to ne  napisati. A ako jo&scaron; nekome budem od pomoći kod polaganja ispita, nikog  sretnijeg od mene.</p>
+<h2>cin.ignore problem, clear_cin() rjesenje</h2>
+<p>Na kraju da zavr&scaron;im tamo gdje sam počeo.</p>
+<p>Kad sam se vratio u kancelariju, ostalo mi je da &ldquo;proguglam&rdquo; vezano za dilemu cin-a pražnjenja.</p>
+<p>Na&scaron;ao sam rje&scaron;enje. Problem je bio &scaron;to se gore de&scaron;avao cin error, i moralo se to fail stanje handlirati.</p>
+<p>Na kraju samo to izdvojio kao posebnu funkciju koja se za razliku od cin.ignore-a znatno inteligentnije pona&scaron;a.</p>
+<p>Link na tu <a href="http://gitorious.org/fit-mostar/pr1/blobs/master/parc_2_vjezbe/komande.cpp#line103">funkciju je ovdje</a>.</p>
+<p>getline_1 funkcija iz gornjeg primjera koja radi kako treba je <a href="http://gitorious.org/fit-mostar/pr1/blobs/master/parc_2_vjezbe/komande.cpp#line124">ovdje</a></p>
+<h2>Za kraj</h2>
+<p>Ne bih bio ja-ja da ne kritikujem :)</p>
+<p>Za mene je recimo programa na papiru muka poprilična.</p>
+<p>Moguće je međutim da ja nisam uop&scaron;te relevantnan po pitanju ovih  ocjena. Naime, nakon 20-tak godina rada, za mene je jedino prirodno  okruženje za pisanje programa &ndash; računar. Ja na svom radnom stolu čestito  i ne koristim olovku.</p>
+<p>Ono &scaron;to mene vi&scaron;e kopka jeste to da li je moguće primjeniti <a href="sta-trebamo-uciti-na-tehnickim-fakultetima">&ldquo;Branin recept&rdquo;</a></p>
+<p>Kako god skontam, u slučaju ovog predmeta bi to bilo moguće.</p>
+<p>Ko nije spremio zadatak, on bi se za seknudu zapetljao u realizaciji, čak da ima za &ldquo;đžon&rdquo; skoro identičan zadatak.</p>
+<p>Pa čak da student bazira svoju &ldquo;pripremu&rdquo; na skupljanju &ldquo;džonova&rdquo;, on  će toliko vremena utro&scaron;iti na traženje pravog &ldquo;džon&rdquo;-a da neće ni&scaron;ta  stići čestito uraditi.</p>
+<p>S druge, strane, onaj koji može prepoznati koji džon/džonovi najbolje  odgovaraju onome &scaron;to se od njega traži na ispitu, taj je već dobrano  ovladao materijom.</p>
+<p>Na kraju krajeva,  programer većinu vremena kod rje&scaron;avanja svojih  zadataka stvari rje&scaron;ava gledajući tuđe pattern-e. To nije ni&scaron;ta drugo  nego džon na bosanskom :)</p>
+<p>&Scaron;alu na stranu, mislim da je vje&scaron;tina vje&scaron;tine prepoznavanja  odgovarajućih pattern-a ključna za dobrog programera. Zato nastavu, ali i  ispit treba ka tome usmjeravati.</p>
+<p>Ova priča se može pro&scaron;iriti i na kori&scaron;tenje odgovarajućeg programerskog environment-a i toolset-a.</p>
+<p>Na stanovi&scaron;tu sam naime da se prvi programerski koraci NE TREBAJU  raditi sa IDE alatima (Integrated developer environment), te da se  moraju po&scaron;tovati standardi. Tu je takođe i problem oslanjanja na jednog  vendora (Microsoft), ali o tome drugom prilikom.</p>
+<h2>Moja ocjena predmetu &ldquo;Programiranje-1&rdquo;: 8,5</h2>
+<p>Ono &scaron;to je najbitnije, PR1 je predmet gdje se stiču konkretne vje&scaron;tine.</p>
+<p>Ko ovaj ispit po&scaron;teno položi, on će se upoznati sa principima programiranja.  A to je svrha FIT-a.</p>
+<p>Zato je moja ocjena ovom predmetu <strong>8,5</strong> bez dileme :)</p>
+
+</div>
+<div class='post_tags'>
+<h4>Tags</h4>
+<div class='post_tags_list'>c, fit_1_godina, fit_mostar, ispit</div>
+</div>
+<div class='post_responses'>
+<h4>951 views and 0 responses</h4>
+<ul class='post_responses list'>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,110 @@
+<item>
+	<title>Uvod u baze podataka, vježbe 1, youtube</title>
+	<link>http://hernad.bring.out.ba/uvod-u-baze-podataka-vjezbe-youtube</link>
+	<pubDate>Thu Dec 02 02:26:00 -0800 2010</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/uvod-u-baze-podataka-vjezbe-youtube</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Poku&scaron;ao sam svoj komentar staviti direktno na youtube:</p>
+<p><iframe src="http://www.youtube.com/embed/hQxQ-7mShQ8?wmode=transparent" allowfullscreen frameborder="0" height="417" width="500"></iframe></p>
+<p>ali ne ide. Komentar mi je preveliki :).</p>
+<p>Onda ću svoj komentar ispisati na blog, pa staviti link.</p>
+<p><!--more--><span style="text-decoration: underline;"><strong>Moj komentar</strong></span></p>
+<p>Kolega, dobra i jasna prezentacija.</p>
+<p>Posebno pozdravljam Va&scaron;u odluku da ove materijale objavite na youtube-u. To je dobra stvar i za Vas i za FIT.</p>
+<p>Za razliku od predavanja, koja sam sinoć na jedvite jade pre&scaron;ao :(, Va&scaron;a prezentacija me kvalitetom i sadržajem čitavo vrijeme drži budnim :).</p>
+<p>Nadam se da će Va&scaron; primjer navesti i druge da na ovaj način obrađuju gradivo.&nbsp;</p>
+<p><span style="text-decoration: underline;"><strong>Nedostaci</strong></span></p>
+<p>Ono &scaron;to mi na prezentaciji ne "pa&scaron;e" je imenovanje polja (Vi koristiite termin atribut).</p>
+<p>Mislim da bi bilo dobro da se u startu držimo&nbsp; ove konvencije: predmet_id ili jo&scaron; bolje id_predmet (tako da je "id" uvjek na frontu naziva polja), ime_i_prezime itd ...</p>
+<p>Moguće je da žurim, i da je ovo u narednim predavanjima promijenjeno.</p>
+<p>Koliko vidim, access dozvoljava da atribut ima space-ove u nazivu, ali to je definitivno lo&scaron;a praksa.</p>
+<p>Ukupan dojam: <strong>Bravo Jasmine. Svaka čast na konceptu i sadržaju</strong>.</p>
+<p>&nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Pokušao sam svoj komentar staviti direktno na youtube: ali ne ide. Komentar mi je preveliki :). Onda ću svoj komentar ispisati na blog, pa staviti link. Moj komentar Kolega, dobra i jasna prezentacija. Posebno pozdravljam Vašu odluku da ove materi...]]></excerpt:encoded>	
+
+	<wp:post_date>Thu Dec 02 02:26:00 -0800 2010</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>uvod-u-baze-podataka-vjezbe-youtube</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[Jasmin]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Dec 15 06:41:43 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Wed Dec 15 06:41:43 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[U svalom slučaju hvala kolega na komentarima. Meni je dovoljno da neko od ovoga ima korist, a sve ostalo je manje bitno.
+Odgovor na nedostake ste sigurno našli u ostalim lekcijama gdje se strogo držim imenovanja polja. Pogotovo koja su PK ili FK. Npr. StudentID i sl. Ja lično nisam fan razmaka niti crtica u imenovanju. Volim spajati i velikim početnim slovom razgraničiti više riječi u nazivu polja ako je to potrebno npr. GodinaStudija.
+Access je samo alatka sa kojom ucimo osnovne koncepte relacionog modela, prave stvari dolaze sa SQL Server-om naredni semestar.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Dec 15 08:02:57 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Wed Dec 15 08:02:57 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[@Jasmin, hvala na komentaru. 
+
+Moram priznati da nakon ovoga, nisam prošao naredne materijale :(
+U pripremu parcijalnih ispita sam pokansno ušao, tako da sam morao manevrisati http://hernad.bring.out.ba/uvod-u-baze-podataka-1-parcijalni-strategija
+
+UBP mi je žao bilo fušeriti jer je to moj uži fah. 
+
+Pokušavam da u svoje radne obaveze čim prije &quot;ubacim&quot; seminarski POS. U toku njegove pripreme sam i mislio proći kroz Vaše materijale.
+
+Vezano za &quot;underscore&quot; ili &quot;Camel space&quot; imenovanje koje vi preferirate, to je stvar odabira. Ali razumjeli smo se.
+
+Što se Access-a tiče,  meni lično predstavlja problem iz dva razloga: 
+1) ne koristim windows operativni sistem, pa mi windows-only alati nisu &quot;pri ruci&quot;
+2) ne posjedujem MS Office licencu, niti koristim nelegalni software. Za potrebe ovog parcijalnog roka sam koristio evaluation copy ... ali je trajanje licence 60 dana. Valjda će mi doteći za III semestar :)
+
+Uputio sam pohvale upravo iz tog razloga što je fokus ovog video materijala pravilan - fokusirate se na materiju koju učite, a alat (Access) je po strani. 
+
+Ubijeđen sam da će tako biti i sa narednim materijalima ... Ako tako ne bude, svakako ću vam to reći :). 
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Dec 15 08:04:24 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Wed Dec 15 08:04:24 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[s/vi/VI, s/vam/Vam]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

@@ -1,0 +1,82 @@
+<item>
+	<title>Strategija &quot;nedostupan&quot;</title>
+	<link>http://hernad.bring.out.ba/strategija-nedostupan</link>
+	<pubDate>Thu Dec 23 02:42:00 -0800 2010</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="administracija"><![CDATA[administracija]]></category>
+	
+		<category domain="tag" nicename="business"><![CDATA[business]]></category>
+	
+		<category domain="tag" nicename="sistem"><![CDATA[sistem]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/strategija-nedostupan</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>U predhodnom <a href="/hernad-the-dosadni-i-bosanska-administracija">članku</a> sam se zakačio za nedostupnost Porezne uprave putem <a href="mailto:info@pufbih.ba">info@pufbih.ba</a>. Za&scaron;to mi ta "sitnica" smeta ?</p>
+<p>Zato &scaron;to je to redovno nije obični java&scaron;luk, nego smi&scaron;ljen način djelovanja.</p>
+<p>Svi porezni obeznici su FBiH su dobrano na svojoj koži osjetili implementaciju elektronskog sistema poreznih kartica, u sklopu implementacije novog Zakona o plaćama i ličnim primanjima(*). Softversko rje&scaron;enje je imalo milion problema, od kojih je najveći bila nedostupnost sistema. Svako malo software ti prijavi:</p>
+<blockquote class="posterous_short_quote">
+<p>Zbog opterećenja sistema, ne možemo obraditi Va&scaron; zahtjev. Poku&scaron;ajte ponovo malo kasnije ...</p>
+</blockquote>
+<p>A to kasnije ... e to je bilo legendarno. Ljudi su ukucavali te porezne kartice danima! Ostajali nakon posla do uveče, da bi opterećenje sistema bilo manje ... I nikom ni&scaron;ta.</p>
+<p><!--more-->Mi u na&scaron;oj ponudi poslovnih aplikacija imalo i modul za obračun plata, pa smo taj problem "osjetili" i direktno i preko svojih korisnika.</p>
+<p>Interesantno je bilo pona&scaron;anje na&scaron;ih korisnika. Porezna uprava ih je "handrila ko sanske koze" na svakom koraku, ali smo mi bili ti koji koji su primali "packe" nezadovoljnih korisnika "po u&scaron;ima". Za&scaron;to ? Odgovor je jednostavan:</p>
+<blockquote class="posterous_short_quote">
+<p>Zato &scaron;to se na "vlast" ne viče, tako da smo mi ostali kao jedini "ispu&scaron;ni ventil" za frustrirane korisnike.</p>
+</blockquote>
+<p>Kada objasni&scaron; da problem ne možemo mi rije&scaron;iti, nego da je to problem sofware-a Porezne uprave, oni se na nas obru&scaron;e:</p>
+<blockquote class="posterous_short_quote">
+<p>Mi smo vama platili, a vi nas jo&scaron; "vozate" vamo-tamo ?!</p>
+</blockquote>
+<p>Ali, ovo nije priča o problemima podr&scaron;ke korisnicima. Ovo je samo uvod u obja&scaron;njenje strategije "nedostupan". Najvažniji dio te priče je činjenica da se do IT podr&scaron;ke software-u porezne upravi nije moglo doći(*). Postavlja se pitanje:</p>
+<blockquote class="posterous_short_quote">
+<p>Da li je ta nedostupnost bila propust Porezne uprave ?</p>
+</blockquote>
+<p>Ne. <span style="font-size: medium; color: #ff0000;">To je bila <strong>strategija</strong></span>:</p>
+<blockquote class="posterous_short_quote">
+<p>IT podr&scaron;ka je smi&scaron;ljeno rekla - krajnji korisnici sa nama ne mogu komunicirati.</p>
+</blockquote>
+<p>Mi smo poku&scaron;avali kontakte email-om. Rezultat je bio:</p>
+<blockquote class="posterous_short_quote">
+<p>No answer.</p>
+</blockquote>
+<p>Nakon toga se prebaci&scaron; na telefonsku komunikaciju sa službenicima koji pojma nemaju. I onda ?! Pa onda dolazimo do glavne "kvake" strategije:</p>
+<blockquote class="posterous_short_quote">
+<p>Korisnik odustaje !</p>
+</blockquote>
+<p>To je su&scaron;tina strategije "nedostupan".</p>
+<p>Tu istu strategiju primjenjuje recimo BH Telecom sa svojim preusmjeravanjem na broj 14xx. Da bi ti dobio taj broj treba&scaron; se dobro načekati ... I onda veliki procenat korisnika - odustane.</p>
+<p>Dobar fol zar ne ?</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Provajderi za "papke"</strong></span></p>
+<p>Vi dragi moji korisnici <span style="font-size: medium; color: #ff0000;"><strong>BH Telecom</strong></span>, <span style="font-size: medium;"><strong><span style="color: #ff0000;">Porezne uprave Federacije</span></strong></span> ... vi ste obični "papci"!</p>
+<p>Samo da znate da <a href="/internet-service-provider">"provajderi"</a> nisu krivi. Oni su primjenili pravu strategiju na pravom mjestu. Papci vi&scaron;e i ne zaslužuju. Zato kad dobijete ovaj ton:</p>
+<blockquote class="posterous_short_quote">
+<p>Tu tuuuuu....</p>
+</blockquote>
+<p>budite razumni, nemojte se sekirati: Tako to mora biti!</p>
+<p>---</p>
+<p>(*) Napamet sam naveo ime zakona, nebitno za ovu priču</p>
+<p>(**) Ne mislim bukvalno, nego na dostupnost na jednostavan način: po&scaron;alje&scaron; upit (email telefon kako god) i u razumnom roku dobije&scaron; odgovor. Potenciram na email jer je to najefikasniji način komunikacija za obje strane</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[U predhodnom članku sam se zakačio za nedostupnost Porezne uprave putem info@pufbih.ba. Zašto mi ta "sitnica" smeta ? Zato što je to redovno nije obični javašluk, nego smišljen način djelovanja. Svi porezni obeznici su FBiH su dobrano na svojoj ko...]]></excerpt:encoded>	
+
+	<wp:post_date>Thu Dec 23 02:42:00 -0800 2010</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>strategija-nedostupan</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

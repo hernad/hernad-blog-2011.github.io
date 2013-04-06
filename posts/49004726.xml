@@ -1,0 +1,70 @@
+<item>
+	<title>Screencast windows aplikacije na ubuntu desktopu</title>
+	<link>http://hernad.bring.out.ba/screencast-windows-aplikacije-na-ubuntu-deskt</link>
+	<pubDate>Sat Apr 09 08:45:00 -0700 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+	
+		<category domain="tag" nicename="ubuntu"><![CDATA[ubuntu]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/screencast-windows-aplikacije-na-ubuntu-deskt</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Kako napraviti video tutorial za na&scaron;e korisnike ?</p>
+<p>Rje&scaron;enje:</p>
+<ul>
+<li>ubuntu/linux maverick 10.10</li>
+<li>VirtualBox 4.0.4</li>
+<li>gtk-RecordMyDesktop    
+<ul>
+<li>output: screencast.ogv</li>
+</ul>
+</li>
+<li>PiTiVi Video Editor<br /> 
+<ul>
+<li>isjeci &scaron;to ti treba iz screencast.ogv</li>
+<li>output (render): screencast.webm</li>
+</ul>
+</li>
+<li>youtube bringoutba account </li>
+</ul>
+<p><!--more-->Za potrebe bring.out napravio sam par video materijala. Materijali su ... hm ... konfuzni ... kada sam ih preslu&scaron;ao pomislio sam:</p>
+<blockquote class="posterous_short_quote">
+<p>Je li ovaj čovjek drogiran ?</p>
+</blockquote>
+<p>Pa sam se sjetio da sam ja taj čovjek i da se ne drogiram ...</p>
+<p>Svejedno, računam da će za interne potrbe u bring.out biti korisni. A za drugu raju ... imate brate "stop" dugme na youtube player-u. Takođe,&nbsp; onaj "x" u gornjem (desnom/lijevom) uglu va&scaron;eg browser-a ... koristite to !</p>
+<p>Ovo je trebao biti video materijal koji će objasniti kako praviti screencast-ove:</p>
+<p><iframe src="http://www.youtube.com/embed/YIFJtC6EwOw?wmode=transparent" allowfullscreen frameborder="0" height="417" width="500"></iframe></p>
+<p>Ali dio sa PiTiVi je "pukao" pa sam za PiTiVi napravio poseban video:</p>
+<p><iframe src="http://www.youtube.com/embed/pCjz5nMh36A?wmode=transparent" allowfullscreen frameborder="0" height="417" width="500"></iframe></p>
+<p>A ovo je jedan test screencast ... Bolje ne gledajte, ako ne radite bring.out:</p>
+<p><iframe src="http://www.youtube.com/embed/RZTzyp7WWD8?wmode=transparent" allowfullscreen frameborder="0" height="417" width="500"></iframe></p>
+<p><span style="text-decoration: underline;"><strong>Referenca:</strong></span></p>
+<ul>
+<li>#23167 -<strong> "dl-25 ubuntu desktop, pravljenje youtube screencast-ova"</strong></li>
+</ul>
+<p>&nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Kako napraviti video tutorial za naše korisnike ? Rješenje: ubuntu/linux maverick 10.10 VirtualBox 4.0.4 gtk-RecordMyDesktop output: screencast.ogv PiTiVi Video Editorisjeci što ti treba iz screencast.ogv output (render): screencast.webm youtube b...]]></excerpt:encoded>	
+
+	<wp:post_date>Sat Apr 09 08:45:00 -0700 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>screencast-windows-aplikacije-na-ubuntu-deskt</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

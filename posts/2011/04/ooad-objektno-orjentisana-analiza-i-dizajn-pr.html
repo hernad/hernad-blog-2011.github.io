@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<link href='../../../exports.css' rel='stylesheet'>
+<link href='../../../exports.css' rel='stylesheet'>
+
+</head>
+<body>
+<div id='wrap'>
+<div id='header'>
+<h1>hernad</h1>
+<h2>This is an archived post
+This is an archived post
+</h2>
+</div>
+<div id='content'><div id='nav'>
+<a href="../../../posts/2011/04/samra-mac-osx-prezentacija.html">Previous</a>
+&nbsp; 
+<a href="../../../index-8.html">Index</a>
+&nbsp; 
+<a href="../../../posts/2011/04/neprilagodeni-bosanac.html">Next</a>
+</div>
+<div class='post'>
+<div class='post_header'>
+<h3>OOAD - objektno orjentisana analiza i dizajn, priprema prvi parcijalni</h3>
+<div class='post_info'>
+<span class='post_time'>April 18 2011,  9:17 AM</span>
+<span class='author'>&nbsp;by Ernad Husremović</span>
+</div>
+</div>
+<div class='post_body'><p>Glavna priča vodi se o UML-u(*) .</p>
+<p>Kada sam se prije 6-7 godina susreo sa UML-om, mislio sam da je to pravi "silver-bulet" analize i dizajna. Sjećam se da sam bio pravi UML entuzijasta. Ali sada mi je taj entuzijazam splasnuo ... Ne ne - ne radi se o kritici OOAD-a kao predmeta,&nbsp; ako ste to pomislili :).</p>
+<p>Radi se percepciji UML-a kao alata za modeliranje.</p>
+<p>Za ispit sam se priprema zajedno sa Emirom. Obojica smo suglasni u jednom:</p>
+<blockquote class="posterous_short_quote">
+<p>Previ&scaron;e je mogućih varijanti za jednu te istu stvar ...</p>
+</blockquote>
+<p><!--more-->Naime, koji god primjer uzmemo, previ&scaron;e smo dumali kako bi to najbolje bilo uraditi. Sama sintaksa jezika nije problem, ali ipak mi ne&scaron;to tu fali ... Znam, znam - sve je stvar treninga, ali opet ... očekivao sam da će mi ovo biti puno logičnije. Prije 5 godina jeste ?!</p>
+<p>Ostarilo se - ko zna, možda je to razlog.</p>
+<p>Drugi mogući razlog je činjenica da mi se "gerilski" sistem analize i dizajna sistema vi&scaron;e sviđa. Pod tim mislim na raznorazne metode <strong>agilnog</strong> razvoja software-a (TDD, BDD(**) ...). U sklopu ovih metodologija analize i implementacije software-a puno manje se polaže na alate.</p>
+<p>Komad papira, neki crtež slobodnom rukom - to sve predstavlja sasvim dozvoljen način opisivanja modela. Pri tome se UML ne zabranjuje, ali se ni ne forsira ... Agile developeri i dizajneri začudo vrlo malo koriste UML. Je li začudo ili je to očekivano ?</p>
+<p>Nemam pojma.</p>
+<p>Ali vratimo se pripremi ovog ispita. Za prvi parcijalni se obrađuju ovi dijagrami:</p>
+<ul>
+<li>Use case</li>
+<li>Sequence (sekvencijalni)    
+<ul>
+<li>System sequence diagram(***)</li>
+</ul>
+</li>
+<li>Collaboration/Communication (kolaboracijski)</li>
+<li>Dijagram klasa i objekata    
+<ul>
+<li>Domain dijagram (****)</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline;"><strong>Primjer Use: case Web oglasi</strong></span></p>
+<p>Modelirati sistem koji omogućava korisniku objavljivanje i pregled oglasa na Web-u. Sistem će koristiti tri tipa korisnika: administrator, korisnik i korisnik-urednik.</p>
+<p>Na korisničkoj strani imamo korisnika i korisnika-urednika.</p>
+<p>Nakon &scaron;to se korisnik uspje&scaron;ni identificira omogućeno mu je da: preda oglas, pregleda oglase, promjeni lične podatke i da se odjavi.</p>
+<p>Korisnika-urednika kreira administrator i on defini&scaron;e osnovnu strukturu oglasa. Nakon &scaron;to se uspje&scaron;no identificiraju korisnici-urednici mogu: pregledavati vlastite kategorije, kreirati nove kategorije, brisati kategorije, pregledavati zatvorene vrste oglasa, odobriti članstvo, pregledati najčitanije oglase, pregledati najaktivnije čitaoce i odjaviti se.</p>
+<p>Administrator ima najveća ovla&scaron;tenja i upravlja sistemom. On može da kreira urednike-korisnike, mijenja njihove podatke ako je potrebno i ažurira sadržaj baze podataka.</p>
+<p>Odobrenje članstva:</p>
+<p>Urednik vidi ko traži članstvo, pa mu odobrava ili odbija članstvo za tu vrstu kategorije. Ako je odobreno članstvo, kreira novi objekat korisnik i &scaron;alje mu se email sa objavje&scaron;tenjem o odobrenju, a ukoliko nije odobreno članstvo dobija email sa obavlje&scaron;tenjem da je odbijen.</p>
+<p>Zadaci:</p>
+<p><span style="text-decoration: underline;"><strong>a) modeliraj funkcije sistema usecase dijagramom</strong></span></p>
+<p><div class='p_embed p_image_embed'>
+<img src='../../../image/2011/04/24842159-ucd01.png'>
+</div>
+</p>
+<p><span style="text-decoration: underline;"><strong>b) napravi specifikaciju slučaja upotrebe: "odobrenje članstva"</strong></span></p>
+<p>Ovo sam popunio na odgovarajućem usecase-u u PowerDesigner-u:</p>
+<p><p><a href="https://gist.github.com/925682">https://gist.github.com/925682</a></p></p>
+<p><span style="text-decoration: underline;"><strong>c) nacrtati sekvencijalni dijagram za slučaj "odobrenje članstva"</strong></span></p>
+<p><div class='p_embed p_image_embed'>
+<img src='../../../image/2011/04/24842207-col01.png'>
+</div>
+<span style="text-decoration: underline;"><strong>d) generi&scaron;ite dijagram saradnje (kolaboracijski dijagram)</strong></span></p>
+<p><div class='p_embed p_image_embed'>
+<img src='../../../image/2011/04/24842229-com01.png'>
+</div>
+</p>
+<p><span style="text-decoration: underline;"><em><strong>Napomene, komentari:</strong></em></span></p>
+<p>Uočio sam da nedostaje asocijacija administratora na usecase "management kategorija" (na osnovu: ... defini&scaron;e osnovnu strukturu oglasa).</p>
+<p><span style="text-decoration: underline;">Pri rje&scaron;avanju dijela b)</span></p>
+<p>Iskreno nisam siguran da li je zami&scaron;ljeno da se ovo popunjava na ovaj način.</p>
+<p>Moje dileme:</p>
+<ul>
+<li>Da li je odbijanje "Exception" slučaj ? po menij nije, nego regularan alternativni slučaj.</li>
+<li>Postcondition - ja sam naveo glavni proizvod ove funkcije - kreiranje novog korisnika.&nbsp; Na to se misli ?</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>c) d)</strong></span></p>
+<p>U ovim dijagramima se prijazuju objekti. Notacija za prikaz je objekat:Klasa, ili samo :Klasa. Znači "user_1:User", ili samo ":User".</p>
+<p>U mojim primjerima postoji gre&scaron;ka (u odnosu na uobičajene konvnecije) - imena klasa su prikazana malim slovima, a <strong>trebalo je velikim</strong>: :Urednik, :Screen, :Zahtjev, :Korisnik, :EmailGateway. Inače ova notacija čita se npr: "<strong>neki objekat</strong> klase Urednik". &nbsp;</p>
+<ul>
+</ul>
+<p>---</p>
+<p>(*) UML - unified modeling language</p>
+<p>(**) TDD, BDD - Test driven development, Behaviour driven development.</p>
+<p>(***) actor &lt;-&gt; sistem; kompletan sofverski sistem je jedan objekat - black-box</p>
+<p>(****) konceptualni dijagram klasa - bavi se samo najbitnijim klasama domena (sistema) koji se modelira</p></div>
+<div class='post_tags'>
+<h4>Tags</h4>
+<div class='post_tags_list'>fit_2_godina, fit_mostar</div>
+</div>
+<div class='post_responses'>
+<h4>7131 views and 0 responses</h4>
+<ul class='post_responses list'>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

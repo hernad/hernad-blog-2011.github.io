@@ -1,0 +1,42 @@
+<item>
+	<title>Koncept predmeta &quot;Statistika i vjerovatnoća&quot; na FIT-u </title>
+	<link>http://hernad.bring.out.ba/koncept-predmeta-statistika-i-vjerovatnoca-na</link>
+	<pubDate>Tue Dec 07 06:07:00 -0800 2010</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="antiznanje"><![CDATA[antiznanje]]></category>
+	
+		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/koncept-predmeta-statistika-i-vjerovatnoca-na</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>U ovom članku ću poku&scaron;ati iznijeti ono &scaron;to sam velikim dijelom prikupio od <a href="/statistika-prvi-cas-sa-profesoricom-dzenanom">Dženane</a> po pitanju predmeta "Statistika i vjerovatnoća" na FIT-u.<p />Kvalifikacije i način izglaganja su moji, tako da ne napadate moju hanumu ako koju "bombu" u ovom tekstu nađete. Istina mnoge zaključke sam donio na osnovu njenih "prolupavanja" tokom čitanja FIT nastavnih materijala. Statistika ipak nije moj fah. Ja sam informatičar.</p>
+<p><!--more--><span style="text-decoration: underline;"><strong>Pra&scaron;ologija vs Bajgorologija</strong></span><p />Već i sam naslov kaže da je njen dojam o predmetu krajnje negativan. Međutim, za razliku od Bajgorića, Pra&scaron;o se istinski trudio da stvari objasni.<p />Međutim, koliko god se trudio, gradivo je obrađeno krajnje nesistematski, sa mnogo gre&scaron;aka. "Babe" i "žabe" se de&scaron;avaju svako malo.<p />MS Excel je ima ulogu temeljne statističke aplikacije, i često je kori&scaron;ten obja&scaron;njavanje temeljnih pojmova.<p />To kod čitaoca stvara totalnu konfiziju.<p /><span style="text-decoration: underline;"><strong>Klasifikacija</strong></span><p />U Statistici na psihologiji, Varijanca, standardna devijacija se obja&scaron;njavaju unutar novog poglavlja "mjere varijabilnosti". <p />Njemu predhodi poglavlje "mjere centralne evidencije" u kome se uvode pojmovi dominantna vrijednost, medijana, aritmetička sredina.<p />U FIT literaturi se unutar poglavlja "Mjere centralne tendencije" uvode pojmovi Varijance, standardne devijacije itd. To je kod mene izazvalo haosu u glavi.<p />Tek kada sam pročitao <a href="/statistika-mjere-varijabiliteta">Đapine materijale</a>, kockice su mi se počele slagati.<p /><span style="text-decoration: underline;"><strong>Komplikovanje</strong></span><p />U FIT teoriji uvodi se masa suvi&scaron;nih pojmova. Najbolji je primjer "Prosta aritmetička sredina" i "Op&scaron;ta (ponderisana, frekvencijska) aritmetička sredina". Autor naime uvodi različite pojmove za jednu te istu stvar. <p />To &scaron;to se aritmetička sredina proračunava iz skupa rezultata grupisanih po frekvencija ne znači da je to novi pojam.<p />{1, 2, 2, 3, 5, 5, 5} =&gt; grupisanje po frekvencijama radi preglednosti i kasnije lak&scaron;e obrade =&gt; {1 f=1, 2 f=2, 3 f=1, 5 f=3} su&scaron;tinski nisu dva skupa. To je isti skup različito prezentovan. Njihove aritmetičke sredine su jedna te ista stvar.</p>
+<p><br /><span style="text-decoration: underline;"><strong>Pojmovi koji ne pripadaju osnovama statističke teorije</strong></span><p />Statistika se koristi u mnogim naučnim disciplinama: ekonomiji, informatici, sociologiji, psihologiji, itd.<p />U prvim poglavljima knjige uvode se pojmovi kao &scaron;to je "Vitalni indeks".<p />Kada smo do&scaron;li do tog pitanja, Dženana nije znala &scaron;ta je to, a ja jo&scaron; manje, pa smo na&scaron;li da google-u: to je omjer između živorođenih i umrlih.<p />Pa dobro, u čemu je tu problem ? Radi se o indeksu koji se očiglendno koristi u demografskim ispitivanjima. I opet u čemu je tu problem ?<p /><span style="text-decoration: underline;"><strong>Problem je &scaron;to tom pojmu nije mjesto u osnovama statistike!</strong></span><p />Statističar takve stvari ne mora znati. Takvi pojmovi mogu naći mjesto samo u poglavlju koje bi nosilo ime: "Pojmovi koje statističar u sociolo&scaron;kim istraživanja treba naučiti". <p />Vezano za pojmove, u tu grupu se naravno uvr&scaron;tava i niz pojmova i pitanja koji se pojavljuju, a vezani su za Microosft Excel aplikaciju.<p />"Radni list", "Tekstualni operatori", "Operatori poređenja", "Trodimenzionalne reference" nisu pitanja iz statistike.<br />&nbsp;<br />&nbsp;<br /><span style="text-decoration: underline;"><strong>Teorijska pitanja</strong></span><p />Shodno gore navedenom, veliki broj teorijskih pitanja je totalna "fula".<p /><span style="text-decoration: underline;"><strong>Zadaci</strong></span><p />Praktični zadaci daju preveliku dimenziju upoznavanju Excel-a. Takvim pristupom se gubi fokus na razumjevanje onoga &scaron;to treba biti centralni dio izučavanja na ovom predmetu - statistika.<p />Primjera radi, zadaci kojima se traži da se napravi unos ankete u MS Excel ne drži fokus na učenju statistike. Tu se vi&scaron;e radi na na učenju kori&scaron;tenja MS Excel aplikacije.<p />Ako pričamo o alatima koji se koriste u statistici, onda je jedino korektno da se MS Excel navede kao jedan od alata koji se koristi za statističke obračuna. Prema Dženaninom reakcijama na MS Excel, taj alat nije pretjerano zastupljen - dapače.<p />FIT student će po tom pitanju definitivno biti pogre&scaron;no informisan. U svom <a href="/stastika-ovo-mi-se-nista-ne-svida-prasologija ">prvom čitanju FIT knjige iz statistike</a>, uočio sam da knjiga ne zadovoljava kriterije nastavnog učila (ovaj <a href="/spreadsheet-trodimenzionalne-reference">članak</a>, Poglavlje "FIT nastava, mjesto za reklamiranje Microsoft proizvoda").</p>
+<p><span style="text-decoration: underline;"><strong>Rezime</strong></span></p>
+<p>Ovo je ispit koji se smatra jednim od težih na 2. godini. &Scaron;teta. &Scaron;teta utro&scaron;ene energije i truda studenata. Efekat je 0. Odnosno &lt; 0, jer predmet kod mene nosi oznaku <a href="/tag/antiznanje">"antiznanje"</a>. Studenti će misliti da nakon velikog uloženog truda misliti da su savladali osnove statistike, a oni de-facto pojma o statistici neće imati.</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[U ovom članku ću pokušati iznijeti ono što sam velikim dijelom prikupio od Dženane po pitanju predmeta "Statistika i vjerovatnoća" na FIT-u.Kvalifikacije i način izglaganja su moji, tako da ne napadate moju hanumu ako koju "bombu" u ovom te...]]></excerpt:encoded>	
+
+	<wp:post_date>Tue Dec 07 06:07:00 -0800 2010</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>koncept-predmeta-statistika-i-vjerovatnoca-na</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

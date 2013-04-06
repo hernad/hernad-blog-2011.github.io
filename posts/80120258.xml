@@ -1,0 +1,224 @@
+<item>
+	<title>kahva - dvije na temu &quot;knowhow ERP&quot;</title>
+	<link>http://hernad.bring.out.ba/kahva-dvije-na-temu-knowhow-erp</link>
+	<pubDate>Mon Nov 14 09:09:00 -0800 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="business"><![CDATA[business]]></category>
+	
+		<category domain="tag" nicename="b_knowhow"><![CDATA[b_knowhow]]></category>
+	
+		<category domain="tag" nicename="dunjaluk"><![CDATA[dunjaluk]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/kahva-dvije-na-temu-knowhow-erp</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p><em><span style="text-decoration: underline;"><span style="color: #ff0000;">Update (21.11.2012): ovo je treća revizija članka. Svi dijelovi u kojima su navedeni stavovi kolege ili moje razumjevanje tih stavova su uklonjeni. Stoga je članak većim dijelom nepovezan.</span></span></em>&nbsp;</p>
+<p>Prije par dana sam oti&scaron;ao sam na kahvu kod kolege informatičara na temu "knowhow ERP".</p>
+<p>Na moje veliko iznenađenje, glavni utisak o materijalima je bio: nejasno.</p>
+<p>&lt;izbrisano&gt;</p>
+<p>Pomislio sam:</p>
+<blockquote class="posterous_short_quote">
+<p>Auuu ljudi moji ... zar sam tako nerazumljiv ?!</p>
+</blockquote>
+<p><!--more--></p>
+<p>Znam da su sadržaji na mom <a href="http://hernad.bring.out.ba">blogu</a>&nbsp;puni "&scaron;uma" (eng. noise).</p>
+<p>&Scaron;uma koji se generi&scaron;e čestim digresijama i načinom na kojim izlažem svoje emocije i lični stav. Nekima je taj stil interesantan, nekima smje&scaron;an, ali mnoge očigledno odbija u razumjevanju "ozbiljnog" dijela priče.</p>
+<p>Većina materijala koje sam objavio na temu "knowhow ERP" napisana su na personalnom blogu, upravo iz tog razloga.</p>
+<p>Da bih razdvojo lične od članaka koji nisu opterećeni pomenutim "&scaron;umom", pokrenut je poseban tehnički blog pod naslovom <a href="http://do-we-know-how.bring.out.ba/">"Do we know how to make a good software ?"</a> .</p>
+<p>I ovaj blog je svojim potpisom <strong>"Informatičke priče by bring.out"</strong> obojen "casual" stilom komuniciranja, ali je ipak rasterećen od mojih opaski.</p>
+<p>Treba tome dodati da se i na mom blogu nalaze članci pisani različtim stilom po istim temama:</p>
+<p><a href="http://hernad.bring.out.ba/trazi-se-knowhow-erp-project-manager">http://hernad.bring.out.ba/trazi-se-knowhow-erp-project-manager</a></p>
+<p><a href="http://hernad.bring.out.ba/trazi-se-serviser-knowhow-erp">http://hernad.bring.out.ba/trazi-se-serviser-knowhow-erp</a></p>
+<p>Kako je moja supruga prokomentarisala, za većinu je prvi članak obična zafrkancija. Ona je kao veliki poznavalace mene :) ipak shvatila poruku oba članka.</p>
+<p>Za drugi je prokomentarisala: "Super, ima&scaron; pravi test poučljivosti i motivacije".&nbsp;</p>
+<p>Dženana nije informatičar pa da zna da li sam postavio dobre testove, ali je očito posljednji oglas strukturom i konceptom dobro napisan za &scaron;iri auditorij.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>"Pupa-hava"</strong></span></p>
+<p>&lt;izbrisano&gt;</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Dosadni video</strong></span></p>
+<p>&lt;izbrisano&gt;</p>
+<p>Objasnio sam da je kao tehnolo&scaron;ka osnova uzet "xTuple ERP", da smo prezentovali dio samo xTuple-a kojim smo mi "ovladali" (a to je manje od pola) te da "xTuple Reference Guide" daje dobar pregled funkcionalnih karakteristika xTuple-a:&nbsp;</p>
+<p><a href="http://do-we-know-how.bring.out.ba/xtuple-openrpt-users-guide">http://do-we-know-how.bring.out.ba/xtuple-openrpt-users-guide</a>&nbsp;</p>
+<p>Objasnio sam da u "Reference Guide"-u postoje i funkcije koje nisu podržane u OSS verziji xTuple-a (podr&scaron;ka za vi&scaron;e organizacijskih jedinica - "Multisite", vi&scaron;e magacina "Multi warehouse", "Bill of Operations", Work Centre"), te da radimo na "otvaranju" tih funkcija.</p>
+<p>Objasnio sam da xTuple ima "open-core" model razvoja a da mi želimo obezbjediti kompletno rje&scaron;enje kao open source software.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Model poslovanja</strong></span></p>
+<p>"open core" je bio polazi&scaron;te za diskusiju na temu poslovnog modela "knowhow ERP". &nbsp;</p>
+<p>&lt;izbrisano&gt;</p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Licence</span></strong></span></p>
+<p>&lt;izbrisano&gt;</p>
+<p>Objasnio sam:</p>
+<blockquote>
+<p>Prije svega, knowhow ERP je proizvod koji se razvija. Mi u ovom trenutku kao cilj imamo realizovati zahtjeve postojećih klijenata. Ali &scaron;to se tiče poslovnog modela - ponude prema krajnjim korisnicima, tu nema nekog značajnog odstupanja u odnosu na standardnu ponudu.</p>
+<p>&lt;izbrisano&gt;</p>
+<p>Naravno, mi sa cijenama svog rje&scaron;enja možemo za isti set funkcija biti značajno povoljniji jer na&scaron;e rje&scaron;enje nije opterećeno licencama eksternih vendora.</p>
+<p>Ali princip je isti, rje&scaron;enje za jednog korisnika ko&scaron;ta 1.000 KM za drugog 10.000 KM za trećeg 20.000 KM, ovisno o kompleksnosti i veličini njegovog IS-a.</p>
+<p>Kao osnovni parametar za tro&scaron;kove podr&scaron;ke i tekućeg održavanja uzima se vrijednost IS-a.</p>
+<p>Međutim, otvorenost na&scaron;eg rje&scaron;enja daje korisniku opcije koje zatvorena rje&scaron;enja ne daju:</p>
+<p>- za realizaciju specifičnih funkcija može angažovati sopstvene IT resurse ili druge ERP vendore koji nude "knowhow ERP"</p>
+<p>- otvoreni software ne ograničava stepen integracije rje&scaron;enja trećih proizvođača &nbsp;</p>
+<p>Po formiranju većeg eko-sistema "knowhow ERP" provajdera "vendor lock" je isključen.</p>
+<p>To sve vodi onome &scaron;to je polazi&scaron;te razvoja "knowhow ERP"-a:</p>
+<p>- "knowohw ERP" je alat za ERP implementatore</p>
+<p>- otvoreni razvoj treba obezbjediti da to bude DOBAR alat</p>
+<p>- "bring.out" se pozicionira kao "knowhow ERP" vendor.</p>
+</blockquote>
+<p>Znači, "knowhow ERP" sam po sebi nema poslovni model. On je ALAT koji koristi i razvija eko-sistem "knowhow ERP" vendora.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Cijene, ciljna korisnička grupa</strong></span></p>
+<p>Diskusija se nastavila na relaciji vendor - klijent:</p>
+<p>&lt;izbrisano&gt;</p>
+<p>Po ovom pitanju sam se djelimično složio:</p>
+<blockquote class="posterous_medium_quote">
+<p>Ciljna korisnička grupa knowhow ERP su mala i srednja bosanska preduzeća. Klijenti sa kojima mi radimo nemaju novac investirati &nbsp;100 ili 200 hiljada KM u IS. Oni imaju budžet reda veličine 5-10 hiljada KM.&nbsp;</p>
+<p>&Scaron;to se tiče druge konstatacije, u tome se u potpunosti slažem: Software od 1 KM je bačena para ako ne radi posao koji je korisniku potreban.</p>
+</blockquote>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Brendovi: SAP, Navision</strong></span></p>
+<p>Cijene su nas dovele do priče o velikim ERP vendorima "SAP", Microsoft "Navision". Pitao sam ga:</p>
+<blockquote class="posterous_medium_quote">
+<p>Zar se neće&scaron; složiti da su SAP, Navision rje&scaron;enja čiji su ozbiljni kupci jedino BH Telecom i JP Elektroprivreda i to koliko radi njihovih funkcija toliko i radi činjenice da se radi o kupovini brenda. "Mi smo 'SAP' ERP korisnici", je često dio priče o rejtingu same firme.&nbsp;... Slično kao &scaron;to biznismen koji drži to svog statusa kupuje kupuje "Porche" ili "Audi" džip, a ne "Hyndai"-a.</p>
+</blockquote>
+<p>Kolega je prokementarisao:</p>
+<p>&lt;izbrisano&gt;</p>
+<p>Nastavio sam:</p>
+<blockquote class="posterous_medium_quote">
+<p>Tačno. "knowhow ERP" je i dao ime po tome &scaron;to smatram da je "know-how" vendora puno vi&scaron;e od onoga &scaron;to sam software predstavlja.</p>
+<p>Lo&scaron; i neupućen ERP vendor može i SAP i Navision pretvoriti u noćnu moru za korisnika.</p>
+<p>Taj dio implementacije je polje u kojima se svaki budući vendor baziran na "knowhow ERP" može diferencirati.</p>
+<p>Software je alat. Korisnik software vidi primarno kroz prizmu kvaliteta implementacija ERP-a od strane konkretnog vendora.</p>
+<p>Njega ne interesuje ni kako je software pravljen ni ko ga je pravio, ni je li otvoren ili zatvoren. Njega interesuje &Scaron;TA može dobiti od svog vendora i po kojoj CIJENI.</p>
+</blockquote>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Ciljno trži&scaron;te samo Bosna ?</strong></span></p>
+<p>Pomenuo sam u toj priči da je sada ciljno trži&scaron;te "knowhow ERP" isključivo Bosna. Pitao me je:</p>
+<p>&lt;izbrisano&gt;</p>
+<p>Objasnio sam:</p>
+<blockquote>
+<p>Projekat je otvoren. Smo motivirani tekućim zahtjevima na&scaron;ih klijenata. Kvaka je u tome &scaron;to je projekat otvoren, i kao takav nije ograničen na na&scaron;e poslovne planove. "Sutra" može da se pojavi firma ili pojedinac u Prijedoru ili Ljubu&scaron;kom ili Osijeku ili Ni&scaron;u koja će unutar "knohow ERP" ili unutar "XYZ ERP" projekta pro&scaron;iriti cijnu korisničku grupu. &nbsp;</p>
+<p>Na&scaron; poslovni cilj je u ovom momentu zadovoljiti zahtjeve na&scaron;ih postojećih klijenata. To je fokus na&scaron;eg razvoja. Tek kada taj cilj ispunimo, aBd, slijede novi poslovni ciljevi.</p>
+<p>Treba uočiti da realni domet tih ciljeva značajno ovisi od eksternim faktorima. Ako se formira kvalitetna i velika "knowhow ERP" zajednica, ne&scaron;to &scaron;to je danas neostvarivo može u tom scenariju biti nadohvat ruke.</p>
+</blockquote>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>DOBAR software, &lt;izbrisano&gt;</strong></span></p>
+<p>Ono &scaron;to me je poprilično zateklo jeste gledanje na ključnu ideju u kreiranju i razvoju "knowhow ERP": napraviti dobar software kao alat.</p>
+<p>&lt;izbrisano&gt;</p>
+<blockquote class="posterous_medium_quote">
+<p>I onda ponovo dolazim do početnog pitanja: "Kako organizovati razvoj ? Kako doći do tog boljeg software-a ?"</p>
+<p>&lt;izbrisano&gt;. Vjerovatno je moja okrenutost <strong>razvoju</strong> software-a predimenzionirana.</p>
+<p>Ali čak i kada poku&scaron;am napraviti mentalni pomak u tom smjeru (pusti se razvoja, usmjeri se na kvalitetnu implementaciju onoga &scaron;to ima&scaron;) ne mogu "dobaciti" daleko. Software jeste samo alat ali nije ni džaba ni poslovica: "Bez dobrog alata nema zanata."</p>
+</blockquote>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Moji zaključci</strong></span></p>
+<p>Na kraju sam do&scaron;ao do sljedećih konstatacija</p>
+<p>&lt;izbrisano&gt;</p>
+<p>Paradigma "DOBRO programsko re&scaron;enje" se u IT sektoru mijenja. Bosansko IT trži&scaron;te poslovnog software-a je, moj je dojam u velikoj mjeri "okovano" u ustaljene kli&scaron;ee i prakse.&nbsp;</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>"Data Lab" i "Pahtneon" kao osvježenje</strong></span></p>
+<p>Jedino osvježenje na tom polju donijeli su strani vendori kao &scaron;to je slovenački "Data Lab" sa svojim programskim rje&scaron;enjem "Pantheon".</p>
+<p>Napravili su jaku mrežu partnera na čitavom regionu. I bukvalno "pomeli" domaće vendore.</p>
+<p>U tom modelu mi se nisu svidjele sljedeće stavke:</p>
+<ol>
+<li>zatvoreni model razvoja - mogućnost razvoja "third party" rje&scaron;enja(*) oko postojećeg ERP-a.</li>
+<li>odabir tehnologija (Windows-only)</li>
+</ol>
+<p>Upravo na razlikama po ovim pitanjima je baziran razvoj "knowhow ERP", odnosno poslovni model "bring.out" kao ERP provajdera.&nbsp;</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>F2 fiskalni modul primjer</strong></span></p>
+<p>Vratimo se na na&scaron; razgovor. Poku&scaron;ao sam na primjeru razvoja fiskalnog modula želio sam demonstrirati ideju "dobrog software"-a:</p>
+<blockquote class="posterous_medium_quote">
+<p>Mi smo jo&scaron; davno napravili podr&scaron;ku na&scaron;eg postojećeg FMK programskog rje&scaron;enja obezbjedili podr&scaron;ku za par fiskalnih sistema.&nbsp;</p>
+<p>Međutim, dizajn tog rje&scaron;enja u startu je bio lo&scaron;. Ono &scaron;to je u toj priči bitno jeste da je taj lo&scaron; dizajn nije rezultat previda nego proračunatog kompromisa:</p>
+<p>Za DOBRO rje&scaron;enje treba nam cca 400-500 h razvoja a ovo postojeće možemo "sklepati" za 50-100.</p>
+<p>Kako nam vrijeme nije dozvoljalo prvu varijantu(**), u startu smo razvili rje&scaron;enje koje smatramo improvizacijom. Rje&scaron;enje koje radi ali nema atribut "DOBAR" software.</p>
+</blockquote>
+<p>&lt;izbrisano&gt;</p>
+<p>Objasnio sam:</p>
+<blockquote class="posterous_medium_quote">
+<p>Zato &scaron;to se radi o jednostavoj funkciji sistema koje kod nas stvara generi&scaron;e dosta servisnih aktivnosti koje bi DOBRO rje&scaron;enje moglo eliminisati ili značajno reducirati.</p>
+<p>Bez obzira &scaron;to je funkcija jednostavna, njen zastoj stvara korisnicima puno problema, a time naravno i nama.</p>
+<p>I na kraju zato, &scaron;to se radi o rje&scaron;enju koje je instalirano kod mnogo klijenata, tako da taj broj instalacija daje ovoj funkciji poseban značaj.</p>
+</blockquote>
+<p>&lt;izbrisano&gt;</p>
+<p>Kako god bilo, svrha ove priče je bila da objasnim na &scaron;ta mislim kada kažem "DOBAR software":</p>
+<ol>
+<li>software koji radi posao onako kako to klijent želi</li>
+<li>software kod koga su manuelne servisne intervencije svedene na minimum</li>
+<li>software kod koga je u slučaju problema na eksternim sistemima i bug-ova u samoj aplikaciji moguće efikasno dijagnosticirati problem, i sve to bez izlaska servisera na teren (u većini slučajeva) i sa &scaron;to manjim uče&scaron;ćem klijenta u procesu dijagnistike</li>
+<li>software kod koga je instalacija novih verzija jednostavna sa &scaron;to manje ili bez intervencija od strane servisera i krajnjih korisnika</li>
+<li>agilni razvoj - developerske metode koje obezbjeđuju stalnu isporuku novih verzija(***)&nbsp;</li>
+</ol>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Procedure i metodologija razvoja i nuđenja software-a</strong></span></p>
+<p>Kvalitetno upoznavanje <a href="http://en.wikipedia.org/wiki/Problem_domain">domena problema</a> &nbsp;je neophodno da bi se dobio dobar softare.&nbsp;</p>
+<p>Usvajanje određenih procedura i metodologija u razvoju i nuđenju software-a je bitno.</p>
+<p>&lt;izbrisano&gt;</p>
+<p>Model sam po sebi nije cilj.&nbsp;Nijedan alat nije&nbsp;"silver bulet" za razvoj software-a.&nbsp;Razvoj DOBROG software-a je miks klasičnog <strong>inžinjerstva</strong> i <strong>kreacije</strong>.</p>
+<p><a href="http://www.agilemodeling.com/essays/realisticUML.htm">Agilno modeliranje</a>&nbsp; se često odvija na komadu papira. Ovakav pristup modeliranju upravo uzima u obzir kreativnu crtu razvoja software-a.</p>
+<p>Agilne metodologije ukazuju da sve &scaron;to omogućava brzu i kvalitetnu <strong>komunikaciju</strong> između stakeholder-a, te &nbsp;rezultira redovnom održavanju svih artifakata IS-a (modeli, source code, dokumentacija) bez puno "overhead"-a predstavlja prihvatljiv developerski toolset.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Komunikacija</strong></span></p>
+<p>U području vezanom za komunikaciji između developera, mislim da se od onoga &scaron;to smo mi u "bring.out" postigli ima &scaron;ta naučiti.</p>
+<p>github (<a href="https://github.com/knowhow">https://github.com/knowhow</a>, <a href="https://github.com/bringout-fmk)">https://github.com/bringout-fmk)</a> i redmine (<a href="http://redmine.bring.out.ba/)">http://redmine.bring.out.ba/)</a> su alati koji omogućavaju izvanredan nivo komunikacije unutar tima:</p>
+<ul>
+<li>Razmjenu ideja i iskustava</li>
+<li>Pomoć kolegama</li>
+<li>Prostor za diskutovanje</li>
+<li>Jednostavni knowhledge-base projekata.</li>
+</ul>
+<p>I sve to sa minimalnim "overhead"-om.</p>
+<p>Zato sam mi&scaron;ljenja da smo mi u "bring.out" na planu metodologije razvoja software-a postigli puno. Mi komuniciramo. U svakoj na&scaron;oj radnoj proceduri proceduri utkan je koncept "upgrade"-a i komunikacije.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>&Scaron;ta je odlika dobrog (OSS) projekta ?</strong></span></p>
+<p>U kontekstu na&scaron;e predhodne diskusije, postavio sam sam sebi pitanje:</p>
+<blockquote class="posterous_short_quote">
+<p>&Scaron;ta je to odlika onda dobrog OSS projekta ? Da li sam u konceptu "knowhow ERP" iz vida ispustio neke ključne zakonitostu struke ?!&nbsp;</p>
+</blockquote>
+<p>Sjetio sam se ranije napisanog članka na ovu temu i dijela koji se odnosi na ovo pitanje:</p>
+<p><a href="http://hernad.bring.out.ba/pije-li-vode-open-source-erp-software-u-bosni">"K5) Developerske metodologija, preporučene prakse"</a></p>
+<p>Natavio sam sa razmi&scaron;ljanjem o tome na &scaron;ta se u drugim OSS projektima potencira:</p>
+<p>- Prezentacija putem video materijala se najvi&scaron;e koristi za sticanje prvih utisaka o projektu:</p>
+<p><a href="http://www.xtuple.com/demo/videos">http://www.xtuple.com/demo/videos</a></p>
+<p>- Kvalitetna developerska dokumentacija takođe je među stavkama koje se smatraju iznimno bitnim za OSS projekte.</p>
+<p>Ali se pri tome uvijek potencira sveobuhvatnost i ažurnost a ne određena forma te dokumentacije.</p>
+<p>Dobro ogranizovane, ažurne <a>wiki stranice</a>&nbsp;smatraju se sasvim dovoljnim u OSS projektima sa kojima sam se upoznao. Bitno je da se &scaron;to vi&scaron;e toga može "google"-ati, da su informacije svim potencijalnim korisnicima &scaron;to vi&scaron;e dostupne.&nbsp;</p>
+<p>Mi se na "knowhow ERP" nastojimo držati upravo ovih principa. I dalje mislim da je to dobar put.</p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Meta-znanje, inžinjer, tehničar, FIT</span></strong></span></p>
+<p>&lt;izbrisano&gt;</p>
+<p>Nastavio sam:</p>
+<blockquote>
+<p>Hm ja mislim da nije. "FIT" jeste pomogao da o ovim temama intenzivnije razmi&scaron;ljam, ali "FIT" sam po sebi znanje o kome ti priča&scaron; ne nudi. Ovo o čemu razgovaramo su meta-vje&scaron;tine, a FIT se nažalost vrlo malo bavi meta-vje&scaron;tinama.</p>
+<p>Ako je ne&scaron;to ostavilo traga onda je to studiranje na <a href="http://hernad.bring.out.ba/sta-trebamo-uciti-na-tehnickim-fakultetima">ETF-u</a>&nbsp;</p>
+<p>Ovo studiranje na FIT-u definitivno nije.&nbsp;Ali kako god, mislim da meni&nbsp;meta-vje&scaron;tine o kojima razgovaramo ipak ne nedostaju.</p>
+<p>Projekt menadžment definitivno nije moja jača strana, ali metodologija razvoja software jeste.&nbsp;</p>
+</blockquote>
+<p>Kada sam pomenuo "FIT", prisjetio sam se nedavno napisane priče o <a href="http://redmine.bring.out.ba/issues/25201#note-3">"Barbiki"</a>. U sebi sam rekao:</p>
+<blockquote class="posterous_short_quote">
+<p>Fakultet, Kakav "crni" fakultet :(</p>
+</blockquote>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Zaključak</strong></span></p>
+<p>Ovo posljepodne mi je bilo od velike koristi.</p>
+<p>Pomoglo mi je da shvatim sam da je za prezentaciju projekta &scaron;irem stručnom auditoriju potrebno jo&scaron; puno toga napisati, i sve to na jedan bitno drugačiji način. Onako kako su to ljudi navikli.</p>
+<p>Moj postojeći stil promoviranja "knowhow ERP" može zainteresovati samo prave "open source" entuzijaste, a takvih je u Bosni malo.</p>
+<p>Nakon ovoga sam odlučio da u narednih par mjeseci po ovom pitanju ni&scaron;ta značajno ni ne poku&scaron;avam.&nbsp;</p>
+<p>Trebamo se prije svega okrenuti svojim internim ciljevima - pripremi knowhow ERP za na&scaron;e klijente. A nakon toga, aBd, idemo dalje.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Log promjena:</strong></span></p>
+<ul>
+<li>21.11.2011:&nbsp;ovo je treća revizija članka. Svi dijelovi u kojima su navedeni stavovi kolege ili moje razumjevanje tih stavova su uklonjeni.</li>
+<li>16.11.2011: radi se o verziji 2 članka. Prva verzija napisana je na neadekvatan način po pitanju privatnosti.</li>
+</ul>
+<p>----</p>
+<p><em>(*) &nbsp;Par puta sam sa kolegama iz "Data Lab"-a razgovarao na ovu temu. Svaki put sam odgovor protumačio kao klasičnu "salesman" priču - samo ti kupi i n&scaron;ta se ne sekiraj. Ubjeđivan sam kako partneri ravnopravno učestvuju u razvoju. Kada sam pitao: Pa dobro, kad je to tako ravnopravno, kako mi možemo iskoristiti i sačuvati svoje developerske resurse. Da li i kako lokalni developeri mogu "Data Lab"-u nuditi svoje programerske usluge ? Na ovakva pitanja nisam dobio odgovor.</em></p>
+<p><em>(**) Ključni koncept u po nama DOBROM dizajnu jeste realizacija web aplikacije kojoj će ERP klijenti proslijeđivati web zahtjeve, a ona će jedan po jedan po principu printer spooler-a obrađivati <a href="http://redmine.bring.out.ba/issues/24646">http://redmine.bring.out.ba/issues/24646</a>&nbsp;</em></p>
+<p><em>(***) TDD/BDD development obezbjeđuje da se kod isporuke novih verzija reduciraju "side efekti" - neželjene regresije u postojećim funkcijama sistema usljed realizacije novih funkcija. &Scaron;to bi na&scaron; narod rekao da bude &scaron;to manje slučajeva: "jedno napravio drugo pokvario".</em></p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Update (21.11.2012): ovo je treća revizija članka. Svi dijelovi u kojima su navedeni stavovi kolege ili moje razumjevanje tih stavova su uklonjeni. Stoga je članak većim dijelom nepovezan. Prije par dana sam otišao sam na kahvu kod kolege informat...]]></excerpt:encoded>	
+
+	<wp:post_date>Mon Nov 14 09:09:00 -0800 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>kahva-dvije-na-temu-knowhow-erp</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

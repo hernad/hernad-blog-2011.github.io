@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<link href='../../../exports.css' rel='stylesheet'>
+<link href='../../../exports.css' rel='stylesheet'>
+
+</head>
+<body>
+<div id='wrap'>
+<div id='header'>
+<h1>hernad</h1>
+<h2>This is an archived post
+This is an archived post
+</h2>
+</div>
+<div id='content'><div id='nav'>
+<a href="../../../posts/2010/11/fiskalizacija-je-velika-sansa-za-bringout.html">Previous</a>
+&nbsp; 
+<a href="../../../index-14.html">Index</a>
+&nbsp; 
+<a href="../../../posts/2010/11/programiranje-2-nespreman.html">Next</a>
+</div>
+<div class='post'>
+<div class='post_header'>
+<h3>Programiranje 2, 1. parcijalni,  metodologija kod izrade zadatka</h3>
+<div class='post_info'>
+<span class='post_time'>November 29 2010,  8:44 AM</span>
+<span class='author'>&nbsp;by Ernad Husremović</span>
+</div>
+</div>
+<div class='post_body'><p>Iako sam bio <a href="/programiranje-2-nespreman">"tanako ogata"</a> ispit sam dobro uradio :)</p>
+<p><!--more--><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Teorija</span></strong></span></p>
+<p>Ispit je imao dva teoretska pitanja:</p>
+<ol>
+<li>o destruktorima - kada se pozivaju</li>
+<li>o konstruktoru kopije - da li je&nbsp; potrebno da bude ulazni parametar const i po referenci</li>
+</ol>
+<p><span style="text-decoration: underline;">1. Destruktori</span></p>
+<p>Tu je glavna kvaka bila da se oni uobičajeno ne pozivaju eksplicitno nego implicitno, i to onda kada važenje objekte varijable prestane. Pa sam dao primjer neki 'ala ovo:</p>
+<p><p><a href="https://gist.github.com/720190">https://gist.github.com/720190</a></p></p>
+<p><span style="text-decoration: underline;">2. Konstruktor kopije</span></p>
+<p>tu sam objasnio da mora biti po referenci inače će se desiti rekurzivan poziv, jer svako prosljeđivanje varijable koja je objekat klase povlači poziv konstruktora kopije.</p>
+<p>&Scaron;to se tiče const tu sam odgovorio da je to dobra praksa ali nije neophodno.</p>
+<p><span style="text-decoration: underline;"><span style="font-size: medium;"><strong>Zadatak</strong></span></span></p>
+<p>Zadana je bila klasa Student kod koje su zadate funkcije koje su trebale raditi određene poslove, &scaron;to je navedeno u zadatku.</p>
+<p>Po sjećanju:</p>
+<p><p><a href="https://gist.github.com/720197">https://gist.github.com/720197</a></p></p>
+<p>U zadatku su onda naveden funkcije koje je kod klase trebalo implementirati:</p>
+<ul>
+<li>operator+=&nbsp;&nbsp; - u niz _ocjene dodaje ocjenu studanta (int ulazni parametar), i napraviti potrebnu validaciju </li>
+<li>operator()&nbsp; - navesti dva int parametra koji gdje će funkcija operator vratiti broj ocjena koje student ima sa tim ocjenama</li>
+<li>operator&lt;&lt; ako koji na izlazni stream "baca" sve podatke o atributima objekata</li>
+</ul>
+<p>Možda sam ne&scaron;to i ispustio ali to je to.</p>
+<p><span style="text-decoration: underline;"><strong>"Kvake" zadatka</strong></span></p>
+<p>1) Konstruktor</p>
+<p>Kod zadatka je kvaka bila const int koji je zahtjevao da konstruktor bude ovakav:</p>
+<p><p><a href="https://gist.github.com/720205">https://gist.github.com/720205</a></p></p>
+<p>To je klasična fora na PR2.</p>
+<p>2) U zadatku je namjerno stavljeno da _brOcjena bude pointer</p>
+<p>pa se on u konstruktoru napraviti sa new,&nbsp; destruktoru morao "ubiti" sa delete.</p>
+<p>Ja sam po svom standardnom običaju to previdio (jer se to jednostavno tako ne radi :)), ali mi je asistent Denis bez imalo ustezanja pomogao. Hvala asistentu !</p>
+<p>tako je trebalo koristio <span style="color: #008000;">_ocjene[*_brOcjena]</span>, a ne _ocjene[*_brOcjena] kako sam ja lupao(*).</p>
+<p><span style="text-decoration: underline;"><strong>Traženi komentari u zadatku</strong></span></p>
+<p>Tražilo se obja&scaron;njenje za razloge za friend funkcije (to je ona sa operator&lt;&lt;). Mislim da sam tu napravio <span style="color: #ff0000;">gre&scaron;ku</span>.</p>
+<p>Ja sam rekao da se friend funkcije moraju koristiti onda kada nam klasa ne vraća objekt tog tipa.</p>
+<p>Međutim to je poprilično blentav odgovor. Masa je member funkcija koje ne vraćaju objekat tipa te Klase.</p>
+<p>Kada malo razmislim mislim da je u ovome kvaka:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; cout &lt;&lt; student_var &lt;&lt; "nesto .." &lt;&lt; endl;</p>
+<p>Ovdje imamo binarni operator kod koga je lijeva strana objekat druge klase. U svim drugim slučajevima left operand je objekat te klase (u ovom slučaju Student).</p>
+<p>Time bi odgovor bio: kada je lijevi operand objekat druge klase, moramo ići na friend/globalnu funkciju (**).</p>
+<p><span style="text-decoration: underline;"><span style="font-size: medium;">Strategija rje&scaron;avanja zadatka PR2</span></span></p>
+<p>Neću međutim dalje govoriti o tome kako sam rje&scaron;avao zadatak. Ostalo nije previ&scaron;e interesantno :).</p>
+<p>Govoriću o onome &scaron;to sam kod kolega uočio kao veliku gre&scaron;ku.</p>
+<p><span style="text-decoration: underline;"><strong>Hajmo raditi na papiru ?!?</strong></span></p>
+<p>Evo o čemu se radi: Na PR2 se traži da se zadatak može kompajlirati. Čak sam na&scaron;ao da su na forumima iz tog razloga neki studenti tražili da se pi&scaron;e na papiru.</p>
+<p>Tim kolegama poručujem: idite bavite se nekim drugim poslom. Ovo je predmet programiranje, ovo je fakultet je fakultet informacionih tehnologija.</p>
+<p>Rad na računaru&nbsp; <strong>je jedini prirodan način da se zadaci iz ovog predmeta rje&scaron;avaju</strong>. Ako je kvaka u tome da se toleri&scaron;u gre&scaron;ke, pa onda se to i sa računarom može uvesti.</p>
+<p>Svakako bi za mene ovaj zadatak za 60minuta na papiru bio misaona imenica. I &scaron;to je najbitnije: najobičnije <span style="color: #ff0000;">maltretiranje</span>.</p>
+<p><span style="text-decoration: underline;"><strong>Psihologija čovjeka:&nbsp; reakcija na "milion gre&scaron;aka" </strong></span></p>
+<p>U ovako ograničenom vremenu vrlo je bitno da se čovjek ne izgubi. Bez obzira &scaron;to sam programer dugo godina, i meni se u par navrata de&scaron;avala blokada.</p>
+<p>Većina kolega su kucali kucali kucali ... i pred kraj ispita su imali po 100-200 gre&scaron;aka. C++ zna jedan ispu&scaron;teni ";" pretvoriti u 100 gre&scaron;aka.</p>
+<p>I kada to 10 minuta pred kraj vidi&scaron; ti si donji.</p>
+<p><span style="text-decoration: underline;"><strong>Moja metodlogija: skeleton</strong></span></p>
+<p>Ja sam čitavo vrijeme projekat držao čistim. Ako bi se na nekoj funkciji izgubio ja bih je sa /*&nbsp; ... */ komentarisao, kako u zaglavlju, tako i u implementaciji.</p>
+<p>Tako sam prvih 30-40 minuta imao projekat koji se kompajlira - ali ni&scaron;ta nije implementirano.</p>
+<p>To je izgledalo ovako:</p>
+<p><p><a href="https://gist.github.com/720254">https://gist.github.com/720254</a></p></p>
+<p>Znači imao sam funkcije koje jo&scaron; ne rade ni&scaron;ta.</p>
+<p><span style="text-decoration: underline;"><strong>Inkrementalni pristup</strong></span></p>
+<p>Treba uočiti kako sam odmah napravio objekat, koji nije ni&scaron;ta radio oprave, ali se kreirao !</p>
+<p>Pa sam ga "ispisao" na cout sream;</p>
+<p>Na taj način sam bez odlaganja mogao provjeriti da li stvar radi čim implementiram te funkcije.</p>
+<p>Step by step sam dodavao novu funkciju.</p>
+<p>Ako stvar "prolupa" - ako me kompajler obaspe gre&scaron;kama ja to komentari&scaron;em i idem dalje.</p>
+<p>Tako sam postupno jednu po jednu funkciju otkačivao.</p>
+<p><span style="text-decoration: underline;"><strong>hernad genijalac ?</strong></span></p>
+<p>Volio bih da jesam ali nisam.</p>
+<p>Ja sam ovaj pristup zauzeo zato &scaron;to se 25 godina bavim programiranjem i &scaron;to sam u tom vremenu dosta developerskih metodologija usvojio. Jedna od njih je <a href="http://en.wikipedia.org/wiki/Test-driven_development"><strong>Test driven development (TDD) </strong></a></p>
+<p>E ta metodologija na sličan način pristupa izradi sistema. Razlika je jedina &scaron;to se u TDD-u implementiraju test case-ovi kojim se provjerava da li kod funkcioni&scaron;e kako je zami&scaron;ljeno, dok sam ja ovdje fokus stavio na to da jednostavno provjeravam da li se source može kompajlirati.</p>
+<p>&nbsp;</p>
+<p>---</p>
+<p><span style="font-size: x-small;">(*) Moram reći da sam ja u tom trenutku poruku o gre&scaron;ci pogre&scaron;no  interpretirao, misleći da trebam praviti neke konverzije na matrici  ocjene koje kompajler tretira kao pointer na integer. Mogao sam pravo  odlutati da mi nije Denis pomogao.</span></p>
+<p><span style="font-size: x-small;">(**) Ovo govorim iz glave<br /></span></p></div>
+<div class='post_tags'>
+<h4>Tags</h4>
+<div class='post_tags_list'>c, fit_2_godina, fit_mostar</div>
+</div>
+<div class='post_responses'>
+<h4>1902 views and 4 responses</h4>
+<ul class='post_responses list'>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Nov 29 2010, 10:32 AM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>na FIT forumima sam objavio info ovome: <a href="http://cs.fit.ba/forums/thread/163612.aspx" rel="nofollow">http://cs.fit.ba/forums/thread/163612.aspx</a><p>Slađana je rekla:</p><p>> Evo Adisa i ja bas procitasmo analizu i sintezu koju si dao...Osim ovog subjektivnog dijela kako si radio svoj zadatak, sta si grijesio itd...u potpunosti si u pravu da nije lose organizovati se malo u ovih 60 minuta napetosti...Doista nije losa ideja poceti sa siromasnim mainom i funkcijama koje su tu, ispravne al oprave nista ne rade...pa prema ostatku vremena kako kazes inkrementirati kod...al eto sve ovo nije vrijedno bez dosta rada i vjezbe at home :) ...</p><p>Ja odgovorio Slađani:</p><p>> Ja mislim da je zahtjev na PR2: ako ne radi = pao si uopšte nije besmislen.</p><p>> Ovo je uvođenje u ono što jeste cilj programiranja: napiši program koji daje rezultate.</p><p>> S druge strane, prema onome što sam čuo od raje nakon ispita (i onog kolege iz prve grupe koji je sa nama popričao) nešto tu "smrdi".</p><p>> Nemoguće je da su baš svi za padanje. Zato sam se i fokusirao na metodologiju izrade.</p><p>Ona bi trebala omogućiti da i oni sporiji (ali koji stvari naravno dovoljno kontaju stvar) urade za 6-7. A ne da padnu zato što ih obaspe more grešaka.</p></div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Nov 29 2010, 10:52 AM</div>
+<div class='response_name'>J450 responded:</div>
+</div>
+<div class='response_body'>Hernard, svaka cast na postu, samo si trebao ovo ranije napisati mnogi bi bolje uradili</div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Nov 29 2010, 10:53 AM</div>
+<div class='response_name'>J450 responded:</div>
+</div>
+<div class='response_body'>ovo moram pod hitno protitati Test driven development (TDD)</div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Nov 29 2010, 11:48 AM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>> Hernard, svaka cast na postu, samo si trebao ovo ranije napisati mnogi bi bolje uradili <p>@J450 Hvala. Ali ja stvarno nisam znao da će ovako veliki broj ljudi reći: "nije kompajliralo". </p><p>Definitivno nije ovo bio neki skrivani džoker iz rukava :) </p><p>Čim sa skontao da se raja gubi,  evo sam to što ja znam stavio na papir.</p></div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

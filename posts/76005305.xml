@@ -1,0 +1,321 @@
+<item>
+	<title>Otvoreni poziv developerima: honorarni rad na knowhow ERP</title>
+	<link>http://hernad.bring.out.ba/otvoreni-poziv-developerima-honorarni-rad-na</link>
+	<pubDate>Tue Oct 18 08:34:00 -0700 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="business"><![CDATA[business]]></category>
+	
+		<category domain="tag" nicename="b_knowhow"><![CDATA[b_knowhow]]></category>
+	
+		<category domain="tag" nicename="oglas_posao"><![CDATA[oglas_posao]]></category>
+	
+		<category domain="tag" nicename="opensource"><![CDATA[opensource]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/otvoreni-poziv-developerima-honorarni-rad-na</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Napokon sam do&scaron;ao do posljednjeg članka iz dana&scaron;nje serije.</p>
+<p>Podsjetimo se, posljednji je bio: <a href="http://hernad.bring.out.ba/bringout-mahsuz-softwar-baziran-na-knowhow-er">"mahsuz" software baziran na knowhow ERP</a></p>
+<div>U njemu sam do&scaron;ao do sljedećeg zaključka:</div>
+<div>
+<blockquote class="posterous_medium_quote">Bilo da se radi o razvoju novih standardnih ERP fukcija (koje može koristiti veća grupa korisnika) ili namjenskom - mahsuz software-u za određenog korisnika, otvoreni model razvoja ima niz prednosti.</blockquote>
+Jezikom matematike:</div>
+<div><span style="color: #424037; font-size: 12px; line-height: 21px;"><span style="text-decoration: underline; color: #008000; padding: 0px; margin: 0px;"><strong style="padding: 0px; margin: 0px;">knowhow_MahsuzSoftware = knowhow ERP core + MahsuzSoftware_Extended-Core + Privatni dio</strong></span></span></div>
+<p />
+<div>Dobra vijest je ta da imamo dogovoren posao za realizaciju jedne knowhow_Mahsuz aplikacije: <span style="text-decoration: underline;"><a href="http://redmine.bring.out.ba/issues/24914">evidenciju radnika zavarivača</a></span>.</div>
+<p />
+<div>Ako ste zainteresovani za rad na ovom ili nekom drugom knowhow projektu prijavite se.</div>
+<p />
+<div>Prije toga obavezno pročitajte sljedeće članke:</div>
+<div>
+<div><br />1)&nbsp;<a href="http://hernad.bring.out.ba/radno-mjesto-u-bringout">Politika zapo&scaron;ljavanja i poslovne saradnje u "open source" svijetu</a></div>
+<p />
+<div>2)&nbsp;<a href="http://do-we-know-how.bring.out.ba/knowhow-erp-gdje-sta-kako">knowhow ERP, gdje, &scaron;ta, kako&nbsp;</a></div>
+</div>
+<p />
+<div>Prvi se bavi osnovnim principima djelovanja i rada developera na knowhow projektu, a drugi daje rezime projekta: njegovih komponenti i tehničkih karakteristika.</div>
+<p />
+<div><!--more--></div>
+<div><span style="text-decoration: underline; font-size: medium; color: #333399;"><strong>1) Početnik - plaćeno volontiranje</strong></span></div>
+<p />
+<div>I ako nemate iskustva u programiranju, ipak se možete se uključiti u knowhow ERP.&nbsp;</div>
+<p />
+<div>Potrebno je da razumijete gore navedene principe.</div>
+<p />
+<div>Za va&scaron; rad vam nudim naknadu na <strong>mjesečnom nivou</strong> ili na za određeni set ticketa(*).</div>
+<p />
+<div>Konkretna ponuda o trenutnim potrebama na projektu i Va&scaron;im preferencijama.</div>
+<div>Možete <strong>sami delegirati</strong> tickete (čak je i poželjno) koje ste spremni preuzeti.</div>
+<p />
+<div>Visina naknade je 100-500 KM/mjesečno ili na nivou određenog seta ticket-a.</div>
+<p />
+<div>Početnik će imati mentora.</div>
+<p />
+<div><span style="text-decoration: underline; font-size: medium; color: #333399;"><strong>2) Developer sa ranijim iskustvom - honorarni zadaci</strong></span></div>
+<p />
+<div>Preduslovi su slični kao i za početnika.&nbsp;</div>
+<p />
+<div>Jedina je razlika &scaron;to će developeru biti ponuđena naknada na <strong>10-dnevnom</strong> nivo-u ili ekvivalent - određeni set ticketa koji u tom perioud treba zavr&scaron;iti.</div>
+<p />
+<div>Visina naknade je 100-500 KM/<strong>10 dana</strong>.</div>
+<p />
+<div>Za ovu poziciju nije predviđen stalni mentor kao za početnika.</div>
+<p />
+<div>Na raspolaganju će međutim imati podr&scaron;ku ostalih kolega.</div>
+<p />
+<div><span style="text-decoration: underline; font-size: medium;"><strong>Software licence</strong></span></div>
+<p />
+<div>Svi rezultati rada honorarnih developera će biti OSS software objavljeni pod <a href="https://github.com/knowhow/T0_knowhow/blob/master/legal/LICENSE_CPAL_bring.out_knowhow.md">CPAL licencom</a>.</div>
+<p />
+<div><span style="text-decoration: underline; font-size: medium;"><strong>Honorarni rad znači rad na crno !?</strong></span></div>
+<p />
+<div>Naknade za developere ne obezbjeđuje bring.out nego ja Ernad Husremović kao fizičko lice.&nbsp;</div>
+<p />
+<div>U slučaju dobrih rezultata, prirodan slijed događaja je poziv za rad u "bring.out".</div>
+<p />
+<div>U bring.out nema radnika koji rade "na crno".</div>
+<div>----</div>
+<div>(*) redmine ticket - aktivnosti, zadatak</div>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Napokon sam došao do posljednjeg članka iz današnje serije. Podsjetimo se, posljednji je bio: "mahsuz" software baziran na knowhow ERP U njemu sam došao do sljedećeg zaključka: Bilo da se radi o razvoju novih standardnih ERP fukcija (koje može kor...]]></excerpt:encoded>	
+
+	<wp:post_date>Tue Oct 18 08:34:00 -0700 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>otvoreni-poziv-developerima-honorarni-rad-na</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Tue Oct 18 21:40:28 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Tue Oct 18 21:40:28 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Sinoć sam objavio ovaj članak na oglasima za posao FIT-a.
+
+Jutros
+
+Admir via Facebook:
+------------------
+
+Poštovani kolega,
+vidjeo sam vaš post na forumu pa ako bih me mogli malo detaljnije uvesti u svu onu priču opis posla,sta se radi...Inače sam student treće godine FIT-a .Izvinite na smetnji.
+Lijep pozdrav !
+
+
+Ernad Husremović
+----------------
+
+Admire hvala na javljanju. Članci koje sam naveo bi trebali da Vas uvedu u čitavu priču. 
+
+Ako tokom čitanja budete imali nejasnoće na konkretne stvari, komentarišite ih na blogu i dobićete pojašnjenja.
+
+Ukratko, SVE što radimo na knowhow ERP javno je dostupno. U tome je &quot;kvaka&quot;.
+
+Pozdrav]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Oct 19 10:48:05 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Wed Oct 19 10:48:05 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Admir mi se javio ponovo i izrazio želju da se uključi u rad knowhow ERP.
+
+Takođe mi je ponudio uvid u source code projekta na kome trenutno radi.
+
+-----------
+Moj odgovor: 
+------------
+
+Admire, hvala na iskazanoj želji da se uključiš u knowhow ERP.
+
+Prestaću te persirati jer se mi unutar knowhow tima ne persiramo. 
+
+Hijerarhija unutar knowhow tima bazirana je na ZNANJU a ne na formalnim titulama ili formalnom obrazovanju.
+
+Ko najbolje zna posao taj je šef svog redmine ticketa :)
+
+Drugi razlog za nepersiranje je to što smatramo da ono ljude distancira. 
+
+Persiranje je ok unutar npr. akademske institucije, ali unutar organizacije koju mi gradimo to jednostavno smeta. 
+
+Stalna i bliska komunikacija su jedan od temelja našeg projekta.
+
+Drugi temelj je otvorenost. Zato ti svaki odgovor pišem javno. 
+
+Taj princip ima svoju svrhu: Ovo što ti pitaš može zainteresovati i neku drugu osobu. 
+
+A ja sam lijen da se ponavljam. Zato blogiram :)
+
+Dobro apsolvirali smo otvorenost i komunikaciju.
+
+Pređimo na autorska prava.
+
+Mi u &quot;knowhow ERP&quot; i &quot;bring.out&quot; (firma koja je inicijator knowhow ERP-a) puno pažnje polažemo na autorska prava.
+
+Ukoliko je source code koji pominješ zatvoreni software, ne mogu ga gledati. 
+
+Njegovim čitanjem bih mogao doći do neke ideje koju bih primjenio u našim OSS projektima, što nije dozvoljeno.
+
+Možda ti to izgleda čudno, ali tako je.
+
+U intelektualnom vlasništvu odnosno autorskim pravima sam pitao ovdje:
+
+http://hernad.bring.out.ba/veliki-musliman-i-software
+
+Da skratim, u &quot;knowhow ERP&quot; se ne koristi piratski software. U &quot;knowhow ERP&quot; se promovira OSS &amp; FS.
+
+Kao student FIT-a upoznat sam da se na ove stvari ne obraća pažnja. Čak šta više, prećutno se &quot;aminuje&quot; korištenja raznih software crack-ova:
+
+http://hernad.bring.out.ba/mogucnost-izbora-je-takode-stvar-koja-se-uci
+
+To se kod nas ni u kojoj formi ne smije činiti. 
+
+Ako postoji software koji možeš učiniti kao OSS, objavi ga na github. Otvaranje sopstvenog account-a na github je ionako jedan od prvih koraka da postaneš knowhow developer. (Piše u referentnom članku br. 1 ).
+
+Ne mora to biti nikakav grandiozan software. 
+
+Bitno je da je on rezultat TVOG developerskog rada - da demonstrira vještine i tehnologije kojima kao developer vladaš.
+
+Ako ne znaš koju po kojom licencom objaviti software, predlažem ti liberalnu MIT licencu: http://www.opensource.org/licenses/MIT
+
+Ako nemaš takvog software-a na raspolaganju, forkiraj naše repozitorije koji ti se čine interesantnim pa se &quot;poigraj&quot; se sa njima.
+
+Svoj doprinos projektu možeš dati i najsitnijim ispravkama ili komentarima u source code-u. 
+
+Ali niko od tebe ne očekuje konkretne rezultate odmah. To naravno nije realno očekivati. Programiranje nije kopanje, iako nekada zna biti i teže :)
+
+Nakon github-a, pošalji email na podrska@bring.out.ba. 
+
+Otvorićemo ti redmine account tako da ćeš moći davati komentare ili otvarati nove tickete.
+
+Samim pristupom na redmine-u postaješ aktivni član ekipe knowhow ERP.
+
+Savjeti i zapažanja
+----------------
+
+Otvorenost, sopstvena inicijativa, komunikacija sa kolegama su osnovni principi djelovanja.
+
+Niko od tebe očekuje da činiš čuda. Međutim očekuje se što više iskoristiš postojeće resurse knowhow (blogove, tickete). Sve to je dostupno i pisano upravo zato da pomogne novim članovima da se što kvalitetnije uključe u projekat.
+
+Kako je u referentnom članku 1) navedeno, politika zapošljavanja u bring.out je BEZ usmenih sastanaka. 
+
+Isto vrijedi i za &quot;knowhow ERP&quot;. Želimo komunikaciju započeti kodom i ticketima.
+
+Ako sebe pronađeš u ovom načinu rada, ne sekiraj se. Brzo će doći vakat za usmene sastanke i pravo upoznavanje :).
+
+Mi smo se odlučili da prvo upoznavanje bude isključivo virtuelno upoznavanje.
+
+Razlog za to je jednostavan: u našem radu su ključne VJEŠTINE PISANE KOMUNIKACIJE.
+
+Moram ti reći da sam uočio da to nije tvoja jača strana.
+
+U dva obraćanja nisam od tebe dobio niti jednu, u kontekstu http://hernad.bring.out.ba/kontekst potreba projekta, konretnu informaciju. 
+
+Formalna naobrazba, ocjene na fakultetu su bitni pokazatelji. Oni govore o tome šta se od nekoga može očekivati.
+
+Ali ipak ne govore puno o VJEŠTINAMA koje neko POSJEDUJE.
+ 
+Hijerahija u bring.out je bazirana na vještinama (pogledaj poglavlja &quot;Saša&quot;, &quot;Jasko&quot;) http://hernad.bring.out.ba/fokus
+
+Međutim, niko se nije naučen rodio. Vještini pisane komunikacije se na žalost na FIT-u ne pridaje potrebna pažnja:
+
+http://hernad.bring.out.ba/zamjena-predmeta-sociologija-sa-pravila-poslo
+
+http://hernad.bring.out.ba/tag/poslovna_korespondencija
+
+Ali, ne želim te obeshrabriti. U &quot;knowhow&quot; timu ćeš to vrlo brzo naučiti. 
+
+Zato što bez toga ne možeš nijedan zadatak uraditi.
+
+Bitno je samo da tome posvetiš posebnu pažnju. 
+
+Očekujemo tvoj email za registraciju na redmine ...  hm čekaj malo. 
+
+može to još jednostavnije http://redmine.bring.out.ba/account/register
+
+Rezime: github, redmine i &quot;opleti&quot;. Baš kako je napisano na http://hernad.bring.out.ba/radno-mjesto-u-bringout
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Thu Oct 20 04:04:53 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Thu Oct 20 04:04:53 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Odakle početi ?
+
+možda odavde: http://redmine.bring.out.ba/issues/24888]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Thu Oct 20 09:03:51 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Thu Oct 20 09:03:51 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://hernad.bring.out.ba/ljudi-citajte]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Fri Oct 21 03:03:19 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Fri Oct 21 03:03:19 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Moglo bi biti od koristio kolegami se nisu susretali sa git-om github-om:
+
+http://hernad.bring.out.ba/free-pascal-compiler-edit-compile-run-ciklus
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Mon Oct 24 00:09:32 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Mon Oct 24 00:09:32 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://redmine.bring.out.ba/issues/24926]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

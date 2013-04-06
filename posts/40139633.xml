@@ -1,0 +1,210 @@
+<item>
+	<title>Uvod u baze podataka, hello world, non-microsoft toolset</title>
+	<link>http://hernad.bring.out.ba/uvod-u-baze-podataka-konverzija-er-u-r-model</link>
+	<pubDate>Mon Jan 17 12:26:00 -0800 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="database"><![CDATA[database]]></category>
+	
+		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/uvod-u-baze-podataka-konverzija-er-u-r-model</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Nakon <a href="/uvod-u-baze-podataka-zbrkizacija">početnih predavanja</a>, do&scaron;ao sam i do konkretnih stvari. Međutim, početne dojmove: "ne kontam", "nelogično", "gubim se" nikako nisam mogao izbiti.</p>
+<p>Imao sam očekivanja da će stvari kod na kraju ipak početi "lijegati na svojem mjesto". Međutim, do tačke "aha - kontam" nikako nisam mogao doći :(</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Uvod u baze podataka, hello world</strong></span></p>
+<p>Tražio sam<a href="/hello-world"> "hello world"</a> predmeta ali ga nikako nisam mogao naći.&nbsp; Video materijali su dobri, ali oni nemaju nikakvu logičku vezu sa teorijskim dijelom, posebno ER dijagramima. Možda sam ne&scaron;to ispustio !? Lo&scaron; kvalitet, nekonzistentnost materijala su mi stvorili veliki problem. Poku&scaron;ao sam to iskompenzirati traženjem poja&scaron;njenja po internetu ... Ali, koliko god mi neki internet materijal pomogao, svjestan sam da za polaganje ispita prije svega moram "sažvakati" ono &scaron;to materijali govore. Ma koliko to meni&nbsp; bilo konfuzno  ...</p>
+<p>Zato sam danas nakon &scaron;to sam priveo čitanje materijala kraju, odlučio da na par praktičnih primjera utvrdim &scaron;ta sam "pohvatao".</p>
+<p><!--more--><span style="text-decoration: underline; font-size: medium;"><strong>Hello world 1</strong></span></p>
+<p>Prvi zadatak koji sam sebi postavio je izrada R dijagrama na osnovnu ER dijagrama sa entitetima i relacijama(*): Putnik (kupuje) Karta (važi) Let (vodi) Kapetan.</p>
+<p>Nisam se ba&scaron;&nbsp; proslavio. Trebalo mi je najmanje 45 minuta da to uradim. Napravio sam dosta gre&scaron;aka, ali sam na kraju dobio ispravno rje&scaron;enje:</p>
+<p><div class='p_embed p_image_embed'>
+<a href="http://getfile8.posterous.com/getfile/files.posterous.com/temp-2011-01-17/rksmufcBAyGDrkCjofDHynAbceHHldFsBGswGpuidbxxuBhqcCpqDnJesvrG/putnik_karta_let_kapetan.png.scaled1000.png"><img alt="Putnik_karta_let_kapetan" height="189" src="http://getfile2.posterous.com/getfile/files.posterous.com/temp-2011-01-17/rksmufcBAyGDrkCjofDHynAbceHHldFsBGswGpuidbxxuBhqcCpqDnJesvrG/putnik_karta_let_kapetan.png.scaled500.png" width="500" /></a>
+</div>
+</p>
+<p>Jedina stvar koja mi je u materijalima ostala nejasna je to &scaron;to u (MS access) primjeru grafičkog prikaza relacijske sheme stoji KAPETAN(1) -&gt; LET(beskonačno). MS Access nema posebnu oznaku za relaciju za (0..1), ili se radi o gre&scaron;ci u materijalima ?&nbsp;</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Hello world 2</strong></span></p>
+<p>U prvom primjeru sam uočio da najvi&scaron;e dilema imam u tome da li će relacija sa ER dijagrama u relacionoj shemi biti tabela ili neće.</p>
+<p>Time sam do&scaron;ao do toga da mi je najbitnije preraditi materijal "Prevođenje ER modela u R model". Materijal po principu pravila obja&scaron;njava kako karakteristične elemente ER dijagrama&nbsp; treba prebaciti u R model. Tako je svaka od kombinacija binarnih veza ( (1..1) : (1..1) ; (0..1) : (1..1); (0..1) : (0..1)&nbsp; ...) posebno obrađena.&nbsp;</p>
+<p>Nakon prolaska kroz materijal, nisam mogao uočiti zajedničku nit, a memorisanje napamet pojedinih hem mi <a href="/glupan">te&scaron;ko ide</a>, hem smatram najobičnijom glupo&scaron;ću da mozak za takvo &scaron;ta rezervi&scaron;em.</p>
+<p>Skont'o sam strategiju:</p>
+<blockquote class="posterous_short_quote">
+<p>Napraviću "hello world 2". Uzeću jedan od primjera i "rastaviti ga do crvenih krvnih zrnaca". Kada to uradim, valjda ću skontati u čemu je fol' - &scaron;ta je pozadina ovih pravila.</p>
+</blockquote>
+<p>Uzeo sam nasumice primjer binarne veze sa (0..N) : (0..1)&nbsp; spojevima. Entuzijastično sam napravio u <a href="http://projects.gnome.org/dia/">dia</a>-i dijagram:</p>
+<p><div class='p_embed p_image_embed'>
+<a href="http://getfile5.posterous.com/getfile/files.posterous.com/temp-2011-01-17/wejCFmuynrJjfgjxnEnHJjlJoefzrJogidyBFJgpBrCruGBJEkrfuEerJjer/er_binarna_veza.png.scaled1000.png"><img alt="Er_binarna_veza" height="302" src="http://getfile6.posterous.com/getfile/files.posterous.com/temp-2011-01-17/wejCFmuynrJjfgjxnEnHJjlJoefzrJogidyBFJgpBrCruGBJEkrfuEerJjer/er_binarna_veza.png.scaled500.png" width="500" /></a>
+</div>
+Nakon toga sam uzeo <a href="http://ermaster.sourceforge.net">ER master</a> i sa njim napravio ovaj R dijagram:</p>
+<p><div class='p_embed p_image_embed'>
+<a href="http://getfile8.posterous.com/getfile/files.posterous.com/temp-2011-01-17/kmnwqsBJDFDEhoACaDxaofGCrpzpgvGAjeIJvzqzchnzkylbIrmwtBiulBuh/udzbenici.png.scaled1000.png"><img alt="Udzbenici" height="183" src="http://getfile8.posterous.com/getfile/files.posterous.com/temp-2011-01-17/kmnwqsBJDFDEhoACaDxaofGCrpzpgvGAjeIJvzqzchnzkylbIrmwtBiulBuh/udzbenici.png.scaled500.png" width="500" /></a>
+</div>
+Međutim, moja verzija nije zadovoljavala rje&scaron;enje koje se navodi materijalima. U materijalima se navodi ovo rje&scaron;enje:</p>
+<p><span style="text-decoration: underline;">strukturalna komponenta (tabele):</span></p>
+<ul>
+<li>predmet(id_predmet, naziv)</li>
+<li>udzbenik(id_udzbenik, naslov)</li>
+<li>koristi(id_udbzenik, id_predmet)</li>
+</ul>
+<p><span style="text-decoration: underline;">integritetna komponenta R modela (relacije među tabelama):</span></p>
+<ul>
+<li>koristi[id_udbzenik]&nbsp; FK(**) &lt;- udbzenik[id_udbzenik]</li>
+<li>koristi[id_predmet]&nbsp; FK &lt;- predmet[id_predmet]</li>
+</ul>
+<p>&nbsp;</p>
+<p>Rad prema mom "feeling"-u nije sadržavao ovu tabelu koristi. &Scaron;to će im ova tabela ?! Zato sam se odlučio da nastavim sa svojim "hello world 2". ERmaster mi nudi DDL(***) pa ću u <a href="http://www.postgresql.org">PostgreSQL</a>(****) bazi napraviti ove tabele.</p>
+<p><p><a href="https://gist.github.com/783370">https://gist.github.com/783370</a></p></p>
+<p>Onda sam sa <a href="http://www.pgadmin.org">pgAdmin</a> unio testne podatke:</p>
+<p><div class='p_embed p_image_embed'>
+<a href="http://getfile9.posterous.com/getfile/files.posterous.com/temp-2011-01-17/JfBFqqHsxwlmGnbBCrCpIwgnyuDCEfhAgFmwhEGhrnqchbxhxEHkCjGjCnGc/udzbenik.png.scaled1000.png"><img alt="Udzbenik" height="226" src="http://getfile2.posterous.com/getfile/files.posterous.com/temp-2011-01-17/JfBFqqHsxwlmGnbBCrCpIwgnyuDCEfhAgFmwhEGhrnqchbxhxEHkCjGjCnGc/udzbenik.png.scaled500.png" width="500" /></a>
+</div>
+Jedina stvar koja se može uslovno spornom nazvati jesu NULL stavke, međutim, tabele i struktura su po meni "čiste k'o suza".</p>
+<p>Rje&scaron;enje sa tabela "koristi" je takođe ispravno, ali ja nikakvu anomaliju ne vidim ni u svom rje&scaron;enju. Dapače. Moje rje&scaron;enje ima dvije tabele, za razliku od ponuđenih tri iz materijala. &Scaron;to manje tabela, to je buduće održavanje sistema jednostavnije(*****).</p>
+<p>Ostaje mi da se raspitam da li je ovo ispravno. U materijalima nisam na&scaron;ao da li je ovo "jedno od rje&scaron;enja" ili se navedeno smatra jedino ispravnim rje&scaron;enjem.</p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Rezime</span></strong></span></p>
+<p>Dobra stvar je da sam napokon pro&scaron;ao par konkretnih stvari, te da sam sam dobio aplikacijski toolset koji bi mi trebao omogućiti da predmete iz oblasti baza podataka&nbsp; radim bez Microsoftovih alata. Poku&scaron;aću i seminarski rad uz pomoć ovih alata u najvećoj mjeri uraditi.</p>
+<p>Moj toolset u ovom trenutku je:</p>
+<ol> </ol>
+<p>1) <a href="http://projects.gnome.org/dia/">dia</a> - izrada ER dijagrama</p>
+<ul>
+<li>image export - ok</li>
+</ul>
+<p>2) <a href="http://ermaster.sourceforge.net">ER master</a> - izrada R dijagrama&nbsp;</p>
+<ul>
+<li>(omogućava kreiranje DDL SQL komandi)</li>
+<li>kvalitetan image export dijagrama</li>
+<li>pamćenje pojedinih revizija modela - ekstra korisna opcija</li>
+</ul>
+<p>3) <a href="http://www.postgresql.org">PostgreSQL</a> kao testna relacijska baza</p>
+<p>4) pgAdmin - GUI client za PostgreSQL</p>
+<ul>
+<li>create database</li>
+<li>create tables sa SQL DDL-om </li>
+<li>direktni unos podataka u tabele <br />(nije "user friendly" kao MS access; nema validacijske kontrole - input maske kao MS access ovo je ipak čisti frontend baze podataka - za takve validacije je pretpostavljam neophodno pisati&nbsp; PL/SQL server-side procedure)</li>
+<li>filter podataka <br />(slično kao MS access filteri)</li>
+<li>query - nema neki gui dizajner upita kao MS Access - samo klasični SQL upiti sa WHERE/JOIN<br /> 
+<ul>
+</ul>
+</li>
+</ul>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Toolset za seminarski, "gdje je ba zapelo"</strong></span></p>
+<p>Glavna stvar koja mi nedostaje za izradu seminarskoj je alat za grafički dizajn korisničkog  interfejsa. Tu mi ba&scaron; i nije jasno &scaron;ta se u stvari od nas uop&scaron;te želi.</p>
+<p>Nisam načisto da li se tu očeku pravljenje MS Access formi, kori&scaron;tenje makroa i sl. Valjda ne. To bi mi ba&scaron; bila muka "ganjati".</p>
+<p>Ako bih mogao sav posao zavr&scaron;iti sa ovim toolsetom, pa na kraju ručno napraviti MS Access bazu (taman da to izvježbam za ispit) i dodati par onih input maski i constraint-a prema video materijalima, to bi bilo skroz ok.</p>
+<p>Računam da bih na ovaj način realizirao glavne ciljeve predmeta, bez prekomjernog "mučenja" sa&nbsp; MS Access i&nbsp; VBA(******). Gradivo koje pokriva ovaj, a sigurno i budući predmeti iz oblasti baza podataka, može se savladati i bez striktnog baziranja Microsoft tehnologijama. Mora moći - moja trial licenca za MS office ističe za heftu :)</p>
+<p>----</p>
+<p>(*) Materijal pod naslovom ER model -&gt; Relacioni model -&gt; relationship</p>
+<p>(**) FK - foreign key, u materijalima se koristi znak za podskup da bi se ovo opisalo - meni ta notacija nikako ne sjeda</p>
+<p>(***) DDL - SQL data definition language</p>
+<p>(****) PostgreSQL se koristim u <a href="http://redmine.bring.out.ba/projects/knowhow/wiki">knowhow</a> projektu</p>
+<p>(*****) U praksi ne prezam od tabela koje ne zadovoljavaju ni 1NF ako znam da će one biti male po broju redova, i da će mi takav dizajn olak&scaron;ati održavanje sistema.</p>
+<p>(******) VBA - Visual basic for aplications, skriptni jezik koji se koristi u Microsoft Office aplikacijama.</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Nakon početnih predavanja, došao sam i do konkretnih stvari. Međutim, početne dojmove: "ne kontam", "nelogično", "gubim se" nikako nisam mogao izbiti. Imao sam očekivanja da će stvari kod na kraju ipak početi "lijegati na svojem mjesto". Međutim, ...]]></excerpt:encoded>	
+
+	<wp:post_date>Mon Jan 17 12:26:00 -0800 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>uvod-u-baze-podataka-konverzija-er-u-r-model</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Mon Jan 17 13:17:37 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Mon Jan 17 13:17:37 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Obratio sam se kolegama asistentima sa predmeta po pitanjima koja su mi ostala otvorena:
+
+---
+
+Poštovane kolege, u članku http://hernad.bring.out.ba/uvod-u-baze-podataka-konverzija-er-u-r-model, pojavljuju se pitanja za koje trebam vašu pomoć
+
+1) Na kraju poglavlja &quot;Hello world 1&quot; stoji pitanje 1:
+
+&gt; Jedina stvar koja mi je u materijalima ostala nejasna je to što u (MS access) primjeru grafičkog prikaza relacijske sheme stoji KAPETAN(1) -&gt; LET(beskonačno). MS Access nema posebnu oznaku za relaciju za (0..1), ili se radi o grešci u materijalima ?
+
+2) Poglavlje &quot;Hello world 2&quot; sadrži naredno pitanje.
+
+3) Molio bih pojašnjenje po seminarskog rada, posebno vezano za dizajn grafičkog interfejsa, odnosno stavki koje se trebaju uraditi mimo dizajna same baze podataka.
+
+U zadnjem poglavlju članka &quot;Toolset za seminarski, 'gdje je ba zapelo'&quot; su detalji ovog pitanja.
+
+Nadam se da vam neće predstavljati problem što sam se obratio na obje adrese. Nisam bio siguran koja je prava.
+
+Unaprijed hvala na pomoći
+
+---]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Mon Jan 17 13:36:23 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Mon Jan 17 13:36:23 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[ako je u seminarskom potrebno uraditi forme, da li se može pokušati sa nekih alatom kao što glom (http://www.glom.org/wiki/index.php?title=Screenshots) ?
+
+bez obzira što je to &quot;100x&quot; veći posao, više bih volio vrijeme utrošiti na proučavanje ovakvih alata nego li na MS Access.  ]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Tue Jan 18 01:34:21 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Tue Jan 18 01:34:21 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Počeo sam čitati video materijale za Database GUI koji se očekuje na seminarskom:
+
+* I dio(http://www.youtube.com/watch?v=8Pb4hURpwqk)
+* II dio(direktan link: http://www.youtube.com/watch?v=fQqAIft1pd8 )
+* III dio (direktan link: http://www.youtube.com/watch?v=7ayjcvL13B4 )
+* IV dio (direktan link: http://www.youtube.com/watch?v=2odsWmphmAg )
+
+Uhh ... počeo sam sa prvim materijalom ... i po svemu sudeći pomoći mi nema - intenzivno access-anje mi ne gine :(
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Jan 19 04:17:22 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Wed Jan 19 04:17:22 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Što se tiče pitanja 2), tu sam stvar u međuvremenu djelimično razjasnio:
+
+http://hernad.bring.out.ba/autenticnost-materijala]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

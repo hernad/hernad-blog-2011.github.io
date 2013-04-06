@@ -1,0 +1,119 @@
+<item>
+	<title>bring.out &quot;point of view&quot; na ERP biznis</title>
+	<link>http://hernad.bring.out.ba/bringout-point-of-view-na-erp-biznis</link>
+	<pubDate>Thu Mar 24 07:02:00 -0700 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="bosna"><![CDATA[bosna]]></category>
+	
+		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+	
+		<category domain="tag" nicename="business"><![CDATA[business]]></category>
+	
+		<category domain="tag" nicename="it"><![CDATA[it]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/bringout-point-of-view-na-erp-biznis</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>U ranija dva <a href="/drzavo-pomagaj">članka</a> sam objasnio koga tražimo, i za&scaron;to ba&scaron; tražimo <a href="/strategija-zaposljavanja-u-bringout">"IT poletarce"</a> ... Ali koji su to poslovi ?</p>
+<p>"Dobra" stvar je ta, da gdje god u "bring.out" pogleda&scaron;,&nbsp; fali ljudi ...</p>
+<p>Lo&scaron;a stvar je ta da je posljedica toga u zadnje tri godine imamo značajan pad poslovanja. Krajem pro&scaron;le godine sam kolegama u firmi jasno rekao:</p>
+<blockquote class="posterous_short_quote">
+<p>Ako u toku naredne ne "iznesemo" na svjetlo dana novo ERP rje&scaron;enje, nas nema ... Možemo "životariti" jo&scaron; par godina ... ali na kraju mi nemamo budućnost.</p>
+</blockquote>
+<p>Kako je glavninu na&scaron;ih prihoda čini ERP/poslovni software, taj izlaz je moguć na dva načina:</p>
+<ol>
+<li>početi raditi za kom&scaron;ije (Slovence ili Srbijance)</li>
+<li>poku&scaron;ati se ubaciti u ERP poslove sa velikim brandovima (Microsoft Navision, Oracle, SAP)</li>
+<li>iznijeti novu generaciju proizvoda</li>
+<li>"prigrliti" neki postojeći opensource ERP proizvod i uključiti se u njegov razvoj</li>
+</ol>
+<p><!--more--><span style="text-decoration: underline;"><strong>Varijanta 1</strong></span></p>
+<p>Zadnjih par godina, na početku obavezno popijem kahvu sa kolegama iz <a href="http://www.datalab.ba">"Datalab"</a>-a. I oni meni svake godine ispričaju priču o tome kako su spremni otkupiti autorska prava za na&scaron; software, pod uslovom da mi počnemo nuditi njihova rje&scaron;enja.</p>
+<p>U početku me je to nerviralo. Nerviralo me je zato &scaron;to je to manje vi&scaron;e - ubleha. I mi i oni znamo da na&scaron; software nema nikakvu trži&scaron;nu vrijednost. Ono &scaron;to ima trži&scaron;nu vrijednost je na&scaron;a - na&scaron;i klijenti.</p>
+<p>Zato je ispravno reći da se nama ne nudi otkup na&scaron;eg software-a(*), nego dodatni popusti na licence Datalab software-a u početnoj fazi nuđenja. A nakon toga, klijenti su njihovi ... bio tu bring.out ili ne bio.</p>
+<p>Kasnije sam "omek&scaron;ao": Pustim Nedima (op.aut direktor Datalab BH) da ispriča svoju standardnu priču, a pređemo na druge teme.</p>
+<p>Kako radimo slične poslove, imamo dosta toga za pričati. Ove godine to je bila fiskaliizacijska lakrdija, promjena kontnog plana ...</p>
+<p>Zato su mi ove kahve sa Nedimom nisu mrske. Od nekakvog zajedničkog posla ni&scaron;ta, ali eto ... de&scaron;ava se "mingiling" - družimo se, komuniciramo. Pa ipak smo mi kolege.</p>
+<p><span style="text-decoration: underline;"><strong>Varijanta 2</strong></span></p>
+<p>DataLab zauzima "napada" ni&scaron;u malih i srednjih preduzeća. "Velike ribe" kao &scaron;to su npr. Elektroprivreda, Telekom, ASA grupacija&nbsp; ... uglavnom su pod kapom velikih ERP provajdera.</p>
+<p>Za&scaron;to se u tom smjeru ne poku&scaron;avamo ubaciti:</p>
+<blockquote class="posterous_short_quote">
+<p>Zato &scaron;to je tu, posebno u Bosni, vi&scaron;e politike nego struke ... a svako ko mene zna da sam nula političar.</p>
+</blockquote>
+<p><span style="text-decoration: underline;"><strong>Varijanta 3</strong></span></p>
+<p>Ostarilo se za ovakvo &scaron;to&nbsp; ....&nbsp; A i za&scaron;to upirati ako postoje dobre stvari u varijanti 4) ?!</p>
+<p>stvari postoje pod</p>
+<p><strong><span style="text-decoration: underline;">Varijanta 4</span></strong></p>
+<p>25.11.2011 mi smo se konačno odlučili ovu <a href="http://www.bring.out.ba/knowhow">varijantu</a>.</p>
+<p>Ova varijanta je u skladu sa činjenicom da se u posljednjim godinama profiliramo kao opensource IT provajder.</p>
+<p><span style="text-decoration: underline; font-size: small;"><strong>Otvoreni al' u "panjevima"</strong></span></p>
+<p>Na&scaron;a ERP rje&scaron;enja su ostala jedina stavka aktuelne ponude koja u ovom trenutku ne nose atribut "otvorena".</p>
+<p>Zvuči paradoksalno, ali ba&scaron; i nije tako. ERP rje&scaron;enja su obimna i kompleksna.</p>
+<p>Zamjena email sistema jeste zahtjevan posao, ali se takvo &scaron;to ipak ne može mjeriti sa promjenom ERP sistema.</p>
+<p>Zato i dan danas "trčkaramo" i radimo podr&scaron;ku za na&scaron; <a href="/fmk-ipak-ne-radi">FMK software</a>. Bez obzira &scaron;to se radi o software-u koji je prije stvar za instalaciju u IT muzeju, nego za instalaciju kod korisnika.</p>
+<p>Firma i dan danas većinu svojih prihoda ostvaruje na uslugama oko FMK.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>knowhow, Why</strong></span></p>
+<p>Knowhow je opensource software. Ali to krajnjeg korisnika u principu i nije briga. Krajnjeg korisnika interesuje da dobije ne&scaron;to dovoljno dobro za najmanje moguće pare.</p>
+<p>Za knowhow sam se odlučio iz dva razloga:</p>
+<ol>
+<li>zato želim da bring.out bude firma koja prodaje svoju pamet</li>
+<li>zato &scaron;to smatramo da koncept koji nudi opensource software jedini način da se dobije dobar software na malom trži&scaron;tu kakvo je bosanskohercegovačko</li>
+</ol>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Prodaja sopstvene pameti</strong></span></p>
+<p>Moje insistiranje na prodaji sopstvene pameti je, kada se uzmu sve okolnosti bosanskog dru&scaron;tva, poprilično iracionalno. Slobodno se može reći blentavo.</p>
+<p>Vjerovatno bi se moglo svesti na izjavu:</p>
+<blockquote class="posterous_short_quote">
+<p>Bosanac, jesam al' ću pokazati da nisam bezuslovno i glup !</p>
+</blockquote>
+<p>Znam ... znam ... ja nisam briljatni um.</p>
+<p>nogo je Bosanaca koji su pokazali da Bosanac ne mora biti glup. Ali ih je malo to pokazalo to u Bosni !</p>
+<p>Dajte mi "ispalite" pametne Bosance koji tu svoju pamet i vje&scaron;tine "prosipaju" u Bosni: Dr. Kabil&nbsp; ... hajmo dalje ... <a href="http://www.avaz.ba">Utemeljitelj Fahro</a> ... E čekajte malo ... Fahro jeste sigurno iznadprosječno pametan čovjek ali to nije to o čemu ja pričam ...</p>
+<p>Ali pustimo se dunjaluka - globalno. Pričajmo o informatici. Recite vi meni ko radi IT biznis u Bosni pri čemu <strong>značajan posao radi na bosanskom trži&scaron;tu</strong>.</p>
+<p>Takvih je malo, ako ikako. U jednom ranijem <a href="/fiskalizacija-je-velika-sansa-za-bringout">članku</a> se ba&scaron; "potegla" ova priča.</p>
+<p>Priča u tom članku je krenula o <a href="/odgovornost-i-fiskalizacijska-lakrdija">fiskalizaciji</a> .. Pa se zavr&scaron;ila na tome da je bosanskoj IT firmi bolje angažovati Indijca nego Bosanca ...</p>
+<p>Ba&scaron; ta <a href="/ima-fiskalizacije-al-nema-racuna">fiskalizacijska lakrdija</a> je pokazala koliko je ovo dru&scaron;tvo glupo i neosjetljivo pitanje prodaje sopstvene pameti:</p>
+<blockquote class="posterous_short_quote">
+<p>Svi pametni poslovi oko fiskalizacije de&scaron;avaju se mimo Bosne - u Srbiji, Bugarskoj ...</p>
+</blockquote>
+<p>Kao <a href="/bosanski-nacionalista">bosanskom nacionalisti</a>, kada sve ovo vidim, dođe mi da od muke puknem. E zato sam iracionalan. Zato sam "zajunio" da prodajemo svoju pamet il' da nas nema !</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Opensource kao formula za pravljenje dobrog ERP rje&scaron;enja</strong></span></p>
+<p>Bio sam prije par dana u firmi koja se bavi implementacijom Microsoft Navision sistema.</p>
+<p>Kada su mi izbacili cifre i politiku licenci "Navision"-a meni se zanebesalo.</p>
+<p>Ako kojim slučajem ispusti&scaron; jednu godinu upgrade-a, onda ti kod narednog upgrade-a slijedi kupovina 100% licenci. Tako se kod njenih klijenata desilo. Zato će se oni "stisnuti" - nema nove verzije dok ne prigusti :). Jer kad prigusti slijedi:&nbsp; 350 000 KM upgrade-a :). A kad to "iskesaju", svake godine im slijedi cca 55 000 KM za godi&scaron;nji upgrade. I svim tim parama nema ni 1 KM podr&scaron;ke sistemu ... to je posebna priča.</p>
+<p>Nakon tog sastanka iza&scaron;ao sam i rekao:</p>
+<blockquote class="posterous_short_quote">
+<p>Pa ljudi moji ...nevjerovatno ... I njima je ovaj "deal" OK ?! Ko je nas istreniro da budemo ovako dobri&nbsp; podanici, nikada mi neće biti jasno ...</p>
+</blockquote>
+<p>A ovo je bila samo finansijska strana priče. Sama nadograndja tog sistema je jo&scaron; i gora stvar.</p>
+<p>Procedura za certificiranje sopstvenih programskih modula je tako "rigidna" da je se ne bi postidila ni bosanska administracija.</p>
+<p>Firme implementatori (third party) "Navision"-a Microsoftu moraju pozama&scaron;no plaćati za partnerski status, za verifikaciju njihovih programskih rje&scaron;enja ... Ma priča bez kraja.</p>
+<p>Na kraju čitave te priče, taj biznis mi vi&scaron;e&nbsp; je vi&scaron;e liči na sofisticiranu trgovinu nego na IT biznis. Imam dojam da implementatori vi&scaron;e razmi&scaron;ljaju o ekonomisanju sa licencama, nego li se brinu o onome &scaron;to bi trebao biti glavni cilj njihovog posla. A to je odgovor na pitanje:&nbsp;&nbsp;</p>
+<blockquote class="posterous_short_quote">
+<p>Kako svom klijentu obezbijediti dobar software, dobar ERP sistem ?</p>
+</blockquote>
+<p>----</p>
+<p>(*) ako je iko ikada vidio "živu paru" od ovoga nek' mi se javi :)</p>
+<p>&nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[U ranija dva članka sam objasnio koga tražimo, i zašto baš tražimo "IT poletarce" ... Ali koji su to poslovi ? "Dobra" stvar je ta, da gdje god u "bring.out" pogledaš, fali ljudi ... Loša stvar je ta da je posljedica toga u zadnje tri godine imamo...]]></excerpt:encoded>	
+
+	<wp:post_date>Thu Mar 24 07:02:00 -0700 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>bringout-point-of-view-na-erp-biznis</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

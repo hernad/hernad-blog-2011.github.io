@@ -1,0 +1,205 @@
+<item>
+	<title>Internet service provider</title>
+	<link>http://hernad.bring.out.ba/internet-service-provider</link>
+	<pubDate>Wed Dec 15 02:35:00 -0800 2010</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="bosna"><![CDATA[bosna]]></category>
+	
+		<category domain="tag" nicename="business"><![CDATA[business]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/internet-service-provider</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Na wikipediji se termin <a href="http://en.wikipedia.org/wiki/Service_provider">Service provider</a> ovako obja&scaron;njava:</p>
+<blockquote class="posterous_medium_quote">
+<p>A service provider is an entity that provides services to other entities. Usually this refers to a business that provides subscription or web service to other businesses or individuals. Examples of these services include Internet access, Mobile phone operator, and web application hosting. The term is more often applied to communication services than to other kinds of service industry.</p>
+</blockquote>
+<p>U slobodnom prevodu na bosanski:</p>
+<blockquote class="posterous_short_quote">
+<p>"Service provider" (servisni provajder, davalac usluga) je organizacija koja drugima daje usluge. Termin se najče&scaron;će koristi u telekomunikacijskom i sektoru internet IT usluga</p>
+</blockquote>
+<p>Ja uvijek koristim termin "provajder" u ovom kontekstu. Moja firma "bring.out" je recimo softver provajder. Na primjeru internet provajdera u Bosni objasniću &scaron;ta je to pravi provajder, a &scaron;ta "kukuruz" provajder.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>"Kukuruz" provajderi</strong></span></p>
+<p>Bosna je antisistem. Bosna je malo trži&scaron;te. Ova dva faktora određuju da je veliki broj provajdera "kukuruz liga". Dragi poljoprivrednici, ne želim ocrnti kukuruz ni kukuruzna polja.</p>
+<p>Ali, da. Ovdje pod "kukuruz liga" provajderima smatram one koji se servisnim uslugama bave isto k'o da su obuku radili na kukuruznim poljima, a ne na fakultetima informacijskih tehnologija i inim "specijaliziranih" obrazovnim ustanovama &scaron;irom Bosne ponosne.</p>
+<p><!--more--><strong><span style="text-decoration: underline;"><span style="font-size: medium;">Internet provajder</span></span></strong></p>
+<p>Da čitalac ne bi odustao sa konstatacijom "hernad opet prolup'o", fokusiraću se. Internet provajder je davalac internet usluga. To svi znamo. Te internet usluge su: internet konekcija, email account-i, zakup web prostora itd. I to svi uglavnom znamo.</p>
+<p>Za moju firmu je internet konekcija glavni servis. Ugasi&scaron; nam internet i mi možemo samo "borbene pjevati". Svi izvori informacija nalaze se na internetu, gotovo sve na&scaron;e operacije su ovisne o internet konekciji.</p>
+<p>S druge strane, mi smo mala firma. Za tu, kao i za sve usluge, imamo ograničen budžet. Nama je vrlo bitno da li taj servis ko&scaron;ta 50 ili 300 KM/mjes(*).</p>
+<p>Recite mi sada:</p>
+<blockquote class="posterous_short_quote">
+<p>Je li logično očekivati da internet provajder zna koristiti email kao sredstvo komunikacije ?</p>
+</blockquote>
+<p>Opet ćete reći: "Jeste, pa &scaron;ta je tu sad sporno". E ja na lokaciji na kojoj se nalazim, u strogom centru Sarajeva, koji je opet glavni grad i administrativni centar Bosne, nemam takvog provajdera(**).</p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">BH Telecom</span></strong></span></p>
+<p>U članku <a href="/bh-telecom-i-sudnji-dan">"BH Telecom i Sudnji dan"</a> sam iznio svoj stav o BH Telecomu (nadalje BHTelc) kao provajderu. Sada ću to i argumentirati.</p>
+<p>BHTelc ima monopol nad žicama. Naravno, mislim na telekomunikacione kablove. I on objektivno može da pruži najbolje i najjeftinije internet usluge. Njegov set internet usluga je veliki. Većina usluga je po prihvatljivm cijenama.</p>
+<p>Oni međutim za firme oni imaju pripremljenu "klaonicu". ADSL 20G konekcija, koju smo mi zadnjih 3-4 koristili, je skroz ok. Ali ona ima jednu "kvaku": daju ti dinamičke IP adrese. Ako želi&scaron; jednu statičku IP adresu, tro&scaron;kovi rastu "u zvijezde". Mora&scaron; uzeti profi paket "CITO", ili kako se već zove, mora&scaron; zakupiti IP adresu. A ta IP adresa ko&scaron;ta 80 KM/mjes. Ta ista stvar "u bijelom svijetu" ko&scaron;ta: 1 USD,&nbsp; znači cca 2 KM.</p>
+<p>S obzirom da sam ja velika "stipsa" kada procijenim da me neko pravi budalom, mi smo radi toga napravili jedan tehnički "workaround". Napravili smo rje&scaron;enje na na&scaron;im router-ima koje omogućava da se na&scaron;i serveri "vide" na internetu, bez obzira na to &scaron;to provajder mjenja IP adrese(***).</p>
+<p>Tako smo mi za nekih 80-tak KM/mjes (BHTelc + američki provajderi) dobili rje&scaron;enje koje nas zadovoljava.</p>
+<p>Da je po BHTel cjenovniku bez ove improvizacije, na&scaron;i tro&scaron;kovi bi bili nekih cca 250-300 KM/mjes. Pa vi vidite.</p>
+<p>Cijena jeste bitna, BHTelc sramno "žari i pali" poslovne korisnike, ali to nije ključni dio priče o BHTelc kao provajderu:</p>
+<blockquote class="posterous_short_quote">
+<p>BH Telecom je "nepismena" firma.</p>
+</blockquote>
+<p>Iako internet provajder, oni sa svojim korisnicima najvi&scaron;e komuniciraju (kada ih ulovite) preko telefona. Ako pak želi&scaron; bilo kakvu administrativnu uslugu - idi na njihov &scaron;alter.</p>
+<p>Kada sam zadnji put uputio zahtjev kao fizičko lice za "Moja TV" uslugu, oni su tražili: "Ovjeren cips, ovjerena lična karta ...". I ja sam odustao. Prokomentarisao sam njihove zahtjeve:</p>
+<blockquote class="posterous_short_quote">
+<p>Možda da vam dam i DNK uzorak za arhivu ?!</p>
+</blockquote>
+<p>Najinteresantnija je njihova reakcija kada im kaže&scaron;:</p>
+<blockquote class="posterous_short_quote">
+<p>&Scaron;ta mi to ljudi tražite !?</p>
+</blockquote>
+<p>Oni ti bez pardona odgovore ?</p>
+<blockquote class="posterous_short_quote">
+<p>Takav je na&scaron; sistem.</p>
+</blockquote>
+<p>JaaRabbi. Sistem. Kakav ba sistem ? Va&scaron; "sistem" je mučili&scaron;te za korisnike. Ali njih to ne pogađa. Okolnosti su takve da smo mi Bosanci inače potupi i prihvatamo da nas svako "handri", pa za&scaron;to ne bi i BHTelc. Dodatno, oni do sada nisu ni imali jaku konkurenciju. A kada ta konkurencija dođe, e vidjećete kako se "sistem" mjenja ... Kada pare prestanu "kapati" kao sada, sistem se mjenja "samo tako". Vratimo se na BHTelc "sistem" pod&scaron;ke.</p>
+<p>Ovako ide tok podr&scaron;ke kod BHTelc. Ima&scaron; problem. Uputi&scaron; zahtjev email-om (tako to barem mi radimo :) ):</p>
+<blockquote class="posterous_short_quote">
+<p>Imam taj i taj problem. Na router-u mi pokazuje to i to. Veza se prekida tako i tako. Poku&scaron;ali smo to i to ...</p>
+</blockquote>
+<p>Ukratko, mi kao tehnički pismeni korisnici odmah damo provajderu informacije tehničke prirode. Njihov odgovor je uvijek&nbsp; isti:</p>
+<blockquote class="posterous_short_quote">
+<p>Po&scaron;tovani, za podr&scaron;ku korisnicima se obratite na tel 14xxx ...</p>
+</blockquote>
+<p>Brizgonje. Umjesto da iskoriste to &scaron;to mogu lak&scaron;e rije&scaron;iti korisnički zahtjev, oni te samo "&scaron;uknu" na telefonsku podr&scaron;ku. A ta podr&scaron;ka je "truba". Oni ko roboti za svaki zahtjev isto kažu:</p>
+<blockquote class="posterous_short_quote">
+<p>Jeste li ugasili modem. Upalite pa ugasite. Da li na windows-ima imate to i to ... isključi/uključi ...</p>
+</blockquote>
+<p>Kada im kaže&scaron; da ti nema&scaron; Windows ma&scaron;inu, nego Linux router - odmah ti odgovore: "E to nije podržano sa na&scaron;e strane ..."</p>
+<p>Genijalci.</p>
+<p>Međutim, čak ni na neznanje podr&scaron;ke BHTelc nije kraj priče. Za mene je ovo glavno:</p>
+<blockquote class="posterous_medium_quote">
+<p>Ono &scaron;to je fascinantno je to da oni kao provajder jednostavno ne žele i ne znaju raditi podr&scaron;ku putem usluga koje sami prodaju.</p>
+<p>To vam je isto kao prodavac vozila koji vam obja&scaron;njava kako je njegov auto super, a tip ne zna voziti ?!</p>
+</blockquote>
+<p>Ta BHTelc nepismenost me je uvijek izluđivala. I zato smo svako malo iznova postavljali pitanje:</p>
+<blockquote class="posterous_short_quote">
+<p>Ima li neki drugi provajder da se ovih kutari&scaron;emo ?!</p>
+</blockquote>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>M&amp;H kablovski internet provajder</strong></span></p>
+<p>U naselju Nova Breka, gdje se nalazi na&scaron;a firma, kablovski operater je ova M&amp;H firma. Par puta smo sa njima uspostavljali kontakte. Naravno, opet email-om. Njihov način komunikacije je bio sličan kao BHTelc. Za bilo kakvu ozbiljniju komunikaciju oni ti ne odgovaraju pismeno nego krenu zvati na telefon. Na prvi upit email-om redovno nismo dobijali odgovore. Tek nakon 2-3 ponovljena upita dobijali smo odgovore.</p>
+<p>&Scaron;to se tiče po&scaron;tovanja datih obećanja - kažu ti "doćemo" ili "naknadno ćemo vas kontaktirati" pa onda to obećanje najče&scaron;će prekr&scaron;e ... Ukratko, jo&scaron; jedan "kukuruz" provajder. To je bio razlog &scaron;to smo par puta odustajali od njih kao provajdera.</p>
+<p>Međutim, nakon zadnjeg problema sa BHTelc, koji se pretvorio u pravu vi&scaron;emjesečnu sapunicu, odlučili smo da ih ipak uvedemo kao drugog provajdera. Pa kada kada jedan otkaže, barem imamo vezu preko drugog.</p>
+<p>I tako smo uzeli njihov biznis paket(****) koji je stvarno jeftin 35 KM/mjes, dvije stalne IP adrese. Bandwidth nije bio poseban, ali na upload strani, koja je nama veoma bitna, jo&scaron; i bolji nego BHTelc ADSL paketi. &Scaron;to se tiče stabilnosti linije, bili smo prezadovoljni. Nakon uvođenja nije bilo otkaza. Ali je problem bio:</p>
+<blockquote class="posterous_short_quote">
+<p>A &scaron;ta kad stvar "čučne" ?!</p>
+</blockquote>
+<p>Pro&scaron;lu subotu je stvar "čučnula". Imali smo <a href="/server-operativni-sistemi-freebsd-dosadno-i-n">prekid konekcije</a>. I onda standardno. Kolega je pozvao njihovu tehničku podr&scaron;ku odmah:</p>
+<blockquote class="posterous_short_quote">
+<p>Imamo problem, konekcija na routeru se uspostavi, ali nema saobraćaja ... Da li znate &scaron;ta bi mogao biti uzrok problema ?</p>
+</blockquote>
+<p>"Teta" na telefonskoj pordr&scaron;ci je rekla:</p>
+<blockquote class="posterous_short_quote">
+<p>Ne znamo, kod nas nema prijave problema. Moguće da vam je signal oslabio. Poslaćemo ekipu da to izvidi.</p>
+</blockquote>
+<p>Odgovor je bio "robotiziran". Ova žena, isto kao BHTelc podr&scaron;kam ne zna ni&scaron;ta osim ponavljati iste rečenice svima.</p>
+<p>Kolega Jasmin je sa svog privatnog mail-a, odmah nakon telefonskog kontakta, poslao upit sistem admnistratoru koga je ranije kontaktirao:</p>
+<blockquote>
+<p><span style="font-size: x-small;">Pozdrav,</span><br /><span style="font-size: x-small;">Od jučer imamo problema sa va&scaron;om konekcijom u na&scaron;em perduzeću, poku&scaron;ali smo problem otkloniti sa va&scaron;om podr&scaron;kom, ali kada se dođe do linux-a i rutera tu im malo slabije ide.</span><br /><span style="font-size: x-small;">Po&scaron;to&nbsp; nam preko iste konekcije idu svi servisi, email, dns, itd zamolio bih da se&nbsp; problem hitno otkloni.</span><br /><span style="font-size: x-small;">Na&scaron;e IP adrese su:</span><br /><span style="font-size: x-small;">77.xx.xx.xx.xx</span><br /><span style="font-size: x-small;">77.xx.xx.xx.yy</span><br /><span style="font-size: x-small;">Ukratko o problemu:</span><br /><span style="font-size: x-small;">PPP konekcija se ostvaruje normalno, dodjeljuju se ispravno IP adrese, DNS-ovi, ali&nbsp; izlaz na mrežu nije moguć, ping dalje od&nbsp; dodjeljene IP adrese prema DNS-ovima, internetu,&nbsp; gateway-u je nemoguć.</span><br /><span style="font-size: x-small;">Također je i pristup sa interneta prema nama nemoguć.</span><br /><span style="font-size: x-small;">Konekcija je do jutros u 02:00 radila normalno na obe IP adrese.</span><br /><span style="font-size: x-small;">Nepotrebno je govoriti da smo poku&scaron;avali sa standarnim resetom uređaja, modema itd.</span><br /><span style="font-size: x-small;">Zamolio bih ako je moguće odmah ne&scaron;to poduzeti, testirati itd.</span></p>
+</blockquote>
+<p>Međutim, u subotu niti je ekipa iza&scaron;la na teren, niti smo dobili ikakav odgovor na upućeni email.</p>
+<p>Uveće je međutim konekcija "sama od sebe" do&scaron;la.</p>
+<p>Ali, mi želimo da znamo &scaron;ta se desilo. Ova stvar je suvi&scaron;e bitna za nas da "gatamo u zvijezde". Rekao sam jasku da nastavi sa traženjem odgovora od provajdera - &scaron;ta se desilo(*****) .</p>
+<p>Slijedila su dva, tri mail-a u narednim danima. Ali ni "mukajet" - ni glasa od njih.</p>
+<p>Na&scaron;a upornost se na kraju isplatila. Odgovor smo dobili u utorak poslijepodne:</p>
+<blockquote>
+<p><span style="font-size: x-small;">Po&scaron;tovani gospodine Beganović,</span><br /><span style="font-size: x-small;">Izvinjavamo se zbog prekida usluge koji ste imali u subotu 11.12.2010.. Razlog prekida je bio instaliranje novih kapaciteta</span><br /><span style="font-size: x-small;">na na&scaron;oj strani. Mi smo najavili prekide pružanja usluga od 09.12.-12.12 u periodu od 02-06 h, međutim zbog komplikacija</span><br /><span style="font-size: x-small;">prilikom izvođenja radova 11.12. prekid je bio cjelodnevan.</span><br /><span style="font-size: x-small;">Jo&scaron; jednom se u ime firme izvinjavam na prekidu usluge i molim Vas za razumijevanje.</span><br /><span style="font-size: x-small;">S po&scaron;tovanjem,</span><br /><span style="font-size: x-small;">XXXX YYYY</span><br /><span style="font-size: x-small;">KATV HS</span></p>
+</blockquote>
+<p>Ja sam bio zadovoljan. Kako stvari kod na&scaron;ih provajdera stoje, ne bi me &scaron;okirao ni odgovor tipa:</p>
+<blockquote class="posterous_short_quote">
+<p>&Scaron;ta se vi&scaron;e bunite, eto vam sada radi ?!</p>
+</blockquote>
+<p>Bez obzira na ogromno ka&scaron;njenje, dobili smo smislen odgovor.</p>
+<p>Kako smo mi razuman i konstruktivan kljent, uzvratili smo:</p>
+<blockquote>
+<p><span style="font-size: x-small;">Hvala na informaciji i izvinjenju.</span><br /><span style="font-size: x-small;">Radilo se znači o komplikacijama koje su uvijek moguće. Takođe, dobili smo odgovor na upućeno pitanje.</span><br /><span style="font-size: x-small;">Ono &scaron;to bih vam, ako dopu&scaron;tate, predložili jeste da u takvim situacijama informacije pravovremeno proslijedite va&scaron;oj telefonskoj podr&scaron;ci,</span><br /><span style="font-size: x-small;">koja je prva linija kontakata, a koja je u ovom konkretnom slučaju bila u neznanju i to prosljeđivala dalje&nbsp; nama korisnicima.</span></p>
+</blockquote>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Rezime</strong></span></p>
+<p>Prema ovom svemu, iako su i BHTelc i&nbsp; kablovski provajder u ovom trenutku "kukuruz" provajderi, <strong>razlike postoje</strong>.</p>
+<p>Paket usluga kablovskog operatera je za nas znatno bolji i vi&scaron;estruko jeftiniji.</p>
+<p>Način rada sa korisnicima - podr&scaron;ka, koja ih i jedne i druge čini "kukuruz" ligom, je takođe za nijansu bolja kod kablovskog operatera. Naime, kad njima dosađuje&scaron;, oni se "trznu".</p>
+<p>Kod BH telecoma postoji problem <strong>"crne rupe"</strong>. Oni su jedna velika neorganizovana birokratska struktura. Zato kod njih čak ni kukanje i zapomaganje "plaho ne pije vode". To "posuče" njihova crna rupa koji oni zovu "sistem".</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Za kraj, jedan pravi provajder</strong></span></p>
+<p>Za kraj ću vam demonstrirati djelovanje jednog pravog provajdera. <a href="http://posterous.com">Posterous</a> je provajder koji hostira ovaj blog. Njihova usluga je besplatna. Da. Dobro sam napisao: <strong>besplatna</strong>. Proje par dana oni su ne&scaron;to radili na svojoj infrastrukturi, tako da su svi linkovi na blogu "prolupali". Ja sam uputio zahtjev za pod&scaron;ku:</p>
+<blockquote>
+<div style="font-family: Times New Roman; font-size: 12pt; color: #000000;"><span style="font-size: x-small;">Subject: Liquid error: undefined method `is_group'&nbsp; </span><br /><span style="font-size: x-small;">From: &nbsp;&nbsp; &nbsp;<a href="mailto:hernad@bring.out.ba">hernad@bring.out.ba</a></span><br /><span style="font-size: x-small;">To: &nbsp;&nbsp; &nbsp;<a href="mailto:help@posterous.com">help@posterous.com</a></span><br /><span style="font-size: x-small;">Hello, I have problem with my posterous blogs</span><br /><span style="font-size: x-small;">when I go to the main page, hyperlinks to every article are messed up. </span><br /><span style="font-size: x-small;">I have these errors:</span><br /><span style="font-size: x-small;"><a href="http://www.bring.out.ba/Liquid%20error:%20undefined%20method%20%60is_group%27%20for%20#">http://www.bring.out.ba/Liquid%20error:%20undefined%20method%20%60is_group%27...</a>%3CSite::LiquidDropClass:0x7f82129303c8%3E</span><br /><span style="font-size: x-small;">Liquid error: undefined method `is_group' for #&lt;Site::LiquidDropClass:0x7f82129303c8&gt;</span><br /><span style="font-size: x-small;">The affected sites:</span><br /><span style="font-size: x-small;"><a href="http://hernad.bring.out.ba/">http://hernad.bring.out.ba/</a></span><br /><span style="font-size: x-small;"><a href="http://www.bring.out.ba/">http://www.bring.out.ba/</a></span><br /><span style="font-size: x-small;">Please help ASAP</span><br /><span style="font-size: x-small;">---</span><br /><span style="font-size: x-small;"><a href="mailto:hernad@bring.out.ba">hernad@bring.out.ba</a>, <a href="http://hernad.bring.out.ba">http://hernad.bring.out.ba</a></span></div>
+</blockquote>
+<div style="font-family: Times New Roman; font-size: 12pt; color: #000000;">Odgovor je stigao za nekih 5-10 minuta:</div>
+<blockquote>
+<p><span style="font-size: x-small;">Hi Ernad,</span><br /><span style="font-size: x-small;"> We're working on a fix for this right now. Stay tuned! Sorry for the inconvenience.</span></p>
+</blockquote>
+<p>Odmah nakon prijema mail-a, problem je otklonjen.</p>
+<p>Kontate sada &scaron;ta je pravi provajder ?</p>
+<p>---</p>
+<p>(*) Iako smo mi u ranim danima uvođenja interneta 2002-2004 plaćali te usluge po ovim "masnim" cijenama.</p>
+<p>(**) Nemam po nekoj normalnoj cijeni</p>
+<p>(***) Na&scaron;i router-i "love" promjene IP adresa i odmah rade update na <strong>na&scaron;im DNS serverima</strong>. Ti DNS serveri su opet internet virtualni hostovi koje smo mi zakupili i ko&scaron;taju 10-15 USD mjesečno. Za one koji su tehnički upućeni ovo nije dyndns rje&scaron;enje, nego ne&scaron;to znatno robusnije.</p>
+<p>(****) Oovome je predhodila čitavaj jedna saga, koja mi potvrđuje njihov atribut "kukuruz" provajdera, ali o tome bi se poseban "čar&scaron;af" mogao ispisati</p>
+<p>(*****) Po ovome smo mi jedinstvena firma u Bosni. Dosadni smo ko "proljev u ponoć"</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Na wikipediji se termin Service provider ovako objašnjava: A service provider is an entity that provides services to other entities. Usually this refers to a business that provides subscription or web service to other businesses or individuals. E...]]></excerpt:encoded>	
+
+	<wp:post_date>Wed Dec 15 02:35:00 -0800 2010</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>internet-service-provider</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[Berin]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Dec 15 10:05:55 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Wed Dec 15 10:05:55 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[BHTelecom je jedna stvarno naopaka i neiskrena FIRMA zasnovana na rodbinskim vezama u kojoj rade nestrucni ljudi. Ovako, covjek koji bazira svoj rad na internetu ne moze nista drugo uciniti osim da iznajmi VPN kao sto si Ernade i lijepo brate budes tretiran kao gazda od strane stranaca koji cijene svoje klijente, a ne ove nase koji te napadnu kada ih nazoves.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Thu Dec 16 23:57:56 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Thu Dec 16 23:57:56 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[@Berine, slažem se sa tim kvalifikacijama. O tome sam govorio ovdje: http://hernad.bring.out.ba/bh-telecom-i-sudnji-dan
+
+U ovom članku, fokus se međutim stavlja na znanje i sposobnosti provajdera. Da li je to neznanje rezultat rodbinskih veza ili nešto drugo, ovdje je to manje bitno.
+
+Kod kablovskog provajdera, koga sam uzeo kao drugi primjer, vjerovatno rodbinske veze (barem ne u toj mjeri kao kod BHTelc) nisu uzrok lošeg načina podrške.
+
+Šta god bio uzrok, mi imamo problem sa provajderima koji nemaju potrebno znanje, potreban knowhow.
+
+Vezano za VPN: 
+Ne možemo se mi &quot;katapultirati&quot; iz Bosne. Ja mogu 99% svojih funkcija prebaciti na strane internet provajdere. Ali opet ostaje konekcija firme prema internetu. Džaba što sam sa onih 99% stvari &quot;pobjegao&quot; od bosanskih kukuruz provajdera.
+
+Kako god sabereš i oduzmeš - nama trebaju *dobri provajderi*.
+
+Internet provajdere, softver provajderi, hardware provajderi, provajderi državnih administrativnih usluga, provajderi pravnih usluga, pravi provajderi za obrazovanje (da mislim na fakultete :)) ...
+
+To nam svima treba, i to nam treba OVDJE.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

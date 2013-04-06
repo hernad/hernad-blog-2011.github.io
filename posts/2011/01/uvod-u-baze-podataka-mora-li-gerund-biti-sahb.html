@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<link href='../../../exports.css' rel='stylesheet'>
+<link href='../../../exports.css' rel='stylesheet'>
+
+</head>
+<body>
+<div id='wrap'>
+<div id='header'>
+<h1>hernad</h1>
+<h2>This is an archived post
+This is an archived post
+</h2>
+</div>
+<div id='content'><div id='nav'>
+<a href="../../../posts/2011/01/dobar-primjer-zlata-vrijedi.html">Previous</a>
+&nbsp; 
+<a href="../../../index-10.html">Index</a>
+&nbsp; 
+<a href="../../../posts/2011/01/uvod-u-baze-podataka-gerund-je-sahbaz.html">Next</a>
+</div>
+<div class='post'>
+<div class='post_header'>
+<h3>Uvod u baze podataka, mora li gerund biti "Šahbaz" ?</h3>
+<div class='post_info'>
+<span class='post_time'>January 28 2011, 11:51 AM</span>
+<span class='author'>&nbsp;by Ernad Husremović</span>
+</div>
+</div>
+<div class='post_body'><p>Do&scaron;ao sam do spoznaje da je <a href="/uvod-u-baze-podataka-gerund-je-sahbaz">gerund "&Scaron;ahbaz"</a>.</p>
+<p>"Ganjajući" &scaron;ta je to uop&scaron;te <strong><span style="color: #cc99ff;">gerund</span></strong>, do&scaron;ao sam do toga da je "associative entity" (<strong><span style="color: #cc99ff;">asocijativni entitet</span></strong>) termin koji se najče&scaron;će koristi. Kako ja, osim u "Top listi nadrealista", ne volim "&Scaron;ahbaze", poku&scaron;aću sebi <strong><span style="color: #cc99ff;">gerund</span></strong> pretvoriti u ne&scaron;to "svarljivo".</p>
+<p><!--more-->Wikipedija članak <a href="http://en.wikipedia.org/wiki/Associative_Entities">asocijativni entitet</a>:</p>
+<blockquote>
+<p>An <strong>associative entity</strong> is an element of the <a href="http://en.wikipedia.org/wiki/Entity-relationship_model" title="Entity-relationship model">Entity-relationship model</a>. The database <a href="http://en.wikipedia.org/wiki/Relational_model" title="Relational model">relational model</a> doesn't offer direct support to many-to-many relationships, even though  such relationships happen frequently in normal usage. The solution to  this problem is the creation of another table to hold the necessary  information for this relationship. This new table is called an <strong>associative entity</strong>.</p>
+<p><div class='p_embed p_image_embed'>
+<img src='../../../image/2011/01/20715867-Associate_Entity.png'>
+</div>
+</p>
+<p><span style="text-decoration: underline;">An associative entity</span></p>
+<p>An associative entity can be thought of as both an entity and a  relationship since it encapsulates properties from both. It is a  relationship since it is serving to join two or more entities together,  but it is also an entity since it may have its own properties. The  associative entity must have identifiers, <a href="http://en.wikipedia.org/wiki/Unique_key" title="Unique key">Primary Keys</a>, for both adjoining tables, but may also contain its own unique identifier and other information about the relationship.</p>
+<p>The following guidelines may be used when considering the use of an associative entity:</p>
+<ul>
+<li>All relationships for the associative entity should be many.</li>
+<li>The associative entity could have meaning independent of the other entities.</li>
+<li>The associative entity preferably has a unique identifier, and should also have other attributes.</li>
+<li>The associative entity may participate in relationships other than the entities of the associated relationship.</li>
+</ul>
+</blockquote>
+<p>Dobro ...</p>
+<p>znači asocijativni entitet se redovno javlja u slučajevima&nbsp; N:N relacija. Ako takve relacije u ER modelu trebamo povezati sa drugim entitetima, onda je asocijativni entitet rje&scaron;enje. Ovaj wikipedijin primjer mi previ&scaron;e "ne sjeda", pa ću smisliti svoj primjer:</p>
+<p><span style="color: #ff0000;"><strong>[kupci]</strong></span>(*)&nbsp; (1..N) -<span style="color: #008000;"><strong> &lt;naručuju&gt;</strong></span> - (0..N) - <strong><span style="color: #ff0000;">[proizvodi]</span></strong></p>
+<p>"Naručuju" ima sopstveni atribut "količina". Gore se i kaže da ove relacije najče&scaron;će imaju sopstvene atribute.</p>
+<p>Relaciju <strong><span style="color: #008000;">&lt;narucuju&gt;</span></strong> radi jasnosti preimenujem u "kupci_narudžbe_proizvoda".</p>
+<p><strong><span style="color: #cc99ff;">[&lt;kupci_narudžbe_proizvoda&gt;]</span></strong> uzorak podataka:</p>
+<ul>
+<li>id_kupac, id_proizvod, kolicina </li>
+<li>k01, p01, 10</li>
+<li>k01, p02, 5</li>
+<li>k01, p10, 7</li>
+<li>k02, p02, 1</li>
+<li>k03, p05, 44</li>
+</ul>
+<p>tako uočavamo da je relacija naručuju asocijativni entitet. Asocijativni entitet moze ući u novu relaciju. Primjer:</p>
+<p><strong><span style="color: #cc99ff;">[&lt;kupci_narudžbe_proizvoda&gt;]</span></strong> (0..1) - <span style="color: #008000;"><strong>&lt;odobrava&gt;</strong></span> - (0..N)&nbsp; <span style="color: #ff0000;"><strong>[menadžer]</strong></span></p>
+<p>Gornja relacija nam kazuje da narudžbe kupaca odobrava manager. Narudžba može biti neodobrena - tako da je nije preuzeo manager (min kardinalitet 0 na lijevoj strani relacije), ili obrađena od strane jednog menadžera (max kardinalitet na lijevoj strani relacije).</p>
+<p>Jedan menadžer može obraditi 0-N narudžbi.</p>
+<p>E sada mi <span style="color: #cc99ff;"><strong>gerund</strong></span> prestaje biti "&Scaron;ahbaz". Čekaj malo, <a href="http://en.wikipedia.org/wiki/Finding_Nemo">&scaron;ta je gerund</a> ?!</p>
+<p><div class='p_embed p_image_embed'>
+<img src='../../../image/2011/01/20716866-dora.jpeg'>
+</div>
+</p>
+<p>---</p>
+<p>(*) prikaz ER elemenata u tekstualnoj formi: <strong><span style="color: #ff0000;">[entitet]</span></strong>, <span style="color: #008000;"><strong>&lt;relacija&gt;</strong></span>, <strong><span style="color: #cc99ff;">[&lt;asocijativni_entitet&gt;]</span></strong></p></div>
+<div class='post_tags'>
+<h4>Tags</h4>
+<div class='post_tags_list'>database, fit_2_godina, fit_mostar</div>
+</div>
+<div class='post_responses'>
+<h4>6832 views and 0 responses</h4>
+<ul class='post_responses list'>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

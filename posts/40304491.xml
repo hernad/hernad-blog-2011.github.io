@@ -1,0 +1,63 @@
+<item>
+	<title>Autentičnost</title>
+	<link>http://hernad.bring.out.ba/autenticnost-materijala</link>
+	<pubDate>Wed Jan 19 01:15:00 -0800 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/autenticnost-materijala</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Tragajući za odgovorima na pitanja koja sam otvorio ranijem članku <a href="/uvod-u-baze-podataka-konverzija-er-u-r-model">"Uvod u baze podataka, hello world, non-microsoft toolset"</a>, a vezano za pitanje o konverziji ER modela u R model, do&scaron;ao sam do vježbe u kome je izložena konverzija modela "Izbori - glasanje" (*).</p>
+<p>U tom modelu sam do&scaron;ao do odgovora na pitanje iz "Hello world 2" paragrafa ranijeg članka. Kod konverzije relacije (0..1) : (0..1) stoji:</p>
+<blockquote class="posterous_medium_quote">
+<p>Obzirom da na obje strane imamo parcijalno uče&scaron;će (minimalna vrijednost kardinaliteta je 0) u vezi, da bi izbjegli neprimjerena polja u tabeli i NULL vrijednosti, relaciju "kandiduje" prevodimo kao zasebnu relacijsku &scaron;emu(**)</p>
+</blockquote>
+<p>1) Aha ... oni iz nekog razloga smatraju da su NULL vrijednosti ne&scaron;to &scaron;to treba izbjegavati. To sam i ja pretpostavio, ali ZA&Scaron;TO ? Ja i dalje smatram da je moje rje&scaron;enje dobro.</p>
+<p>2) Dio koji kaže: da bi izbjegli "neprimjerena polja u tabeli" ? Kakva sad neprimjerena polja ? Vi&scaron;ka polja ? ... &Scaron;ta su htjeli reći pojma nemam.</p>
+<p>Kod proučavanja materijala, u članku <a href="/uvod-u-baze-podataka-zbrkizacija">"Zbrkizacija"</a> uočio sam da su materijali lo&scaron;eg kvaliteta. Ali ovaj materijal me je i dodatno "raspalio".</p>
+<p>U tekstu se koristi hrvatski jezik. A na dijagramu srpski (biracko_mesto, primedba). Očigledno da je autor materijala napravio neku kompilaciju - pokupio je dijagram(***)&nbsp; nekog srbijanskog autora, pa je onda stavio svoj tekst.</p>
+<p><!--more-->Opet moj <a href="/perfekcionista">perfekcionizam i sitničarenje</a> ? Objasniću za&scaron;to mi ovakve stvari smetaju:</p>
+<p>Prije svega, moja očekivanja nisu da svako radi neke nove modele podataka za potrebe nastave. Postoje općeprihvaćeni modeli podataka koji se koriste za potrebe edukacije. Takvi na mnogo mjesta nalazite primjer računa kupaca (order &lt;-&gt; order_line &lt;-&gt; kupac), sastavnica u proizvodnji (eng. BOM -bill of material) i sl. Bitno je da je primjer reprezentativan, ne mora to biti nekakvo autorsko djelo. Zato nagla&scaron;avam da je sasvi ok postojeći dijagram od drugog autora, i iskoristiti ga.</p>
+<p>Ali tu postoje pravila:</p>
+<ul>
+<li>navedi svoj izvor, ako koristi&scaron; njegov dijagram u nepromijenjenoj formi</li>
+<li>ako na bazi drugog izvora ti pravi&scaron; svoju prilagodbu, to treba navesti</li>
+</ul>
+<p>U ovom slučaju, ako se već koristi dijagram koji je sa copy-paste uzet od drugog autora, onda brate uzmi njegov kompletan materijal (****).</p>
+<p>Moj komentar bi vjerovatno opet bio: "Mogao si brate napraviti i sopstveni materijal", ali barem autentičnost materijala ne bi bila upitna.</p>
+<p>Ono &scaron;to je definitivno najbolje rje&scaron;enje jeste uzeti dijagram, napraviti sopstvenu verziju koja će obezbjediti punu konzistentnost sa ranijim materijalima, i na kraju materijala ukazati na autora modela. Da ovo ne bi bila &scaron;uplja priča evo o čemu pričam:</p>
+<p><div class='p_embed p_image_embed'>
+<a href="http://getfile7.posterous.com/getfile/files.posterous.com/temp-2011-01-19/GwsykhkylaEDkCoJfxIJlqjbJgCJjxvbnaexiApbhykmJoBCgrAmCCsdllDi/politicke_partije_glasanje.png.scaled1000.png"><img alt="Politicke_partije_glasanje" height="424" src="http://getfile4.posterous.com/getfile/files.posterous.com/temp-2011-01-19/GwsykhkylaEDkCoJfxIJlqjbJgCJjxvbnaexiApbhykmJoBCgrAmCCsdllDi/politicke_partije_glasanje.png.scaled500.png" width="500" /></a>
+</div>
+</p>
+<p>Da moj zahtjev nije pretjeran, govori i činjenica da mi je trebalo  cca 1 sahat da ovo napravim(*****).&nbsp; A to je bio moj prvi "ozbiljniji" dijagram rađen u <a href="http://projects.gnome.org/dia">dia dijagram</a> editoru.</p>
+<p>Razlika koja se na ovaj način dobija je međutim drastična. Ovako bez dileme dobijamo <strong>autentičan materijal</strong>.</p>
+<p>---</p>
+<p>(*) Ovo je ime koje sam ja dao modelu.</p>
+<p>(**) napravio sam prijevod ključnih termina na bosanski</p>
+<p>(***) bez dileme u nekom bitmap image formatu</p>
+<p>(****) naravno uz traženje njegovog dopu&scaron;tenja ako materijal nije public domain ili izdat pod uslovima koji ne traže dopu&scaron;tenje autora</p>
+<p>(****) Source dijagrama dostupan je na mom <a href="https://github.com/hernad/FIT_UBP/blob/master/ER/politicke_partije_glasanje.dia">github repozitoriju</a>.</p>
+<p>&nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Tragajući za odgovorima na pitanja koja sam otvorio ranijem članku "Uvod u baze podataka, hello world, non-microsoft toolset", a vezano za pitanje o konverziji ER modela u R model, došao sam do vježbe u kome je izložena konverzija modela "Izb...]]></excerpt:encoded>	
+
+	<wp:post_date>Wed Jan 19 01:15:00 -0800 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>autenticnost-materijala</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

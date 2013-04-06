@@ -1,0 +1,121 @@
+<item>
+	<title>E jesam se &quot;provalio&quot; / 2</title>
+	<link>http://hernad.bring.out.ba/e-jesam-se-provalio-2</link>
+	<pubDate>Sat Mar 05 11:40:00 -0800 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+		<category domain="tag" nicename="poslovna_korespondencija"><![CDATA[poslovna_korespondencija]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/e-jesam-se-provalio-2</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p><a href="/e-jesam-se-provalio">"Provaljivanje"</a> me ba&scaron; hoće u zadnje vrijeme. Ma ... kada razmislim, hoće to mene čitav moj život ... takva tipa valjda :(</p>
+<p>Ovaj put je "provala" na temu <a href="/uvod-u-baze-podataka-seminarski-rad-pos-aplik-0">Seminarskog iz UBP-a</a>.</p>
+<p><!--more-->Par dana nakon slanja seminarskog dobijam info:</p>
+<blockquote>
+<p><span style="font-size: x-small;">From: Asistentica UBP Emina</span><br /><span style="font-size: x-small;">To: "Ernad Husremovic"</span><br /><span style="font-size: x-small;">Sent: Thursday, March 3, 2011 9:39:04 AM GMT +01:00</span><br /><span style="font-size: x-small;">Subject: RE: Seminarski UBP,&nbsp; POS aplikacija</span><br /><span style="font-size: x-small;">Po&scaron;tovani</span><br /><span style="font-size: x-small;">Rad nije urađen po uputama koje ste dobili od FIT-a!</span><br /><span style="font-size: x-small;">Notacija koju koristite za ER dijagram je u potpunosti ispravna i koristit ćete je na trećoj godini studija.</span><br /><span style="font-size: x-small;">Moje primjedbe su sljedeće:</span><span style="font-size: x-small;"><br />1. U ER modelu svaki entitet vam za naziv atributa koji ima ulogu&nbsp; PK ima naziv ID. Poslije kada ovi atributi dobivaju i ulogu FK u drugim tabelama, vi ih preimenujete. Za&scaron;to onda od početka ne dati nazive atributima koji se neće mijenjati (npr: Id_racuna, itd). Ovo je navika većine &bdquo;zanatlija&ldquo;.</span><br /><span style="font-size: x-small;">2. U strukturalnoj komponenti R modela nemate označene primarne ključeve. Potrebno je označiti primerne ključeve relacionih &scaron;ema, jer u suprotnom to nisu relacione &scaron;eme.</span><br /><span style="font-size: x-small;">3. Edukacijsku licencu za Acces možete dobiti besplatno na FIT-u, kao i licencu za sve MS proizvode.</span></p>
+</blockquote>
+<p>Pročit'o i smrz'o se... Joj majko moja ... Moraću ja ovaj rad na kraju ipak "Access"-sat. Kada sam rad pisao, imao sam bojazan da postoji mogućnost da se to nastavnicima neće svidjeti ... Ali sam u svakoj kalkulaciji kontao da mi ipak niko ba&scaron; neće reći: "To ovako ne može - aplikacija sa mora napraviti u Access-u !".</p>
+<p>Sljedeća misao mi je bila:</p>
+<blockquote class="posterous_medium_quote">
+<p>E pa stvarno si ti budaletina. Pa &scaron;to nisi uzeo taj prokleti "Access", ne&scaron;to "skle'po" i pred'o. Vidi sad &scaron;ta si sebi napravio ! Ako ćemo "mak na konac", imaju pravo da ti "taljuhnu". Odradio si čitav rad na svoju ruku ... nikog nisi pit'o ... Uh jesi konj ... i to onaj brdsko-planinski !</p>
+</blockquote>
+<p><!--more-->Kad sam se malo presabrao, rekoh sebi: Sad je kasno. Bori se do kraja ! Sjednem i napi&scaron;em mail:&nbsp;</p>
+<blockquote>
+<p><span style="font-size: x-small;">From: Ernad Husremovic [mailto:<a href="mailto:hernad@bring.out.ba">hernad@bring.out.ba</a>]</span><br /><span style="font-size: x-small;">Sent: Thursday, March 03, 2011 11:05 AM</span><br /><span style="font-size: x-small;">To: Asistentica Emina</span><br /><span style="font-size: x-small;">Cc: Asistent Jasmin</span><br /><span style="font-size: x-small;">Subject: Re: Seminarski UBP, POS aplikacija</span><p /><span style="font-size: x-small;">Po&scaron;tovana,</span><br /><span style="font-size: x-small;">vezano za primjedbe 1 i 2 to ću ispraviti prema Va&scaron;im uputama.</span><p /><span style="font-size: x-small;">Priznajem da nisam očekivao da će drugačiji način obrade teme - kori&scaron;tenje druge programske platforme i baze podataka biti apriori eliminatoran faktor u ocjenjivanju rada.</span><br /><span style="font-size: x-small;">U rad sam uložio puno vremena i truda, pa sam očekivao da će to, ako ni&scaron;ta drugo, biti uvaženo.</span><p /><span style="font-size: x-small;">Vodio sam se činjenicom da je ovo studijski seminarski rad, te da je fokus na upoznavanje materije koju predmet obrađuje.&nbsp; U ranijoj komunikaciji kolegom asistentom Jasminom rečeno mi je (ne na ovu temu, da ne bude nesporazuma) da fokus predmeta nije na konkretnom alatu - MS Access-u. MS Access je odabran dostupnosti i jednostavnosti pri upoznavanju sa predmetnom materijom.</span><p /><span style="font-size: x-small;">Smatram da moj rad u su&scaron;tinskom smislu ima potrebne elemente na osnovu kojih nastavnici mogu utvrditi da sam ovladao gradivom predmeta "Uvod u baze podataka".</span><br /><span style="font-size: x-small;">Proučio sam niz materijala iz predmetne teme i to konkretizirao odgovarajućom aplikacijom za rukovanje relacijskom bazom podataka.&nbsp; </span><p /><span style="font-size: x-small;">Zato bih Vas zamolio da rad ipak u cjelosti pregledate, i ocjenite ga u kontekstu glavnih ciljeva predmeta i postavljenog zadatka. Ako on i nakon toga bude ocijenjen kao "nedovoljan",&nbsp; dajte mi upute i ja ću ga ispraviti.</span><p /><span style="font-size: x-small;">Niz je stvari koje sam prilikom izrade ovog rada takođe dotakao, &scaron;to nije navedeno. Tako sam nakon predaje seminarskog rada nastavio raditi na pitanju reportinga.</span><br /><span style="font-size: x-small;">Juče sam dobio i prve konkretne rezultate. Podesio sam Pentaho (<a href="http://www.pentaho.com">http://www.pentaho.com</a>) opensource BI &amp; reporting sistem, te u Pentaho report dizajneru napravio jedan report koji dohvata podatke iz pos_ubp - baze podataka seminarskog rada.</span><p /><span style="font-size: x-small;">Rezultati tog rada su dostupni na <a href="http://fit.bring.out.ba/pentaho/">http://fit.bring.out.ba/pentaho/</a> (*).</span><p /><span style="font-size: x-small;">Sve ovo govorim zato &scaron;to mi neće predstavljati nikakav problem da *nastavim* razradu postojećeg rada ako je model podataka lo&scaron;e postavljen, ako su funkcije aplikacije nedovoljne za prolaznu ocjenu seminarskog rada. Međutim, potpuno negiranje učinjenog zato &scaron;to je urađeno *drugačije* ne mogu jednostavno prihvatiti.</span><p /><span style="font-size: x-small;">Va&scaron;e insistiranje da se seminarski uradi striktno po Va&scaron;im uputama - MS Access ili ni&scaron;ta, navode me na zaključak da je glavni kriterij ocjenjivanja "Tako to mora biti",&nbsp; stavljen ispred kriterija znanja i učenja.&nbsp; </span><p /><span style="font-size: x-small;">Kako ste u svojoj ocjeni dijela rada koji ste pogledali konstatovali, ja sam IT zanatlija. Ali sam takođe spreman da svoja nesistematski stečena znanja nadograđujem. I to sam upravo činio prilikom izrade ovog rada. To mom radu daje svrhu i smislenost. Zahtjev da učinjeno u python/SQLite jednostavno izbri&scaron;em i to napravim ispočetka u MS Access-u zasigurno neće povećati moje znanje i kompetencije. Ono će samo posvjedočiti da Vi imate moć da moj neposluh kaznite.</span><p /><span style="font-size: x-small;">Zato Vas ponovo molim da moj rad pogledate od početka do kraja.&nbsp; Svjestan sam da to od Vas traži znatno veći napor, jer je rad drugačije urađen. Međutim, polažem nadu u to da ste kao naučni radnik spremni taj napor učiniti. </span><p /><span style="font-size: x-small;">Moja ambicija je da sa ovim radom, rađen na ovakav način, dobijem prolaznu ocjenu. Mi&scaron;ljenja sam da to zaslužujem.</span><p /><span style="font-size: x-small;">U očekivanju Va&scaron;eg odgovora,</span><br /><span style="font-size: x-small;">-----</span><br /><span style="font-size: x-small;">(*) lozinka "fit", password "fit". Report "Pregled prodaje za operatera.</span></p>
+</blockquote>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">hernad skroz pogre&scaron;no skont'o<br /></span></strong></span></p>
+<blockquote>
+<p><span style="font-size: x-small;">From: Asistentica Emina</span><br /><span style="font-size: x-small;">To: "Ernad Husremovic" &lt;<a href="mailto:hernad@bring.out.ba">hernad@bring.out.ba</a>&gt;</span><br /><span style="font-size: x-small;">Sent: Thursday, March 3, 2011 12:14:13 PM GMT +01:00 Amsterdam / Berlin / Bern / Rome / Stockholm / Vienna</span><br /><span style="font-size: x-small;">Subject: RE: Seminarski UBP,&nbsp; POS aplikacija</span><br /><span style="font-size: x-small;">Odgovaram Vam pročitane prve dvije rečenice Va&scaron;eg mail-a, po&scaron;to je očigledno do&scaron;lo do nesporazuma.</span><br /><span style="font-size: x-small;">Apsolutno nije eliminatorno to &scaron;to niste radili po uputama! Rad je urađen na većem nivou od traženog i nema razloga za lo&scaron;u ocjenu.</span></p>
+</blockquote>
+<p>Ajoj ... pa ja ženu uop&scaron;te nisam skontao kako treba ?! Odgovaram brže-bolje:</p>
+<blockquote>
+<p><span style="font-size: x-small;">Po&scaron;tovana kolegice,</span><br /><span style="font-size: x-small;"> uljep&scaron;ali ste mi ovaj tmurni zimski dan :)</span><br /><span style="font-size: x-small;"> Poslaću brzo ispravke po Va&scaron;im primjedbama.</span></p>
+</blockquote>
+<p>Na kraju se zavr&scaron;ilo ovom konverzacijom:</p>
+<blockquote>
+<p><span style="font-size: x-small;"><em>&gt; Jo&scaron; jednom sam pročitala mail koji sam Vam poslala i ni jednom rečenicom nisam rekla da iznova radite seminarski rad. Istina, na početku mail-a sam konstatovala da rad nije rađen po uputama i na kraju mail-a sam Vam dala informaciju da možete dobiti edukacijsku licencu za sve MS proizvode na FIT-u.</em></span><p /><span style="font-size: x-small;">Sasvim ste u pravu. Ali je činjenica na frontu va&scaron;eg maila uzvična rečenica " ... nije rađeno po uputama FIT-a !", i da se mail zavr&scaron;ava informacijom o licencama :).</span><p /><span style="font-size: x-small;"><em>&gt; U Va&scaron;em radu, koji sam detaljno pregledala, naveli ste da je jedan od razloga &scaron;to niste koristili Access neposjedovanje njegove licence. Cilj mi je bio pružiti Vam informaciju, a nikako natjerati Vas da rad radite iznova.</em></span><p /><span style="font-size: x-small;">Da, to jeste jedan od faktora, ali definitivno nije presudan. Primarni razlog je činjenica da bi mi izrada aplikacije u Access-u donijela neznatnu korist u svakom pogledu. Naravno korisnost visoko korelira sa činjenicom da sam ja, za razliku od mladih kolega, već profesionalno usmjeren.&nbsp; Zato sam se odlučio za pristup koji će dati rezultate koji se seminarskim traže, ali će i mom tekućem poslu biti od koristi. Ovaj pristup mi je (procjenjujem) oduzeo &gt;10 x vi&scaron;e vremena nego li je to bilo potrebno za izradu po datima preporukama. Međutim, za vrijeme utro&scaron;eno u ove svrhe ne žalim.&nbsp; Makar u &scaron;to sam čovjek u godinama :), ovo znanje meni i mom poslu može biti samo od koristi.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><p /><span style="font-size: x-small;">Kolegi Jasminu sam se već obratio po pitanju licenci, i sa njim dogovorio način da to obezbjedim. Hvala na toj informaciji.</span><p /><span style="font-size: x-small;"><em>&gt; U radu trebate ispraviti dvije stvari koje zahtjevaju 2 minute vremena.</em></span><p /><span style="font-size: x-small;">Ma naravno.</span><p /><span style="font-size: x-small;"><em>&gt; Svakako da ste u Va&scaron;em&nbsp; radu pokazali da očigledno posjedujete veći nivo znanja i vje&scaron;tina od traženog na ovom predmetu i na pravom ste putu da ga sistematizirate.</em></span><p /><span style="font-size: x-small;">Drago mi je da ste to uočili.</span><p /><span style="font-size: x-small;"><em>&gt; Sretno u &bdquo;Reporting-u&ldquo;, a meni po&scaron;aljite ispravljen rad u skladu sa primjedbama navedenim u mom prethodnom mail-u pod 1 i 2.</em></span><p /><span style="font-size: x-small;">Hvala, dogovoreno.</span></p>
+<p><em><span style="font-size: x-small;">&gt; Dođite Vi malo u na&scaron; sunčani Mostar, potrebno Vam je!</span></em></p>
+<p><span style="font-size: x-small;">Da ... sunčanje u Mostaru bi definitivno dobro do&scaron;lo :). </span></p>
+</blockquote>
+<p>E fakat sam puk'o ...</p>
+<p>Ah da ... da zavr&scaron;im priču: Ispravke su bile sitne, pa sam ih isti dan uradio i poslao asistentici. Na kraju balade, asistentica je dala komentar da je rad, po njenom sudu, odličan.</p>
+<p>Hrklju&scaron;.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Post festum</strong></span></p>
+<p>Kako sam pisao ovaj članak, jo&scaron; jednom sam pro&scaron;ao kroz mail &scaron;to sam pogre&scaron;no shvatio. Mislim da sam skont'o za&scaron;to sam ga pogre&scaron;no protumačio: <strong><span style="color: #ff0000;">radi uzvičnika</span></strong>. Asistentica definitivno ne preza od uzvičnih rečenica :)</p>
+<p>&nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA["Provaljivanje" me baš hoće u zadnje vrijeme. Ma ... kada razmislim, hoće to mene čitav moj život ... takva tipa valjda :( Ovaj put je "provala" na temu Seminarskog iz UBP-a. Par dana nakon slanja seminarskog dobijam info: From: Asistentica UBP Em...]]></excerpt:encoded>	
+
+	<wp:post_date>Sat Mar 05 11:40:00 -0800 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>e-jesam-se-provalio-2</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Sun Mar 06 06:51:17 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Sun Mar 06 06:51:17 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[U međuvremenu sam dobio i informaciju od kolege Jasmina, koji je zadužen za ocjenu praktičnog dijela seminarskog rada.
+   
+Ako se neko nađe u sličnoj dilemi kao ja, evo mu informacija iz prve ruke: 
+
+&gt; Re: Seminarski UBP, POS aplikacija, video materijal	Sun 06 Mar 2011 02:36:39 PM CET
+&gt; From: 	Asistent Jasmin UBP
+
+&gt; Poštovani kolega,
+ 
+&gt; Ja ću biti konkretan i jasan. Ako govorimo o praktičnom dijela rada, isti priznajem i uzimam u obzir prilikom ocjenjivanja. Da ne bude zabune, Access je samo alat koji je korišten za postizanje nekog cilja, a nikako nešto što je bilo must, niti je bilo gdje u syllabusu navedeno da je fokus predmeta na tom razvojnom okruženju. Imao sam i prije situacije da su studenti izrazili želju da implementaciju rade u nekom drugom okruženju. Naravno, kolegama nisam stajao na putu. Poštujem u Vašu odluku da relacioni model i GUI implementirate u nekom drugom RDBMS-u i razvojnom okruženju.
+ 
+&gt; Ako govorimo o teoretskom dijelu rada, to je nadležnost moje radne kolegice koja ima svoje zahtjeve i isti su jasno navedeni. U taj dio neću ulaziti, a siguran da će se ukazati neko rješenje.
+
+Ma od početka nije bilo sporno ništa. Sporno je bilo moje razumijevanje.
+
+&gt; PS: Prave stvari iz baza podataka tek dolaze na predmetu DBMS, UBP je samo trening i zagrijavanje prije utakmice.
+
+ ]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Sun Mar 06 07:07:35 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Sun Mar 06 07:07:35 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Činjenica je da nisam bio upućen u sistem ocjenjivanja:
+- Asistentica Emina ocjenjuje teoretski dio (analizu, E-R dijagram, R model)
+- Kolega Jasmin ocjenjuje praktični dio - implementaciju baze podataka i sam aplikacijski dio.
+
+U dijelu za koji je nadležna asistentica Emina i nisam imao puno dvojbe. Na ranijim konsultacijama http://hernad.bring.out.ba/uvod-u-baze-podataka-zbrkizacija sam baš pitao za različite notacije E-R dijagrama i sistem označavanja brojnosti veze između entiteta (Look Here, Look Accross). Asistentica mi je tom prilikom rekla da postoje različite konvencije i da se one mogu koristiti po slobodnom izboru.
+
+Problem je, ponovo kažem, nastao u mojoj glavi ... A ovdje sam objasnio i kako.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

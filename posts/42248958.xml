@@ -1,0 +1,166 @@
+<item>
+	<title>Programiranje 2, drugi parcijalni</title>
+	<link>http://hernad.bring.out.ba/programiranje-2-drugi-parcijalni</link>
+	<pubDate>Mon Feb 07 01:47:00 -0800 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="c"><![CDATA[c]]></category>
+	
+		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+		<category domain="tag" nicename="ispit"><![CDATA[ispit]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/programiranje-2-drugi-parcijalni</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>"PR1" i "PR2" su ključni predmeti na FIT-u. "Programiranja", pored ASP-a(*) imaju najbolje nastavne materijale. Preciznije, vježbe i workshop materijali su ekstra, dok kod predavanja postoji izvjesna "&scaron;arada". Uzrok toj &scaron;aradi je vjerovatno činjenica da postoji problem nastavnog profesora. Asistent Denis je glavni lik ovog predmeta. Profesori se mijenjaju a on, na svu sreću, ostaje.&nbsp;</p>
+<p>Dobra stvar je da vam za polaganje tog ispita i ne treba ni&scaron;ta osim materijala koje priprema Denis.</p>
+<p><!--more-->Najveću nervozu mi je izazvalo to &scaron;to sam u ovaj ciklus ispita u&scaron;ao a da nisam uop&scaron;te nisam pro&scaron;ao materijale ovog ispita. Moj jedini kontakt su bile konsultacije od prije dvije hefte koje je držao Denis. Kako sam do&scaron;ao na te konsultacije totalno nespreman, to od njih nisam velikog hajra vidio ...</p>
+<p>Noć uoči ispita sam 4-5 sahata radio primjer sa generičkim <a href="https://github.com/hernad/FIT_PR2/blob/master/parc_2/kolekcija_1.cpp">funkcijama - kolekcija</a>. Uh poprilično sam zakržlj'o. Nisam ni dotakno C++ od predhodnog parcijalnog.</p>
+<p>Imam dobru naviku da svaku međufazu <a href="https://github.com/hernad/FIT_PR2/commits/master">commit historiji</a> bilježim. Gre&scaron;aka je bilo "milion" ...&nbsp; Od sintaksnih da na kraju fali ";", pa do budale&scaron;tina tipa:</p>
+<blockquote class="posterous_short_quote">
+<p>char "c1 = c2;"</p>
+</blockquote>
+<p>umjesto</p>
+<blockquote class="posterous_short_quote">
+<p>strcpy(c1, c2);</p>
+</blockquote>
+<p>Džabe, bez vježbe čovjek brzo "zakržlja". Međutim, bio sam uporan i kolekciju sam dobro preradio. Skont'o sam koncept generičkih klasa ...</p>
+<p>Kasno uveče sam pre&scaron;ao ostatak materijala:</p>
+<ul>
+<li>ugrađene kontainerske funkcije ( vector&lt;string&gt;, list&lt;string&gt;)</li>
+<li>nasljeđivanje, polimorfizam</li>
+</ul>
+<p>Vi&scaron;estruko nasljeđivanje sam takođe pre&scaron;ao, ali bez puno zadržavanja - znao sam da to neće biti. Denis je najavio da će to od naredne godine čak biti i izbačeno iz PR2. Vi&scaron;estruko nasljeđivanje se inače smatra lo&scaron;om praksom, tako da je to feature koji u C++ postoji, ali ga većina programera izbjegava.</p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Ispit</span></strong></span></p>
+<p>Integralni ispit traje dva sahata. Parcijalni 1 i po sahat, ali Denis uvijek daje 2 sahata i parcijalcima, kao nagradu za redovan rad.</p>
+<p>Moj problem je generalno sporost. Čak i kada dobro navježbam zadatke ja sam spor kod izrade. Kao i kod PR1, tih dodatnih pola sahata za mene je bilo golemo.</p>
+<p>Prvi sahat je pro&scaron;ao. Kolekciju sam uradio cakum-pakum. Međutim, onda je moja brzina eksponencijalnom brzinom počela padati. Umor ? Nedovoljno vježbe&nbsp; ? Vječni problem sporosti ?</p>
+<p>Jedina stvar koju sam isključio kao uzrok je neznanje. Bez obzira &scaron;to sam pro&scaron;ao samo vježbe, a i to samo jedan put, postavljeni zadaci su bili materija koja mi je jasna i koju sam razumio. Nakon kolekcije, trebalo je sada uraditi objekte koji će biti predmet te kolekcije. Konstruktor, destruktor, operator= itd ... Sve to sam sinoć pro&scaron;ao, ali moj progres bio je puževim koracima ... Ostarilo se Ernade, eto &scaron;ta je tvoj problem.</p>
+<p>Zadnjih 20-tak minuta sam izmjenio strategiju:</p>
+<ul>
+<li>proći &scaron;to vi&scaron;e različitih dijelova ispita, da čovjek ne kaže: "Evo ga nabub'o kolekciju a drugo pojma nema ..."</li>
+<li>ne uhakati ono &scaron;to je do tada urađeno</li>
+</ul>
+<p>Nakon toga, ostao sam u sumnji:</p>
+<blockquote class="posterous_short_quote">
+<p>Je li ovo bilo dovoljno ?</p>
+</blockquote>
+<p>Ali vi&scaron;e od te sumnje morilo me je sljedeće pitanje:</p>
+<blockquote class="posterous_short_quote">
+<p>Čak i da sam vi&scaron;e vježbao, nisam siguran da bi znatno vi&scaron;e stigao ... Ah ta tvoja sporost, pa čovječe nisi penzioner ?!</p>
+</blockquote>
+<p>U toj raspravi sa samim sobom iza&scaron;ao sam sa ispita. Raja pita:</p>
+<blockquote class="posterous_short_quote">
+<p>Ernade, kako je bilo ?</p>
+</blockquote>
+<p>Ja odgovaram odrično klimajući glavom:</p>
+<blockquote class="posterous_short_quote">
+<p>"Gutavo" ... Za mene previ&scaron;e ...</p>
+</blockquote>
+<p>Slu&scaron;am drugu raju ... niko sa ovom sporo&scaron;ću nema problem. Do mene je.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Rezultat</strong></span></p>
+<p>Neki dan rezultati ispita. 58 poena. 6-. "Naguzičke", &scaron;to bi na&scaron; narod rek'o. Interesantno rezultat u 5 deka kao i <a href="/pr1-polozen">pro&scaron;le godine</a>. I opet kao pro&scaron;le godine, konačna ocjena je veća od zbira ocjena sa parcijalnog !</p>
+<p>6 i 6- = 7. &Scaron;ta drugo reći - ovo je regres za studente 40+ :)</p>
+<blockquote class="posterous_short_quote">
+<p>Denise, živ ti meni i zdrav bio ... prije svega &scaron;to me nisi zvekn'o a mog'o si&nbsp; ... A ova finalna ocjena ... Laf si, eto &scaron;ta drugo da kažem.</p>
+</blockquote>
+<p>Doista mi ne bi bio nikakav problem da je zaključna 6-ica. Ne zato &scaron;to ne držim do ocjena, nego zato &scaron;to je moj cilj <a href="/odakle-ja-na-fit-u">mom babi &scaron;to prije donijeti diplomu</a> :)</p>
+<p>S druge strane, čovjek voli kada se njegov rad cijena. Ja ovu finalnu ocjenu tumačim kao Denisov komentar:&nbsp;</p>
+<blockquote class="posterous_short_quote">
+<p>Kolega, moglo je ovo puno bolje, ali vidim da iza onog &scaron;to se napisali stoji znanje.</p>
+</blockquote>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Rezime</strong></span></p>
+<p>Pustimo se mojih ličnih utisaka. Da malo napi&scaron;em o generalnim utiscima o ispitu i predmetu.</p>
+<p>Ljudi puno masovno prenose PR2. Uočio sam da "ponovci" imaju mahom pogre&scaron;an pristup ispitu. Trude se da memori&scaron;u zadatke i "folove" koji se pojavljuju. Kod ovog predmeta to vrlo lahko vodi ka neuspjehu.</p>
+<p>Programiranje se mora skontati ! Svaka napravljena gre&scaron;ka ima svoj uzrok i dok nju ne skonta&scaron; ne idi od toga !</p>
+<p>Ispitni zadaci se ponavljalju, i raja se na tu činjenicu često "nasuče". Da 90% stvari se ponavlja. I 90% toga može&scaron; izreproducirati bez previ&scaron;e shvatanja. Ali onih 10% neshvatanja kod ovog ispita su tas na vagi uspjeha.&nbsp;</p>
+<p>Pogledajte konačne rezultate ocjenama:</p>
+<ul>
+<li>&scaron;est (6)&nbsp; x 1</li>
+<li>sedam (7)&nbsp; x 1</li>
+<li>osam (8) x 5</li>
+<li>deset (10) x 7</li>
+</ul>
+<p>Četrnaest ljudi je položilo. Od toga pola 10-ke. Ti ljudi su dobro navježbali, ali i skontali nastavno gradivo. Vjerovatnoća da je neko od njih nabubao je statistički zanemarljiva - <a href="/statistika-prvi-cas-sa-profesoricom-dzenanom">&gt; 3 standardne devijacije</a> :)</p>
+<p>Prolaznost na ispitu je mala ne zato &scaron;to je ispit težak(**) nego zato &scaron;to raja previ&scaron;e ide na kartu "nalupavanja".</p>
+<p>&Scaron;to se tiče nedostatka vremena sa kojim ja imam problem, gornje brojke pokazuju da se radi o mom ličnom problemu, a ne problemu ispita.</p>
+<p>---</p>
+<p>(*) ASP - Algoritmi i strukture podataka.</p>
+<p>(**) Uslovno rečeno - tematika je zahtjevna pa ispit posljedično mora biti težak. Ja ovdje govorim o dimenziji koju nastavnici mogu "vje&scaron;tački" napraviti. Zato smatram a je PR2 u tom kontekstu - kontekstu onoga &scaron;to predmetni nastavnici traže <strong>lagan</strong>. Onaj ko kvalitetno pređe zadano gradivo on može računati na uspjeh. &nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA["PR1" i "PR2" su ključni predmeti na FIT-u. "Programiranja", pored ASP-a(*) imaju najbolje nastavne materijale. Preciznije, vježbe i workshop materijali su ekstra, dok kod predavanja postoji izvjesna "šarada". Uzrok toj šaradi je vjerovatno činjen...]]></excerpt:encoded>	
+
+	<wp:post_date>Mon Feb 07 01:47:00 -0800 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>programiranje-2-drugi-parcijalni</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[fitovac]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Mon Feb 07 05:13:49 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Mon Feb 07 05:13:49 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Čitam redovno sve blogove, stvarno Vam je svaka &quot;na mjestu&quot;. Svaka čast :)
+Samo nastavite tako i dalje, posebno ovi utisci sa ispita, još kad bi mogli koji put prije ispita objaviti šta, da se možemo malo i pripremiti :')
+U vezi ove statistike konačnih ocjena, tu se očigledno ogleda Denisov pristup ocjenjivanju, što je za svaku pohvalu. Čovjek ne gleda na sitne propuste i greške, nego na znanje i razumjevanje gradiva. Svaka mu čast, da su ostali malo više kao Denis bilo bi super.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Tue Feb 15 03:07:23 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Tue Feb 15 03:07:23 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[@fitovac, nema razloga za persiranje. Godine nisu važne :)
+
+Drago mi je da ti se sviđaju moji blogovi.
+
+Što se tiče utisaka prije ispita, moj tajming za učenje a Boga mi ni stil (npr. UBP http://hernad.bring.out.ba/uvod-u-baze-podataka-integralni) najčešće ne bi trebali biti uzor drugim kolegama. Posebno kolegama koji na vakat studiraju pa imaju više vremena za fakultet.
+
+Pored toga, najčešće stvari uočim prilikom samog ispita, tako da nema druge nego da članak bude post-festum (kao kod PR2 http://hernad.bring.out.ba/programiranje-2-1-parcijalni-povratak-sa-ispi)
+
+Moja je nada da će mojim mlađim kolegama, koji su većina :), moje pisanje pomoći da razbiju određene stereotipe pristupa informatici i učenju općenito.
+
+Ovaj članak dosta o tome govori http://hernad.bring.out.ba/mogucnost-izbora-je-takode-stvar-koja-se-uci
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Tue Feb 15 03:50:18 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Tue Feb 15 03:50:18 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Pored kolega studenata, mnogi od kolega koji su danas asistenti će sutra aBd biti profesori. Mislim da bi i njima moje pisanje moglo biti od koristi. ]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

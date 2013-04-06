@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<link href='../../../exports.css' rel='stylesheet'>
+<link href='../../../exports.css' rel='stylesheet'>
+
+</head>
+<body>
+<div id='wrap'>
+<div id='header'>
+<h1>hernad</h1>
+<h2>This is an archived post
+This is an archived post
+</h2>
+</div>
+<div id='content'><div id='nav'>
+<a href="../../../posts/2012/03/trazi-se-serviser-ubuntulinux-f18-knowhow-erp.html">Previous</a>
+&nbsp; 
+<a href="../../../index-3.html">Index</a>
+&nbsp; 
+<a href="../../../posts/2012/02/wt-zasto-je-aspnet-los-za-prve-korake-u-razvo.html">Next</a>
+</div>
+<div class='post'>
+<div class='post_header'>
+<h3>MIS seminar v2: "Poslovna inteligencija bazirana na 'open source' softveru"</h3>
+<div class='post_info'>
+<span class='post_time'>February 27 2012,  3:49 AM</span>
+<span class='author'>&nbsp;by Ernad Husremović</span>
+</div>
+</div>
+<div class='post_body'><p>Kada sam napravio prvu verziju seminarskog iz MIS-a mislio sam da sam napravio <a href="http://hernad.bring.out.ba/mis-seminar-knowhow-erp-business-intelligence">"cool" rad</a>.</p>
+<p>Međutim, prof. Bevanda me je "tu&scaron;irala":</p>
+<blockquote>
+<p><span style="font-size: x-small;">Dear Mohamed (op. aut: asistent)<br />I've read a paper you send me and I have a good time reading it. I think that the student did not count that work will be read by someone who is engaged in business issues where the BI is not "science fiction".</span></p>
+<p><span style="font-size: x-small;"><!--more-->It is commendable initiative of students to independently explore solutions. The work is interesting, there were invested a lot of effort, but a lot of important things are missing.<br />Apart from playing with the important concepts, the student has not demonstrated that he understood the meaning of the differences between BI and DW, Data Mart, OLAP and traditional reporting.<br />This seminar work is a blog, not a seminar where are precise rules of writing.<br />Another problem is that the student should learn during the lectures about difficulties in expressing tacit knowledge (knowhow).<br />Make a OLAP data cube is fun and besides using the "heavy artillery" the same result could be achieved by Excel pivot table. The hardest part of OLAP is to design and automate ETL (extract/transform/Load) processes, and here this problem is ignored. There is no knowledge demonstration of purpose why anyone will use such a tool. OLAP should provide immediate insight into the data cube, which is achieved by designing ETL processes.<br />The starting point is exactly the opposite of the process that the student has applied.<br />He made that different tools play together but without obvious purpose except having fun with writing the paper and playing.<br />As the seminar is scientific work, it should be framed in a scientific framework (or at least scientific, serious blog), otherwise it can not be accepted.<br />Student must demonstrate knowledge about purposes for what tools are used and what can be done with them.<br />Besides of the description of the ongoing learning process through trial and errors approach and hiring student`s own neural network, what are the implications of the work and for what he thought to use the results.</span></p>
+</blockquote>
+<p>Moja prva misao je bila:</p>
+<blockquote class="posterous_medium_quote">
+<p>Uh ... da me je žena nije "tu&scaron;irala" znajući za moje pisanje o FIT-u ?! Da li je ovo bila lekcija: "E sad će&scaron; Ernade vidjeti "gdje se sir siri", &scaron;ta je pravo znanje !"</p>
+</blockquote>
+<p>Par puta sam pročitao njen "review", pa onda svoj rad.</p>
+<p>Svako novo čitanje rada vodilo me je ka zaključku:</p>
+<blockquote class="posterous_medium_quote">
+<p>Nije Ernade tvoj rad "cool" nego je tema "cool" ? A tvoj rad ... ma fakat ni&scaron;ta ne valja ! Kvalitetnije informacije stoje na redmine &nbsp;ticketima nego u samom radu. Iz njega niko ni&scaron;ta skontati ne može ...</p>
+</blockquote>
+<p>Naposlijetku sam odgovorio:</p>
+<blockquote>
+<p><span style="font-size: x-small;">Dear Professor,<br />thank you for your detailed review.</span></p>
+<p><span style="font-size: x-small;">I'm glad that you have had fun reading my work, and have noticed I have put significant efforts in my work.<br />I am sure that your instructions will help me that my work achieve acceptable state from academic and scientific perspective.<br />Anyway, I want to make it clear that my style of writing wasn't guided with the presumption: "No expert review".<br />This seminar work is begineer's work on this subject, and the "blog style" form of presentation is choosen as a try to get attention (and provoke communication) from the reader with no prior knowledge on this subject - primarily other students.From the expert's/mentor's perspecitve, it should provide clear picture of student's achievements. Your review helped me to understand that I haven't reached that goal.</span></p>
+<p><span style="font-size: x-small;">My intention definitely wasn't undermining the audience or the subject itself.<br />I will put all the efforts to correct my work led by your instructions.</span></p>
+</blockquote>
+<p>Rad ne valja. Valja ga popraviti. Tema je dobra, na nju ima smisla potro&scaron;iti vrijeme.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Metodologija i način pisanja akademskog rada</strong></span></p>
+<p>Prva stvar kojom sam se posvetio bila je tema metodologije i načina pisanja naučnog rada.</p>
+<p><a href="http://www.math.upenn.edu/TeX.html">(La)tex</a> je i pored svih "word"-ova, &nbsp;"openoffice"-a i dan danas u akademskoj zajednici broj jedan alat za izradu naučnih radova.</p>
+<p>Ne bez razloga.&nbsp;</p>
+<p>"Guglajući" na temu text-a, dođem do latex template-ova koji se koriste za seminarske i diplomske radove na FER-u (*).</p>
+<p>Uzmem ih kao polazi&scaron;te i napravim template-ove za <a href="https://github.com/hernad/MIS/tree/master/latex">FIT&nbsp;(fit.cls, fit.bst)</a>.</p>
+<p>Pročitao sam jo&scaron; par članaka o metodologiji naučnog pisanja (standardima pojedinih dijelova naučnog rada, stil izražavanja itd).</p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Verzija dva, ETL, ETL, ETL ...</span></strong></span></p>
+<p>U mom predhodnom radu je ETL(**) faza bila praktično preskočena, &scaron;to je u review-u označeno kao ključni nedostatak u sadržajnom smislu.</p>
+<p>Razumljivo ... &nbsp;ETL je&nbsp;jedan od glavnih diferencijatora između BI i non-BI sistema analize podataka.</p>
+<p>Kada već radim, pomislim, najbolje da koristim podatke svog poslovanja. Najbolje ih poznajem, a i uzorak je dobar (&gt; 15 poslovnih godina). Na kraju, &nbsp;podaci su dovoljno "prljavi" da za ETL ima posla koliko ti du&scaron;a želi :)</p>
+<p>Tako sam i uradio. Pri tome sam knjigu "Pentaho 3.2 Data Integration: Beginner&rsquo;s Guide" pro&scaron;ao uzduž i poprijeko(***). Dobra knjiga.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Verzija 2 napokon gotova</strong></span></p>
+<p>Ovaj rad je trajao. Brat-bratu jedno 4 x koliko izrada prvog rada. Heh, a ja mislio kod prve verzije da sam ne&scaron;to skontao. Jesam, al' u panjevima ...</p>
+<p>Kako god, ovaj put sam već vidio ne&scaron;to &scaron;to ima smisla. Ne&scaron;to &scaron;to je i dalje jednostavna ali ipak zaokružena cijelina.</p>
+<p>Ne&scaron;to &scaron;to u dogledno vrijeme može imati i konkretnu primjenu.</p>
+<p>Da se ne bi ponavljala repriza review-a prve verzije, odlučio sam se posvetiti i pisanju konačne verzije. Samo pisanje zavr&scaron;nih teza je trajalo dobra 2 dana.&nbsp;</p>
+<p>Dovoljno dugo da na <a href="http://hernad.bring.out.ba/wt-zasto-je-aspnet-los-za-prve-korake-u-razvo">WT</a> izađem 100% nespreman :(.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Nakon rada</strong></span></p>
+<p>Prvi review mi je ukazao da sam se, po prvi put u toku studiranja na FIT-u, "namjerio" na nekoga k'o posjeduje i ocjenjuje znanje koje ja ne posjedujem, dok moj ocjenjivač &nbsp;posjeduje.</p>
+<p>Ta pozicija nije svakako nije pretjerano ugodna za čovjeka u mojim godinama (kao &scaron;to nije ni generalno uloga učenika - studenta), ali je bez obzira na sve bila motivirajuća.</p>
+<p>Znao sam da je nova verzija rada puno bolja. Ali mi je kroz glavu prolazilo jo&scaron; niz pitanja:</p>
+<p>Opet sam tokom rada previ&scaron;e dao na lične dojmove, pominjao svoju poziciju u "bring.out" ....</p>
+<p>Sve to sam učinio u kontekstu obja&scaron;njavanja pozicija različitih sudionika u kori&scaron;tenju i izgradnji BI sistema ("biznis view", "tehnički view") ... ali možda je to opet akademski neprihvatljivo ?!</p>
+<p>Informatički sam pismen, nemam problem ni sa elementarnim pravilima pisanja ... ali ... akademska pismenost je ne&scaron;to drugo.</p>
+<p>A ja ipak nisam neko ko je akademski pismen.</p>
+<p>Za razliku od <a href="http://hernad.bring.out.ba/seminarski-komunikacijske-tehnologije-anglizm">seminarskog iz KT-a</a>&nbsp;u kome je zamjerka bila islključivo na neakademsku <strong>formu</strong>, zahtjevi profesorice Bevanda su bili sasvim drugi "par cipela". Ona je uradila i review forme i review sadržaja. I to bolno dobro.</p>
+<p>&Scaron;ta ako review verzije 2 bude sadržajno nedovoljan ?</p>
+<p>Onda se teza da me je Profesorica "stavila na zub" ponovo aktuelizira ?</p>
+<p>Pričam sam sa sobom:</p>
+<blockquote class="posterous_medium_quote">
+<p>Uh Ernade, uh Ernade ... &Scaron;to nisi radio po istom &scaron;ablonu ko i ostali ? Da si to uradio, sigurno ne bi ovoliko vremena potro&scaron;io ... &nbsp;Da si to uradio, možda bi i "WT" spremio i položio ...</p>
+</blockquote>
+<p>Pa nakon toga kontra-misli:</p>
+<blockquote class="posterous_medium_quote">
+<p>Ma stigao bi džavola ! Garant te taj &scaron;ablonski rada na ovaj ili ovaj način nanervirao, ili bi ti u najboljem slučaju to bilo tolika "fjaka" raditi da bi to gnjavio ko žvaku i opet bi na kraju bio na istom ...</p>
+</blockquote>
+<p>I tako u beskonačnu petlju. Dok moj uvrnuti mozak ne bi oti&scaron;ao na druge teme ...</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Ocjena - Excellent</strong></span></p>
+<p>Zato me je ocjena rada koju sam dobio jutros istinski obradovala:</p>
+<blockquote>
+<p><span style="font-size: x-small;">Cijenjeni,<br /></span><span style="font-size: x-small;">ovog puta cu pisati na na&scaron;em jeziku, a kolega Mohamed ce sebi prevoditi.</span></p>
+<p><span style="font-size: x-small;">Dostavljena nova verzija rada je izvrsna (ocjena deset 10) i ukoliko želite, mozete je dalje pro&scaron;irivati za zavr&scaron;ni/diplomski rad. Jedina se primjedba odnosi na kori&scaron;tenje wikipedie kao izvora literature, &scaron;to nije dopu&scaron;teno u ozbiljnim radovima. Znam da ste se jako namučili i nadam se da ćete nauceno moći iskoristiti za budući rad.</span></p>
+<p><span style="font-size: x-small;">Srdačan pozdrav,<br /></span><span style="font-size: x-small;">izv. prof. dr. sc. Vanja Bevanda</span></p>
+</blockquote>
+<p>Odgovorio sam:</p>
+<blockquote>
+<p><span style="font-size: x-small;">Cijenjena Profesorice,</span></p>
+<p><span style="font-size: x-small;">puno mi znači to &scaron;to je moj rad ocijenjen visokom ocjenom od nekoga ko je meritoran u ovom području.</span></p>
+<p><span style="text-decoration: underline; font-size: x-small;">Wikpedia NE</span></p>
+<p><span style="font-size: x-small;">O neprihvatljivosti kori&scaron;tenja wikipedije u akademskim radovima upoznat sam prateći radove moje 16-godi&scaron;nje kćerke(*).</span></p>
+<p><span style="font-size: x-small;">Zvuči paradoksalno, ali tako je :).</span></p>
+<p><span style="font-size: x-small;">Očigledni bi poseban predmet tipa: "Metodlogija i principi pisanja naučnih radova"(**) na&scaron;ao svoje mjesto na fakultetu kakav je FIT.</span></p>
+<p><span style="font-size: x-small;">Wikipediju sam koristio isključivo kod poja&scaron;njenja bazičnih pojmova i akronima koji se svakodnevno koriste u BI-u.</span></p>
+<p><span style="font-size: x-small;">Pri tome sam isljučivo vr&scaron;io prevode pojmova koji po mom sudu na Wikipediji bili *prezicni* i *razumljivi*.<br /></span><span style="font-size: x-small;">Uzimam daje navođenje wikipedije svakako bolji izbor od plagiranja - nenavođenja kori&scaron;tenih resursa :).</span></p>
+<p><span style="font-size: x-small;">S druge strane, shvatam razloge zbog kojih je kori&scaron;tenje Wikipedije kao (jedinog) izvora za bilo kakve ozbiljnije naučne tvrdnje neprihvatljivo.</span></p>
+<p><span style="text-decoration: underline; font-size: x-small;">Nastavak unutar zavr&scaron;nog rada ?</span></p>
+<p><span style="font-size: x-small;">&Scaron;to se tiče Va&scaron;eg prijedloga da rad na ovom polju nastavim u formi zavr&scaron;nog rada, svakako ću ispitati takvu mogućnost.</span></p>
+<p><span style="font-size: x-small;">&Scaron;to se mene tiče, to bi bilo sjajno. "BI" je za mene, u kontekstu posla kojim se bavim, iznimno atraktivna oblast.<br /></span><span style="font-size: x-small;">--</span></p>
+<p><span style="font-size: x-small;">(*) <a href="http://hernad.bring.out.ba/samra-myp-ocjene-prvo-polugodiste">http://hernad.bring.out.ba/samra-myp-ocjene-prvo-polugodiste</a><br /></span><span style="font-size: x-small;">(**) <a href="http://hernad.bring.out.ba/zamjena-predmeta-sociologija-sa-pravila-poslo">http://hernad.bring.out.ba/zamjena-predmeta-sociologija-sa-pravila-poslo</a></span></p>
+<p><span style="font-size: x-small;">S po&scaron;tovanjem,<br /></span><span style="font-size: x-small;">Ernad Husremović, DL 2792</span></p>
+</blockquote>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Seminarski rad: Poslovna inteligencija bazirana na "open source" softveru"&nbsp;</strong></span></p>
+<p>Evo na kraju link na <a href="https://github.com/hernad/MIS/raw/master/latex/MIS_OSS_BI.pdf">seminarski rad v2</a>.</p>
+<p>---</p>
+<p>(*) FER - Fakultet elektrotehnike u Zagrebu</p>
+<p>(**) ETL - Extract / Transform / Load</p>
+<p>(***) A da bih do kraja ovladao stvarima iz knjige, komotno bih treba mogao "če&scaron;ljati" jo&scaron; jedno 4-5 puta ... BI, ETL su zahtjevne teme.</p></div>
+<div class='post_tags'>
+<h4>Tags</h4>
+<div class='post_tags_list'>fit_3_godina, fit_mostar</div>
+</div>
+<div class='post_responses'>
+<h4>1094 views and 0 responses</h4>
+<ul class='post_responses list'>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

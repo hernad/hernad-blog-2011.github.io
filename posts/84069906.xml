@@ -1,0 +1,127 @@
+<item>
+	<title>&quot;knowhow ERP&quot; based student project on subject &quot;Management information systems&quot;</title>
+	<link>http://hernad.bring.out.ba/knowhow-erp-based-student-project-on-subject</link>
+	<pubDate>Mon Dec 05 02:30:00 -0800 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="b_knowhow"><![CDATA[b_knowhow]]></category>
+	
+		<category domain="tag" nicename="fit_3_godina"><![CDATA[fit_3_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/knowhow-erp-based-student-project-on-subject</guid>
+	<description></description>
+	<content:encoded><![CDATA[<blockquote>
+<ul>
+<li>Subject: MIS and knowhow ERP; &nbsp; Mon, Dec 05, 2011 11:50 AM</li>
+<li>From:&nbsp;&nbsp;Ernad Husremovic</li>
+<li>To :<span style=""> </span>&nbsp;Assistant Mohamed FIT</li>
+</ul>
+<p>Hello Mohamed,</p>
+<p>It was pleasure to talk with you on software development subjects.</p>
+<p>I hope we will have chance to countinue our conversations on this topic. I hope you have positive impression on <a href="http://www.appcelerator.com/">titanium appcelerator</a> as we did.</p>
+<p><span style="text-decoration: underline; font-size: small;"><strong>MIS student project</strong></span></p>
+<p>As I told you, a year ago my company <a href="http://www.bring.out.ba/">"bring.out"</a> started project <a href="http://redmine.bring.out.ba/projects/knowhow">"knowhow ERP"</a>.</p>
+<p>These are some informations about technical background of project: &nbsp;<a href="http://do-we-know-how.bring.out.ba/knowhow-erp-gdje-sta-kako">http://do-we-know-how.bring.out.ba/knowhow-erp-gdje-sta-kako</a></p>
+<p>In summary: "knowhow ERP" is open project developed by Bosnians to Bosnians. We don't exclude Hercegovce(*) either :)</p>
+<p>I want the point out the <a href="http://hernad.bring.out.ba/javna-i-komercijalna-dimenzija-knowhow-erp">public dimension</a> of project.</p>
+<p>It's open nature (open by source, open by development) provides that specific dimension.</p>
+<p>So, it is open to anyone to develop, explore and reuse. As such, it is ideal for student projects generally.</p>
+<p>There is no doubt our company has specific goals to achieve with "knowhow ERP", and I try to combine current goals with my student work.</p>
+<p><!--more-->I have achieved that goal with subject "Projecting of Information Systems" (**). My theme is <a href="https://github.com/hernad/PIS/raw/master/2792.pdf">MultiWHs feature of "knowhow ERP"</a>.</p>
+<p>I hope it can be reached also with subject "Management information systems" (MIS).</p>
+<p>As I sad on our meeting, there is already task on <a href="http://redmine.bring.out.ba/issues/24722">data mining and business intelligence (BI)</a> &nbsp;which is waiting on our actions.</p>
+<p>It is not high on our priority list anyway. I hope this student project could accelerate this activity.</p>
+<p>This is of course just initial - "frame" task. My plan, in the context of MIS, is:</p>
+<ol>
+<li>To learn basics of Pentaho and JasperReports BI solution s.</li>
+<li>To make some comparisons between them and choose the most suitable one</li>
+<li>To explore existing solutions on this topic (e.g. <a href="http://sourceforge.net/projects/erpbi/)">http://sourceforge.net/projects/erpbi/)</a>. This would influence conclusions in point 2)</li>
+<li>To apply these konwledges and skills in some concrete reports based on data analysis of our customer "Rama-glas" Sarajevo which is glass producing company. My colleagues already made some "hello world" reports with Pentaho BI, but my goal in this project is higher level of reporting.</li>
+</ol>
+<p>Thank you for positive acceptance and openess to my idea. I am aware, as you sad, that the final instance of the approval process is the Professor.</p>
+<p>I hope that this explanation can help to the final positive answer.</p>
+<p>I also hope that positive answer and my work can "open door" for including "knowhow ERP" related projects to generally acceptable student projects on MIS subject.</p>
+<p>I think that "knowhow ERP" has that potential.</p>
+<p><span style="text-decoration: underline;"><strong>Evaluations of student project</strong></span></p>
+<p>As I showed you on meeting, the base concept of "knowhow ERP" developement is openess. Every activity of any team member is <a href="http://redmine.bring.out.ba/projects/knowhow/activity">visible</a>.</p>
+<p>Every action is registered through our redmine project management system.</p>
+<p>That provides to you as student project mentor easy access to student progress and student work generally.</p>
+<p>It provides also easy communication between student and mentor. <a href="http://redmine.bring.out.ba/issues/25233">I think that this concept student of work</a> could be big step forward for any student project.</p>
+<p>So, the quality and quantity of my work would be easy accessible to you or anyone interested, not only in the point of final project's presentation.</p>
+<p>In the parlance of Softwaree engineering, our student work is going to be agile, incremental despite traditional "waterfall" :)</p>
+<p>Eagerly waiting for your answer.</p>
+<p>---<br />Ernad Husremović, DL 2792</p>
+<p><em>P.S: The reason of publishing this email public is the simple: It is our way of promoting "knowhow ERP". It is way we think academic community should function, and the best way to exchange knowhledge. We think about opensess as the great possibility for making better software.</em></p>
+<p>---<br /><span style="font-size: x-small;">(*) How to say "Hercegovci" on English ? Bosnia and Herzegovina =&gt; Bosnians and Herzegovees ?<br /></span><span style="font-size: x-small;">(**) I'm not sure it is good translation</span></p>
+</blockquote>
+<p>&nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Subject: MIS and knowhow ERP; Mon, Dec 05, 2011 11:50 AM From: Ernad Husremovic To : Assistant Mohamed FIT Hello Mohamed, It was pleasure to talk with you on software development subjects. I hope we will have chance to countinue our conversations ...]]></excerpt:encoded>	
+
+	<wp:post_date>Mon Dec 05 02:30:00 -0800 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>knowhow-erp-based-student-project-on-subject</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Mon Dec 05 06:41:13 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Mon Dec 05 06:41:13 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Nakon nepunih sahat, od Mohameda sam dobio pozitivan odgovor.
+
+Velika hvala na razumjevanju, Profesorici i kolegi asistentu.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[murga]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Mon Dec 05 11:04:50 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Mon Dec 05 11:04:50 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Pa kad su pocele prijave?? Kad je krajnji rok??]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Mon Dec 05 11:15:44 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Mon Dec 05 11:15:44 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Najavljene su konsultacije za narednu subotu konsultacije u Distiju. Na ispitu je to asisent pomenuo, a mislim da ima na DL-u.
+
+Ja sam, kad sam bio na uvidu rada za MIS, pitao za mogućnost da radim &quot;nestandrardan&quot; seminarski unutar knowhow ERP.
+
+Znači, još nije bilo nikakvih prijava niti informacija o krajnjem roku. ]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<link href='../../../exports.css' rel='stylesheet'>
+<link href='../../../exports.css' rel='stylesheet'>
+
+</head>
+<body>
+<div id='wrap'>
+<div id='header'>
+<h1>hernad</h1>
+<h2>This is an archived post
+This is an archived post
+</h2>
+</div>
+<div id='content'><div id='nav'>
+<a href="../../../posts/2011/10/tribute-to-steve-jobs-na-sarajevskom-univerzi.html">Previous</a>
+&nbsp; 
+<a href="../../../index-6.html">Index</a>
+&nbsp; 
+<a href="../../../posts/2011/10/pije-li-vode-oss-erp-software-u-bosni-openbra.html">Next</a>
+</div>
+<div class='post'>
+<div class='post_header'>
+<h3>"Pije li vode" OSS ERP software u Bosni - OpenERP</h3>
+<div class='post_info'>
+<span class='post_time'>October  5 2011,  2:43 AM</span>
+<span class='author'>&nbsp;by Ernad Husremović</span>
+</div>
+</div>
+<div class='post_body'><p>U&nbsp;<a href="http://hernad.bring.out.ba/pije-li-vode-open-source-erp-software-u-bosni">prvom dijelu</a>&nbsp;sam naveo motive i kriterija za odabir open source (nadalje OSS) ERP software-a.</p>
+<p>Ovdje ću iznijeti svoja dosada&scaron;nja iskustva i utiske o OpenERP-u.</p>
+<p><em><span style="text-decoration: underline;">Napomena: mnoge konstatacije ovdje navedene nisu do kraja provjerene ili su rezultat mojih subjektivnih dojmova. Ako sam ne&scaron;to pogrije&scaron;io, biću zahvalan na komentarima koji će ukazti na neispravnosti.</span></em></p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>OpenERP istorija</strong></span></p>
+<p>OpenERP je jedan od najagresivnijih "igrača" na OSS ERP trži&scaron;tu. Vrlo vjerovatno da su i u komercijalnom smislu najuspje&scaron;niji.</p>
+<p>Pojavili su se nakon Compiere &amp; forks rje&scaron;enja. Za razliku od ostalih oni su odabrali kao programski jezik python.</p>
+<p>Na trži&scaron;tu su brzo dobili epitet open source (nadalje OSS) "gerile". OpenERP autori su definitivno razbili mnoge stereotipe po pitanju percepcije open source software-a na trži&scaron;tu ERP rje&scaron;enja. Može se reći da su oni prvi ozbiljan "igrač" na trži&scaron;tu ERP aplikacija koji je puno toga bacio na&nbsp;"open source karte".</p>
+<p><!--more--><span style="text-decoration: underline; font-size: medium;"><strong>Tehnologija</strong></span></p>
+<p>U startu projekta su krenuli sa 3-tier arhitekturom koja je omogućila jednostavnu implementaciju različitih klijenata. Oficijelni su desktop rich klijent Gnome/GTK (PyGTK) i web klijent. Vidio sam čak i implementaciju konzolnog klijenta od strane neovisnog developera.</p>
+<p>Većina resursa se ulaže u razvoj web interfejsa. Ne bih se začudio da se u skorije vrijeme skroz napusti razvoj desktop klijenta.</p>
+<p>Python kao dinamički jezik da je razvoju značajnu agilnost. Kako je omiljen jezik kod OSS developera, vjerovatno je i njegov odabir jedan od značajnih faktora velike popularnosti OpenERP-a kod developera</p>
+<p><span style="font-size: medium;"><strong><span style="text-decoration: underline;">Licenca</span></strong></span></p>
+<p>OpenERP S.A. je dosta "&scaron;arao" sa licencama. Juče sam vidio da je do&scaron;lo do nove promjene licenci, tako da je izgleda sav OSS OpenERP software prebačen na AGPLv3 licencu.</p>
+<p>Par mjeseci unazad licenciranje je bilo različito:</p>
+<ul>
+<li>GTK klijent je bio licenciran sa GPLv2</li>
+<li>web klijent sa OpenERP public licencom (slična&nbsp;<a href="http://hernad.bring.out.ba/pije-li-vode-oss-erp-software-u-bosni-openbra">OpenBravo public license</a>)</li>
+<li>backend - application server sa AGPLv3 licencom</li>
+</ul>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Community, principi developmenta</strong></span></p>
+<p>OpenERP je veoma dinamičan software. Svaki dan raste i u kvantitativnom i u kvalitativnom smislu.</p>
+<p>Ima veliki community, istinski "world-wide" zastupljen. Posebno su aktivni u &Scaron;paniji, Francuskoj, Belgiji.</p>
+<p>Vlasnik software-a je OpenERP S.A. iz Belgije.</p>
+<p>Mislim da su i oni, kao i OpenBravo, imali jako <a href="http://en.wikipedia.org/wiki/Venture_capital">VC</a> finansiranje radi proboja na američko trži&scaron;te.</p>
+<p>Uočio sam da u developerskom dijelu dosta polažu na podizanje kvaliteta source koda, na uvođenje TDD/BDD testova, refactoring.&nbsp;Sjećam se da su u sklopu refactoringa kodne baze pokrenutli zamjenu svog in-house ORM database managera sa&nbsp;<a href="http://www.sqlalchemy.org/">SQLAlchemy</a>-jem.&nbsp;</p>
+<p>Međutim, dokle je to sve do&scaron;lo ne znam. Zadnja tri mjeseca ne pratim&nbsp;<a href="http://redmine.bring.out.ba/projects/openerp/wiki">openerp</a>.</p>
+<p>Takođe su kod web klijenta urađene značajne promjene sa prelaskom sa 5 na verziju 6 OpenERP-a.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>OpenERP, moja iskustva</strong></span></p>
+<p>OpenERP je bio moj&nbsp;<a href="http://redmine.bring.out.ba/projects/openerp/wiki">prvi izbor</a> baznog software-a za&nbsp;<a href="http://redmine.bring.out.ba/projects/knowhow/wiki">knowhow</a>&nbsp;ERP.</p>
+<p>U tom periodu sam najvi&scaron;e vremena utro&scaron;io na upoznavanje funkcionalnih karakteristika OpenERP-a, te njegove strukture sa stanovi&scaron;ta instalacije i konfiguracije.</p>
+<p>Par dana sam se "ganjao" sa problemima na&scaron;ih slova u reportima (UTF-8 enkodiranje). To je standardna boljka software-a koji je primarno razvijan za englesko govorno područje područje.&nbsp;</p>
+<p>Pregledom funkcionalnih karakteristika uočio sam velike razlike kod robno-materijanlog knjigovodstva. U određenim segmentima postoje značajne razlike - o tome sam već pisao u ranijem <a href="http://hernad.bring.out.ba/pije-li-vode-open-source-erp-software-u-bosni">članku (vidi&nbsp;K7.2</a>). Jedna od stvari koja uop&scaron;te nije obrađena je obračun zavisnih tro&scaron;kova (eng. landed costs). Dalnjim traganjem sam do&scaron;ao do zaključka da je to najbolje razrađeno u Adempiere-u, i djelimično u xTuple-u.</p>
+<p>Bilo mi je čudno kako je jedna tako standardna funkcija (sa stanovi&scaron;ta sopstvenih iskustava u Bosni) jednostavno preskočena. Shvatio sam da je u određenim segmentima internacionalno računovodstvo značajno pojednostavljeno u odnosu na na&scaron;e.&nbsp;</p>
+<p>Međutim, "no landed costs" definitivno nije stvar koja se ne može rije&scaron;iti. Čak sam i na&scaron;ao neke implementacije nezavisnih developera po tom pitanju.&nbsp;</p>
+<p>Zapeo sam na slijedećoj stvari:</p>
+<p>POS modul (maloprodaja) nije bio ni blizu onoga &scaron;to takav modul treba ponuditi, a uz to se pojavila potreba da se realizira podr&scaron;ka za fiskalizaciju.</p>
+<p>Zato je jedino logično rje&scaron;enje bila izrada novog modula za prodaju (kasnije nazvan <a href="http://redmine.bring.out.ba/projects/knowhow-p1">P1</a>).</p>
+<p>Međutim, onda se postavilo logično pitanje da li je bolje praviti green-field aplikaciju (iz početka) ili koristiti OpenERP kao framework za aplikaciu prodaje (vidi članak "<a href="http://hernad.bring.out.ba/kasnjenje">Ka&scaron;njenje</a>").&nbsp;</p>
+<p>Pored ovoga, &nbsp;na stolu mi je bio aktuelan zahtjev klijenta za aplikaciju mobilne prodaje&nbsp;(&scaron;to će se kasnije pretvoriti u <a href="http://redmine.bring.out.ba/projects/knowhow-m3">M3 knowhow</a>).</p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: large;">Skok na appcelerator i javascript</span></strong></span></p>
+<p>Postavio se praktičan cilj: Koliko god je moguće razvojni proces P1 i M3 sinhronizirati, odabrati razvojne alate koji će omogućit da razvoj P1 i M3 ne budu "dva svijeta različitia".</p>
+<p>U tom traganju se pojavio&nbsp;<a href="http://www.appcelerator.com/">Appcelerator titanium</a>&nbsp;kao atraktivno rje&scaron;enje za izradu mobilnih i web-desktop hibridnih aplikacija. Programski jezik appcelerator framework-a je javascript.</p>
+<p>Javascript ... javascript.</p>
+<p>Sve se vrti oko javascripta a ja sam ga oduvijek zaobilazio kao "bljak" programski jezik.</p>
+<p>Web ili web-like tehnologije. Sve aplikacije vrte se oko browser-a ... Korak po korak do&scaron;ao sam do zaključka da je vrijeme da se stvari prelome preko noge.</p>
+<p>Kako je M3 u svakoj kombinaciji bio&nbsp;<a href="http://en.wikipedia.org/wiki/Greenfield_project">greenfield</a>&nbsp;projekt, krenuli smo sa izradom prototipa <a href="http://redmine.bring.out.ba/projects/mobile-dev">mobilnog klijenta</a> i upoznavanjem appcelerator-a. Iskustva su bila krajnje pozitivna.</p>
+<p><span style="font-size: medium;"><strong><span style="text-decoration: underline;">&Scaron;ta sa javascript u OpenERP-u ?</span></strong></span></p>
+<p>Vratimo se OpenERP-u. OpenERP je je takođe puno javascript programiranja. Unutar web klijenta. Međutim, taj dio developmenta je bio praktično otvoreni source zatvorenog tipa. &Scaron;ta pod ovim mislim ?</p>
+<p>OpenERP modulu koji su server-side aplikacije koje univerzalni klijent (desktop/web) "povlače" sa servera. Sva developerska dokumentacija i razvoj aplikacija od neovisnih vendora "vrtio" se oko izrade tih modula. Oni se izrađuju u python programskom jeziku.&nbsp;</p>
+<p>Razvoj web klijenta se de&scaron;ava isključivo unutar OpenERP S.A.</p>
+<p>Tokom pregleda dokumentacije nigdje nisam na&scaron;ao pomen na taj segment deveopment-a.&nbsp;</p>
+<p>Hmm ... Onda sam do&scaron;ao do pitanja: Da li je onda OpenERP optimalan framework za na&scaron; knowhow ERP ?</p>
+<p>Ovo pitanje sam ostavio po na stand-by izvjesno vrijeme.</p>
+<p>Jedna od opcija je bila da se kompletan ERP nakon ovih P1 i M3 krene raditi from scratch - kao greenfield projekat ... Ali to je opet bilo u velikoj mjeri utopijsko razmi&scaron;ljanje. Mi, ovako mali kakvi jesmo takvo &scaron;ta ne možemo iznijeti. Možemo puno toga podžoniti iz FMK, ali mi ne želimo tehnički unaprijeđenu kopiju FMK mi trebamo ne&scaron;to drugačije. Ne&scaron;to puno bolje.</p>
+<p>Prečica je bila neophodna. Ali prečice nigdje.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>OpenERP poslovna strategija</strong></span></p>
+<p>Ali, vratimo se OpenERP-u. Pored pomenutih tehničkih dilema, pojavila se jo&scaron; jedna. Možda čak i presudna.&nbsp;</p>
+<p>Praćenjem OpenERP foruma do&scaron;ao sam do zaključka da vlasnik OpenERP S.A. kontinuirano "upire" u smjeru komercijalizacije svog rje&scaron;enja. Sve to je naravno njihovo legitimno pravo. Međutim njihova strategija je u mnogim segmentima suprostavljena interesima zajednice OSS korisnika OpenERP-a.</p>
+<p>I opet ista priča kao sa OpenBravo: <span style="color: #ff0000;"><strong>ozbiljan biznis, odnosno ozbiljne instalacije OpenERP-a se "vrte" se samo na plaćenim verzijama</strong></span>. &Scaron;to opet znači da partnerske firme koje prihvate tu igru u posao ne mogu ući samostalno. Uvijek je tu OpenERP S.A. koji treba svoju "gengu" uzeti.</p>
+<p>I slijedi isti zaključak kao ko OpenBravo:&nbsp;</p>
+<p><strong><span style="color: #ff0000;">Ako je to tako, onda je biznis sa OpenERP-om u su&scaron;tini biznis sa zatvorenim software-om koji ima svoju OSS varijantu ... koju niko u produkcijskom okruženju ne koristi.</span></strong></p>
+<p>To nije priča koju mi u bring.out želimo pričati. Mi želimo raditi biznis na otvorenom software-u.</p>
+<p>Mi želimo da na&scaron; core biznis bude baziran na open source rje&scaron;enjima. Ako će nam u svakoj ozbiljnoj varijanti "visiti" proprietary dodaci, ni&scaron;ta mi sa svim tim nismo dobili.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Novi OpenERP POS</strong>&nbsp;</span></p>
+<p>Pi&scaron;ući ovaj članak pregledao sam nove sadržanje na openerp.com. I imam &scaron;ta da vidim.</p>
+<p>OpenERP je pripremio potupno <a href="http://www.openerp.com/products/pos">novi POS modul</a>. Modul je napisan skroz ispočetka, ba&scaron; kako sam i ja prije dva mjeseca zaključio. Takođe modul je napisan sa kao čista Javascript/HTML5/LocalStorage aplikacija. Upravo onako kako sam ja pisao u članku "Ka&scaron;njenje" :). Tada sam sam sebe pitao jesam li prolupao zbog ovih razmi&scaron;ljanja ... OpenERP-ovci mi kažu da nisam :).</p>
+<p>Međutim jo&scaron; jednu stvar mi je novi OpenERP modul potvrdio: Strategija OpenERP-a je ta da OpenERP očigledno ide u smjeru zatvaranja. POS je atraktivan modul. Svaka druga firma treba POS.</p>
+<p><em><strong><span style="color: #ff0000;">Publikovanje pristojnog dobro realizovanog POS modula kao zatvoreni software po meni značajno ru&scaron;i kredibilitet OpenERP S.A. kao open source vendora.</span></strong></em></p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Ostale tehničke impresije o OpenERP-u</strong></span></p>
+<p><span style="font-size: medium;">Internet je pun korisničkih i developerskih informacija o OpenERP-u.</span></p>
+<p>Sam OpenERP ima svoju online dokumentaciju. U poređenju sa OpenBravo dokumentacijom ona je lo&scaron;ijeg nivoa, ali je definitivno iskoristiva.</p>
+<p>Database je PostgreSQL, sa cca 350-400 tabela u osnovnoj konfiguraciji (svaki dodatni modul kreira svoje tabele).&nbsp;</p>
+<p>Database model mi se čini čitljivim, ali postoji problem neobjavljivanja migracijskih skripti prilikom migracije sa jedne ne drugu "major" verziju (npr sa 5.x na 6.x).</p>
+<p>O tome sam pisao u uvodnom <a href="http://hernad.bring.out.ba/pije-li-vode-open-source-erp-software-u-bosni">članku na ovu temu - vidi K6 b)</a>.</p>
+<p>OpenERP ima odlično razrađen sistem modula, inicijalne konfiguracije klijenta putem "wizard" funkcija.&nbsp;</p>
+<p>Korisnički interfejs je dobro osmi&scaron;ljen. Ideja generičkog klijenta koga navigiraju serverski moduli omogućava veliki produktivnost u izradi novih modula. Međutim svugdje gdje se primjenjuju ovi "generički recepti" postoji i danak određenim specifičnim situacijama.</p>
+<p>Zato korisnički interfejs i generalno user experience nisu na svim mjestima takvim da "upadne&scaron; na glavu". Ali svakako za par stepeni iznad <a href="http://hernad.bring.out.ba/pije-li-vode-open-source-erp-software-u-bosni-52055">Adempiere</a>-a, ali i <a href="http://hernad.bring.out.ba/pije-li-vode-oss-erp-software-u-bosni-openbra">OpenBravo</a>-a.</p>
+<p>python aplikacijski serve čini serversku aplikaciju puno manjim gutačem memorije od Adempiere-a, o OpenBravo-u da ne govorim. Naravno java serverske aplikacije će na jačim serverima brzo potući python kao dinamički jezik ... ali za developera je praktičan problem kada u developerskoj sesiji treba&scaron; čekati par minuta da se OpenBravo aplikacijski server samo "podigne".</p></div>
+<div class='post_tags'>
+<h4>Tags</h4>
+<div class='post_tags_list'>bringout, business, erp, opensource</div>
+</div>
+<div class='post_responses'>
+<h4>571 views and 0 responses</h4>
+<ul class='post_responses list'>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

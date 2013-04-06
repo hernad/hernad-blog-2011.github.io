@@ -1,0 +1,260 @@
+<item>
+	<title>Šta bi &quot;IT poletarci&quot; trebali raditi u bring.out ?!</title>
+	<link>http://hernad.bring.out.ba/sta-bi-it-poletarci-trebali-raditi-u-bringout</link>
+	<pubDate>Thu Mar 24 08:52:00 -0700 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+	
+		<category domain="tag" nicename="sistem"><![CDATA[sistem]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/sta-bi-it-poletarci-trebali-raditi-u-bringout</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Evo povazdan pi&scaron;em li pi&scaron;em ... Pričam kako želimo zaposliti <a href="/strategija-zaposljavanja-u-bringout">mlade ljude - "IT poletarce"</a>, pričam o mom(*) pogledu na <a href="/bringout-point-of-view-na-erp-biznis">ERP biznis</a>, ali nikako ne kažem &scaron;ta je to &scaron;to bi ljudi radili ...</p>
+<p>Po&scaron;to sam ja hernad "the otvoreni", otkriću vam tajnu. Iza čitave ove priče krije se i jedan konkretan lik - <a href="/emir-i-berin">Emir</a>. Sa Emirom sam prije par dana dogovorio da počne raditi u bring.out kao "IT poletarac"(**).</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Moj vaz Emiru</strong></span></p>
+<p>Ovo sam rekao Emiru:</p>
+<p>Prije svega mislim da je "bring.out" dobar za tebe jer može&scaron; puno naučiti.</p>
+<p>Mislim da si ti dobar izbor za "bring.out" iz sljedećih razloga:</p>
+<ul>
+<li>&scaron;to zna&scaron; da ne zna&scaron; poslove sa kojima se treba&scaron; uhvatiti u ko&scaron;tac, ili ti zna&scaron; da NE zna&scaron;</li>
+<li>&Scaron;to si "otvorena knjiga" za nova znanja i za način rada koji nije uvriježen u drugim firmama</li>
+</ul>
+<p><!--more-->Ako pogledamo poslove u firmi, imamo sljedeće grupe poslova:</p>
+<ol>
+<li>servisni poslovi</li>
+<li>sysadmin poslovi</li>
+<li>programerski poslovi</li>
+<li>administrativni poslovi</li>
+<li>sitni "house-majstor" poslovi ...</li>
+</ol>
+<p>U svim ovim poslovima, veliki dio čine sljedeće aktivnosti:</p>
+<ol>
+<li>kontakti sa klijentima (administrativne i tehničke prirode)</li>
+<li>podr&scaron;ka korisnicima (izlasci na teren, email i telefonska podr&scaron;ka)</li>
+</ol>
+<p>&Scaron;ta će&scaron; ti raditi ? U početku <strong>sve</strong>. Tvoj posao je da se upozna&scaron; sa firmom. I da aktivno učestvuje&scaron; u upoznavanju firme - koristeći <a href="/radni-dan-u-bringout">redmine</a>.</p>
+<p>Odakle početi:</p>
+<ul>
+<li>odmah krećemo sa zaduženjima i obavezema koje može&scaron; preuzeti</li>
+<li>svaki put kada se ukaže pogodna prilika, ići će&scaron; a starijim kolegama na terene     
+<ul>
+<li>bitno je da ovi odlasci budu maksimalno svrsishodni</li>
+<li>treba se pripremiti za terene, tako ne dođe&scaron; u situaciju da "bleji&scaron; ko tele u &scaron;arena vrata"</li>
+</ul>
+</li>
+</ul>
+<p>Od tebe se traži da &scaron;to samostalnije "ufura&scaron;" u aktivnosti firme. Da razmi&scaron;lja&scaron; i stalno sebi postavlja&scaron; pitanja:</p>
+<blockquote class="posterous_medium_quote">
+<p>Koji to meni poslovi odgovaraju ? U kojim poslovima sebe vidim,&nbsp; a koji su mi misaona imenica ? &Scaron;ta kontam (odnosno brzo skontam), a &scaron;ta ne kontam (te&scaron;ko skontam) ? &Scaron;ta mi se sviđa, a &scaron;ta ne sviđa ?</p>
+</blockquote>
+<p>Moj posao da pratim tvoje aktivnosti. Da te usmjeravam, kada procijenim da treba&scaron; pomoć. Ali, je bitno da u startu shvati&scaron;:</p>
+<blockquote class="posterous_medium_quote">
+<p>Ti si subjekat, a ne objekat događanja. Ako prihvati&scaron; da se stvari de&scaron;avaju mimo tebe i tvog uticaja - ako prihvati&scaron; ulogu objekta ... te&scaron;ko da će&scaron;&nbsp; naći svoju poziciju firmi. Te&scaron;ko da će firma imati od tebe velikog hajra.</p>
+</blockquote>
+<p>Onda sam mu dao link na na&scaron;a uputstva:</p>
+<ul>
+<li><a href="http://redmine.bring.out.ba/projects/b-out-ba/issues?query_id=25">opća uputstva za rad u bring.out</a></li>
+<li><a href="http://redmine.bring.out.ba/projects/office-sc/issues?query_id=23">office</a></li>
+<li><a href="http://redmine.bring.out.ba/projects/infra-int/issues?query_id=24">tehnički poslovi</a></li>
+</ul>
+<p>Isti dan mu je otvoren pristup na redmine, i njegov rad u bring.out je praktično započeo.</p>
+<p>Ukazao sam mu na uputstva koja treba prva pročitati:</p>
+<ul>
+<li>čestit posao <a href="http://redmine.bring.out.ba/issues/20751" class="issue status-5 priority-2 closed created-by-me assigned-to-me" title="uputstvo: čestit posao (Zatvoreno)">#20751</a></li>
+<li>pravila i procedure - cilj <a href="http://redmine.bring.out.ba/issues/20888" class="issue status-5 priority-2 closed created-by-me assigned-to-me" title="uputstvo: pravila i procedure - cilj (Zatvoreno)">#20888</a></li>
+<li>meritokracija <a href="http://redmine.bring.out.ba/issues/20820" class="issue status-5 priority-2 closed created-by-me assigned-to-me" title="uputstvo: meritokracija (Zatvoreno)">#20820</a> </li>
+<li>eksterna komunikacija <a href="http://redmine.bring.out.ba/issues/20863" class="issue status-5 priority-2 closed created-by-me assigned-to-me" title="uputstvo: eksterna komunikacija  (Zatvoreno)">#20863</a> </li>
+<li>aktivno održavanje = nadogradnja + či&scaron;ćenje; stalan proces <a href="http://redmine.bring.out.ba/issues/21260" class="issue status-5 priority-2 closed created-by-me assigned-to-me" title="uputstvo: aktivno održavanje = nadogradnja + či&scaron;ćenje; stalan proces (Zatvoreno)">#21260</a></li>
+<li>sadržaj ticketa - preglednost&nbsp; <a href="http://redmine.bring.out.ba/issues/20991" class="issue status-5 priority-2 closed created-by-me assigned-to-me" title="uputstvo: sadržaj ticketa - preglednost  (Zatvoreno)">#20991</a></li>
+<li>sistem odlučivanja u bring.out <a href="http://redmine.bring.out.ba/issues/22502" class="issue status-2 priority-2 created-by-me assigned-to-me" title="uputstvo: sistem odlučivanja u bring.out (Dodijeljeno)">#22502</a></li>
+<li>&scaron;ta me izluđuje najvi&scaron;e kod radnika <a href="http://redmine.bring.out.ba/issues/21641" class="issue status-5 priority-2 closed created-by-me assigned-to-me" title="uputstvo: &scaron;ta me izluđuje najvi&scaron;e kod radnika (Zatvoreno)">#21641</a></li>
+</ul>
+<p>Rekao sam Emiru da posebnu pažnju obrati na uputstva "Čestit posao" i "Meritokracija". Ta dva uputstva sam pominjao u članku <a href="/miletova-japanska-chenifa-i-cestit-posao">"Miletova japanska chenifa i čestit posao"</a>.</p>
+<p>Na kraju sam mu otvorio ticket sa naslovom: "Emir, ufuravanje", i stavio prvi komentar:</p>
+<blockquote class="posterous_short_quote">
+<p>Evo ti ticket pi&scaron;i, &scaron;ta ti volja ...</p>
+</blockquote>
+<p>I to je sva procedura. Ovim je Emir počeo rad u bring.out.</p>
+<p>Emire, sretno nam bilo.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>A ti ?</strong></span></p>
+<p>Želi&scaron; li ti raditi u bring.out ? Jesi li siguran ? 100% siguran ?!</p>
+<p><a href="/drzavo-pomagaj">Jesi li pametnan/pametna, blentav/blentava, hrabar/hrabra, otvoren/otvorena ?</a></p>
+<p>Procedura je jednostavna. Samo napi&scaron;i komentar na ovaj blog.</p>
+<p>----</p>
+<p>(*) Da dobro ste uočili - nekada kažem "ja", nekada "bring.out". Po pitanju strategije bring.out u ovom trenutku stvari stoje ovako: hernad=bring.out. Je li to dobro ili nije ... nebitno. Tako je.</p>
+<p>(**) Istina, tada nisam znao da se radno mjesto zove "IT poletarac". Taj termin se prvi put danas pojavio :)</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Evo povazdan pišem li pišem ... Pričam kako želimo zaposliti mlade ljude - "IT poletarce", pričam o mom(*) pogledu na ERP biznis, ali nikako ne kažem šta je to što bi ljudi radili ... Pošto sam ja hernad "the otvoreni", otkriću vam tajnu...]]></excerpt:encoded>	
+
+	<wp:post_date>Thu Mar 24 08:52:00 -0700 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>sta-bi-it-poletarci-trebali-raditi-u-bringout</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[Emir]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Thu Mar 24 10:11:34 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Thu Mar 24 10:11:34 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Znam da sam malo škrt sa komentarima.
+100% sam blentav,pametan,hrabar, i želim raditi u bring.out-u ]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Thu Mar 24 10:16:58 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Thu Mar 24 10:16:58 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[He he ... 
+
+Svako moje pisanje je svojevrstan test - neoga će privući, a nekoga odbiti.
+
+I to jeste upravo svrha pisanja ...
+
+Za ovih godinju i manje, Emir je dovoljno upoznao moju blentavost, ali ipak nije mogao imati cijelu sliku. Koliko god sam blentav na blogu, to je sitnica za moje ponašanje u bring.out ...
+
+Zato mi je veliko ohrabrenje činjenica da Emir i ja dijelimo mišljenje o tome da bring.out može biti dobar za Emira, i Emir za bring.out.
+
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[murga]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Sun Mar 27 23:46:37 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Sun Mar 27 23:46:37 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Cestitam... I. parcijalni iz REPke je pao...]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[Berin]]></wp:comment_author>
+			<wp:comment_author_email>cinik@live.com</wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Tue Mar 29 03:35:50 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Tue Mar 29 03:35:50 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Kasnim ali sta cu, imao sam neke frke ovih dana. Ja sam naravno zainteresovan za ovakvo nesto zbog sticanja iskustva i ucenja neceg novog - za mene *nix based operativni sistemi su totalni bauk i smatram da bi trebao mjenjati neke svoje navike. Samo me interesuje da li vi ocekujete kao poslodavac da sam &quot;ufurani&quot; korisnik linuksa ili dajete neki rok da se neke stvari savladaju. Inace, sta ima Ernade, sta se radi?
+
+Pozdrav]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Tue Mar 29 06:01:40 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Tue Mar 29 06:01:40 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[@murga, hvala. Rezultat je definitivno prevazišao moja očekivanja ]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Tue Mar 29 06:13:52 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Tue Mar 29 06:13:52 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[E ovaj moj Berin je stvarno freak ... Neće da čita ...
+
+Pa bolan Berine, ko je gore pominjao linux ? Neće da čita, neće da čita.
+
+Ali dobro, već kasniš čitavih dva dana iza Emira. 
+
+Spremi se i dolazi na posao. Već si u crvenom.
+
+A što se tiče pregovora o plati i uslovima, idemo transparentno:
+
+1) Plata je mizerija - neće ti ni troškove puta podmiriti. Feudalizam i robovlasništvo zajedno su pojmovi humanosti za bring.out
+2) Poslovi teški i dosadni. IT poletarci su prvi na listi onih koji peru suđe i bacaju smeće ... ali o detaljima kada dođeš na posao ... ne mogu sve u javnosti iznositi
+3) Radno vrijeme ... ko pita za radno vrijeme !? Ma sram da ga bude ! Radi se dok ti oči ne ispadnu !
+4) Firma zadnje dvije godine posluje u teškim gubicima. Detalji ovdje http://hernad.bring.out.ba/reporting-u-praksi
+Ako nas vi poletarci sad ne izvadite mi smo skroz - naskroz potonuli
+
+Nakon ovakvih motivirajućih stvari šta drugo da kažem:
+*  pročitaj ovaj članak i linkove na njega - al' oprave (sve ću te pitati kad dođeš)
+*  dođi na posao već kasniš - Juraja Najtharta 3, kod okretaljke 17-ke autobusa
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[Emir]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Tue Mar 29 06:17:30 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Tue Mar 29 06:17:30 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Požuri čekamo te :)]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[emina]]></wp:comment_author>
+			<wp:comment_author_email>emina.suljevic@edu.fit.ba</wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Tue Jun 21 06:55:27 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Tue Jun 21 06:55:27 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[ja poslah mail :D]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Tue Jun 21 07:03:44 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Tue Jun 21 07:03:44 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Draga Emina, što jest-jest brza si k'o zmaj. U ovom konkretnom slučaju je veliki problem to što prije objave konkursa nisi bila prijavljena na biro. 
+Svakako ti preporučujem da to učiniš, a mi ćemo sa zavodom vidjeti da li je ikako moguće u ovoj varijanti koristiti poticaj. Nažalost, uslovi i Ugovor Zavoda kaže da nije :(
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

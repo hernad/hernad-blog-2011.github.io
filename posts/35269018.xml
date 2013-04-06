@@ -1,0 +1,57 @@
+<item>
+	<title>Statistika, bazni i lančani indeksi</title>
+	<link>http://hernad.bring.out.ba/statistika-bazne-i-lancane-stope</link>
+	<pubDate>Fri Dec 03 15:01:00 -0800 2010</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/statistika-bazne-i-lancane-stope</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Izvor: Fit materijali, a sam ja dosta promijenio</p>
+<p><span style="text-decoration: underline;"><strong>Indeksi </strong></span></p>
+<p>predstavljaju odnos neke pojave u tekućem u odnosu neko ranije mjerenje koje uzimamo kao osnovicu.</p>
+<p>Indeksi su se najče&scaron;će koriste kod utvrđivanja dinamike neke pojave u određenim vremenskim intervalima.</p>
+<p>Indeksi se koriste onda kada nam je bitnij omjeri između tekućeg i ranijeg stanja nego sam iznos pojave.</p>
+<p><em>Primjer pojava koje je pogodno izraziti putem indeksa su ekonomski pokazatelji: Stopa inflacije po mjesecima, rast proizvodnje po godinama.</em></p>
+<p><!--more--><span style="text-decoration: underline;"><strong>Lančani indeks</strong></span></p>
+<p>Lančani indeksi: Odnos između dva susjedna mjerenja: Xm / Xm-1, odnos između između tekućeg i mjerenja u ranijem periodu</p>
+<p>Primjer: pojava ima mjerenja po mjesecima: Xm0 = 10, Xm1 = 50, Xm2 = 100</p>
+<p>L1 = Xm1/Xm0 = 50/10 = 5</p>
+<p>L2 = Xm2/Xm1 = 100/50 = 2</p>
+<p><span style="text-decoration: underline;"><strong>Bazni indeks&nbsp; </strong></span></p>
+<p>Bazni indeks: Odnos između tekućeg i baznog mjerenja, pri čemu je ta bazna vrijednost najče&scaron;će početno mjerenje.</p>
+<p>Za gornji skup mjerenja imamo</p>
+<p>B1 = Xm1/Xm0 = L1 = 5</p>
+<p>B2 = Xm2/Xm0 = L1*L2 = Xm1/Xm0 * Xm2/Xm1 = Xm2/Xm0 = 5*2 = 10</p>
+<p>Vježba izračunavanja lančanih i baznih indeksa i njihovog preračuna:</p>
+<p><div class='p_embed p_file_embed'>
+<a href="http://getfile5.posterous.com/getfile/files.posterous.com/temp-2010-12-03/ylHJCqDEiJfryABpABCykpolyuEqDxxEsefirIoxkEDFFJojepwhseDHeDxd/banze_i_lancane.xlsx"><div class='p_icon'></div>
+<div class='p_text'>banze_i_lancane.xlsx</div>
+</a></div>
+</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Izvor: Fit materijali, a sam ja dosta promijenio Indeksi predstavljaju odnos neke pojave u tekućem u odnosu neko ranije mjerenje koje uzimamo kao osnovicu. Indeksi su se najčešće koriste kod utvrđivanja dinamike neke pojave u određenim vremenskim ...]]></excerpt:encoded>	
+
+	<wp:post_date>Fri Dec 03 15:01:00 -0800 2010</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>statistika-bazne-i-lancane-stope</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

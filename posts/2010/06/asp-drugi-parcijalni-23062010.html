@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<link href='../../../exports.css' rel='stylesheet'>
+<link href='../../../exports.css' rel='stylesheet'>
+
+</head>
+<body>
+<div id='wrap'>
+<div id='header'>
+<h1>hernad</h1>
+<h2>This is an archived post
+This is an archived post
+</h2>
+</div>
+<div id='content'><div id='nav'>
+<a href="../../../posts/2010/06/babina-10-tka.html">Previous</a>
+&nbsp; 
+<a href="../../../index-16.html">Index</a>
+&nbsp; 
+<a href="../../../posts/2010/06/algoritam.html">Next</a>
+</div>
+<div class='post'>
+<div class='post_header'>
+<h3>ASP - "Algoritmi i strukture podataka", drugi parcijalni, 23.06.2010</h3>
+<div class='post_info'>
+<span class='post_time'>June 23 2010,  2:32 PM</span>
+<span class='author'>&nbsp;by Ernad Husremović</span>
+</div>
+</div>
+<div class='post_body'>
+
+<p>25.06.2010</p>
+<p>Prekjuče sam radio zadnji ispit iz ovog junskog turnusa. Juče sam krenuo da napi&scaron;em ne&scaron;to o ovom ispitu, ali mi mozak <a href="algoritam">ode u ovom smjeru</a></p>
+<h2><!--more--></h2>
+<h2>&Scaron;ta se radi na ASP-u</h2>
+<p>Algoritmi i strukture podataka (ASP) su mi bez ikakve dileme omiljeni predmet.</p>
+<p>Programiranje se i svodi na dvije stvari:</p>
+<ol>
+<li>shvatiti problem koji se treba programirati (skontaj algoritam)</li>
+<li>&ldquo;ispričati&rdquo; taj algoritam na odgovarajućem programskom jeziku</li>
+</ol>
+<p>ASP se najvi&scaron;e bavi ovim prvim dijelom.</p>
+<p><a href="http://github.com/hernad/blog/blob/master/articles/pr1-parc-2-1-put-20100621.markdown">PR1</a> se fokusira na tehnike programiranja, znači praktično na drugu tačku.</p>
+<p>Da budem iskren, kada u svakodnevnom poslu rje&scaron;avanje problema pređe u  rutinu, zadatak mi postaje neinteresantan. Moja radna motivacija  počinje eksponencijalno padati :).</p>
+<p>Zato je valjda i normalno da mi se ASP vi&scaron;e sviđa vi&scaron;e od PR1.</p>
+<p>ASP je takav da kada stvar skonta&scaron; &ndash; to je to. Sama implementacija  algoritma kojeg konta&scaron; je samo pitanje vremena. U programskom kodu koji  treba&scaron; napisati nema nikakvih &ldquo;zamki&rdquo;.</p>
+<p>Tu nema pointera-na pointere-na-pointere kako to kolege sa PR1 vole  zadati da bi vidjeli kako studenti vladaju tehnikama programiranja. Da ne bude nesporazuma, ove &ldquo;zamke&rdquo; su sasvim legitimne i imaju svoju  svrhu u PR1. Međutim, meni jednostavno nisu drage. Ja često na to u svojoj glavi imam problem &scaron;to moj mozak na takve stvari  &ldquo;padne&rdquo; jer ih procesira tako &scaron;to umjesto da traži rje&scaron;enje postavlja  pitanje: &ldquo;&Scaron;to se sad ovo uop&scaron;te pojavi ?!&rdquo;</p>
+<p>Ali dobro, moj je procesor <a href="http://github.com/hernad/blog/blob/master/articles/25-godina-hardware-software-20100606.markdown">model Z80</a> pa nije ni čudo &scaron;to se brzo zapu&scaron;i :).</p>
+<p>Evo mene, opet ja odoh u neku skroz desetu temu &hellip;</p>
+<p>Vraćam se na ispit.</p>
+<h2>Zadaci</h2>
+<p>Ispit je bio podjeljen na teoretski i praktični dio.</p>
+<p>Za razliku od PR1, nismo mogli uzeti listove od zadataka. Nisam  siguran da li je to &scaron;to profesor ne želi da se zadaci &ldquo;&scaron;ire&rdquo; među  studentima ili je neki drugi razlog.</p>
+<p>Ja ću po sjećanju navesti &scaron;ta se u mojoj grupi (A) tražilo.</p>
+<h2>Teoretski dio</h2>
+<p>Tražilo se obja&scaron;njenje algoritama &ldquo;merge sort&rdquo;-a  i &ldquo;selection  sort&rdquo;-a. Traženo je da se objasne ovi algoritmi na primjeru zadatog niza  od 11 brojeva.</p>
+<p>To je bio glavni dio zadatka. Pred toga su bila i pitanja:</p>
+<ol>
+<li>kompleksnost algoritma merge sort (samo navesti)</li>
+<li>selection sort &ndash; navesti i izračunati broj usporedbi i premje&scaron;tanja (kol'ko se sjećam)</li>
+</ol>
+<p>Drugi zadatak je bilo obja&scaron;njenje &ldquo;shell sort&rdquo;-a opet za neki drugi zadani niz, sa razmacima 4-2-1.</p>
+<h2>Praktični dio</h2>
+<p>Tu je traženo:</p>
+<ol>
+<li>da se napravi C++ kod za FIFO implementaciju reda (FIFO Queue)</li>
+<li>napi&scaron;e funkcija insertion sorta gdje su argumenti matrica integera i dužina te matrice)</li>
+</ol>
+<h2>Rje&scaron;avanje</h2>
+<p>Pregledao sam zadatke i vidio da FIFO Queue nosi 40 poena.</p>
+<p>Odmah sam krenuo na njegovu implementaciju sa pomisli: &ldquo;Kakav sam  sporać, mogu i ovaj ispit od čiste situacije napraviti veresiju. Uradiću  ovaj &scaron;to nosi najvi&scaron;e bodova prvi dok sam dovoljno koncentrisan&rdquo;.</p>
+<p>Interesantno je da je queue dinamička implementacija zadnja stvar koju sam u <a href="http://gitorious.org/fit-mostar/asp/blobs/master/priprema_parc_2/queue_2.cpp">srijedu pred polazak u mostar</a>. Prava sreća.</p>
+<p>Jo&scaron; interesantnije je da sad kada pogledam kod koji sam vježbao pred  ispit, ja sam na ispitu samo par sahata kasnije skroz drugačije nazive  struktura i varijabli koristio :(.</p>
+<p>Mislim da bih prije 20 godina u ovakvoj situaciji zadatak bukvalno prepisao iz glave u roku od 15-tak minuta. Ali to vi&scaron;e očigledno ne ide. RAM mi se smanjuje i po kapacitetu i po &ldquo;storage time&rdquo;-u :).</p>
+<p>Zato sam  na ispitu kod realizacije radio tako &scaron;to sam napravio  grafičku reprezentaciju reda, pa na osnovu nje radio implementaciju.</p>
+<p>Sjećam se da sam &ldquo;Push&rdquo; komandu pogre&scaron;no uradio &ndash; nisam obradio  situaciju kada je glava = NULL, pa sam tu funkciju prekrižio i morao je  ponovo ispisati.</p>
+<p>Tako je rad trajao nekih 50-tak minuta ako ne i čitav sahat.</p>
+<h2>Vrijeme vrijeme</h2>
+<p>Nakon Queue-a počeo sam prebirati po tome &scaron;ta mi je sljedeće najbolje da prevalim 60% &hellip; Vrijeme je već utanjilo.</p>
+<p>Asistenti su, za razliku od PR1, bili eksplicitni u tome da će se  držati predviđenih 90 minuta za &ldquo;parcijalce&rdquo; odnosno 2 sahata za  &ldquo;integralce&rdquo;.</p>
+<p>Malo sam zastao i odlučio da ipak uzmem insertion sort funkciju, jer  sam to par puta prolazio &hellip; Rekoh: &ldquo;valjda ću ovo napamet znati&rdquo;.</p>
+<p>Ali jok. I to sam opet crtao i na osnovu toga pisao. Ma čovječe ja ni&scaron;ta ne mogu napamet naučiti vi&scaron;e. Joj joj joj.</p>
+<p>Međutim, nakon par kontrola i usporedbe sa skicom algoritma po kojoj  sam kontrolisao napisani kod, trebalo bi da sam na kraju do&scaron;ao do  ispravnog rje&scaron;enja.</p>
+<p>Mislim jer ja redovno kod prve iteracije (prvog pisanja koda) napravim pokoju gre&scaron;ku.</p>
+<p>Da li sam sada pobijedio sebe, vidjećemo.  Kod prvog parcijalnog jesam. Dobio sam maksimum :)</p>
+<h2>hernad sporać</h2>
+<p>Tu sam se ja već približio na manje od pola sahata kraju a da jo&scaron; nisam ni&scaron;ta od teoretskih pitanja uradio.</p>
+<p>I tu u pomoć uskače profesor. Dolazi i kaže da pazimo da se odvojeno  rade teoretski i praktični dio ispita. Raja se počinje buniti. Govore:  &ldquo;Mi smo pisali zajedno, &scaron;ta sad da radimo !?&rdquo;.</p>
+<p>Profesor je međutim skroz susretljiv, pa kaže: &ldquo;Evo dobićete jo&scaron;  15-30 minuta za prepisivanje, koliko god vam treba, ali to morate vas  prepisati. Uop&scaron;te nećete biti bodovani ako na istom papiru budete  predali teoriju i praktični dio&rdquo;.</p>
+<p>Objasno je da je razlog za to način pregleda radova: različiti ljude će raditi pregled teoretskog, odnosno praktičnog dijela.</p>
+<h2>Hvala ti profesore gdje čuo i gdje ne čuo &hellip;</h2>
+<p>Ja sam ba&scaron; započeo pisati odgovore na preskoke u želji da barem pokažem da znam odgovore na pitanja&hellip; Zato sam recimo selection sort obja&scaron;njenje dosta lo&scaron;e napisao &ndash; na preskoke. Mislio sam ću za par minuta morati predati rad.</p>
+<p>Kako je do&scaron;lo do produženja roka za pisanje, ostale dijelove sam uradio puno bolje.</p>
+<p>Ono &scaron;to je najbitnije, mislim da sam napisao dovoljno, i da je ono &scaron;to je napisano, ako ne tačno, onda nije ni lupetanje :).</p>
+<p>Sigurno će to biti daleko od 100% sa prve parcijale, ali s obzirom na <a href="http://github.com/hernad/blog/blob/master/articles/odakle-ja-na-fitu-20100616.markdown">moje ciljeve</a>, sve &scaron;to rezultira ocjenom u indeksu je pun pogodak.</p>
+<p>Nakon ispita me je ruka u ramenu bolila isto k'o da sam &ldquo;na hladno&rdquo; odigrao žestoku partiju stonog tenisa.</p>
+<h2>Zavr&scaron;ni utisci</h2>
+<p>ASP je tako napravljen ispit da onaj k'o čestito prođe gradivo ne bi trebao imati bilo kakvih problema sa polaganjem.</p>
+<h3>Recept: &ldquo;nabubaj&rdquo; ?</h3>
+<p>Ne znam da li se može &ldquo;nabubati&rdquo;, vjerovatno može.</p>
+<p>Međutim, ubjeđen sa da je onaj to uzme za strategiju spremanja ovog  <strong>definitivno fulao fakultet</strong>.</p>
+<h3>Profesor</h3>
+<p>Profesor je doc. dr. Haris &Scaron;upić sa sarajevskog ETF-a.</p>
+<p>Na prvom parcijalnom je bio zadataka za binarnu pretragu.</p>
+<p>Ja sam kod pripreme tog algoritma i&scaron;ao na varijantu koja se  razlikovala u odnosu na onu sa predavanja. To sam u ispitu i naveo, i  naveo link na svoje <a href="http://gitorious.org/fit-mostar/asp/blobs/master/bin_search/search_2.cpp">vježbe</a>.</p>
+<p>Nakon ispita sam mu to preričao. Tačnije, rekao sam mu da mi  algoritam za binarnu pretragu iz predavanja nije nikako legao", pa sam  pogledao druge varijante na internetu. Ta druga varijanta mi se učinila  boljom pa sam se odlučio za nju.</p>
+<p>Ukratko u toj mojoj &ndash; internet varijanti je unutar while petlje ispitivan &ldquo;middle&rdquo; elemenat na jednakost sa traženim elementom.</p>
+<p>Profesor me je saslu&scaron;ao i odmah rekao: &ldquo;Nema problema, postoji niz  varijanti algoritma i koju god da ste odabrali &ndash; to je ok. To &scaron;to ste vi  na&scaron;li je bolje na manjem setu podataka, ali se na većem setu algoritam  sa predavanja pokazao bolji. Razlog je taj &scaron;to je operacija poređenja  vremenski zahtjevna&rdquo;.</p>
+<p>Fakat ima smisla&hellip; Rekao je takođe da je on to na predavanjima obja&scaron;njavao.</p>
+<p>Ono &scaron;to me je dojmilo jeste činjenica da je maksimalno strpljivo mom  pitanju, te je &ldquo;u sekundi&rdquo; skontao &scaron;ta ga pitam i dao krajnje logičan  odgovor. Zna čovjek znanje.</p>
+<p>Mislim da je čak prilikom ocjenjivanja mog rada ovo uzeo u obzir. Jer  ne mogu vjerovati da nisam napravio nijednu gre&scaron;ku u radu. Znam ja mene  :).</p>
+<h2>Koncept ispita</h2>
+<p>U ovom <a href="http://github.com/hernad/blog/blob/master/articles/sta-trebamo-uciti-na-tehnickim-fakultetima-20100616.markdown">članku</a> sam pomenuo &ldquo;Branin recept&rdquo;. Mislim da većina komentara koje sam pomenuo kod <a href="http://github.com/hernad/blog/blob/master/articles/pr1-parc-2-1-put-20100621.markdown">PR1</a> po pitanju koncepta ispita, vrijedi i ovdje.</p>
+<p>Na tragu te misli, ba&scaron; bi me interesovalo kako bi studenti uradili ovaj ispit da su mogli koristiti literaturu.</p>
+<p>U toj varijanti bi se definitivno moralo konzervativno pristupiti  trajanju ispita. Međutim, ja sam ubjeđen da bi i kod ovog ispita oni  koji ne znaju opet bili &ldquo;trofać&rdquo;.</p>
+<p>&Scaron;to se tiče onih koji su pro&scaron;li gradivo i shvatili ga u dovoljnoj  mjeri, naravno da bi njihovi rezultati bili znatno bolji od postojećih.</p>
+<p>Ja za pripremu ovog ispita napravim otprilike 2 i po čitanja:</p>
+<ul>
+<li>prvi put čitam da skontam o čemu se radi</li>
+<li>drugi put da memori&scaron;em najbitnije, i tu se ponovo zadržavam kao skoro isto vremenski kao i prvi put</li>
+<li>u trećem čitanju prolazim brzo i to je ponavljanje.</li>
+</ul>
+<p>Po Braninom konceptu bi mi za prolaznu ocjenu vjerovatno bilo  dovoljno 1 i po čitanje za 60%. Ali za veću ocjenu razlika bi bila  neznatna.</p>
+<p>Time dolazim do zaključka da bi &ldquo;Branin koncept&rdquo; ostvario veću prolaznost.</p>
+<p>Međutim, mislim da oni koji &ldquo;pojma nemaju&rdquo; ne bi pro&scaron;li. To su oni koje sam <a href="http://github.com/hernad/blog/blob/master/articles/tri-vrste-studenata-20100618.markdown">ovdje označio kao  vrsta studenata &ldquo;ublehari&rdquo;</a>.  Čak mislim dase takvi upravo nasukaju jer izgube &ldquo;prednost&rdquo; koju u  odnosu na druge studente imaju na &ldquo;klasičnim&rdquo; ispitima &ndash; džonove :).</p>
+<p>Naravno, ispit bi u tom slučaju trebalo modificirati na taj način da  se ne može jednostavnim prepisivanjem uraditi zadatak. Tako bi recimo  zadaci tipa Queue FIFO morali imati neke modifikacije koje bi  onemogućile da studenti jednostavno prepi&scaron;u primjere sa predavanja i  vježbi.</p>
+<p>Međutim, pogrije&scaron;io bih kada bih rekao da postojeća forma ispita ne valja.</p>
+<h2>ASP rezime</h2>
+<p>ASP je prirodom stvari jedan od fundamentalnih predmeta. Za pripremu ispita Vam trebaju samo predavanja i vježbe (DL materijali). Materijali za predavanja su odlični. Svaka lekcija je praćena  odgovarajućim primjerima koji su dobro odabrani. U procesu učenja <a href="/dobar-primjer-zlata-vrijedi">dobar  primjer zlata vrijedi</a>.</p>
+<p>Dobri primjeri su istovremeno jednostavni (neopterećeni suvi&scaron;nim  detaljima) i kompletni (sadrže sve &scaron;to je potrebno da se shvati tema  koja se obrađuje). Kod ASP-a svi primjeri zadovoljavaju ove kriterije.</p>
+<p>U syllabusu je naveden kao jedan od ciljeva:</p>
+<p><strong>Da studenti nauče prepoznati bitno od nebitnog</strong></p>
+<p>Svaka čast Harise. To je stvarno <strong>bitno naučiti</strong>.</p>
+<h2>Ocjena predmeta: 9,0</h2>
+<p>Moja ocjena predmeta je 9. &Scaron;to nije 10 ? Ma kopka me brate &ldquo;Branin recept&rdquo; :).</p>
+
+</div>
+<div class='post_tags'>
+<h4>Tags</h4>
+<div class='post_tags_list'>fit_1_godina, fit_mostar</div>
+</div>
+<div class='post_responses'>
+<h4>1237 views and 6 responses</h4>
+<ul class='post_responses list'>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Mar 16 2011,  8:16 AM</div>
+<div class='response_name'>emina  responded:</div>
+</div>
+<div class='response_body'>ako si iz sarajeva da li bih mogla kupiti od tebe tu knjigu?</div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Mar 16 2011,  9:54 AM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>Kako sam ti na sms rekao, nemaš potrebu za knjigom iz ASP-a.<br />Predavanja i vježbe profesora Harisa su odlične. I za ispit ti ništa, ama baš  ništa ne treba.<p>To je jedan od rijetkih ispita na kome sam dobio 10-ku a spremao sam isključivo iz nastavnih materijala.</p><p>Ali evo, pogledao sam - imam dvije knjige iz tog predmeta pa ću ti poslati po amidži. Ja ih nisam ni otvorio.</p></div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Mar 16 2011,  9:57 AM</div>
+<div class='response_name'>emina  responded:</div>
+</div>
+<div class='response_body'>pa nemoj slati ako mi ne trebaju :D imam i ja neku iz asp-a koju sam na fakultetu kupila ali je totalno konfuzna bas su mi danas stigla dva predavanja iz asp-a i nekako mi super interesantno izgleda :D</div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Mar 16 2011, 11:09 AM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>E to je to ... Ma drži se ti Harisovih materijala. Čovjek zna posao ... <p>A  što se knjiga tiče, vidim da se pojavljuju isti autori kao na predmetu UBP sa druge godine ... a ti materijali definitivni nisu ono što bih mogao okarakterizirati kao dobro  <a href="http://hernad.bring.out.ba/uvod-u-baze-podataka-zbrkizacija" rel="nofollow">http://hernad.bring.out.ba/uvod-u-baze-podataka-zbrkizacija</a></p><p>Dobro dogovorili smo ... A ako nekom drugom slučajno zatrebaju ove knjige, čekaju ga gratis :)</p></div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Mar 23 2011, 12:05 PM</div>
+<div class='response_name'>emina  responded:</div>
+</div>
+<div class='response_body'>e ovako radim ove zadatke sto smo dobili za vjezbu iz asp pa sam zapela :D :D :D <br />moze li pomoc?<br />Pretpostavimo da neki algoritam ima vremensku kompleksnost T(n) = 52n. Nadalje,<br />pretpostavimo da je za veličinu ulaza n potrebno vrijeme za izvođenje tog algoritma<br />jednako t. Sada pretpostavimo da koristimo računar koji je 128 puta brži. Koja veličina<br />ulaza bi se mogla obraditi na tom računaru u t sekundi?<br />(b) Pretpostavimo da neki drugi algoritam ima vremensku kompleksnost T(n)= n2, te da<br />izvođenje tog algoritma na nekom računaru za veličinu ulaza n uzima t sekundi.<br />Pretpostavimo sada da je neki drugi računar 128 puta brži. Koja veličina ulaza se može<br />obraditi na novom računaru u t sekundi.<br />(c) Treći algoritam ima vremensku kompleksnost T(n)= 4n. Izvođenje tog algoritma na nekom<br />računaru traje t sekundi za veličinu ulaza n. Koliku veličinu ulaza se može obraditi u t<br />sekundi na računaru koji je 128 puta brži.<br /> po kojoj formuli se rade ovi zadaci?<br />hvala :D</div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Mar 23 2011, 11:48 PM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>Emina, najbolje ti je ovakva pitanja postaviš na studentskim forumima <a href="http://cs.fit.ba" rel="nofollow">http://cs.fit.ba</a>. Tamo je to raji aktuelno i sigurno će se naći neko ko ti može pomoći.<p>Pročitao sam zadatke, ali ti na ovo ne bih znao odgovoriti. Principa se sjećam, ali bih za izradu trebao ponovo pregledati nastavne materijale. Za to bih trebao dosta vremena koga na žalost nemam.</p></div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

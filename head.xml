@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.0/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.0/"
+>
+
+<channel>
+	<title>hernad</title>
+	<link></link>
+	<description>Ernad Husremović: babo, informatičar, šalteromrzac, bosanac, musliman;</description>
+	<pubDate>Tue Jan 06 06:30:15 -0800 2009</pubDate>
+	<generator>http://posterous.com</generator>
+	<language>en</language>
+	<wp:wxr_version>1.0</wp:wxr_version>
+	<wp:base_site_url>http://hernad.bring.out.ba</wp:base_site_url>
+	<wp:base_blog_url>http://hernad.bring.out.ba</wp:base_blog_url>
+	
+	<image>
+		<url>http://files.posterous.com/user_profile_pics/1848403/gravatar.jpeg</url>
+		<title>hernad</title>
+		<link>http://hernad.bring.out.ba</link>
+	</image>
+	

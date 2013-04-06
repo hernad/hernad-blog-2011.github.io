@@ -1,0 +1,83 @@
+<item>
+	<title>Algoritam</title>
+	<link>http://hernad.bring.out.ba/algoritam</link>
+	<pubDate>Thu Jun 24 14:01:00 -0700 2010</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="fit_1_godina"><![CDATA[fit_1_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/algoritam</guid>
+	<description></description>
+	<content:encoded><![CDATA[
+
+<p>24.06.2010</p>
+<p>Juče sam radio ispit iz predmeta &ldquo;Algoritmi i strukture podataka (ASP)&rdquo;.</p>
+<p>Ali sada neću pisati o samom ispitu. Objasniću prvo &scaron;ta su algoritmi.</p>
+<p><a href="http://en.wikipedia.org/wiki/Algorithm">Algoritam</a> je način na koji se neki problem rje&scaron;i. U formalnoj definiciji se ističe da algoritam mora biti izražen putem <strong>konačnog</strong> broja instrukcija.</p>
+<p>Algoritmi su dio na&scaron;eg svakodnevnog života.</p>
+<p><!--more--></p>
+<p>Primjeri su najbolji za uvođenje u nove pojmove. Zato ću tako i početi:</p>
+<h2>Primjer 1</h2>
+<h3>Problem: Kako (ponovo) dobiti izbore ?</h3>
+<h3>Rje&scaron;enje:</h3>
+<p>1) Isprepadaj ih sa &ldquo;onamo onim&rdquo;</p>
+<p>2) Objasni kako na&scaron;i dosada&scaron;nji rezultati uop&scaron;te nisu zanemarljivi, kako du&scaron;mani govore</p>
+<p>3) Ako te budu pitali: Pro&scaron;le godine ste nam obećali to, to i to .. I ni&scaron;ta od toga ne bi ?!&ldquo;. Ti se napravi lud govori 1) i 2)</p>
+<p>Eto, ovo je <strong>jednostavan</strong>, ali kvalitetan algoritam. U praktičnoj primjeni se pokazao kao iznimno efikasan vi&scaron;e puta.</p>
+<h3>Pretpostavke za uspje&scaron;nu implementaciju algoritma, dodatne napomene:</h3>
+<p>Ovaj agloritam se ne može implementirati svugdje. Da bi ovo uspjeli, va&scaron;i glasači moraju biti glupi i neobrazovani. Kada dobijete izbore, postarajte se da <strong>NE dođe do promjena po pitanju ovih pretpostavki</strong>. Zato se nemojte slučajno zeznuti da se nakon pobjede opustite, te svom  glasačkom tijelu obezbjedite bolje obrazovanje ili bilo &scaron;ta &scaron;to bi ova  dva elementa promjenila. Zapamtite: <strong>glupost</strong> i <strong>neobrazovanost</strong> su temelj va&scaron;e vladavine! Čuvajte ih kao zjenicu oka svoga!</p>
+<h2>Jednostavnost, jasnost algoritma</h2>
+<p>Treba primjetiti kako je predhodni primjer sa stanovi&scaron;ta implementacije <strong>jasan</strong> i <strong>jednostavan</strong>. Algoritam treba uvijek razvijati u ovom pravcu.</p>
+<h2>Imena algoritama</h2>
+<p>Karakteristični agoritmi često imaju imena po imenima autora, ili  koracima po kojima je algoritam prepoznatljiv. Tako smo mi na ASP-u  učili: &ldquo;binarno pretraživanje&rdquo;, &ldquo;bubble sort&rdquo;, &ldquo;shell sort&rdquo;, &ldquo;quick  sort&rdquo;.</p>
+<p>Koliko je meni poznati, algoritam koji sam prezentovao kao primjer nema posebno ime.</p>
+<p>Pogodno bi recimo bilo: <strong>&ldquo;Ublehom do pobjede&rdquo;</strong>.</p>
+<p>Po&scaron;to smo se ufurali u to &scaron;ta algoritmi znače, nave&scaron;ću jo&scaron; jedan primjer.</p>
+<h2>Primjer 2</h2>
+<h3>Problem: Kako najbrže izdati &scaron;kolski udžbenik</h3>
+<h3>Rje&scaron;enje:</h3>
+<p>1) Uzmite google ili bilo koju dostupnu literaturu koja ima veze sa predmetom udžbenika</p>
+<p>2) Kod online sadržaja, lritisnite search i navodite kombinaciju termina na engleskom jeziku</p>
+<p>3) Opcijom copy browser &ndash; paste va&scaron; omiljeni tekst procesor lijepite članke koji vam se čine odgovarajućim</p>
+<p>4) Korak 3) ponovite dok ne dobijete željeni broj stranica</p>
+<p>5) Prevedite to &scaron;to ste pokupili</p>
+<p>6) Sve to malo &ldquo;začinite&rdquo; sa ne&scaron;to svojih rečenica. Nemojte se sekirati ako se to ne uklapa u predhodne tekstove.</p>
+<p>7) Dajte ovo na recenziju ljudima koje boli briga &scaron;ta ste napisali.</p>
+<p>8) Odvedite recenzente na janjentinu. Poželjno je da ih odvedete na lokalitet Jablanice, ali nije obavezno.</p>
+<p>9) Na kraju, kada obezbjedite sve &scaron;to je potrebno da Va&scaron;e remek-djelo  ugleda svjetlo dana, stavite tačku na i ovim riječima: &ldquo;Neovla&scaron;teno  kopiranje je zabranjeno po Zakonu o autorskim pravima&rdquo;</p>
+<h4>Pretpostavke za uspje&scaron;nu implementaciju algoritma, dodatne napomene:</h4>
+<p>Ovaj algoritam se može implementirati samo u dru&scaron;tvu koje ima totalno  poremećen sistem vrijednosti. Takvo dru&scaron;tvo ćete prepoznati po tome &scaron;to  ljudi, &scaron;ta god ih pita&scaron; zavr&scaron;avaju ili počinju ovakvim odgovorima:  &ldquo;Tako to mora biti &hellip;&rdquo;, &ldquo;Ma svi su oni isti &hellip;&rdquo;, &ldquo;Nije me briga &hellip;&rdquo;.</p>
+<p>Preporuka je da proučite algoritam &ldquo;Ublehom do pobjede&rdquo;, te da kontaktirate (uspje&scaron;ne) implementatore ovog algoritma. Možete slobodno računati da ćete za objavljivanje Va&scaron;eg udžbenika naći razumjevanje sa njihove strane.</p>
+<h2>Genijalan algoritam: win-win kombinacija</h2>
+<p>Vama dobro, njima dobro.</p>
+<p>Dobro, a ima li gubitnika ? Gube samo glupani koji su ranije glasali  za Va&scaron;e nove saveznike. Gube naravno i oni koji će morati čitati Va&scaron;e  knjige. Ali svi oni su toliko glupi da i ne znaju da gube. Tako ispade  da nema gubitnika. Zbog toga je ovaj algoritam <strong>genijalan</strong>.</p>
+<h2>Dobar primjer zlata vrijedi</h2>
+<p>Ovim smo tematiku algoritama obradili kroz dva konkretna, životna primjera.</p>
+<p>Svi će se složiti da u procesu učenja dobar primjer zlata vrijedi.</p>
+
+]]></content:encoded>
+	<excerpt:encoded><![CDATA[24.06.2010 Juče sam radio ispit iz predmeta “Algoritmi i strukture podataka (ASP)”. Ali sada neću pisati o samom ispitu. Objasniću prvo šta su algoritmi. Algoritam je način na koji se neki problem rješi. U formalnoj definiciji se ističe da algorit...]]></excerpt:encoded>	
+
+	<wp:post_date>Thu Jun 24 14:01:00 -0700 2010</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>algoritam</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

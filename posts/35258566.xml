@@ -1,0 +1,194 @@
+<item>
+	<title>Statistika, mjere centralne tendencije</title>
+	<link>http://hernad.bring.out.ba/statistika-mjere-centralne-evidencije</link>
+	<pubDate>Fri Dec 03 12:09:00 -0800 2010</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/statistika-mjere-centralne-evidencije</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Koristim literaturu sa Filozofskog fakulteta Sarajevo, odsjek psihologija: Priručnik iz Statistike u psihologiji, Poglavlje 3, Đapo, N., Đokić, R. (2010)</p>
+<p>Mjere centralne tendencije:</p>
+<blockquote class="posterous_medium_quote">
+<p>Mjere centralne tendencije su vrijednosti koje odražavaju centralno mjesto distribucije podataka; to je vrijednost koja je tipična, tj. reprezentira skup podataka.</p>
+<p>U svakodnevnom jeziku za mjere centralne evidencije koristimo termin "prosjek", ali je ovaj termin neprecizan jer uključuje vi&scaron;e mjera.</p>
+</blockquote>
+<p>Tri najvažnije mjere centralne tendencije su mod, medijana i aritmetička sredina</p>
+<p><!--more--><span style="text-decoration: underline;"><strong>Dominantna vrijednost - Mod <br /></strong></span></p>
+<blockquote class="posterous_medium_quote">
+<p>Dominantna vrijednost je najučestalija vrijednost u distribuciju. Ako u distribuciji podataka postoji jedna dominantna vrijednost distribucija je unimodalna, ako postoje dvije dominantne vrijednosti, distribucija je bimodalna, itd.</p>
+</blockquote>
+<p><em>Primjer: U skupu podataka/rezultata&nbsp; x={2,<strong>4</strong>,5,<strong>4</strong>,6,3}, najvi&scaron;e imamo rezultata 4 =&gt; Mod = 4</em></p>
+<p><span style="text-decoration: underline;"><strong>Medijana (centralna vrijednost)</strong><strong> - C</strong></span></p>
+<blockquote class="posterous_medium_quote">
+<p>Medijana (centralna vrijednost) je vrijednost koja distribuciju dijeli na dva jednaka dijela, tj vrijednost koja, kad se podaci poredaju po veličini, nalazi tačno u sredini. Položaj medijane nalazimo prema formuli (N+1)/2, gdje je N broj podatka.</p>
+</blockquote>
+<p><em>Primjer: U skupu podataka/rezultata&nbsp; x={2,7,4,5,6,7,2}, N=7, Medijana je na <strong>poziciji</strong> = (7+1)/2=4. Poredajmo rezultate po veličini: {2,2,4,<strong>5</strong>,6,7,7}. Medijana/Centralna vrijednost <strong>C=5</strong></em></p>
+<p><span style="text-decoration: underline;"><strong>Aritmetička sredina - M<br /></strong></span></p>
+<blockquote class="posterous_medium_quote">
+<p>Aritmetička sredina je suma svih rezultata podijeljena brojem rezultata.</p>
+<p>Aritmetička sredina predstavlja TEŽI&Scaron;TE rezultata i stoga je osjetljiva na ekstremne vrijednosti rezultata. M = SUM(X)/N</p>
+</blockquote>
+<p><em>Aritmetičku sredinu je opravdano računati kada je: distribucija rezultata simetrična i kada je kori&scaron;tena intervalna ili racio skala mjerenja(*)</em></p>
+<p><em>Primjer(**): x={2,7,4,5,6,7,2}, M = (2+7+4+5+6+7+2)/7 = <strong>4.71; </strong>M = (2+7+4+5+6+7+2000)/7 = <strong>290.14</strong></em></p>
+<p><span style="text-decoration: underline;"><strong>Izbor mjera centralne evidencije -&nbsp; kada &scaron;ta koristiti <br /></strong></span></p>
+<p>Kod normalno distribucije Mod, C, M su približno jednake.</p>
+<p>Izbor mjera centralne tendencije zavisi od skale mjerenja i oblika distribucije:</p>
+<ol>
+<li>nominalna =&gt; Mod</li>
+<li>intervalna ili racio, simetrična distribucija =&gt; M</li>
+<li>intervalna ili racio, nesimentrična =&gt; Mod</li>
+<li>ordinalna =&gt; Mod, C</li>
+</ol>
+<p>--</p>
+<p>(*) Obja&scaron;njeno u polavlju 1:</p>
+<p>Skale mjerenja su: nominalna (kategorizacija), ordinalna (redoslijed + kategorizacija), intervalna (interval+redoslijed+kategorizacija) i racio (apsolutna nula + interval + redoslijed + kategorizacija).</p>
+<p>Ovaj put Đapu ni&scaron;ta ne kontam. &Scaron;ta je htio kod ovog redoslijed+kategorizacija, interval+redoslijed ... apsolutna nula + ... :(</p>
+<p>Znam &scaron;ta je apsolutna nula u fizici, ali ovdje nigdje nisam na&scaron;ao da se&nbsp; taj pojam uvodi ??</p>
+<p>(**) Ja sam dodao primjer sa jednom ekstremnom vrijednosti. To materijalu fali.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Koristim literaturu sa Filozofskog fakulteta Sarajevo, odsjek psihologija: Priručnik iz Statistike u psihologiji, Poglavlje 3, Đapo, N., Đokić, R. (2010) Mjere centralne tendencije: Mjere centralne tendencije su vrijednosti koje odražavaju ce...]]></excerpt:encoded>	
+
+	<wp:post_date>Fri Dec 03 12:09:00 -0800 2010</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>statistika-mjere-centralne-evidencije</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[hdzenana]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Fri Dec 03 13:04:39 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Fri Dec 03 13:04:39 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Ernade, tri su osnovne stvari koje određuju nivo skale mjerenja: veličinski niz, jednakost intervala i postojanje apsolutne nule.
+1. NOMINALNA SKALA - najniži nivo mjerenja. Varijable koje se mejre na ovom nivou obično zovemo kategorične varijable, jer je ovaj nivo mjerenja nipta drugo nego smještanje hrpe podaaka u kategorije. Kao da uzmeš špil karata i sortiraš prema varijabli &quot;Znak&quot; Imaš četiri kategorije, a svaka karta ada u jednu od tih ekspluzivnih (odvojenih) kategorija. Ova skala niti ima veličinski niz (ne zna se koja je kateroija prva a koja zadnja, bolja ili gora jer su to kvalitativne razlike), niti ima jednakost intervala (jer i nema intervala),a tek nema apsolutne nule. Jedino što dobiješ to su broj elemenata unutar svake kategije. Npa primjer pitaš ljude Koju mineralnu pijete: KIseljak, VItinka ili Jamnica. Varijabla se zove &quot;Vrsta mineralne vode&quot; ima tri kategorije. Na ovoj skali nemas sta koristiti nikakve mjere parametrijske statistike, a kako bi se ispitalo da li se naka od kategorija više preferira koristi se hi-kvadrat test (ali o tome cemo pricati aBd kada dodje vrijeme). 
+Sljedeća skala se zove ORDINALNA (engelski order - poredak) - ovo se još zove i rang skala, jer imas rangiranje ispitanika. Tipičan primjer je redosljed u nekoj trci. Trc'o BOlt stigo prvi (9 sekundi), za njim Jonson stig'o drugi (9,5 sekundi), a Malkovich stigo treći (15 sekundi). E gledaj, ovde imas velicinski niz (prvi drugi, treci), ali nemas jednakost intervala jer razlika između prvog i drugog nije ista kao i razlika između drugog i trećeg. Kada gledas rangove - razlike su iste, ali one sustinski, sadržajno nisu ni nalik. Ja na primejr pitam ispitanike: poredajte glumce po tome koliko vam se svidjaju tako da na prvo mjesto stavite svog najdražeg, pa onda drugog, i tako dalje. dakle, RANG ili ORDINALNA skala ima veličinski niz (zna se ko je gore, a ko ispod, ali nema jednakost rangova niti ima apsolutnu nulu.
+INTERVALNA SKALA - je skala koja je najčešća skala mjerenjima u društvenim naukama, a nije rijetka ni u egzaktnim. Primjer ti je mjerenje bilo koje psihološke karakteristike - na primjer depresivnosti. Imas upitnik od 30 pitanja, rezultati su na skali od 1 do 30 (a kako pricamo o nekoj ljudskoj osobini pretpostavka je da se ona u nekim populacijama distribuira noramlno, te da mozes izracunati i aritmetičku sredinu i st.dev) . Imas velicinski niz, imas jednakost intervala (ali ne i jednakost omjera), ali nemas apsolutnu nulu. Sta to znaci? Znas ko je depresivniji, a ko nije, postoji jednakost intervala (razlika između 10 i 15 je ista kao i između 15 i 20) ali kvalitativno to nije isto. Npr. rezultati 10 i 15 padaju oko aritmetičke sredine (u onih -1 do 1 st.dev) jer je na mjerenju dobiveno da je aritmetička sredin 12, a st.dev 3, a 20 je već ozbiljna simtomatologija. Znači između 10 i 15 kvalitativno nije ista razlika u intenzitetu ili sadržaju kao između 15 i 20. I jos nesto, nula je arbitrarna - onaj ko ima 0 na testu ne znaci da nije depresivan, nego test to mozda nije zahvatio. Ako neko dobije 0 na testu iz bosanskog jezika ne znaci da nema pojma sa bosanskim jezikom.
+I na kraju je OMJERNA SKALA, a zove se jer ima omjere, a ne intervale i ima apsolutnu nulu. Znaci ima velicinski niz, ima jednaksot omjera (razlika između imati jedno i svoje djee je ista kao imati 2 i 3 djece) i ima apsolutnu nulu (ako nemas djece, onda nemas djece).
+Kapiši sada?
+ ]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Fri Dec 03 13:34:44 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Fri Dec 03 13:34:44 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Trebala si ovo &quot;krkanskije&quot; brate objasniti. Previše si mi objasnila. Shvatiti mogu, ali sigurno neću moći izreproducirati.
+
+Sad ovo fakat ne mogu isprocesirati :(.
+
+Nek stoji za drugi put. Ona me asistentica definitvno &quot;tuširala&quot;]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Fri Dec 03 13:44:28 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Fri Dec 03 13:44:28 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[1) Nominalna 
+  
+Primjer: Vrsta min vode: Kiseljak / Jamnica / Vitinka
+
+2) Ordinalna, odnosno rang skala.
+   
+Primjer: Rezultati trke: 9.5; 12; 15.5 sec
+
+3) Intervalna:  
+
+Primjer: rezultati studenata na univerzitetu: 5..10 ocjene
+
+4) Omjerna 
+
+?? ovaj tvoj primjer sa djecom ne kontam.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Fri Dec 03 13:49:45 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Fri Dec 03 13:49:45 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Dženana via telefon:
+
+Omjerna skala primjer:
+
+dužina: 0 -  200 cm
+
+omjerna skala je zato što je *razlika* između mjerenja 120 i 100 i ista kao i između mjerenja 190-180]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Fri Dec 03 13:52:28 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Fri Dec 03 13:52:28 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[broj djece: 0, 1, 2, 3, 4, 5, 6, 7. razlika između imati 5 i 4 djece je jedno dijete, razlika između imati 3 i 2 djeteta je takođe jedno dijete.
+
+Razlika je ista ? pa sad .. Hajd dobro, Dobro statistički gledajući jeste :)
+
+Kad se onome što ima 7 djece ima jedno zagubi na igralištu on i ne primjeti.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Fri Dec 03 14:02:23 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Fri Dec 03 14:02:23 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Glavna kvaka kod intervalne skale što kvalitativno razlika između pojedinih mjerenja nije proporcionalna. 
+
+One ocjene i nisu baš dobar primjer (iako se tretiraju kod obrade kao intervalna skala)
+
+Kvaka je da kada to što pripada intervalnoj skali, i recimo, mjerenja su u rasponu recimo 10 .. 100, dio rezultati 10 naspram 12 (koji se nalazi u donjem dijelu skale) nisu srazmjerni sa rezultatom 75 naspram 77 koji se nalazi u gornjem dijelu skale. Ta delta 2 u donjem dijelu ne znači uopšte istu razliku kao u gornjem dijelu.
+
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

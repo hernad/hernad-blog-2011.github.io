@@ -1,0 +1,178 @@
+<item>
+	<title>Kako promijeniti stanje bosanskog (poslovnog) IT-a ?</title>
+	<link>http://hernad.bring.out.ba/kako-promijeniti-stanje-bosanskog-poslovnog-i-13566</link>
+	<pubDate>Sun Jun 10 04:07:00 -0700 2012</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="bosna"><![CDATA[bosna]]></category>
+	
+		<category domain="tag" nicename="business"><![CDATA[business]]></category>
+	
+		<category domain="tag" nicename="opensource"><![CDATA[opensource]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/kako-promijeniti-stanje-bosanskog-poslovnog-i-13566</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>U jednoj interesantnoj&nbsp;<a href="http://forum.linux.org.ba/viewtopic.php?pid=55372#p55372">IT diskusiji</a>&nbsp;@testni_hamo2 je između ostalog rekao:</p>
+<blockquote class="posterous_medium_quote">
+<p>Ja moram ovdje simpatisati sa firmama. Naime nabaviti posao jeste glavna stvar. Dzaba tebi sto si kvalitetan ako nemas posla.&nbsp;</p>
+<p>Kvalitet nije preduslov za finansijski uspjeh, a finansijski uspjeh je poenta firme. Informatika je grana koja sama po sebi nema smisla.&nbsp;</p>
+<p>Mi smo uglavnom vrijedni (op.aut. informatičari) onoliko koliko mozemo pomoci drugim privrednim granama da poboljsaju svoje performanse (ukoliko ignorisemo consumer trziste - koje je finansijski procentualno manje).&nbsp;</p>
+<p>Problem kod nas je sto ostatak privrede nije uopste toliko jak - a i oni koji su jaki nisu dovoljno zreli da znaju kako da iskoriste informatiku u svom poslovanju.</p>
+</blockquote>
+<p style="text-align: left;">@testni_hamo2 je ukazao na par ključnih stvari koje mi informatičari često zaboravimo.</p>
+<p style="text-align: left;">IT rje&scaron;enja se prave radi klijenata. Poslovna IT rje&scaron;enja su u funkciji poslovanja.</p>
+<p style="text-align: left;">IT je alat. Ako se taj alat ne stavi u funkciju, IT rje&scaron;enje će sa aspekta korisnika biti zalud utro&scaron;en novac.</p>
+<p>Razumjevanje i percepcija IT-a unutar bosanskih kompanija je u skladu sa stanjem privrede. Znači, niska.</p>
+<p><!--more-->Na&scaron;i potencijalni klijenti mahom ne prepoznaju IT kao način da unaprijede svoje poslovanje, da budu korak ispred konkurencije.&nbsp;</p>
+<p>Velika "zasluga" takve percepcije često leže i u činjenici da mi - IT provajderi svojim klijentima ne nudimo korisna rje&scaron;enja.</p>
+<p>Razlog može biti neznanje i nesposobnost, ali je to veoma često slaba komunikacija između klijenta i IT provajdera.</p>
+<p>Obje strane moraju uložiti napor da bi IT rje&scaron;enje ostvarilo svoju zadaću.&nbsp;</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Rje&scaron;enje vs software</strong></span></p>
+<p>Često koristim termin IT rje&scaron;enje, pri čemu pravim razliku između rje&scaron;enja i samog software-a.</p>
+<p>Kada si "open source" IT provajder, klijent mora razumjeti tu razliku razliku.</p>
+<p>Naime softver koji mi nudimo je besplatan za kori&scaron;tenje.</p>
+<p>Kupovinom na&scaron;ih rje&scaron;enja, kupac zajedno sa sofware-om kupuje na&scaron; "know-how".</p>
+<p>Kupuje pravo na obuku, podr&scaron;ku i nadogradnju sistema.</p>
+<p>Ova razlika kod software-a opće namjene nije toliko izražena. Međutim, poslovni software (ERP) je kompleksan i dinamičan.</p>
+<p>Uzmite najbolji ERP software na dunjaluku pa ga hipotetčki odvojite od IT provajdera.</p>
+<p>Dobićete stvar koja krajnjem korisniku ne može služiti ničemu.</p>
+<p>Zato je od su&scaron;tinske važnosti za IT provajdera poslovnih rje&scaron;enja da njegov korisnik shvati da je software sam za sebe "mrtvo slovo na papiru", da se bez stalne interakcije klijent &lt;-&gt; provajder ne može napraviti dobro rje&scaron;enje.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>"bring.out" - firma koja svojim klijentima ne garantuje ni&scaron;ta</strong></span></p>
+<p>Prije par dana sam u toku pregovora sa novim klijentom u&scaron;ao u diskusiju o&nbsp;<a href="http://www.bring.out.ba/novi-ugovor-o-podrsci-bringout-f18-model-podr">garancijama koje on ugovorom o podr&scaron;ci dobija od "bring.out", tačnije NE dobija</a>. Klijent je postavio logično pitanje..</p>
+<p>U članu 10 nagla&scaron;avate kako klijentu praktično NE garantujete ni&scaron;ta ?! Kakav ste vi profesionalac ako mi ni&scaron;ta ne možete garantovati ?</p>
+<p>Odgovorio sam:</p>
+<blockquote class="posterous_short_quote">
+<p>Nakon člana 10. slijedi član 11. U njemu se navodi da ćemo sve poduzeti, u skladu sa principima struke, da u sve poduzmemo da gre&scaron;ke i probleme otklonimo.</p>
+</blockquote>
+<p>Naravno, moguće je napraviti drugačiji ugovor. Moguće je za određene ključne stvari dati konkretne garancije klijentu. Ali ako se visina ugovora o podr&scaron;ci kreće u rasponu od 50-500 KM, takve garancije se ne mogu dati.</p>
+<p>Prevedeno jezikom vlasnika automobila, "full" kasko osiguranje je posebna stavka. Ako klijent želi posebne garancije, onda mora biti spreman da ugovor o podr&scaron;ci bude puno veći od ponuđenog.</p>
+<p>Mi smo procijenili da većina na&scaron;ih klijenata na takvo &scaron;to nije spremna, tako da na&scaron; standardni ugovor i sadrži klauzule 10 i 11. Računam da smo mi po tom pitanju barem po&scaron;teni prema klijentima. Na&scaron;a konkurencija takođe ne nudi konkretne garancije (koliko mi je poznato), ali ova pitanja jednostavno "zaobilazi", jer klijent ne voli čuti da mu se traže pare a ne garantuje ni&scaron;ta.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Case study: "IT provajder" uprsk'o</strong></span></p>
+<p>Zato sam na&scaron;em potencijalnom klijentu izložio jedan konkretan primjer od prije par godina.</p>
+<p>Na VoIP sistemu napravili smo jedan krupan sigurnosni propust. Toliko krupan da se i danas zacrvenim kada ga se sjetim ...</p>
+<p>Kako god, desio se hakerski upad nakon čega je račun za telekom usluge porastao za 10 000 KM.</p>
+<p>&Scaron;ta smo mi uradili ?</p>
+<p>1) Pregledom utvrdili uzrok problema.</p>
+<p>2) Zatvorili sigurnosni propust</p>
+<p>3) Isti dan informisali klijenta o uzroku i poduzetim akcijama.</p>
+<p>Pri tome smo bez ikakvog okoli&scaron;anja rekli da je odgovornost za upad bio na&scaron; propust - lo&scaron;e pode&scaron;en sistem.</p>
+<p>Nakon toga, sa klijentom smo napravili dogovor da se &scaron;tete koje je pretrpio kompenziraju u kroz na&scaron;e usluge u narednom periodu.</p>
+<p>Taj klijent je i dan-danas na&scaron; korisnik.</p>
+<p>Za&scaron;to ?</p>
+<p>a) Zato &scaron;to smo mi, nakon &scaron;to se problem desio, poduzeli sve &scaron;to je u na&scaron;oj moći da problem rije&scaron;imo</p>
+<p>b) Zato &scaron;to smo bili do kraja iskreni prema klijentu, &scaron;to je on pozitivno ocijenio.&nbsp;</p>
+<p>Nakon &scaron;to sam ovaj slučaj ispričao novom klijentu, prvo sam čuo sa druge strane žice: "Uh ...", da bi on nakon kratke stanke prokomentarisao:</p>
+<blockquote class="posterous_short_quote">
+<p>Pa dobro, na&scaron; sistem nije tako složen ...</p>
+</blockquote>
+<p>Dodatno sam objasnio:</p>
+<blockquote class="posterous_medium_quote">
+<p>Ne. Va&scaron; sistem nije tako složen. Ali problemi ovakve prirode se mogu desiti. Može da se desi napad nekog virusa koji će uni&scaron;titi podatke.&nbsp;</p>
+<p>Na&scaron; posao je da takve stvari preveniramo - da realizujemo kvalitetan backup sistem, pa da &scaron;teta bude maksimalno na nivou dnevnog gubitka podatka. Takođe, mi sa na&scaron;im ubuntu desktop sistemom prijetnju virusa svodimo na najmajnji mogući nivo. Ukratko, mi vam garantujemo da ćemo sve poduzeti &scaron;to znamo da vam isporučimo najbolji mogući sistem. Garancije da će taj sistem besprijekorno funkcionisati Vam ne možemo dati.</p>
+</blockquote>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Edukacija klijenata</strong></span></p>
+<p>Zato bih postojeće stanje IT trži&scaron;ta značajno pripisao (ne)djelovanjem&nbsp;nas informatičara. Moramo edukovati svoje klijente. Moramo vr&scaron;iti pritisak na državne institucije da bi se opća percepcija o IT-u promjenila.</p>
+<p>Uzmimo državu i državne institucije.</p>
+<p>Ako uzmemo da je visina IT budžeta konstanta, &nbsp;a da je raspored stavki unutar tog budžeta predmet IT strategije, i da sve to treba biti u funkciji određenih poslovnih ciljeva, brzo ćemo otvoriti mnoga vrata za projekte bazirane na otvorenim tehnologijama.</p>
+<p>Međutim, koliko god to nama koji smo usmjereni na otvorene tehologije to bilo očigledno, rezultati na tereni su manje-vi&scaron;e nula bodova.</p>
+<p>Jesu li "decision-maker"-i u državnim institucijama neznalice ? Najče&scaron;će jesu.</p>
+<p>Jesu li ti decision makeri pod uticajem Microsoft lobija ? Očigledno.</p>
+<p>Rasipaju li se državnim parama ? Nema dvojbe.</p>
+<p>Međutim, ako to je to prepoznato i jasno samo maloj grupi ljudi, ti "decision makeri" će moći rasipati državne pare do Sudnjeg dana.</p>
+<p>Ova priča se mora ponavljati i ponavljati. Bitno je stvoriti pritisak.</p>
+<p>Tek kada taj pritisak priprijeti njihovim pozicijama, oni će početi slu&scaron;ati na&scaron;e zahtjeve.&nbsp;</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Sve počinje od države: "usrana" država, "usran" IT</strong></span></p>
+<p>Za&scaron;to sam u čitavoj ovoj priči i&nbsp;<a href="http://hernad.bring.out.ba/poslovna-inicijativa-u-usranoj-drzavi">svojim istupima</a>&nbsp;toliko fokusiran na državu ? &nbsp;</p>
+<p>Zato &scaron;to je država generator ključnih privrednih procesa.</p>
+<p>Kada država pokrene veliku izgradnju puteva, to neminovno ima pozitivni uticaj na građevinarstvo kao privrednu granu. Međutim, ako je ta strategija izgradnje lo&scaron;e postavljena, onda će taj pozitivni uticaj na lokalno građevinarstvo biti minimalno. &nbsp;Projekat "Sarajevske zaobilaznica" je odličan primjer u kome je država odigrala stvari da "gore ne može".</p>
+<p>Angažovala je nekog bjelosvjetskog me&scaron;etara koji je brzo bankrotirao i za sobom ostavio velike dugove prema domaćim firmama. Država je na tom projektu umjesto da pogura, mnoge domaće firme "zavila u crno".&nbsp;</p>
+<p>Ako se sada prebacimo na IT sektor, projekti fiskalizacije i "legalizacije" su mogle ostvariti ogromni pozitivan "impact" na domaći IT. Ali nisu.</p>
+<p>Opet su glavnu dobit ostvarili lobisti, me&scaron;etari, političari. Struka i dru&scaron;tvo najmanje.</p>
+<p>Projekti "legalizacije" u sinergiji sa nedavnom Windows-only "fiskalizacijom" postali su projekti monopolizacije.</p>
+<p>Ono malo preostalih para je bukvalno "izmuženo" od poreznih obveznika. &nbsp;</p>
+<p>Pri tome, niko u IT sektoru nije vrisnuo i rekao:</p>
+<blockquote class="posterous_short_quote">
+<p>Ljudi &scaron;ta nam ovo radite ?!</p>
+</blockquote>
+<p>Niko sa fakulteta nije rekao:</p>
+<blockquote class="posterous_short_quote">
+<p>Ovo sa stanovi&scaron;ta dugoročnog razvoja lokalnog IT sektora nije dobro urađeno !&nbsp;</p>
+</blockquote>
+<p>Dapače, oni koji su to mogli reći su ubirali honorare u komisijama ovih projekata.&nbsp;</p>
+<p>Ali, pustimo se kuknjave. Ne pi&scaron;em zato da bih konstatovao na&scaron; jad i čemer.&nbsp;</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>IT aktivizam</strong></span></p>
+<p>Pi&scaron;em zato &scaron;to smatram da je stvari moguće promjeniti aktivizmom. Javnost i na&scaron;e potencijalne klijente treba edukovati.</p>
+<p>To mogu uraditi samo informatičari. To za nas neće niko uraditi.</p>
+<p>Na na&scaron;em "mikro" primjeru uočio da su promjene moguće.</p>
+<p>Obja&scaron;njavanjem klijentima, politka cijena stvorili smo interes za na&scaron;im novim proizvodima.&nbsp;</p>
+<p>Tačno da je to izuzetno spor i zahtjevan proces. Tačno je da se ljudima mora stalno stalno i stalno ponavljati da bi počeli razmatrati nove opcije.</p>
+<p>Tačno je da u takvim nastojanjma, posebno na početku, ima puno vi&scaron;e znoja i sekiranjcije nego li profita.</p>
+<p>Međutim, i pored svih tih te&scaron;koća mi u "bring.out" smo ostvarila značajne i konkretne rezultate.</p>
+<p>Jesmo kritikovali, ali na&scaron;e djelovanje nije ostalo na kritici.</p>
+<p>Bez tog aktivizma vjerovatno bi i dan danas ostali u&nbsp;u beskonačnoj petlji jadikovki:</p>
+<blockquote class="posterous_short_quote">
+<p>Imamo dobra rje&scaron;enja, ali to neće niko da kupuje. Ljudi ne znaju, ljudi ne razmi&scaron;ljaju itd itd</p>
+</blockquote>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Nerazumjevanje</strong></span></p>
+<p>Nakon prvog objavljivanja detalja na&scaron;e nove ponude:</p>
+<p><a href="http://www.bring.out.ba/legalizacija-software-a-ubuntulinux-desktop-f">http://www.bring.out.ba/legalizacija-software-a-ubuntulinux-desktop-f</a>&nbsp;</p>
+<p>feedback korisnika je bio uglavnom "ne razumjemo".</p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Obja&scaron;njavanje</span></strong></span></p>
+<p>Pa smo počeli razgovarati sa klijentima, pokazivati taj čudnovati desktop bez "Windows" OS-a, program za tabelarne proračune koji nije "MS Excel", i ono &scaron;to na&scaron;e klijente najvi&scaron;e interesuje "F18" ERP rje&scaron;enje.&nbsp;</p>
+<p>Kada bi vidjeli da "F18" radi i na čudnovatom Ubuntu desktopu isto kao i na "Windows" desktopu, strah od nepoznatog bi se istopila kao led na suncu.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Ponavljanje</strong></span></p>
+<p>Prije par dana sam radio seminarski iz predmeta "Projekat".</p>
+<p>Kao temu sam obradio koncept na&scaron;e nove ponude <a href="http://www.bring.out.ba/primjer-ponude-f18-ubuntulinux-novi-klijent">http://www.bring.out.ba/primjer-ponude-f18-ubuntulinux-novi-klijent</a></p>
+<p>Kada sam zavr&scaron;io radnju <a href="https://github.com/hernad/FIT_PRO/raw/master/latex/PRO_F18.pdf">https://github.com/hernad/FIT_PRO/raw/master/latex/PRO_F18.pdf</a></p>
+<p>uočio sam kako je obja&scaron;njavanje onoga &scaron;to nudimo uzelo najveći prostor u radu. Za&scaron;to ?</p>
+<p>Zato &scaron;to sam uočio da je najveća prepreka odabiru na&scaron;ih rje&scaron;enja u ovom momentu razumjevanje na&scaron;e ponude, a ne tehnologija sama po sebi.</p>
+<p>Mi&scaron;ljenja sam da bez ovakvog aktivizma nije moguće napraviti bilo &scaron;ta značajno na bosanskom IT trži&scaron;tu.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Znanje, kvalitet, izvrsnost</strong></span></p>
+<p>Znanje IT provajdera, kvalitet proizvoda i usluga se ne može mjeriti bez korisnike.</p>
+<p>Težnja ka znanjem i kvalitetom je put ka izvrsnosti.</p>
+<p>Ako se iz formule izvrsnosti ne ispu&scaron;ta korisnik, IT provajder će kad-tad valorizirati svoje napore. Čak i na bosanskom trži&scaron;tu.</p>
+<p>Iako ovo pi&scaron;em iz perspektive "open source" IT provajdera, mislim da je ovo primljenljivo za sve IT provajdere koje na bosanskom trži&scaron;tu svoje "mjesto pod zvijezdama" žele izboriti znanjem i svojim sposobnostima.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>"Open source" je sjajan model za "kokuze" kakvi smo mi</strong></span></p>
+<p>Treba naglasiti da stepen izvrsnosti određen. okruženjem - konkretnim trži&scaron;tem.</p>
+<p>Na malom trži&scaron;tu kakvo je bosansko nije moguće obezbjediti velike razvojne resurse za projekte kao &scaron;to je bosansko ERP rje&scaron;enje.</p>
+<p>Bosanski ERP klijenti, pretpostavljam, odvajaju manje novca za IT nego li klijenti u jednom njemačkom gradu.</p>
+<p>Zato mi "open source" konceptu razvoja na&scaron;ih rje&scaron;nje vidimo mogućnost saradanje sa drugim IT provajderima.</p>
+<p>Tako ćemo razbiti granice razvoja koja postojeća zatvorena rje&scaron;enja postavljaju.</p>
+<p>Ako se to postigne, granice izvrsnosti ERP rje&scaron;enja na bosanskom trži&scaron;tu se mogu pomjeriti. Navi&scaron;e.</p>
+<p>&nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[U jednoj interesantnoj IT diskusiji @testni_hamo2 je između ostalog rekao: Ja moram ovdje simpatisati sa firmama. Naime nabaviti posao jeste glavna stvar. Dzaba tebi sto si kvalitetan ako nemas posla. Kvalitet nije preduslov za finansijski uspjeh...]]></excerpt:encoded>	
+
+	<wp:post_date>Sun Jun 10 04:07:00 -0700 2012</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>kako-promijeniti-stanje-bosanskog-poslovnog-i-13566</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Sun Jun 10 04:48:43 -0700 2012</wp:comment_date>
+			<wp:comment_date_gmt>Sun Jun 10 04:48:43 -0700 2012</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://forum.linux.org.ba/viewtopic.php?id=6873]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

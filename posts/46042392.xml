@@ -1,0 +1,105 @@
+<item>
+	<title>Računarske mreže, &quot;Case study&quot; koji može proći</title>
+	<link>http://hernad.bring.out.ba/racunarske-mreze-case-study-koji-moze-proci</link>
+	<pubDate>Tue Mar 15 02:34:00 -0700 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/racunarske-mreze-case-study-koji-moze-proci</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Nažalost moja <a href="/hernad-je-lud-ko-struja">ludost</a> me je ko&scaron;tala ... Kolega iz RM-a ba&scaron; nije pokazao entuzijazam za moj <a href="https://github.com/hernad/FIT_RM/tree/master/inkscape/measure_cables">"Measure Cables"</a> inkscape uradak.</p>
+<p>Ta prva verzija koju sam dao na uvid ispala je totalna "&scaron;upica-tach".</p>
+<p>Primjedbe su bile:</p>
+<ol>
+<li>naslovna stranica treba sadržati lijevo desno vamo tamo ... naziv profesora</li>
+<li>Naslovi unutar seminarskog trebaju biti automatski generisani (Sadržaj)</li>
+<li>tekst treba biti sa obje strane poravnat (text alignment: justified)</li>
+<li>Umjesto 4 koliko se u radu tražilo ja samo stavio 2 sprata :(</li>
+<li>Nisam uop&scaron;te napravio logički dijagram mreže</li>
+<li>Nije bilo jasno gdje je MDF, a gdje su IDF lokacije</li>
+<li>Referenca ne može biti link na hernad.bring.out.ba</li>
+<li>Specifikacija opreme ne može biti na engleskom</li>
+</ol>
+<p><!--more--><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Libreoffice Writer, napredni kurs formatiranja</span></strong></span></p>
+<p>Ove stavke 1, 2, 3 su me zatekle. Ovo tekst poravnanje je brate bezveze ... ali hajde de ...</p>
+<p>Posmatrajmo to sa svjetlije strane: naučio sam kako se u libreoffice-u generi&scaron;e indeks i tabela sadržaja :).</p>
+<p>Nadam se da ću i ja biti ugodno iznenađen materijalima iz "Komunikacionih tehnologija". Iako sam ja kao čitalac u odnosu na kolegu puno osjetljiviji na sadržaj,&nbsp; nego li na formatiranje teksta.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Sadržaj</strong></span></p>
+<p>&Scaron;to se tiče stavke 4, tu sam samo prokomentarisao:</p>
+<blockquote class="posterous_short_quote">
+<p>Stidim se ...</p>
+</blockquote>
+<p>Vezano za 5, nisam ga pravio upravo zato &scaron;to sam mislio da treba napraviti mrežu za samo dva sprata pa mi se dijagram u toj situaciji činio nepotrebnim. Ali, svakako je ovo dobra sugestija.</p>
+<p>Vezano za 6, i to je sasvim opravdan zahtjev.</p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;"> Zabranjena referenca<br /></span></strong></span></p>
+<p></p>
+<p class="western" style="font-style: normal;">Interesanto mi je bilo da moj blog ne može biti referenca za rad:</p>
+<p class="western" style="font-style: normal;">[hernad-rm-1] <a href="http://hernad.bring.out.ba/racunarske-mreze-case-study-projektant-ili-po">http://hernad.bring.out.ba/racunarske-mreze-case-study-projektant-ili-po</a></p>
+<p>Za&scaron;to ? Ja sam taj rad fakat radio na osnovu informacija koje sam dobio od asistenta, i koje su zabilježene na ovom članku ?!</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Specifikacija na engleskom</strong></span></p>
+<p>E ovo mi je, moram priznati pravo bezveze primjedba. Ključna stvar je ta da sam prije odabira opreme napravio analizu - prikupio informacije o vi&scaron;e uređaja, pa tek onda po određenom kriteriju napravio odabir. To je kod projektovanja bitna operacija.&nbsp; I upravo sam to pitao u članku koji je "zabranjena" referenca :)</p>
+<p>Ja sam se potrudio da napravim da prije specifikacije analizu opreme i on meni upućuje zamjerku na najmanje bitnu stvari ... Umjesto da kaže:</p>
+<blockquote class="posterous_short_quote">
+<p>Aferim kolega, napravili ste usporedbu različitih uređaja. To tako treba ...</p>
+</blockquote>
+<p>On meni traži da prevedem to &scaron;to sam naveo ... E pa stvarno ... Stvar sam "rije&scaron;io" jednostavno -<strong> izbacio</strong> sam taj dio iz druge verzije rada. Lud jesam, al' toliko lud nisam da to prevodim.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Subnetiranje</strong></span></p>
+<p>Kada sam ove ispravke napravio, asistent je tražio da se subnetiranjem jedne C klase rije&scaron;i shema IP adresa - radi vježbe. Shvatam, ali ne shvatam za&scaron;to to u "Primjer Case Study" nije urađeno ?! Ma nebitno ... I to je bio motiv da malo pogledam kako to raja "oprave" radi i na&scaron;ao sam <a href="http://packages.ubuntu.com/maverick/ipcalc">ipcalc</a>.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Moj entuzijazam je splasn'o</strong></span></p>
+<p>S obzirom da je moj entuzijazam splasn'o, u seminarski koji sam isporučio asistentu nisam obja&scaron;njavao kako se koristi ipcalc. To sam dodao u svoju varijantu&nbsp; <a href="https://github.com/hernad/FIT_RM/blob/master/case_study.pdf">HOWTO Case study-ja</a>.&nbsp; Da ... i to je bila primjedba: Naslov rada ne može biti "HOWTO Case study ....".</p>
+<p>Kako je meni je moja verzija i dalje super, ostavio sam je za sebe. Može koristiti. Howto materijali su uvijek dobrodo&scaron;li.</p>
+<p>A &scaron;to se tiče "asistentove" verzije, evo kako ona izgleda:</p>
+<p><div class='p_embed p_file_embed'>
+<a href="http://getfile1.posterous.com/getfile/files.posterous.com/temp-2011-03-15/GfCAGnagowkkropGFsjDnnfkpIlEdIxkDnvjbFvyvinubzEIBFaDCgcAqylA/case_study_2.pdf"><div class='p_icon'></div>
+<div class='p_text'>case_study_2.pdf</div>
+</a></div>
+</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Rezime</strong></span></p>
+<p>Moj poku&scaron;aj da ovakve radove približim svojim svakodnevnim potrebama često vode u drugu krajnost.&nbsp;</p>
+<p>Zato moj fokus često skroz "pobjegne" od onoga &scaron;to je cilj nastavnika. U ovom radu nastavnika očigledno ne interesuju stvari kao &scaron;to je precizan proračun dužina, optimalan odabir opreme.</p>
+<p>Kada ja u svojoj firmi radim ponude na ovu temu, to su stvari koje su u fokusu mog djelovanja.</p>
+<p>&Scaron;to se tiče subnetiranja u smislu vježbe - OK. Ali meni i nakon ovoga ostao veliki upitnik na to kako napraviti VLAN, kako povezati switch-eve.</p>
+<p>Jesam li mogao ići na kaskadno spajanje: switch_1 -&gt; switch_2 -&gt; switch_3 -&gt; switch_4 ? Mislim da jesam.</p>
+<p>Međutim, moj entuzijazam je totalno splasn'o. Nisam dobio ni jednu riječ hvale po pitanju onoga za &scaron;to sam se bez sumnje svojski potrudio.</p>
+<p>Proračun dužine kablova nije bitan za seminarski ? Analiza pri odabiru opreme nije bitna za ovaj seminsarski ?</p>
+<blockquote class="posterous_short_quote">
+<p>Pa dobro čovječe ... nije bitno za seminarski, ali zar kod ovakvih poslova to nisu bitne stavke ?! Ne da su bitne, nego su često i presudne.</p>
+</blockquote>
+<p>Zato sam se i ja na kraju opametio. Bez obzira &scaron;to postoji niz pitanja na koje ne znam odgovor:</p>
+<ol>
+<li>optimalno povezivanje switch-eva</li>
+<li>KADA ovakva organizacija - segmentacija mreže ima smisla ? Podjela po spratovima ? Hm ako se radi o jednoj firmi nema &scaron;anse. Podjela po sektorima ? </li>
+<li>Kada se odgovori na pitanje "KADA", onda slijedi pitanje kako se VLAN-ovi mogu organizovati ? Da li se povezivanjem switch-eva mogu praviti VLAN-ovi koji zahvataju vi&scaron;e uređaja ? Čitajuči o tome trebalo bi da može ... Ali opet, nisam mogao naći informacije i dobar primjer o tome.</li>
+</ol>
+<p>Zato sam se sjetio svojih ranijih pisanja:</p>
+<ul>
+<li><a href="/dobar-primjer-zlata-vrijedi">Dobar primjer zlata vrijedi ...</a></li>
+<li><a href="/hello-world">Hello world</a></li>
+</ul>
+<p>I nakon &scaron;to sam ovo sve pro&scaron;ao ne osjećam se puno pametniji ... U stvari, pametniji sam upravo za dio koji je rezultat moje ludosti - naučio sam jo&scaron; malo <a href="https://github.com/hernad/FIT_RM/tree/master/inkscape">python-a i inkscape-a</a>. Bil hajr. Trebaće mi za <a href="http://redmine.bring.out.ba/projects/knowhow/wiki">knowhow</a> aBd.</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Nažalost moja ludost me je koštala ... Kolega iz RM-a baš nije pokazao entuzijazam za moj "Measure Cables" inkscape uradak. Ta prva verzija koju sam dao na uvid ispala je totalna "šupica-tach". Primjedbe su bile: naslovna stranica treba sadrž...]]></excerpt:encoded>	
+
+	<wp:post_date>Tue Mar 15 02:34:00 -0700 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>racunarske-mreze-case-study-koji-moze-proci</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

@@ -1,0 +1,86 @@
+<item>
+	<title>&quot;Pije li vode&quot; OSS ERP software u Bosni - Adempiere</title>
+	<link>http://hernad.bring.out.ba/pije-li-vode-open-source-erp-software-u-bosni-52055</link>
+	<pubDate>Tue Oct 04 23:44:00 -0700 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="erp"><![CDATA[erp]]></category>
+	
+		<category domain="tag" nicename="it"><![CDATA[it]]></category>
+	
+		<category domain="tag" nicename="opensource"><![CDATA[opensource]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/pije-li-vode-open-source-erp-software-u-bosni-52055</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>U <a href="http://hernad.bring.out.ba/pije-li-vode-open-source-erp-software-u-bosni">prvom dijelu</a>&nbsp;sam naveo motive i kriterija za odabir open source (nadalje OSS) ERP software-a.</p>
+<p>Ovdje ću iznijeti svoja dosada&scaron;nja iskustva sa Adempiere-om.</p>
+<p><em><span style="text-decoration: underline;">Napomena: mnoge konstatacije ovdje navedene nisu do kraja provjerene ili su rezultat mojih subjektivnih dojmova. Ako sam ne&scaron;to pogrije&scaron;io, biću zahvalan na komentarima koji će ukazti na neispravnosti.</span></em></p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Istorija</strong></span></p>
+<p>Adempiere je fork Compiere ERP-a. Compiere je prvi "ozbiljan" ERP koji objavljen kao OSS software. Međutim, compiere je "bolovao" od niza problema: primarni database je bio komercijalni Oracle(*), neke komponente su bile komercijalne (reporting PDF engine). Međutim, najveća boljka je bila ta da je Compiere počeo da se udaljava od svog community-a okupljenog oko OSS verzije.</p>
+<p>Adempiere je GPLv2 licenciran. Može se reći da je on najvi&scaron;e community oriented ERP projekat. Za razliku od Adempiere-a iza svih ostalih OSS ERP projekata, kasnije ćemo vidjeti, stoji <strong>jedna firma</strong> vlasnik software-a (copyright holder).</p>
+<p><!--more--><span style="text-decoration: underline;"><strong>Korisnički interfejs</strong></span></p>
+<p>Adempiere ima web i java swing rich klijent. Web klijent mi se ne sviđa. On ima sve funkcije osnovnog paketa ali sve je to suvi&scaron;e sporo ... Suvi&scaron;e "tukne" standarni html interface (iako je kori&scaron;tena javascript ajax biblioteka).</p>
+<p>Ukratko sve to radi, ali nije to to. Ta aplikacija neće na korisnika ostaviti dobar utisak. Unos podataka je neintuitivan.</p>
+<p>Ukratko, to (vjerovatno) sve radi, ali nije to to. Nije to software od kojeg će&scaron; upasti na čelo.</p>
+<p>Java rich client je primarni interfejs. On je vi&scaron;e "ispoliran" nego li web verzija. Međutim, sličan koncept - opet neintuitivno</p>
+<p>Kod unosa se non stop pojavljuju pojmovi "record", "document". To je za IT profesionalca možda logična asocijacija (record &lt;-&gt; table record) ali za običnog korisnika nije.</p>
+<p><div class='p_embed p_image_embed'>
+<a href="http://getfile9.posterous.com/getfile/files.posterous.com/temp-2011-10-05/irkJuecBhAHvlaIeveGpjvkxnAvHsfecvmJieDfeeGgytHvnFdtqkfuCBJDk/adempiere_1.png.scaled1000.png"><img alt="Adempiere_1" height="225" src="http://getfile8.posterous.com/getfile/files.posterous.com/temp-2011-10-05/irkJuecBhAHvlaIeveGpjvkxnAvHsfecvmJieDfeeGgytHvnFdtqkfuCBJDk/adempiere_1.png.scaled500.png" width="500" /></a>
+<a href="http://getfile6.posterous.com/getfile/files.posterous.com/temp-2011-10-05/JIhxHfdwajygAlApfqdtEiAjzElmCaivlAnqBzpmhopivIEFvcfrpchjGbik/adempiere_2.png.scaled1000.png"><img alt="Adempiere_2" height="327" src="http://getfile2.posterous.com/getfile/files.posterous.com/temp-2011-10-05/JIhxHfdwajygAlApfqdtEiAjzElmCaivlAnqBzpmhopivIEFvcfrpchjGbik/adempiere_2.png.scaled500.png" width="500" /></a>
+<a href="http://getfile8.posterous.com/getfile/files.posterous.com/temp-2011-10-05/zGyynjlomyfHukdzngCiiEeemwrFoACikfzBBdElJwrkfbGxDjIqjfHAqfns/adempiere_3.png.scaled1000.png"><img alt="Adempiere_3" height="327" src="http://getfile5.posterous.com/getfile/files.posterous.com/temp-2011-10-05/zGyynjlomyfHukdzngCiiEeemwrFoACikfzBBdElJwrkfbGxDjIqjfHAqfns/adempiere_3.png.scaled500.png" width="500" /></a>
+<a href="http://getfile0.posterous.com/getfile/files.posterous.com/temp-2011-10-05/duAeJbzciwimhxwhsFknjqIltIBoErjtmgloyveIiHAgfDvJehmjFfjBijfj/adempiere_4.png.scaled1000.png"><img alt="Adempiere_4" height="249" src="http://getfile0.posterous.com/getfile/files.posterous.com/temp-2011-10-05/duAeJbzciwimhxwhsFknjqIltIBoErjtmgloyveIiHAgfDvJehmjFfjBijfj/adempiere_4.png.scaled500.png" width="500" /></a>
+<a href="http://getfile6.posterous.com/getfile/files.posterous.com/temp-2011-10-05/mbaACgnifmnIdgmJJykxgEdbmmCAFFlpqjaoBwDegnjtAnAaykIEvxIylGaE/adempiere_5.png.scaled1000.png"><img alt="Adempiere_5" height="292" src="http://getfile3.posterous.com/getfile/files.posterous.com/temp-2011-10-05/mbaACgnifmnIdgmJJykxgEdbmmCAFFlpqjaoBwDegnjtAnAaykIEvxIylGaE/adempiere_5.png.scaled500.png" width="500" /></a>
+</div>
+</p>
+<p><span style="text-decoration: underline;"><strong>Database</strong></span></p>
+<p>Primarni database Adempiere-a je PostgreSQL. Radi Compiere korjena podržana je i Oracle database (Express verzija, ali naravno i jače).</p>
+<p>Stored procedure pisane su u java sql-u. To mi je prilikom ručne instalacije baze stvorilo masu problema. Standardna postgresql instalacija 9.1 na ubuntu-u koji sam koristio za test nije imala spremnu java stored procedure podr&scaron;ku ... Ah tu se pokazalo koliko je kori&scaron;tenje standardnih komponetni bitno za brzu instalaciju software-a (deployment).</p>
+<p>Na kraj sam instalirao 3.5.3 virtualbox testnu sesiju koja se može skinuti sa Adempiere sourceforge stranica.</p>
+<p>Baza ima cca 700 tabela. &Scaron;to je mnogo, mnogo je :(.</p>
+<p><div class='p_embed p_image_embed'>
+<img alt="Adempiere_database" height="262" src="http://getfile3.posterous.com/getfile/files.posterous.com/temp-2011-10-05/hFzwEmGnuseloIdlEIvmohrkHnuduobIoodjsDpmyxkBsfjlscqwrwibjCEy/adempiere_database.png.scaled500.png" width="336" />
+</div>
+</p>
+<p>Adempiere je karakterističan po konceptu AD-a - Application Dictionary-ja. &nbsp;Naime u tim posebnim tabelama koje se mogu smatrati sistemskim tabelama aplikacije pohranjene su sve bitne informacije i parametri aplikacije.</p>
+<p>To aplikaciji daje veliki stepen konfigurabilnosti ali je ujedno čini i dosta zamr&scaron;enom za održavanje. Mogu misliti kakvi sve problemi mogu nastati ako neko "čačka" po tim AD tabelama.</p>
+<p><span style="text-decoration: underline;"><strong>Tehnologije</strong></span></p>
+<p>Adempiere je java aplikacija. Koristi se jboss (4.2) J2EE applikacijski server. On je naknadno ubačen. U prvim verzijama klijent je direktno komunicirao sa database serverom.</p>
+<p>Mislim da i sada neke stvari idu direktno, neke novije kroz application tier.</p>
+<p>Ukratko radi se o aplikaciji koja je miks 2-tier / 3-tier arhitekture.</p>
+<p><span style="text-decoration: underline;"><strong>Metodologija</strong></span></p>
+<p>Prateći adempiere forume uočio sam da red1, jedan od lidera Adempiere zajednice, forsira TDD/BDD development i kori&scaron;tenje Fitnesse slim testova.</p>
+<p>Nai&scaron;ao sam na takve testove za cost engine i novi POS modul.</p>
+<p>To je za svaku pohvalu.</p>
+<p><span style="text-decoration: underline;"><strong>Brzina, memorija</strong></span></p>
+<p>Da bi pokrenuo Adempiere treba ti memorije ... Java je poznata kao gutač memorije. Sve to u testnom okruženju radi sporo i na najbržoj ma&scaron;ini kakav je moj macan :).</p>
+<p><span style="text-decoration: underline;"><strong>Literatura</strong></span></p>
+<p>Prije mjesec dana sam nabavio dvije knjige u izdanju <a href="http://www.packtpub.com/adempiere-3-6-cookbook/book">Pack Publishing-a</a>. One su mi bile velika pomoć u razumjevanju onoga &scaron;to Adempiere jeste i može.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Zaključak</strong></span></p>
+<p>Adempiere je OSS ERP projekat koji je u najvećoj mjeri oslonjen na svoj community. Sama ta činjenica čini ga respektabilnim projektom. U posljednjih par godina pojavile su se značajni komercijalni vendori koje na bazi Adempiere-a nude svoja rje&scaron;enja. GPLv2 obezbjeđuje da se sav rad tih komercijalnih vendora vraća community-ju.</p>
+<p>Komercijalna literatura je odličan dodatak poprilično konfuznim adempiere wiki stranicama.</p>
+<p>Adempiere je projekat vrijedan svake hvale, ali ... kada sve saberem po drugi ili treći put ... on ipak nije prava osnova za ono &scaron;to ja zami&scaron;ljam kao dobar OSS ERP software za bosansko trži&scaron;te.&nbsp;</p>
+<p>---</p>
+<p>(*) Čak je i jedna bitnih komercijalnih aspekata Compiere-a, koliko se sjećam, bila upravo prodaja Oracle database licenci</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[U prvom dijelu sam naveo motive i kriterija za odabir open source (nadalje OSS) ERP software-a. Ovdje ću iznijeti svoja dosadašnja iskustva sa Adempiere-om. Napomena: mnoge konstatacije ovdje navedene nisu do kraja provjerene ili su rezultat moj...]]></excerpt:encoded>	
+
+	<wp:post_date>Tue Oct 04 23:44:00 -0700 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>pije-li-vode-open-source-erp-software-u-bosni-52055</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

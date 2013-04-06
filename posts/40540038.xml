@@ -1,0 +1,40 @@
+<item>
+	<title>Server operativni sistemi, priprema za finalni ispit</title>
+	<link>http://hernad.bring.out.ba/server-operativni-sistemi-priprema-za-finalni</link>
+	<pubDate>Fri Jan 21 12:25:00 -0800 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/server-operativni-sistemi-priprema-za-finalni</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Čitao sam knjigu "Operativni sistemi, knjiga 2"(*), ali sam na pola puta stao. Ovaj put nisam imao snage kao <a href="/uos-knjiga-1-procitana">pro&scaron;le godine</a>.</p>
+<p>Na kraju sam "če&scaron;ljao" pitanja koje su studenti prikupili ...</p>
+<p>Evo tih bilje&scaron;ki: <a href="https://gist.github.com/790344">https://gist.github.com/790344</a></p>
+<p>---</p>
+<p>(*) autor Prof. dr. Nijaz Bajgorić, of course</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Čitao sam knjigu "Operativni sistemi, knjiga 2"(*), ali sam na pola puta stao. Ovaj put nisam imao snage kao prošle godine. Na kraju sam "češljao" pitanja koje su studenti prikupili ... Evo tih bilješki: https://gist.github.com/790344 --- (*) auto...]]></excerpt:encoded>	
+
+	<wp:post_date>Fri Jan 21 12:25:00 -0800 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>server-operativni-sistemi-priprema-za-finalni</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

@@ -1,0 +1,289 @@
+<item>
+	<title>Statistika, ovo mi se ništa ne sviđa - prašologija na vidiku ?!</title>
+	<link>http://hernad.bring.out.ba/stastika-ovo-mi-se-nista-ne-svida-prasologija</link>
+	<pubDate>Sat Nov 27 13:13:00 -0800 2010</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="antiznanje"><![CDATA[antiznanje]]></category>
+	
+		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/stastika-ovo-mi-se-nista-ne-svida-prasologija</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Danas sam pročitao do 81 strane knjigu iz statistike.</p>
+<p>Odavno tako jednostavnu tematiku nisam lo&scaron;ije shvatio. Prvo mi je  tehnologija koja se koristi u spreadsheet aplikaciji <a href="/spreadsheet-trodimenzionalne-reference">"zapala za oči"</a>, da bi se tokom čitanja svako malo gubio.</p>
+<p>Terminologija koja se koristi je skroz nekonzistenta, nepovezana, zbunjujuća.</p>
+<p>Dobro, statistika nije moj fah. To definitivno nije materjia koju mogu kompetentno komentarisati.</p>
+<p>Dok je komentar u ranijem postu vezan za informatiku, ovo nije moj domen.</p>
+<p>Zato sam tražio pomoć od svoje supruge Dženane, koja predaje statistiku na psihologiji. Koliko znam, Dženana i njen kolega Nermin Džapo su glavne face za statistiku u Bosni (među akademskim svijetom).&nbsp;</p>
+<p><!--more--></p>
+<p>Pitao  sam je za termine baznog i lančanog indeksa:&nbsp; "Ovo je meni ne&scaron;to skroz  konfuzno, nejasno. Da li su to neki standardni termini u statistici ?"</p>
+<p>Dženana mi je odgovorila da je ovu moju knjigu iz statistike pregledala, ali da je u njoj sva&scaron;ta  ne&scaron;to nabacano, puno novouvedenih - nestandardnih termina. Ti termini definitivno nisu dio standardni riječnik u statistici. Pa gdje mene ovaj "guru" da zapadne ?!</p>
+<p>&Scaron;to se tiče pitanja o baznom indeksu - nije mi znala preko telefona objasniti o čemu se tu radi.</p>
+<p>Nakon &scaron;to sam pročitao knjigu i ostao zbunjoza, uzeo sam sa <a href="http://cs.fit.ba/">http://cs.fit.ba</a> pitanja i zadatke koje mi je kolega Emir preporučio.</p>
+<p>I siguran sam da su za polaganje ispita dobri, ali za razumjevanje materije koju ovaj predmet treba da obradi ... to je totalna katastrofa ...</p>
+<p>Uh, izgleda da na fitu pored <a href="http://www.bring.out.ba/bajgorologija-ii-polozena">bajgorologije </a>ima i pra&scaron;ologija !?&nbsp; Volio bih da sam u krivu.</p>
+<p>Vratimo se ispitu. Koncept polaganja je sljedeći:</p>
+<p>1) teoretski eliminatorni dio je odgovor na ključne pojmove (60%)</p>
+<p>2) nakon toga zadatak u excelu praktičan</p>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Teoretski dio je izgleda totalno besmislen - joooj </span></strong></span></p>
+<p>Evo pitanja i odgovora iz tog teoretskog dijela:</p>
+<blockquote class="posterous_short_quote">
+<p>23. Kumulativni indeks &ndash; je indeks koji se odnosi na vi&scaron;e perioda ili godina.</p>
+</blockquote>
+<p>&Scaron;ta, ko, kako ?! Ovo je nebuloza. Brat bratu kad bi ovaj čovjek do&scaron;ao  kod Galića(*) sa ovom "definicijom" on bi mu rekao: Kolega ovo je sve  ali ne definicija jednog pojma.</p>
+<p>Evo i pojma koji mi Dženana nije znala objasniti:</p>
+<blockquote class="posterous_short_quote">
+<p>21. Bazni indeks &ndash; je omjer kojim se utvrđuje bazni period koji može biti bilo koji period, prethodni ili kasniji.</p>
+</blockquote>
+<p>Ba&scaron; me interesuje hoće li joj "sinuti" kad ovu definiciju pročita :(</p>
+<p>Po mom sudu ovo je katastrofa. Ona predhodna definicija je jo&scaron; i dobra. Galić bi za ovu "definiciju" izrekao zabranu izlaska na njegov ispit narednih dvije godine.</p>
+<p>Inače ovo bi informatičari zvali: beskonačna petlja. Rekurzija bez izlaznog slučaja.</p>
+<blockquote class="posterous_short_quote">
+<p>24. Prosti indeks &ndash; je omjer između veličine jedne pojave u tekućem u odnosu na prethodni period, kojeg obično nazivamo<br />baznim.</p>
+</blockquote>
+<p>Pa zar maloprije ne reče da taj bazni indeks može biti bilo koji period ?</p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Teoretski dio, informatički pojmovi</span></strong></span></p>
+<blockquote class="posterous_short_quote">
+<p>33. Startni prozor - prozor predstavlja desktop na&scaron;eg računara na kojem obično postavi tzv. kratica u na&scaron;em slučaju Excela, a i mnogih drugih programa</p>
+</blockquote>
+<p>JAAAAAAAAAAAAAAO. Čujete li urlik. O'đe lav. O'đe očajnik. O'đe ucviljeni informatičar.</p>
+<p>Čekaj malo, ove odgovore su pripremili studenti. Možda ovo i nije tačno ?!</p>
+<p>Ne, ovo je nemoguće da ovo bude pitanje na predmetu "Statistika i vjerovatnoća". A ako je kojim slučajem tačno da se ovakvo pitanje postavlja, i da je ovo odgovor: <span style="color: #ff0000;">ovo je&nbsp; klasična uvreda za informatiku i bruka za fakultet koji u svom imenu sadrži pojam<strong> "informatika"</strong></span>.</p>
+<p><strong><span style="text-decoration: underline; color: #000000;"><span style="font-size: medium;">Rezime</span></span></strong></p>
+<p>Biće ovo jedan krajnje težak ispit za mene. Suvi&scaron;e sam star za učenje napamet ovakvih nebuloza.</p>
+<p><strong><span style="text-decoration: underline;"><span style="font-size: medium;">Pitanje za Dženanu</span></span></strong></p>
+<p>Profesorice, reci mi po&scaron;teno, da li bi ti na ova pitanja ostvarila prolaz ? Dovoljno je 60% :)</p>
+<p><div class='p_embed p_file_embed'>
+<a href="http://getfile8.posterous.com/getfile/files.posterous.com/temp-2010-11-27/vHJeFgvzqIbeakEktetrBuBewhElcIdyeIzHAtqIyrJzdwyawAbDnEnnhamH/Statistika_teorija.pdf"><div class='p_icon'></div>
+<div class='p_text'>Statistika_teorija.pdf</div>
+</a></div>
+</p>
+<p>-----</p>
+<p>(*) Legendarni profesor Matematike I sa ETF-a Sarajevskog</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Danas sam pročitao do 81 strane knjigu iz statistike. Odavno tako jednostavnu tematiku nisam lošije shvatio. Prvo mi je tehnologija koja se koristi u spreadsheet aplikaciji "zapala za oči", da bi se tokom čitanja svako malo gubio. Terminologij...]]></excerpt:encoded>	
+
+	<wp:post_date>Sat Nov 27 13:13:00 -0800 2010</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>stastika-ovo-mi-se-nista-ne-svida-prasologija</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Sat Nov 27 13:58:58 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Sat Nov 27 13:58:58 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Fernala mi je mail-om odgovorila:
+
+Pitanja sa odgovorima nisu data, to su skupljali studenti, uglavnom polu pismeni, nažalost,  i formirali tu skriptu po kojoj sad „gomila“ uči. Ja sam prošle godine prepravljala dio ali mi se nije dalo gubiti vrijeme previše. Poenta je da pročitaš knjigu, knjiga nije loša i meni je bila korisna. Ako razumiješ pojmove mislim da se ne trebaš sekirati, izbacit ćeš neke smislene rečenice, sigurna sam. Ono što sam vidjela kod Nine je da oni traže da razumiješ pitanje i da ako te pitala šta dobijamo izračunom aritmetičke sredine npr., ti ne odgovoriš kako se onda dobija. Ljudi mahom bubaju gluposti iz tih nazovi skripti što je ludost.
+
+Dakle, recept je knjiga i iza svakog poglavlja su pitanja i zadaci što je otprilike ispitna težina. Da, dobro bi bilo da pregledaš njegova videa da ti je jasno u kojoj formi očekuje da odradiš zadatak.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Sat Nov 27 13:59:14 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Sat Nov 27 13:59:14 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hvala ti Fernala, malo si me smirila :)]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Sat Nov 27 14:01:59 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Sat Nov 27 14:01:59 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Ali ova pitanja. Ovo je katastrofa, iznapada ja na bigajrihaak fakultet, profesore za ovu skriptu.
+
+A što se fernale tiče, problem je što meni knjiga do sada nije previše pomogla :(
+
+
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[hdzenana]]></wp:comment_author>
+			<wp:comment_author_email>dzenana.husremovic@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Mon Nov 29 08:37:20 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Mon Nov 29 08:37:20 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[ja bi ovo pala i poderala strample. Pitam se je li mi pametnije da idem u Mannheim na strucno usavrsavanje iz strukturalnog modeliranja za kros-kulturalne uzorke ili da upisem i ja tvoju statistiku?]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Mon Nov 29 10:14:25 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Mon Nov 29 10:14:25 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Draga Dženana, kupiće ti muž štrample-šunjalice. A ti mene zauzvrat nauči ovo što trebam da se ja ove muke kutarišem.  Pa ti idi kuda hoćeš.
+ 
+A što se tiče upisa na FIT, mislim da će im biti dovoljan i jedan Husremović.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[twiee]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Mon Nov 29 10:59:44 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Mon Nov 29 10:59:44 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[&quot; Prasologija i  bajgorologija &quot; legendarno XD]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[Emir Slanjankić]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Dec 08 15:14:06 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Wed Dec 08 15:14:06 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Poštovani,
+
+Kako je kolegica Fernala već spomenula, imali ste &quot;nesreću&quot; da učite iz skripte koju su studenti napisali i sklopili. Ne bih detaljnije ulazio u sadržaj skripte, ali dovoljno poznajem gradivo da Vam kažem kako su termini &quot;bazni indeks&quot; i &quot;lančani indeks&quot; u skripti posve pogrešno objašnjeni. Za Vaše dobro Vas molim da pokušate ispit spremiti iz knjige (zvaničnog udžbenika profesora Murata Praše). Pritom budite na oprezu - tekst je mjestimično škrt riječima, pa trebate čitati jedan pasus nekoliko puta da shvatite njegovu sadržinu, naročito ako se spominju matematički termini koji našim studentima - objektivno - nisu previše mili. 
+
+Nadam se da ćete ispit položiti na sljedećem roku i ni u kom slučaju nemojte padati u očajanje. Siguran sam da su Vaši motivi jači od svih prepreka koje Vas čekaju :)
+
+Vaš asistent, 
+
+Emir Slanjankić]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Thu Dec 09 00:14:50 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Thu Dec 09 00:14:50 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Poštovani kolega, hvala Vam na pojašnjenjima. 
+Međutim, moram Vam ukazati na kraju pisanja ovog članka napravio granicu između tog studentskog uratka i onoga što su zvanični materijali predmeta. To piše
+
+Moj negativan dojam o konceptu ispita međutim nisu odredile te skripte. 
+
+U ovom članku sam otvorio pitanje: da li se na Statistici FIT predaje znanje ili antiznanje.
+
+U svojim narednim aktivnostima spremanja ispite, mogućnosti da kontaktiram ljude koje smatram meritornim u ovoj oblasti (jer ja to nisam) došao sam do jasnog suda i stava o predmetu:
+
+http://hernad.bring.out.ba/koncept-predmeta-statistika-i-vjerovatnoca-na
+
+Što se tiče padanja u očaj, to se definitivno ne trebate sekirati :)
+
+Svakako hvala Vam na podršci. Nadam se da ćete odvojiti vremena da pročitate i ostale članke koje obrađuju predmet Statistike na FIT-u. Ovaj je tek prvi u seriji.  
+
+Tek nakon kompletnog čitanja možete steći potpunu sliku o mom viđenju stvari. 
+
+Međutim, članak sa naslovom &quot;Koncept predmeta Statistika ...&quot; može se uzeti kao rezime tog stava.
+
+Još jednom, hvala na podršci i vremenu koji ste utrošili na čitanje.
+
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Thu Dec 09 00:22:43 -0800 2010</wp:comment_date>
+			<wp:comment_date_gmt>Thu Dec 09 00:22:43 -0800 2010</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Svakako je bitno uočiti da centralno pitanje ovog, i drugh članaka vezanih za Statistiku nije: &quot;Joj, kako ovo da položim&quot;
+
+Na to sam u rezimeu ovog članka i odgovorio:
+
+http://hernad.bring.out.ba/statistika-1-parcijalni-ispit
+
+Centralno pitanje koje se člancima obrađuje jeste šta student učenjem dobija. Kako za ovaj, tako i za druge predmete.
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[Armin Smajic]]></wp:comment_author>
+			<wp:comment_author_email>c.leoo@hotmail.com</wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Sat Oct 22 02:34:40 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Sat Oct 22 02:34:40 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Pozdrav kolega Ernade,
+procitah nekoliko tema koje ste obradili i svaka cast, neiscrpan izvor energije imate ocito. :)
+
+&quot;Centralno pitanje koje se člancima obrađuje jeste šta student učenjem dobija.&quot;
+
+Sto se mene tice, ide komentar na &quot;dobit&quot; (da, da, komentar na dobit, ne porez na dobit :) od ucenja predmeta Ekonomija, Statistika, Reporting, Sociologija, Uvod u Informacijske tehnologije i sl.
+Prvi semestar sam 98% ucenja proveo na savladjivanju Ekonomije, pa sam zato morao polagati Uvod u programiranje na posljednjem roku, u mjesecu Maju, sto je kasnije rezultiralo padu iz PR1, pa i prenosenjem tog predmeta u iducu godinu (trebam li spomenuti da je prvobitna ideja bila upisati FiT jer imaju programiranje, kao GLAVNI predmet). Knjigu iz UIT-a kad sam otvorio, mislio sam da me neko zafrkava, a da ne spominjem uzimanje novca studentima za knjigu UOS koja predstavlja jedan dio knjige UIT-a, ali dobro, to sam preko skripti rijesio, jer su me Ekonomijom i neiscrpnom dvosemestralnom Matematikom natjerali na to. Eh, druga godina, otvorim materijale iz PR2 i obradujem se sto konacno mogu dalje uciti, kad me pocese bombardovati materijali iz SiV-a koji blago receno ne razumijem. Shvatam ja da tu ima nekih indexa, sredina ova i sredina ona i da ce neki bankar to koristiti valjda, pa da moze i meni trebati ako nekad budem neki program pravio (to su me neke kolege ubijedile), ali apsolutno nista nisam shvatio, te sam obnavljao godinu jer nisam htio da i ovaj put da ugrozim sve ostale predmete radi Statistike i Reportinga. Obnovio sam godinu, polozio SiV i Reporting tako sto sam dan-noc ucio i ostala mi je samo nada da ima neko kome je ovo zaista pomoglo u zivotu, osim cijenjenom profesoru i nasim asistentima koji su placeni za to, a protiv kojih nemam apsolutno nista, osim zelje da shvate da su studenti nezadovoljni i da nesto treba mjenjati.
+Eto, proslo je 11 mjeseci od zadnjeg posta, tako da sve ovo sto sam ispisao ce mozda samo da zauzima prostor, ali ja napisah, pa nek zauzima.
+
+Lijep pozdrav i sretno svima,
+Armin.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Sat Oct 22 03:39:11 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Sat Oct 22 03:39:11 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://hernad.bring.out.ba/hrabrost-na-fit-u]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

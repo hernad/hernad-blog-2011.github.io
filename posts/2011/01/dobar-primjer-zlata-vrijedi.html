@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<link href='../../../exports.css' rel='stylesheet'>
+<link href='../../../exports.css' rel='stylesheet'>
+
+</head>
+<body>
+<div id='wrap'>
+<div id='header'>
+<h1>hernad</h1>
+<h2>This is an archived post
+This is an archived post
+</h2>
+</div>
+<div id='content'><div id='nav'>
+<a href="../../../posts/2011/01/uvod-u-baze-podataka-pubs-database.html">Previous</a>
+&nbsp; 
+<a href="../../../index-10.html">Index</a>
+&nbsp; 
+<a href="../../../posts/2011/01/uvod-u-baze-podataka-mora-li-gerund-biti-sahb.html">Next</a>
+</div>
+<div class='post'>
+<div class='post_header'>
+<h3>Dobar primjer zlata vrijedi, a loš ...</h3>
+<div class='post_info'>
+<span class='post_time'>January 28 2011, 12:51 PM</span>
+<span class='author'>&nbsp;by Ernad Husremović</span>
+</div>
+</div>
+<div class='post_body'><p>Konkretizacija nekog pojma kroz reprezentativni primjer sastavni je dio (kvalitetnog) procesa učenja. Zato mi prilikom čitanja nekog sadržaja, nakon svakog novouvedenog pojma, kroz glavu "prostruji" zahtjev:</p>
+<blockquote class="posterous_short_quote">
+<p>Daj mi primjer !</p>
+</blockquote>
+<p>Ako to izostane(*), u mislima se posvađam sa autorom teksta:</p>
+<blockquote class="posterous_short_quote">
+<p>De bolan pusti se "bla bla bla" ... objasni mi !</p>
+</blockquote>
+<p>Ako se radi o sadržaju koji čitam na svoju volju, a željeno obja&scaron;njenje ne dobijem, čitanje se zavr&scaron;avam sa:</p>
+<blockquote class="posterous_short_quote">
+<p>Ma pričaj ti to nekom drugom ...</p>
+</blockquote>
+<p>Međutim, ako se radi o nastavnim materijalima, ovakva mogućnost izbora ne postoji.</p>
+<p><!--more-->Čitam materijal: "Relacioni model podataka" iz UBP-a:</p>
+<blockquote class="posterous_medium_quote">
+<p>U relacionom modelu najveća logička organizaciona jedinica podataka jeste odabrana n-arna relacija. Broj n je broj obilježja u opisu relacije na nivou apstrakcije obilježja. Ovaj opis se uobičajeno zove <strong>&scaron;emom relacije</strong> i predstavlja imenovanu dvojku <strong>N (R, K) </strong>gdje je: N - naziv relacije, R - skup obilježja i K skup uvjeta integriteta.</p>
+</blockquote>
+<p>Definicija se "nije ubila" od "čitljivosti". Ali, ona je jo&scaron; i dobra, <a href="/uvod-u-baze-podataka-zbrkizacija">kakvih ima</a>. Fokus je na "primjeru" koji slijedi nakon gornje definicije:</p>
+<blockquote>
+<p>&Scaron;emi relacije Fakultet( {<span style="color: #ff0000;"><strong>PMF</strong></span>, NAZ, BPI}, {FAK} ), gdje je FAK oznaka fakulteta, NAZ naziv fakulteta, BPI broj informatičkih<strong><span style="color: #ff0000;"> fakulteta</span></strong> i gdje je FAK primarni ključ odgovara relacija(**):<br />r(Fakultet) = {(PMF, Matematički, 7), (EKF, Ekonomski, 4), (ETF<strong><span style="color: #ff0000;">;</span></strong> Elektrotehnički, 9), (MAF, Ma&scaron;inski 7) }.</p>
+</blockquote>
+<p>Primjer me je tako zbunio da sam ostao "obalje&scaron;ten". Jedno 5-6 puta sam pro&scaron;ao gornji tekst, ali ne ide:</p>
+<blockquote class="posterous_short_quote">
+<p>Pa zar opet ovaj UBP ne mogu skontati ?!</p>
+</blockquote>
+<p>Na kraju sam ipak uspio "de&scaron;ifrovati" &scaron;ta je to pisac želio reći. Mislio je na shemu { fakultet_id, naziv, broj_informatickih_predmeta }, gdje je { fakultet_id } primarni ključ.</p>
+<p>Kakvo crno polje "broj informatičkih fakulteta" ?! Tek iz skraćenice "BPI" sam skontao da se misli na broj informatičkih predmeta ... A to da je unutar sheme umjesto "FAK" stavljeno "PMF", da ne govorim. Nakon ovakvih "unfala", nedosljednost u notifikaciji ";" umjesto "," nije ni vrijedna pomena.</p>
+<p>Materijali iz UBP-a su lakrdija. Uputio sam niz kritika na predmet "Uvod u baze podataka", ali ga do sada nisam označio sa "antiznaje". Nakon ovog primjera nemam izbora. Sramota.</p>
+<p>---</p>
+<p>(*)&nbsp; <a href="/hello-world">"Hello world</a>"  upravo o tome i govori: Kada shvati&scaron; neki jednostavan, reprezentativan  primjer sposoban si prepoznavati i graditi nove konstrukcije.</p>
+<p>(**) misli se na instancu relacione sheme - uzorak podataka</p></div>
+<div class='post_tags'>
+<h4>Tags</h4>
+<div class='post_tags_list'>antiznanje, fit_2_godina, fit_mostar</div>
+</div>
+<div class='post_responses'>
+<h4>6807 views and 0 responses</h4>
+<ul class='post_responses list'>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,169 @@
+<item>
+	<title>Mursel, &quot;knowhow ERP&quot; is NOT Linux only, Microsoft i &quot;Mono&quot; projekat</title>
+	<link>http://hernad.bring.out.ba/mursel-knowhow-erp-is-not-linux-only-microsof</link>
+	<pubDate>Tue Nov 01 03:39:00 -0700 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+	
+		<category domain="tag" nicename="erp"><![CDATA[erp]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+		<category domain="tag" nicename="opensource"><![CDATA[opensource]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/mursel-knowhow-erp-is-not-linux-only-microsof</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Jutros sam dobio mail podr&scaron;ke za "knowhow ERP" od na&scaron;eg prijatelja iz Goražda.</p>
+<p>Odgovoriću mu na ovom mjestu:</p>
+<p><!--more--></p>
+<blockquote>
+<p><em>&gt;Selam alejkum,</em></p>
+<p>Alejkum selam Mursele,</p>
+<p><em>&gt; Kako smo svi u bring.out?&nbsp;</em></p>
+<p>Mogu ti reći: umorno, ali ipak zadovoljni. Ključne stvari koje smo planirali za prvu "knowhow ERP" prezentaciju smo uspje&scaron;no pripremili, elhamdulillah.</p>
+<p>Istina, posljednju heftu smo radili k'o manijaci.&nbsp;</p>
+<p>Iako smo svi u ekipi davno pre&scaron;li dvadesete (neki 1,5x neki a neki Boga mi i 2,x :) ), pokazali smo da se i dan-danas možemo potrkati sa omladincima :).</p>
+<p>U predhodna četiri mjeseca na&scaron; glavni cilj je bio da sebi i svojim klijentima pokažemo da smo i dalje <strong>software development</strong> firma. Da smo spremni proizvoditi novu vrijednost, novi software.</p>
+<p>Iako smo počeli i kao takva firma(*), mi to u posljednjih 10 godina objektivno nismo. Izuzev&scaron;i par manjih projekata, mi smo se u proteklom desetljeću pretvorili u <strong>software maintenance</strong> firmu.</p>
+<p>Međutim, za razliku od većine sličnih bosanskih firmi, nikada nismo prihvatili ulogu filijale slovenačkih, hrvatskih i srbijanskih ERP provajdera.</p>
+<p>Moja poslovna filozofija je bila:</p>
+<p><em>"Ako ću već raditi za druge, onda mi moja firma ni ne treba. Ja ionako nikada nisam bio neki čovjek od biznisa, programiranje i tehnički poslovi su mi uvijek i&scaron;li bolje dod ruke."</em></p>
+<p>Zato je i u najtežim trenucima "Sigma-com" odnosno "bring.out" strategija:&nbsp;</p>
+<p>&nbsp; <em>&nbsp;"Ili sopstveno ERP rje&scaron;enje ili ni&scaron;ta"</em></p>
+<p>ostala na snazi.</p>
+<p>Dva su glavna razloga za to:</p>
+<ol>
+<li>Mislim da ta rje&scaron;enja nisu ne&scaron;to "aman-zaman"(**), ne&scaron;to &scaron;to mi pametnim konceptom i sa dobrom ekipom u Bosni i sami ne možemo napraviti.</li>
+<li>Zato &scaron;to sam bosanski nacionalista (*)</li>
+</ol>
+<p><em>&gt; Pregledao sam sinoc videa (youtube) po pitanju fiskalnih stampaca i jedan video vezan za FMK, te zadnji video koji si objavio nekad skoro: knowhow ERP.</em></p>
+<p>Ba&scaron; mi je drago mi je da si odvojio vrijeme za pregleda videa. Vezano za "knowhow ERP" pretpostavljam da misli&scaron; na videa koje smo objavili juče</p>
+<p>na <a href="http://do-we-know-how.bring.out.ba/">"Do we know how to make a good software ?"</a>. &nbsp;Znači, gledao si skroz "taze" materijal :)</p>
+<p><em>&gt; Moram dati samo pohvale i drago mi je da napredujete lagano ali sigurno.&nbsp;</em></p>
+<p>Drago mi je da si uočio na&scaron; napredak. Hvala ti na podr&scaron;ci. To nam, posebno u ovom momentu, puno znači.</p>
+<p><em>&gt; Iskreno... pomalo mi je i zao sto nisam nekad davno poceo proucavati Linux i opensource koncept. Neki kazu nije nikad kasno, ali iskreno sad je to vec prekasno obzirom da od kada znam za Microsoft znam i za sebe :).</em></p>
+<p>Želio bih ti ovdje stvari pojasniti. Mi jesmo dobri poznavaoci Linux-a, ali na&scaron; razvoj uop&scaron;te NIJE OGRANIČEN NA LINUX.</p>
+<p>Dapače, windows developeri su <a href="http://redmine.bring.out.ba/issues/24888">traženi</a> na knowhow ERP projektu &nbsp;:)</p>
+<p>Mi želimo ponuditi rje&scaron;enja koja NISU OGRANIČENA samo na OS-ove jednog vendora.</p>
+<p>U T0_knowhow projektu su navedene sve "major" <a href="https://github.com/knowhow/T0_knowhow/blob/master/desktop_os.md">OS platforme</a>&nbsp;kao predmet na&scaron;eg razvoja.</p>
+<p>Tu može&scaron; vidjeti da je linux/ubuntu desktop primarna platforma za deployment - instalaciju kod krajnjih korisnika, jer želimo promovirati 100% otvoreno rje&scaron;enje.</p>
+<p>Ali, ni mi nismo "s Marsa pali".&nbsp;Na drugom mjestu su Windows-i.</p>
+<p>To praktično znači da na&scaron;a rje&scaron;enja moraju imati kvalitetnu podr&scaron;ku za Linux/ubuntu i Window 7/Windows XP 32bit/64bit na strani klijenta.&nbsp;&nbsp;</p>
+<p>Svi na&scaron;i korisnici kod sebe imaju windows desktop-e.</p>
+<p>Na strani servera je situacija bitno drugačija.</p>
+<p>Van granica "bring.out", znači kod na&scaron;ih korisnika, mi smo instalirali samo linux/ubuntu servere.</p>
+<p>Na tom planu smo postigli zavidan nivo linux deployment-a. Sve serverske instalacije do 2006-danas, njih na desetine, su linux/ubuntu serveri. Sve ranije instalacije Windows servera su migirane na ubuntu/linux. Znači, imamo značajno iskustvo na tom polju.</p>
+<p>I &scaron;to je najbitnije, na&scaron;i server "rade posao" DOBRO.&nbsp;</p>
+<p>Za kraj da pomenem da je primarna platforma za razvoj Mac OS X, &scaron;to može&scaron; uočiti na video materijalima :).</p>
+<p>Tako smo u na&scaron;oj kancelariji za prezentaciju pripremili Ubuntu 11.10 desktop-e (vidi se na prilozima ticketa <a href="http://redmine.bring.out.ba/issues/24981">&nbsp;#24981</a>.</p>
+<p>Windows desktop-i nisu bili na prezentaciji iz jednog jedinog razlog:</p>
+<p>Ticket <a href="http://redmine.bring.out.ba/issues/24888">#24888</a>&nbsp;nije bio na listi prioriteta :)</p>
+<p>Da je to bilo spremno, naravno da bi svom klijetu demonstrirali da knowhow ERP radi podjednako dobro i na Linux/ubuntu i na Windows i Mac-u.&nbsp;</p>
+<p>Stoga nema nikakve dileme da će se prije prvih produkcijskih instalacija kod korisnika Windows korisnika pripremiti "knowhow ERP" Windows build, aBd.</p>
+<p>Na&scaron;a strategija nije da svojim klijentima kažemo:</p>
+<p>"knowhow ERP" je spreman. Sada moramo sve postojeće desktop-e prebaciti na Linux/ubuntu.</p>
+<p>Takva strategija bi nas od nas opet napravila zatvorenog vendora. Samo bi "Microsoft Windows" zamjenili sa "Linux ubuntu". To za korisnika i nije velika razlika.</p>
+<p>Međutim, za nove instalacije, aBd, mi ćemo naravno kao primarnu platformu nuditi Linux/ubuntu + knowhow ERP.</p>
+<p>Da bi do te tačke do&scaron;li, ta platforma za rad mora biti u funkcionalnom smislu podjedanka "Windows" pandamu.</p>
+<p>Nadamo se da e Linux/Ubuntu/knowhow ERP platforma biti iznimno atraktivna za nove korisnike. I cijenom i kvalitetom.</p>
+<p><em>&gt; No, evo drago mi je da je i Microsoft poceo polako (ako ista) da "izbacuje" neke svoje alate besplatno (cak i za komercijalnu upotrebu), pa tako i source code .NET Frameworka 4.0.&nbsp;</em></p>
+<p>Microsoft je velika i pametna korporacija. Nisu džabe No1 u IT svijetu po profitu :)</p>
+<p>Njih glavni cilj, kao i svih drugih firmi, je profit. Kada su uočili da je "totalna zatvorenost" napadanje "open source"-a lo&scaron; put, značajno su promjenili svoju poslovnu strategiju.</p>
+<p>&nbsp;Tako su oni oni su jedan od velih "contributora" "open source" na raznim open source projektima(***).&nbsp;</p>
+<p>Kao primjer ću ti dati node.js koji je dio na&scaron;eg developerskog toolset-a&nbsp;</p>
+<p>Kada je Microsoft uočio da developeri vole node.js angažovali su "Joyent", firmu koja upo&scaron;ljava glavnog developera node.js projekta, da napravi kvalitetan port <a href="http://blog.nodejs.org/2011/06/23/porting-node-to-windows-with-microsoft%E2%80%99s-help/">http://blog.nodejs.org/2011/06/23/porting-node-to-windows-with-microsoft%E2%8...</a></p>
+<p>Jednostavno, Microsoft je to identificirao kao svoj poslovni cilj: omogućiti developerima da node.js aplikacije instaliraju na WINDOWS PLATFORMI.</p>
+<p>I tu sam do&scaron;ao do poente. Njima je bitno da korisnici njihove PLATFORME ostanu tu gdje jesu:&nbsp;</p>
+<p>&nbsp; &nbsp;"<span style="text-decoration: underline;"><em>Radi &scaron;ta hoće&scaron;, daćemo ti najbolje alate, samo kupuj Windows OS-ove i MS Office !"</em></span></p>
+<p>Ako to uspiju, "Microsoft"-ovci će pare zgrtati "lopatom" do Sudnjeg dana.</p>
+<p>I oni su međutim svjesni da se način kori&scaron;tenja računara bitno mijenja. Desktop u dosada&scaron;njom formi će u narednih 10 godina nestati. Aplikacije se prebacuju na cloud, mobilni uređaji se sve vi&scaron;e koriste za ozbilje poslove. &nbsp;</p>
+<p>Microsoft je svjestan i tom planu već radi sa svojim:&nbsp;<a href="http://www.microsoft.com/en-us/office365/online-software.aspx">office365</a>&nbsp;i <a href="http://www.microsoft.com/windowsphone/en-NZ/">windows 7</a>.</p>
+<p>Ali, za razliku od desktopa, pozicija Microsoft-a na području "cloud"-a i "mobile" rje&scaron;enja daleko je od No1.</p>
+<p>"Google", "Apple", "Vmware", "Rackspace" gerilci su ovaj put par koraka ispred.</p>
+<p>Naravno, rekoh na početku da je "Microsoft" pametna korporacija. Siguran sam da će oni izbaciti puno dobrih rje&scaron;enja na trži&scaron;te.</p>
+<p>Ono &scaron;to je na kraju svega najbitnije: <span style="text-decoration: underline;"><em><strong>IT svijet već danas nije "Microsoft-only" svijet.</strong></em></span></p>
+<p>... ma koliko se to studnetima i nastavnicima FIT-a činilo :)</p>
+<p>Međutim, treba biti jasan: "Microsoft"-ova ima legitimnu poslovnu strategiju.</p>
+<p>Mi kao "open source" vendor imamo sljedeću strategiju:</p>
+<p>Želimo korisnicima isporučiti Otvoreni OS, otvoreni business suite OpenOffice/LibreOffice, otvoreni ERP.</p>
+<p>Za&scaron;to ? Zato &scaron;to želimo da na&scaron;em korisniku ostanu pare koje će potro&scaron;iti na:</p>
+<ul>
+<li>kvalitetnu obuku</li>
+<li>podr&scaron;ku</li>
+<li>razvoj novih rje&scaron;enja</li>
+</ul>
+<p>I jedni i drugi želimo zadobiti povjerenje i pare :) korisnika. Svako od nas poku&scaron;ava "mlin okrenuti na svoju stranu". Tako je i tako će vazda biti.</p>
+<p>U par nedavnih članaka sam dosta pisao o komercijalnim aspektima "open source" software-a i otvorenog koncepta razvoja u cjelini:</p>
+<ul>
+<li><a href="http://hernad.bring.out.ba/javna-i-komercijalna-dimenzija-knowhow-erp">Javna i komercijalna dimenzija "knowhow ERP"</a></li>
+<li><a href="http://hernad.bring.out.ba/open-source-software-i-industrijski-standardi">"Open source" software i industrijski standardi"</a></li>
+<li><a href="http://hernad.bring.out.ba/open-source-money">"Open source" &amp; money</a></li>
+<li><a href="http://hernad.bring.out.ba/radno-mjesto-u-bringout">Politika zapo&scaron;ljavanja i poslovne saradnje u "open source" svijetu</a></li>
+</ul>
+<p><em>&gt; Isto tako, a vjerovatno i znas, postoji i MonoDevelop (<a href="http://monodevelop.com/)">http://monodevelop.com/)</a> ciji razvoj vec odavno pratim.</em></p>
+<p>Da, upoznat sam sa <a href="http://www.mono-project.com/Main_Page">Mono projektom</a>. &nbsp;To je značajan "open source" projekat. Međutim, pokazalo se da "Microsoft" tag ima u u&scaron;ima OSS&amp;FS developera daje negativan prizvuk.</p>
+<p>U tehnolo&scaron;kom smislu "Mono", kao i .NET, imaju dosta toga dobrog za ponuditi software developerima. To su odlične razvojne platforme. Ali ...</p>
+<p>Mono ima taj problem &scaron;to je on na kraju ipak zavr&scaron;io kao ".NET" koji radi i na drugim operativnim sistemima. Međutim, problem je taj &scaron;to će većina developera kad-tad otići na <strong>Windows platformu</strong> ili OSTATI na njoj &scaron;to je glavni poslovni cilj Microsofta.</p>
+<p>Zato u mnogim situacijama sa "Mono"-om dolazimo do tačke:</p>
+<p>&Scaron;ta smo radili ni&scaron;ta, gdje smo bili nigdje.&nbsp;</p>
+<p>"Mono" projekat koji će omogućiti da &nbsp;".NET developerima" (negdje sa većom negdje sa manjim uspjehom) da rade "deployment" na druge operativne sisteme: Linux, IOS, Android.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>FIT i "Mono"</strong></span></p>
+<p>Ali kada smo se već dotakli "Mono" projekta, svakako bi za obrazovne institucije kao &scaron;to je FIT, Mono bio puno bolja platforma za studente nego li .NET.</p>
+<p>Naučili bi jednu veoma bitno stvar: <a href="http://hernad.bring.out.ba/mogucnost-izbora-je-takode-stvar-koja-se-uci">Mogućnost izbora je stvar koja se uči !</a></p>
+<p>Mono(^) bez dvojbe ima sve potrebne "feature"-ove da se na njemu realizuju svi postojeći nastavni zadaci, kako za studente tako i za nastavnike.</p>
+<p>To bi svakako pomogno na tragu da FIT prestane biti generator <strong>"Windows PLATFORM only"</strong> informatičara.</p>
+<p>To očigledno nije jedan od obrazovnih ciljeva FIT-a, niti ima ikakvih naznaka da će na tom planu biti nekih promjena.</p>
+<p>A to je veoma bitan BITNI aspekt KVALITETNOG obrazovanja IT kadrova.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Multiplatformski pristup</strong></span></p>
+<p>Zato ću ti na kraju reći da jo&scaron; jednom pogleda&scaron; platforme i tehnologije koje mi u "knowhow ERP"-u koristimo.</p>
+<p>Njihova zajednička karakteristika je da su MULTIPLATFORM - rade na svim "major" OS-ovima:</p>
+<ul>
+<li><a href="http://do-we-know-how.bring.out.ba/knowhow-erp-gdje-sta-kako">http://do-we-know-how.bring.out.ba/knowhow-erp-gdje-sta-kako</a></li>
+<li><a href="http://do-we-know-how.bring.out.ba/open-source-software-i-industrijski-standardi">http://do-we-know-how.bring.out.ba/open-source-software-i-industrijski-standardi</a></li>
+</ul>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>F2 knowhow ERP fiskalni modul</strong></span></p>
+<p>Za kraj, pozivam te da detaljnije pogleda&scaron; na&scaron; <a href="http://redmine.bring.out.ba/projects/knowhow-f2/issues">"F2 projekat"</a>.</p>
+<p>On je baziran na ranije pomenutom node.js framework-u. Plan je da se njegov razvoj obavi sa node.js i da se ikoristi ono &scaron;to smo već napravili u <a href="http://knowhow.github.com/A4_knowhow/">A4 projektu</a>.</p>
+<p>F2 treba da bude web aplikacija koja će primati web/json requeste third-party aplikacija (ERP klijenti) a onda te zahtjeve procesirati i slati na pode&scaron;eni fiskalni uređaja.</p>
+<p>Mislim da je ovo super aplikacija za <a href="http://redmine.bring.out.ba/issues/24931#note-7">uključenje u knowhow ERP projekat</a>.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Je li se kasno uključiti u "knowhow ERP" ?</strong></span></p>
+<p><em>&gt;Neki kazu nije nikad kasno, ali iskreno sad je to vec prekasno obzirom da od kada znam za Microsoft</em></p>
+<p>Dobro sam razumio ono &scaron;to si ovdje napisao. Međutim, ja ću tvoje pitanje namjerno preformulisati sa "Je li kasno da se uključi&scaron; u knowhow ERP" :).</p>
+<p>Ako ti se sviđa na&scaron; način rada i ono &scaron;to radimo, uključi se.</p>
+<p><span style="text-decoration: underline; color: #ff0000;"><strong>Windows/Linux dilema je lažna dilema. Dobar software je dobar software. I tačka.</strong></span></p>
+<p>Izvini na ovom dugom odgovoru, ali me je tvoj mail potakao na ne&scaron;to &scaron;to želim reći kako tebi tako i drugima. Nadam se da ti neće predstavljati problem to &scaron;to sam odgovor objavio na svom blogu.</p>
+<p>Ako ti bilo koji dio u kome se pominje&scaron; ne odgovara, molim te da mi to kaže&scaron;. To će bez pogovora biti uklonjeno.</p>
+<p>Selam alejkum,<br />Ernad<br />---</p>
+<p><span style="font-size: x-small;"><em>(*) 1994 sam počeo u "fu&scaron;u" praviti poslovni software radeći u pauzama između redovnih zadataka programera u ARBiH. Nakon demobilizacije iz ARBiH nastavio sam sam raditi ove poslove unutar firme "Studio Fla&Scaron;" 1995-1996, da bih 1996 osnovao firmu "Sigma-com" Zenica.</em></span></p>
+<p><span style="font-size: x-small;"><em>U periodu 1996-2000 imali smo velike uspjehe i stekli veliku bazu klijenata na&scaron;eg FMK programskog rje&scaron;enja. Međutim, tu priliku nismo ispravno iskoristili. "Poklopili" su nas tekući poslovi i dosta (mojih) lo&scaron;ih strate&scaron;kih odluka.&nbsp;</em></span></p>
+<p><span style="font-size: x-small;"><em>Najbitnije, nakon 2000-te nismo postigli značajne rezultate na planu *razvoja* postojećih i izgradnje novih rje&scaron;enja. Svo vrijeme je odlazilo na podr&scaron;ku postojećim korisnicima.</em></span></p>
+<p><span style="font-size: x-small;"><em>(**) Ovdje treba naglasiti: Veliki svjetski vendori SAP, Oracle/PeopleSoft-eBusinessSuite, Microsoft Navision su drugi par cipela. Pričam o ERP sistemima za mala i srednja preduzeća po svjetskim kriterijumima. Osim par velikih javnih korporacija kao BH Telekom, JP Elektroprivreda, većina bosanskih firmi pripadaju kategoriji malih i srednjih preduzeća. &nbsp;</em></span></p>
+<p><span style="font-size: x-small;"><em>(***) Za mene je ovakva poslovna strategija najveći stepen nacionalizma, naravno u pozitivnom smislu te riječi.</em></span></p>
+<p><span style="font-size: x-small;"><em>Vjerovatno je bolji termin patritizam, ali neka ... čisti da nasekiram one koji se na samu riječ "Bosna" i "bosanski" nasekiraju :)</em></span></p>
+<p><span style="font-size: x-small;"><em>(****) Primjer linux kernel: <a href="http://en.wikipedia.org/wiki/Hyper-V#Linux_support">http://en.wikipedia.org/wiki/Hyper-V#Linux_support</a></em></span></p>
+<p><span style="font-size: x-small;"><em>(^) Lično mislim da ni Mono nije dobar izbor, ali nebitno. On se za razliku od .NET-a može instalirati na svim "major" OS-ovima dana&scaron;njice.</em></span></p>
+</blockquote>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Jutros sam dobio mail podrške za "knowhow ERP" od našeg prijatelja iz Goražda. Odgovoriću mu na ovom mjestu: >Selam alejkum, Alejkum selam Mursele, > Kako smo svi u bring.out? Mogu ti reći: umorno, ali ipak zadovoljni. Ključne stvari koje sm...]]></excerpt:encoded>	
+
+	<wp:post_date>Tue Nov 01 03:39:00 -0700 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>mursel-knowhow-erp-is-not-linux-only-microsof</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

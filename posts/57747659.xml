@@ -1,0 +1,62 @@
+<item>
+	<title>Komunikacijske tehnologije, TCP 3-way handshake, za malo gluplju raju ...</title>
+	<link>http://hernad.bring.out.ba/komunikacijske-tehnologije-tcp-3-way-handshak</link>
+	<pubDate>Sat Jun 18 21:20:00 -0700 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/komunikacijske-tehnologije-tcp-3-way-handshak</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Pripremam KT ... I pitam se:</p>
+<blockquote class="posterous_short_quote">
+<p>Jesam li ja ba&scaron; tako ostario, ili sam znatno gluplji nego sam to mislio ?</p>
+</blockquote>
+<p>Ovo pitanje mi se često javlja kod spremanja ispita. Od prije par dana ovaj osjećaj me je intenzivno pratio kod DBMS-a(*), a evo danas i kod KT-a(**).</p>
+<p>Čitam, pa ponovo pročitam, pa ponovo ... i opet ne skontam :(</p>
+<p>Iza toga slijedi odmah ovo pitanje:</p>
+<blockquote class="posterous_short_quote">
+<p>Je li ovo ja ne kontam ili većina studenata ne konta ?!</p>
+</blockquote>
+<p>Moram priznati da iz čisto egoističnih razloga gajim nadu da većina mojih kolega ovo takođe ne konta. Jedina razlika između nas je ta &scaron;to njima očigledno puno manje smeta ta činjenica.&nbsp;</p>
+<p><!--more--></p>
+<p>Ali, pustimo se &scaron;upljiranja ... Nakon &scaron;to sam TCP 3-way&nbsp; handshake pročitao 4-5 puta u nastavnih materijima, te mi i nakon tih čitanja stvar nije "legla", odlučio sam da nađem neki internet izvor da to skontam.&nbsp;</p>
+<p>Rekoh sebi:</p>
+<blockquote class="posterous_medium_quote">
+<p>Za razliku od "Shannon-Fano" i "Huffman" kodiranja,&nbsp; "Hamming kodova" za koje smatram potpuno bezpotrebnim da učim napamet(***), 3-way handshake je ne&scaron;to sasvim drugo.&nbsp; To je abeceda networking-a. I to je korisno znati. Zato, ako to već i&scaron;čitavam, hajde da poku&scaron;am skontati a ne &scaron;trebati k'o pjesmicu. U takvom učenju sam dokazano glup ko ćuskija.</p>
+</blockquote>
+<p>Ovo je jezik koji ja razumijem:</p>
+<p><p><a href="https://gist.github.com/1033754">https://gist.github.com/1033754</a></p></p>
+<p>Jesam li sada pametniji&nbsp; za ovu stvar od većine svojih kolega ili sam ovim dodatnim naporom kompenzirao sopstveni niži koeficijent inteligencije !?</p>
+<p>Ako jesam, onda nisam "potup" kako se pribojavam. Ako jesam, onda je koncept ovog i sličnih predmeta <strong>pogre&scaron;an</strong>.</p>
+<p>---</p>
+<p>(*) RDBMS - Relational database managament system</p>
+<p>(**) KT - komunikacione tehnologije</p>
+<p>(***) Ovakve stvari, ako nekome ikada zatrebaju, se ne reproduciraju napamet. Uzme&scaron; literaturu i pogleda&scaron; kako to "hoda". Stanovi&scaron;ta sam da ispitivanje studenata po ovakvim temama daje prije svega daje odgovor na pitanja: "Kava je va&scaron;a sposobnost memorisanja i reprodukcije ? Da li ste pročitali materijale koje ste dobili ?". Ovakav sistem ne daje odgovor na ključno pitanje: "Vladate li ovom materijom ?".</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Pripremam KT ... I pitam se: Jesam li ja baš tako ostario, ili sam znatno gluplji nego sam to mislio ? Ovo pitanje mi se često javlja kod spremanja ispita. Od prije par dana ovaj osjećaj me je intenzivno pratio kod DBMS-a(*), a evo danas i kod KT-...]]></excerpt:encoded>	
+
+	<wp:post_date>Sat Jun 18 21:20:00 -0700 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>komunikacijske-tehnologije-tcp-3-way-handshak</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

@@ -1,0 +1,114 @@
+<item>
+	<title>Statistika, prvi čas sa profesoricom Dženanom</title>
+	<link>http://hernad.bring.out.ba/statistika-prvi-cas-sa-profesoricom-dzenanom</link>
+	<pubDate>Fri Dec 03 02:51:00 -0800 2010</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/statistika-prvi-cas-sa-profesoricom-dzenanom</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Sinoć, u neka doba, Dženana mi je dala prve instrukcije iz Statistike.</p>
+<p>Krenuli smo sistemom clean-room: objasniće mi osnovne pojmove ne osvrčući se na nastavne materijale FIT-a. Dobra odluka, s obzirom da sam <a href="/stastika-ovo-mi-se-nista-ne-svida-prasologija">nakon čitanja knjige</a> ostao "pjaf" :(</p>
+<p><!--more-->Dženana je počela priču sa normalnom distribucijom(*):</p>
+<blockquote class="posterous_medium_quote">
+<p>U statistici se sve "vrti" oko normalne distribucije. Za&scaron;to ? Zato &scaron;to je utvrđeno da se sve bitne pojave u dru&scaron;tvu i prirodi de&scaron;avaju prema zakonima normalne distribucije. Kada shvati&scaron; &scaron;ta je normalna distribucija, zna&scaron; osnove statistike</p>
+</blockquote>
+<p>Peke ... Njen početak mi je odmah vratio sjećanja na <a href="/sta-trebamo-uciti-na-tehnickim-fakultetima">Branin STT</a> (**). Za razliku od Dženaninog početka, FIT-ovi materijali su za mene bili - <strong>mentalni&nbsp; čekić u glavu</strong>.</p>
+<p>Nacrtala mi je <a href="http://en.wikipedia.org/wiki/Normal_distribution">dijagram normalne distribucije</a>, i počela ga obja&scaron;njavati.</p>
+<p>Nakon &scaron;to je ona uvela pojmove: normalna distribucija, standardna devijacija i varijanca, ispisala formule, prokomentarisala dijagram.</p>
+<p><span style="text-decoration: underline;"><strong>Je li ovo jasno ? Uredu, "ne ba&scaron;"</strong></span></p>
+<p>Pitala me je: je li ovo jasno ? Kako sam ja stao .. ona je odmah nastavila: Aha, ne ba&scaron;.</p>
+<p>Kasnije sam skontao da ovo ne ba&scaron; kod Dženana znači: "Aha ti ovo i dalje ne konta&scaron;". Kako to Dženana fino upakuje. Čovjek tala&scaron;ika a ona mu kaže: "Ne ba&scaron;&nbsp; ... Mudrica si ti mudrica ... :)"</p>
+<p>Ali dobro, ja sam aktivan učenik. Tražio sam od nje da mi <strong>navede primjer</strong>. Dobar primjer je zakon. To je za mene najbolje učenje.</p>
+<p>Tražio sam: "Daj mi neki primjer iz glave koji ću moći pratiti".</p>
+<p><span style="text-decoration: underline;"><strong>Primjer: test inteligencije</strong></span></p>
+<p>Dž: Ok, idemo ovako. Ima&scaron; rezultate testa inteligencije. Napravljeno je&nbsp; 10 mjerenja. Izračunaćemo aritmetičku sredinu (M), varijancu (V), standardnu devijaciju (delta):</p>
+<p><div class='p_embed p_file_embed'>
+<a href="http://getfile3.posterous.com/getfile/files.posterous.com/temp-2010-12-03/CddhjarhhbFwqcadCClcuohDGsGnaEoxhuziFtoslyJcCxmfrzojuivmerov/dzenanin_primjer.xlsx"><div class='p_icon'></div>
+<div class='p_text'>dzenanin_primjer.xlsx</div>
+</a></div>
+</p>
+<p>&Scaron;to se tiče interpretacije, ovo sam naučio:</p>
+<ol>
+<li>Aritmetička sredina <strong>mjerenja</strong> je M = SUM(X) / N, gdje je X - pojedini rezultati mjerenja, a N broj mjerenja</li>
+<li>Varijanca pojedinačnog mjerenja v = (X - M) ^ 2, tj kvadrat razlike između pojedinačnog mjerenja i M sredine</li>
+<li>Varijanca rezultata mjerenja V = SUM(v) / N</li>
+<li>Standardna devijacija rezultata mjerenja (predstavlja se grčkim slovom delta - StdDev u daljem tekstu) = SQRT(V), tj kvadratni korijen varijance&nbsp; </li>
+</ol>
+<p>I u tome je sva matematička mudrost.</p>
+<p><span style="text-decoration: underline;"><strong>Interpretacija, tumačenje</strong></span></p>
+<p>Tumačenja pojedinih veličina:</p>
+<ol>
+<li>Standardna devijacija nam govori koliko se rezultati mjerenja rasipaju</li>
+<li>Kada mjerenje ima normalnu distribuciju, na osnovu StdDev znamo:<ol>
+<li>opsegu StdDev&nbsp; od -1 do +1 u <strong>odnosu na M</strong> imamo 68% rezultata</li>
+<li>u opsegu StdDev od -1.96&nbsp; do +1.96 (može se reći cca -2 do +2) imamo 95% rezultata</li>
+<li>u opsegu StdDev od -2.56 do +2.56 imamo 99% rezultata</li>
+</ol></li>
+</ol>
+<p>U na&scaron;em primjeru imamo da je StdDev = 2.9, M = 15.3. To znači da, pod pretpostavkom da na&scaron;e mjerenje zadovoljava zakone normalne distribucije, za mjerenje br. 6:</p>
+<p>X = 12; &nbsp; z = (X - M) / StdDev = 12-15.3) / 2.9 = -1.138</p>
+<p>z vrijednost, koju sada uvodimo, pomaže mi da jednostavno određeni rezultat smjestim tamo gdje pripada.</p>
+<p>-1.138 znači da se ovaj rezultat nalazi<strong> lijevo od M</strong>, te da rezultati njegovog testa ulaze grupu od cca 70-75% od ukupnog broja ispitanika.</p>
+<p>Ispitanik br. 5 ima z vrijednost +2.31. Tip je genijalac. Njegov z &gt; +1.96,&nbsp; a blizu cca +2.56, znači pripada cca 1% uzorka.</p>
+<p>Negdje u FIT knjizi sam pročitao(****) kako je statistika matematička disciplina, te kako statističar ima zadatak stvari izračunati, a tamo neki drugi eksperti to tumače.</p>
+<p>Mislim da je ovo skroz pogre&scaron;no. Sve dok ne shvatim osnovne veze između stvari koje obrađujem, <span style="color: #ff0000;">ne mogu napraviti statističku analizu</span>.</p>
+<p>Hoću da kažem: da bih napravio statističku analizu neke pojave pojave moram znati osnovne ciljeve te analize, odnosno zakonitosti te pojave. <strong>Moram poznavati domen koji obrađujem</strong>. Istina je da se rezultati analize mogu interpretirati na razne načine, i koristiti od raznih disciplina na različit način. Međutim&nbsp; statističar ne može biti "van" domena.</p>
+<p>Za&scaron;to ovo iz perspektive učenika govorim ?</p>
+<p>Bez shvatanja ovog ili ovakvog primjer ja ne mogu odgovoriti: ZA&Scaron;TO (to računam), &Scaron;TA (to predstavlja).</p>
+<p>Tek kada sam napravio obradu jednog reprezentativnog primjera kao &scaron;to je ovaj, stvari sebi mogu smjestiti na pravi način. Tek sada počinjem da razumijevam ono &scaron;to izračunavam.</p>
+<p><span style="text-decoration: underline;"><strong>Reprezentativan primjer</strong></span></p>
+<p>Time dolazim do velike gre&scaron;ke u didaktičkom pristupu Statistike na FIT-u.</p>
+<p>Previ&scaron;e pojmova koje studenti, pretpostavljam, uče napamet.</p>
+<p>Uvođenje u temu nije praćeno reprezentativnim primjerima. Reprezentativan primjer ima sljedeće karakteristike:</p>
+<ol>
+<li>jednostavan tako da ga student bez puno naprezanja može razumjeti</li>
+<li>kratak, tako da mu velika količina podataka ne pravi distorziju</li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Komplikovanje</strong></span></p>
+<p>U FIT statistici se pominje nekakvih "milion" aritmetičkih sredina.  To je nepotrebno komplikovanje. Aritmetička sredina je jedan pojam.</p>
+<p>Uvođenje  posebne aritmetičke sredine za prosti niz rezultata i niz rezultata  grupisanih po frekvencijama odgovora je - komplikovanje.</p>
+<p><span style="text-decoration: underline;"><strong>Microsoft Excel</strong></span></p>
+<p>Dokument smo pravili u Excelu, jer se isključivo on koristi na ispitu na FIT-u.</p>
+<p>Moja profesorica ne poznaje excel. Zna samo najosnovnije operacije(***). Profesorice profesorice.</p>
+<p><span style="text-decoration: underline;"><strong>Pojmovi</strong></span></p>
+<p>Prva stvar koja je Dženani upala to je totalna promjena taksonomije - termina koji se koriste u odnosu na njen riječnik.</p>
+<p>Tu se pojavljuje i dosta gre&scaron;aka, ili tačnije stvar koji se u naučnim statisičkim krugovima ne koriste. Nave&scaron;ću parove (Standard/FIT terminologija):</p>
+<ol>
+<li><strong><span style="color: #339966;">Varijanca</span></strong> / Varijansa(*****)</li>
+<li><strong><span style="color: #339966;">Multivarijatne metode</span></strong> / Multivarija<strong><span style="color: #ff0000;">n</span></strong>tne metode (******)</li>
+</ol>
+<p>--</p>
+<p>(*) parafraziram, nisam bilježio pa su gre&scaron;ke moguće i vjerovatne</p>
+<p>(**) <a href="/sta-trebamo-uciti-na-tehnickim-fakultetima">Brana Perunčić, Statistička teorija telekomunikacija (STT)</a></p>
+<p>(***) Njen fakultet - Psihologija pripadaju <a href="http://www.spss.com/">SPSS</a> shop-u. Svako malo se sa njom posvađam govoreći kako oni kao obrazovna ustanova moraju ići na <a href="http://www.r-project.org">R</a>. To pravi alat za akademsku zajednicu.</p>
+<p>(****) Nemam knjige pred sobom, govorim ponovo po sjećanju, moguće je da grije&scaron;im</p>
+<p>(*****) od eng. "variance". Varijansa se koristi u srbijanskim naučnim krugovima, analogno &scaron;to Srbijanci koriste Evro umjesto Euro</p>
+<p>(******) od eng. variats - varijate, a ne varijaNte; zato je Dženani komentar bio: nepismeno</p>
+<p>&nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Sinoć, u neka doba, Dženana mi je dala prve instrukcije iz Statistike. Krenuli smo sistemom clean-room: objasniće mi osnovne pojmove ne osvrčući se na nastavne materijale FIT-a. Dobra odluka, s obzirom da sam nakon čitanja knjige ostao "pjaf...]]></excerpt:encoded>	
+
+	<wp:post_date>Fri Dec 03 02:51:00 -0800 2010</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>statistika-prvi-cas-sa-profesoricom-dzenanom</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

@@ -1,0 +1,60 @@
+<item>
+	<title>Inžinjerstvo nije nauka</title>
+	<link>http://hernad.bring.out.ba/inzinjerstvo-nije-nauka</link>
+	<pubDate>Tue Apr 24 22:28:00 -0700 2012</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="fit_3_godina"><![CDATA[fit_3_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+		<category domain="tag" nicename="software_development"><![CDATA[software_development]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/inzinjerstvo-nije-nauka</guid>
+	<description></description>
+	<content:encoded><![CDATA[<blockquote>
+<p style="text-align: left;"><span style="font-family: Tahoma, Arial, Helvetica;"><span style="font-size: 12px;">Inžinjerstvo nije nauka, ono je aplikacija nauke i pozitivne praksi drugih.</span></span></p>
+</blockquote>
+<p style="text-align: left;"><span style="font-family: Tahoma, Arial, Helvetica;"><span style="font-size: 12px;">Ovaj članak je praktično nastavak dva <a href="http://hernad.bring.out.ba/prijedlog-prakticni-dio-ispita-obezbjediti-kv">predhodna</a>.</span></span></p>
+<p style="font-family: Tahoma, Arial, Helvetica; font-size: 12px; text-align: left;">Na forume FIT-a sam uputio konkretan prijedlog "cheat sheets" za predmet WT(*):&nbsp;</p>
+<blockquote class="posterous_medium_quote">
+<p>Dzone ima odličan set cheat sheet-ova koji pokrivaju većinu potreba za WT. Ja ću se fokusirati na PHP dio ispita:</p>
+<p>1) "Core HTML" by And Harris</p>
+<p>2) "Getting Stardted with Ajax" by Dave Crane</p>
+<p>3) "JQuery Selectors" by Bear Bibeault &amp; Yehuda Katz</p>
+<p>4) "Core CSS: Part I, II, III" (by Molly E. Holzschlag)</p>
+<p>5) "PHP" by. W. Jason Gilmore</p>
+<p>6) "Essential MySQL" by W. Jason Gilmore</p>
+<p>Ovdje bi dobro do&scaron;lo jo&scaron; par stvari (Eclipse IDE reference, jQuery methods), ali generalno za v1 sasvim dovoljno :)&nbsp;</p>
+</blockquote>
+<p style="font-family: Tahoma, Arial, Helvetica; font-size: 12px; text-align: left;">Ovdje treba uočiti jedan bitan veoma bitan "side effect":</p>
+<p style="font-family: Tahoma, Arial, Helvetica; font-size: 12px; text-align: left;">Refcards &nbsp;koje sam stavio pravili su vodeći ljudi iz određenih oblasti.</p>
+<p style="font-family: Tahoma, Arial, Helvetica; font-size: 12px; text-align: left;">Ono &scaron;to ti ljudi preporučuju za svakodnevno kori&scaron;tenje samo po sebi predstavlja dobru praksu.</p>
+<p style="font-family: Tahoma, Arial, Helvetica; font-size: 12px; text-align: left;">Tako recimo u sekciji MySQL autor upućuje na kori&scaron;tenje objektne mysqli biblioteke u odnosu na "legacy" funkcionalne pozive mysql_connect, mysql_select database itd ... &nbsp;</p>
+<p style="font-family: Tahoma, Arial, Helvetica; font-size: 12px; text-align: left;">Inžinjerstvo nije nauka. Ono je apliciranje naučnih dostignuća i prakse drugih.</p>
+<p style="font-family: Tahoma, Arial, Helvetica; font-size: 12px; text-align: left;">Dobar inžinjer maksimalno korisite pozitivne prakse i iskustva drugih. "Cheat sheets" predstavljaju upravo takve stvari.</p>
+<p style="font-family: Tahoma, Arial, Helvetica; font-size: 12px; text-align: left;">---</p>
+<p style="font-family: Tahoma, Arial, Helvetica; font-size: 12px; text-align: left;">(*) Web tehnologije</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Inžinjerstvo nije nauka, ono je aplikacija nauke i pozitivne praksi drugih. Ovaj članak je praktično nastavak dva predhodna. Na forume FIT-a sam uputio konkretan prijedlog "cheat sheets" za predmet WT(*): Dzone ima odličan set cheat sheet-ova koji...]]></excerpt:encoded>	
+
+	<wp:post_date>Tue Apr 24 22:28:00 -0700 2012</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>inzinjerstvo-nije-nauka</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

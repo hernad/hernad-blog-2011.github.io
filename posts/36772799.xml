@@ -1,0 +1,207 @@
+<item>
+	<title>Tražimo knjigovođu</title>
+	<link>http://hernad.bring.out.ba/trazimo-knjigovodu</link>
+	<pubDate>Sat Dec 18 07:53:00 -0800 2010</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="administracija"><![CDATA[administracija]]></category>
+	
+		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+	
+		<category domain="tag" nicename="business"><![CDATA[business]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/trazimo-knjigovodu</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Imamo jedan krupan problem u firmi. Dobro, imamo mi problema kol'ko hoće&scaron; ... ali idemo izložiti jedan po jedan :).</p>
+<p>Mi smo <a href="http://www.bring.out.ba/pages/about-o-nama">provajder ERP/provajder poslovnih rje&scaron;enja</a>. Znate ono finansije, KUF, KIF, robno, fakturisanje, bla bla bla ...</p>
+<p>Baveći se tom problematikom proteklih 16 godina, ja sam postupno naučio knjigovodstvo. I to je dobra stvar. Poznavanje knjigovodstva je veoma korisno za svakoga ko vodi firmu.</p>
+<p>S obzirom da imamo svoje aplikacije, te potrebni "knowhow" na tom polju, sva na&scaron;a knjigovodstvena operativa se obavlja interno - unutar firme.</p>
+<p>Knjigovodstvo je organizovano prema mojim uputama. Znači, ja de-facto vr&scaron;im funkciju glavnog knjigovođe. Za&scaron;to ?</p>
+<p><!--more--><span style="text-decoration: underline; font-size: medium;"><strong>Razlog No1: <a href="http://en.wikipedia.org/wiki/Eating_your_own_dog_food">"Eating your own dog food"</a> (EYODF)</strong></span></p>
+<p>Jedna od stvari na kojoj ja insistiram u na&scaron;oj firmi je koncept <a href="http://en.wikipedia.org/wiki/Eating_your_own_dog_food">"Eating your own dog food"</a>. Prevod na bosanski ove fraze je poprilično besmislen.</p>
+<p>Koncept svodi na to da firma bude uvijek korisnik sopstvenih rje&scaron;enja. Ako mi ne vjerujemo svojim rje&scaron;enjima, kako ćemo ih prodavati drugima. Ima smisla, zar ne ?</p>
+<p>Takođe, kao korisnici sopstvenih rje&scaron;enja, "lovimo" gre&scaron;ke. &Scaron;to prije ulovi&scaron; gre&scaron;ku (i otkloni&scaron; naravno), tvoje rje&scaron;enje dobiva na kvaliteti. Dodatno, "jedan je par cipela" kada interno otklanja&scaron; bug, a sasvim drugi kada te po istom pitanju "napadne" 20 uznemirenih korisnika.</p>
+<p>Kako smo mi firma koja svojim kljentima ne prodaje ublehe, EYODF koncept je jedan od temeljnih načina na&scaron;eg djelovanja.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Razlog No2: hernad je najbolji knjigovođa u Bosni</strong></span></p>
+<p>Po&scaron;tovani čitaoci, nemojte me prijaviti udruženju računovođa i revizora. To su ipak moji ključni klijenti. Oni će ipak te&scaron;ko "svariti" da je jedan srednjo&scaron;kolac, koji je zavr&scaron;io elektrotehničku &scaron;kolu,&nbsp; bez ijednog kakvog kursa za računovođe - najbolji knjigovođa u BiH.</p>
+<p>Prije toga, pustite me da vam objasnim &scaron;ta sam ovime htio reći.</p>
+<p>U toku bavljenja ovim poslom, sreo sam mnogo knjigovođa. Većina njih su "&scaron;ablonski" radnici. &Scaron;ta pod tim mislim ?</p>
+<p>Pa, oni jednostavno stvari rade tako &scaron;to odu na seminar, čuju &scaron;ta im ovi "serviraju" i to je za njih "zakon". A to, dragi moji, <strong>nije Zakon</strong>, nego <strong>interpretacija Zakona</strong>. Ti isti "učitelji" kod pripreme seminara moraju i&scaron;čitati zakonska i podzakonska akta, i na osnovu toga dati upute i preporuke. Te firme - firme koje organizuju seminare iz računovodstva NISU = Zakon, niti su oni predstavnici Zakona.</p>
+<p>Posljedice ovog izjedančavanja sa takve da kod svake zakonske promjene nastane op&scaron;ta pometnja:</p>
+<blockquote class="posterous_short_quote">
+<p>Na seminaru "Revicon" rekli ovo, na seminaru "FEB" rekli drugo, na seminaru "Privredna &scaron;tampa" rekli treće ...</p>
+</blockquote>
+<p><span style="text-decoration: underline; font-size: small;"><strong>PDV strategija - mi ćemo isčitati zakone, nećemo slu&scaron;ati prepričavanja</strong></span></p>
+<p>Kod uvođenja PDV-a, ja sam već bio iskusan u poslu. Skužio sam ovu shemu. Skužio sam da na&scaron;i klijenti - knjigovođe mahom uzimaju stvari "zdravo za gotovo" sa seminara.</p>
+<p>Zato sam napravio promjenu u načinu rje&scaron;avanju korisničkih zahtjeva. Do tada je na&scaron;a praksa bila:</p>
+<blockquote class="posterous_short_quote">
+<p>Slu&scaron;aj &scaron;ta korisnik hoće, i uradi tako</p>
+</blockquote>
+<p>Ova strategija je imala krajnje negativne reperkusije na na&scaron;a rje&scaron;enja. Imali smo opcije sa milion opcija i podopcija. A to, prevedeno na source kod na&scaron;ih aplikacija znači - imali smo totalni haos.</p>
+<p>Svako malo imali smo 4-5 varijatni za jednu te istu stvar ... A sve to zato &scaron;to je neki korisnik tako čuo na seminaru - "to tako treba".</p>
+<p>Zato je kod PDV-a hernad uzeo drugi kurs. Glavni meritor si ti - i&scaron;čitaj "Zakon", "Pravilnike" i pravi aplikacije.</p>
+<p>Rezutlat je bio taj da smo mi veliki broj zahtjeva na&scaron;ih korisnika - odbili. Bitno je međutim naglasiti da smo ih odbili&nbsp; argumentirano:</p>
+<blockquote class="posterous_short_quote">
+<p>Nećemo to uraditi na osnovu tog i tog zakonskog ili podzakonskog akta ...</p>
+</blockquote>
+<p>Ovo je za neke korisnike bio popriličan &scaron;ok. Neko to, očekivano, nisu mogli "svariti".</p>
+<p>Da se i&scaron;lo starom strategijom, kod uvođenja PDV-a bi "propali ko Grčka". Za&scaron;to ?</p>
+<p>Zato &scaron;to sve te silne zahtjeve ne bi mogli obraditi. Source kod je ionako bio dovoljno zakomplikovan ranijom lo&scaron;om praksom - &scaron;ta god korisnik traži a ti napravi novu varijantu (obračuna, izvje&scaron;taja, unosa podataka). Ovaj pristup bi nas, s obzirom na ograničeno vrijeme i ograničene resurse, jednostavno "pokopao".</p>
+<p>Bio sam ponosan na svoj izbor. Kao rezultat toga PDV zakonske nadogradnje smo briljantno uradili. Nadma&scaron;ili smo sebe. A sve zato &scaron;to smo mislili svojom glavom, &scaron;to nismo podlegli vanjskoj histeriji i pritiscima.</p>
+<p><span style="text-decoration: underline; font-size: small;"><strong>Njegovo veličanstvo: "finansijski inspektor"</strong></span></p>
+<p>Dodatna komponenta u toj op&scaron;toj "zbunjozi" na relaciji IT provajder - korisnici&nbsp; su državne inistitucije. Bahatost državnih službenika koji obavljaju finansijske inspekcijske poslove je kolosalna. Malo je knjigovođa koji se ne pretvore u "makovo zrno" kada inspekcija dođe. Knjigovođe se pona&scaron;aju na taj način prema inspekcijama iz sljedećih razloga:</p>
+<ol>
+<li>Bosanci kao komunističku zaostav&scaron;tinu imaju strah od vlasti. A inspekcija je upravo oličenje te vlasti</li>
+<li>Svjesni su da inspektori u njihovom poslovanju, odnosno poslovanju njihovog klijenta uvijek mogu naći "milion rupa".</li>
+<li>ne vladaju dobro materijom, pa je bolje biti ponizan, nego kočoperan</li>
+</ol>
+<p>Kada ti državni službenici vide pred sobom takvog knjigovođu, oni se onda ko vukovi na plijen okome ... A to je, dovoljno je pogledati jednu emisiju "Opstanka"(*), kardinalna gre&scaron;ka. Ja, se u tu shemu, lahko je uočit, nikada nisam uklapao.</p>
+<p>Ja sam uvijek mislio. Ja sam informatičar. Ja sam matermatičar. Ja sam logičar. Ja sam bezobrazan. Ja sam od većine tih istih inspektora 3x pametniji, na kraju krajeva.</p>
+<p><span style="text-decoration: underline;"><strong>Obračun kod UIO(**) korala</strong></span></p>
+<p>Prvi ispit na&scaron;e PDV strategije je do&scaron;ao brzo. Dobili smo zahtjev od na&scaron;eg klijenta, da aplikaciju za elektronski obračun PDV-a ispravimo:</p>
+<blockquote class="posterous_short_quote">
+<p>Za&scaron;to ?</p>
+</blockquote>
+<p>upitao sam svog klijenta ?</p>
+<p>Moj klijent je nastavio:</p>
+<blockquote class="posterous_short_quote">
+<p>Do&scaron;la inspekcija i rekla da KUF i KIF moraju biti u tabelarnom prikazu tog i tog formata ...</p>
+</blockquote>
+<p>Nakon male stanke, skontao sam - postoje obrasci koji se koriste za ručni obračun PDV-a. I ti inspektori su navikli na te obrasce, i sada njihova visočanstva traže da im se to tako "podastre". Postavio sam novo pitanje:</p>
+<blockquote class="posterous_short_quote">
+<p>A po kom članu Zakona, odnosno Pravilnika o primjeni ZPDV ?</p>
+</blockquote>
+<p>Sada je moj klijent u&scaron;utio ... Uočio iz njegovog tona da smo do&scaron;li do tačke u kojoj se on slabo snalazi. Očigledno nije bio spreman da "čačka mečku", i očigledno nije bio spreman ni da ih pita takvo &scaron;to. Nastavio je:</p>
+<blockquote class="posterous_short_quote">
+<p>... Ali Ernade, oni traže da ja sve ovo prepi&scaron;em ... Ako ne ispravi&scaron; ja ću ovo sve &scaron;to sam unio u program morati prepisati!</p>
+</blockquote>
+<p>Iskreno sam suosjećao sa klijentom, ali sam odgovorio:</p>
+<blockquote class="posterous_medium_quote">
+<p>Ja, da sam na tvom mjestu, to ne bih učinio. Njihov zahtjev je neutemeljen. Ja ti na žalost ne mogu pomoći. Čak i da krenem u realizaciju tog zahtjeva nisam siguran da bih to stigao u roku koji mi traži&scaron;. Ali, da budem jasan: ja neću taj zahtjev realizovati. Uputiću upit UIO-u. Ako se ispostavi da je zahtjev inspektora bio utemeljen, ja sam spreman da ti izvr&scaron;im povrat novca za ePDV aplikacije, jer ti ona očigledno nije od pomoći.</p>
+</blockquote>
+<p>Tako sam i uradio. Napisao sam dopis, i uputio UIO-u. Za razliku od većine institucija UIO je po tom pitanju bio dobro organizvan. Brzo smo dobili odgovor:</p>
+<p><div class='p_embed p_file_embed'>
+<a href="http://getfile2.posterous.com/getfile/files.posterous.com/temp-2010-12-18/lGctephhxkwucudtxDeeFllpkusiAjjFtouyxpqJmDHawvJvFytsDIjknIAv/odgovor_uio_tumacenje_clana_125.pdf"><div class='p_icon'></div>
+<div class='p_text'>odgovor_uio_tumacenje_clana_125.pdf</div>
+</a></div>
+Odgovor UIO-a je bio je "jasan k'o dan". Radilo se o najobičnijoj inspektorskoj "patki".</p>
+<p>Moj klijent je odigrao na sigurnu kartu - kupio je papirne obrasce i na njih prepisao podatke koje je dobio iz na&scaron;e aplikacije ePDV.</p>
+<p>Kada je stigao odgovor, odmah smo mu ga proslijedili klijentu. I to je bilo to. Treba reći da nam na&scaron; postupak klijent nije uzeo za zlo - on je bio svjestan da ga nismo "skinuli sa dnevnog reda", nego smo se, <strong>istina na svoj način</strong>, angažovali na rje&scaron;avanju njegovog zahtjeva. On je i dan-danas na&scaron; klijent. Imamo dobru saradnju.&nbsp;</p>
+<p>Nakon ovoga, ko zna koliko smo jo&scaron; inspektorskih "patki" kod korisnika imali po ovom pitanju. Međutim, u narednim "okr&scaron;ajima" stvar je brzo i elegantno rje&scaron;avana - čim shvatimo da ovu "patku" poku&scaron;avaju "odraditi", inspektorima "pod nos" stavimo ovaj papir, pa im jo&scaron; pride uputimo pobjednički "i&scaron;aret":</p>
+<blockquote class="posterous_short_quote">
+<p>Hajd' razgulite. Nemojte nama ublehe prodavat'</p>
+</blockquote>
+<p>Kada se tako postavi&scaron;, način komunikacije se za tren oka promijeni. Zato, drage moje knjigovođe, kod obračuna sa finansijskim inspektorima, imajte na umu:</p>
+<blockquote class="posterous_short_quote">
+<p>Znanje je opasno oružje.</p>
+</blockquote>
+<p>Samo se sa njim nije lahko naoružati. Treba uložiti dosta napora.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Razlog No3:&nbsp; kompatibilnost knjigovođe sa&nbsp; "bring.out" sistemom rada</strong></span></p>
+<p>Iako na posljednjem mjestu, ova stavka je vrlo bitna. Vjerovatno najbitnija. Dobro knjigovodstvo je ključ poslovanja. &Scaron;to znači da se knjigovodstvo direktno ili indirektno prepliće sa mnogim operacijama firme.</p>
+<blockquote class="posterous_short_quote">
+<p>Nazvaću knjigovođu pa ću ga pitati ...</p>
+</blockquote>
+<p>nije "bring.out" način rje&scaron;avanja zadataka. Svaka na&scaron;a aktivnost se de&scaron;ava na <a href="/radni-dan-u-bringout">redmine-u</a>. Ako je uloga knjigovođe tako bitna, a jeste, onda je jedini prirodan način rada knjigovođe "bring.out" način.</p>
+<p>S obzirom da mi ne tražimo knjigovođu koji bi bio radnik firme, postavlja se normalno pitanje:</p>
+<blockquote class="posterous_short_quote">
+<p>Kako vi možete tražiti od knjigovođe da se povinuje va&scaron;em načinu rada ?</p>
+</blockquote>
+<p>Evo odgovora:</p>
+
+<blockquote class="posterous_medium_quote">
+<p>Knjigovođa je dobavljač - provajder usluga. Mi kao klijent imam pravo postaviti ovakve zahtjeve. A stvar provajdera je da kaže: "To vam možemo ili ne možemo ponuditi", i naravno, ako može: " ... po toj i toj cijeni".</p>
+</blockquote>
+<p>S obzirom da su bring.out radnici <a href="/radni-dan-u-bringout">"marsovci"</a>, i da su oni "marsovci" upravo zahvaljujući "bring.out" sistemu rada, logično je da i taj knjigovođa mora biti "marsovac". Stoga je odgovor na pitanje:</p>
+<blockquote class="posterous_short_quote">
+<p>Kako ćete naći takvog knjigovođu ?</p>
+</blockquote>
+<p>nama dobro poznat:</p>
+<blockquote class="posterous_short_quote">
+<p>Te&scaron;ko :(.</p>
+</blockquote>
+<p>Ali, ja sam nepopravljivi optimista.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Kako je to do sada funkcionisalo ?</strong></span></p>
+<p>Mi smo se zadnjih 4-5 godina krpili. Mi bi sami radili operativu, napravili sva knjiženja. Onda bi par dana pred "zavr&scaron;ni", do&scaron;ao na&scaron; prijatelj i korisnik Sivro. Sivro je na&scaron; prijatelj, korisnik. Sivro je dobar i iskusan knjigovođa. Ali je problem &scaron;to Sivro ne zadovoljava No3 uslova. Sivro je knjigovođa starog kova - on sve rje&scaron;ava telefonom. Drugi problem je taj &scaron;to je Sivro veoma zauzet, a mi mu kao mala firma nismo bitni. On je te usluge nama vi&scaron;e na prijateljskoj razini obavljao nego li iz poslovnog interesa.</p>
+<p>Radi Sivrine zauzetosti ja sam protekli zavr&scaron;ni računa napravio sam. Da sam. Kupio(***) sam set obrazaca od onog čovjeka iz Cazina &scaron;to ima obrasce za zavr&scaron;ni račun MS Excel-u(****). Na osnovu tih džonova sam ispopunjavao sve obrasce i to predao. Međutim, nisam znao da je sa 01.01.2010 iza&scaron;ao novi "Zakon o računovostvu i reviziji" po kome je neophodno da obrasce potpi&scaron;e certificirani računovođa(*****).&nbsp; Zato sam naknadno morao "loviti" certificiranog knjigovođu da tu formalnost zadovoljimo. Sva sreća da mi sa tim ljudima svakodnevno sarađujemo, pa to nije bio neki veliki problem.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Evo kakvog knjigovođu tražimo</strong></span></p>
+<p>Tražimo knjigovođu:</p>
+<ol>
+<li>koji je spreman da se uhvati u ko&scaron;tac sa No3. A to znači da većinu svojih zadataka može obaviti a da i ne uđe u na&scaron;u kancelariju.</li>
+<li>koji misli svojom glavom i zna principe knjigovodstva&nbsp;</li>
+<li>koji na pitanje: "ZA&Scaron;TO TO TAKO RADI&Scaron; ?" neće odgovoriiti "ZATO JER TO TAKO MORA", nego će objasniti "ZA&Scaron;TO"(*****)</li>
+<li>koji ne pije i ne psuje Boga</li>
+</ol>
+<p>---</p>
+<p>(*) Serija emisija o životinjama - znate ono lav jede srnu, srna jede travu i tako ukrug ...</p>
+<p>(**) UIO - Uprava za indirektno oporezivanje - zaduženi za kontrolu PDV-a</p>
+<p>(***) Posjećam&nbsp; mi ne koristimo nelegalni software</p>
+<p>(****) Dobra je stvar da se obrasci mogu bez problema koristiti u Openoffice-u 3.2.x :)</p>
+<p>(****) Ta nova verzija Zakona se u ranijem <a href="/tako-to-mora-biti-mora-li">dana&scaron;njem članku</a> pominje. Ranijih godina, obrasce je mogao potpisati direktor firme. Mi to nikada ranije nismo koristili. Vazda je Sivro te obrasce potpisivao. I ove godine, po&scaron;to nismo mogli "uloviti" Sivru, rekao sam - ja ću napraviti obrasce. Ali nisam znao za novi Zakon :(</p>
+<p>(*****) Ukazati na Zakon, Pravilnik itd ...</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Imamo jedan krupan problem u firmi. Dobro, imamo mi problema kol'ko hoćeš ... ali idemo izložiti jedan po jedan :). Mi smo provajder ERP/provajder poslovnih rješenja. Znate ono finansije, KUF, KIF, robno, fakturisanje, bla bla bla ... Baveći ...]]></excerpt:encoded>	
+
+	<wp:post_date>Sat Dec 18 07:53:00 -0800 2010</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>trazimo-knjigovodu</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[Maida Hamidović]]></wp:comment_author>
+			<wp:comment_author_email>maidamesic@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Tue Jan 25 03:44:06 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Tue Jan 25 03:44:06 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Meni ovo sve zvuči jako zanimljivo, volim istraživanja i već sam učestvovala u nekim doradama programa, odnosno prilagođavanje djelatnosti zajedno sa IT sektorom firme. Inače sam certificirani računovođa, 30 godina,  trenutno sam nezaposlena i imam bebu od 8 mjeseci koju još dojim tako da nisam spremna na cjelodnevni rad u kancelariji, ali spremna sam na nekih 4-5 sati uz dodatni rad online od kuće. Uglavnom, to bi se moglo dogovarati ukoliko je mjesto još upražnjeno. Ukoliko ste zainteresovani javite na moj e-mail, pa kao prvo da pošaljem C.V. pa akoBogda da se i dogovaramo.
+P.s. po novom zakonu nije dovoljno da je potpisnik finansijskih izvještaja certificirani računovođa, nego potpisnik pored tog uslova mora da je povezan sa poslovanjem firme za koju se izvještaji rade, odnosno ili da je radnik te firme ili da je npr. u nadzornom ili upravnom odboru iste, ili neke npr. agencije za računovodstvo ]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Thu Feb 17 07:13:55 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Thu Feb 17 07:13:55 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Maida, nažalost sam tek danas pročitao ovaj komentar, jer ih je naš mail sistem &quot;trpao&quot; kao spam :(
+
+U međuvremenu smo napravili dogovor po ovom pitanju, i baš na osnovu ovog članka. Vaš mail nemam, pa ako ovo budete čitali, zamolio bih vas da mi svakako proslijedite CV. Potrebe koje su ovdje navedene su popunjene, ali postoji mogućnost angažmana po drugim pitanjima.  
+
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Thu Feb 17 07:21:00 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Thu Feb 17 07:21:00 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[moj kontakt email nalazi se na stranici &quot;o meni&quot; (http://hernad.bring.out.ba/pages/about-o-meni)]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

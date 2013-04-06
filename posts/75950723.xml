@@ -1,0 +1,95 @@
+<item>
+	<title>Otvoreni pozivi, stil pisanja, privatnost, business</title>
+	<link>http://hernad.bring.out.ba/otvoreni-pozivi-stil-pisanja-privatnost-busin</link>
+	<pubDate>Mon Oct 17 22:51:00 -0700 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="b_knowhow"><![CDATA[b_knowhow]]></category>
+	
+		<category domain="tag" nicename="dunjaluk"><![CDATA[dunjaluk]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/otvoreni-pozivi-stil-pisanja-privatnost-busin</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Reakcije (i nedostatak istih) na moje pisanje o knowhow i pozive koje sam uputio <a href="http://redmine.bring.out.ba/issues/21801">developerima</a> i <a href="http://redmine.bring.out.ba/issues/24837">ekonomistima</a>&nbsp;ne daju konkretne rezultate.</p>
+<p>Ali mi dosta pomažu da dođem do pitanja koja su za nekoga ko se prvi put susreće sa projektom bitna.</p>
+<p>Tako sam sinoć iz jedne <a href="http://redmine.bring.out.ba/issues/21801#note-13">takve komunikacije</a> do&scaron;ao do zaključka da je potrebno napisati jedan tehnički rezime &nbsp;trenutnog stanja projekta:</p>
+<p><a href="http://do-we-know-how.bring.out.ba/knowhow-erp-gdje-sta-kako">http://do-we-know-how.bring.out.ba/knowhow-erp-gdje-sta-kako</a></p>
+<p>Sistem djelovanja po principu "reakcija-akcija" nije pretjerano sistematičan. Ali u ovom trenutku, kada je operativni rad na projektu do&scaron;ao do "usijanja", kada se rokovi za realizaciju dogovorenih poslova primiču, bolje ne može.</p>
+<p>Svakako je dobro da su ove aktivnosti otvorile proces promocije projekta prema &scaron;irem auditorijumu.</p>
+<p>To ovakvom projektu treba.</p>
+<p><span style="font-size: medium;"><strong><span style="text-decoration: underline;">Kritika na način pisanja</span></strong></span></p>
+<p>Od konkretnih reakcija, dobio sam tek jednu. Ona je krajnje negativna. Ta reakcija bi se mogla sumirati:</p>
+<ol>
+<li>Ja pa ja pa ja - hernad je narcisoidan</li>
+<li>Način komunikacije nije poslovan (turcizmi, anglizmi, kori&scaron;tenje kolokvijalnog jezika)</li>
+<li>Način izražavanja pun agresije(*)</li>
+<li>Ne po&scaron;tujem tuđu privatnost</li>
+</ol>
+<p><!--more--></p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>1) hernad narcis</strong></span></p>
+<p>Mislim da je ovakav utisak posljedica činjenica da se veliki dio priče o knowhow obavlja na mom privatnom blog-u.</p>
+<p>Zato je i otvoren blog bring.out <a href="http://do-we-know-how.bring.out.ba/">http://do-we-know-how.bring.out.ba/</a> koji je ograničen na tehničke teme.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>2) &nbsp;Tako poslovni ljudi ne pričaju ...</strong></span></p>
+<p>Na na&scaron;im ticketima se može naći sva&scaron;ta. Od internih priča koje niko osim nas u <a href="http://hernad.bring.out.ba/bitka-za-bosanski-erp-devtalk">bring.out ne može u potpunosti razumjeti</a>, do <a href="http://redmine.bring.out.ba/issues/24832#note-1">napisanih ličnih opaski i emocionalnih stanja</a>.</p>
+<p>Ovaj stil pisanja je unutar firme dao očekivane rezultate. On je pomogao tome da pisana komunikacija kao građa firme bude <strong>kompletna</strong>.</p>
+<p>Kako to ?! Pa lijepo. Kada bi neko pro&scaron;ao kroz firmu čitajući na&scaron;e interne aktivnosti. Naći će mnogo žučnih rasprava. Te&scaron;kih riječi. Nerazumjevanja, koje kroz žučne diskusije ipak dalo rezultate.</p>
+<p>To nije idealno, ali je rezultat da su svi bitni momenti u bring.out zabilježeni "bez filtera".</p>
+<p>Za razliku od većine organizacija u kojima bi se ovakve informacije mogle dobiti samo preslu&scaron;avanjem audio/video zapisa sa sastanaka, kod nas te stvari pi&scaron;u po ticketima.</p>
+<p>Ovakav način komunikacije može dovesti do tačaka kada postaje "<a href="http://en.wikipedia.org/wiki/Flaming_(Internet)">flaming</a>". Unutar firme postoje dva ključna ograničenja po pitanju komunikacije:</p>
+<ol>
+<li>bez psovki i ličnih uvreda&nbsp;</li>
+<li>svako je dužan uložiti napor da svoje stavove argumentira</li>
+</ol>
+<p>Očekivano, tačku 2 je najteže dostići. Trebale su godine da nivo komunikacije koji mi imamo dostigne željeni nivo.</p>
+<p>Tek nakon tog "dugogodi&scaron;njeg treninga" unutar granica bring.out &nbsp;do&scaron;ao je vakat da tu praksu komunikacije prenesemo u javni prostor.</p>
+<p>Slažem se da tu komunikaciju treba "istestati" s obzirom da su na&scaron;i projekti "public".</p>
+<p>Međutim, sa druge strane, ja ove negativne reakcije vidim i kao dobar filter.</p>
+<p>Onaj ko na na&scaron;im ticketima uočava samo neprofesionalni način komunikacije nema &scaron;ta tražiti na knowhow. Mi na na&scaron;im ticketim radimo ozbiljne stvari.&nbsp;</p>
+<p>Mislim da je "noise" koji ja svojim komentarima stvaram, zanemarljiv u odnosu na ono &scaron;to se u operativnom dijelu de&scaron;ava.</p>
+<p>A de&scaron;ava se puno toga. Gori ko u visokoj peći :). Samo trebate naučiti čitati redmine.&nbsp;</p>
+<p>Ah evo me, opet "bockam" raju. Stop hernade.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>3) Agresija</strong></span></p>
+<p><a href="http://hernad.bring.out.ba/svi-u-napad">"Svi u napad"</a>, <a href="http://hernad.bring.out.ba/bosanski-nacionalista">"Bosanski nacionalista"</a>, "<a href="http://hernad.bring.out.ba/hernad-je-lud-ko-struja">Lud k'o struja</a>",&nbsp;&nbsp;su izjave koje ćete čuti na stadionima.</p>
+<p>One u sebi nose agresiju. Ali sam ipak ubijeđen da nijedan od mojih članaka ne nosi sa sobom&nbsp;<strong>poruke&nbsp;</strong>agresije.</p>
+<p>Takvih poruka samo ima onda kada to o čemu pi&scaron;em doživljam kao agresiju. Npr takvi su članci&nbsp;<a href="http://hernad.bring.out.ba/kakofonija">Kakofonija</a>, <a href="http://hernad.bring.out.ba/glupofobija">Glupofob</a>.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>4) &nbsp;Privatnost</strong></span></p>
+<p>Na svom blogu pi&scaron;em: "Bio ja tu i tu ... pa mi se desilo mi se to i to ... ili sam uočio to i to ...".</p>
+<p>Kada se pi&scaron;e na ovakav način, uvijek se kao stavka pojavljuje nečija privatnost.</p>
+<p>Ako želim napisati o nečemu iz svog posla, naravno da pazim na privatnost podataka svojih klijenata. Ali, pri tome uop&scaron;te ne uvijam priču tako da akter sebe ne može prepoznati.</p>
+<p>Primjer: <a href="http://hernad.bring.out.ba/bosnian-business-telefonski-spam">Telefonski spam</a>.</p>
+<p>Kada se radi o državnim službenicima ili javnim preduzećima, tu primjenjujem drugi ar&scaron;in:</p>
+<p>Tada bez ustručavanja navodim <a>imena i službe</a>. Za&scaron;to ? Zato &scaron;to su to javne ustanove.</p>
+<p>Zato &scaron;to oni koji rade u tim službama moraju polagati račun javnosti.</p>
+<p>To &scaron;to radim, to je javni linč ? Ako pi&scaron;em neistine, jeste. U suprotnom, &nbsp;iznosim svoj građanski stav.</p>
+<p>Privatnost i otvorenost su po definiciji antonimi. Svako ko želi da se uključi u projekat kao &scaron;to je "knowhow", može da zaboravi na:</p>
+<blockquote class="posterous_short_quote">
+<p>Želim ostati amomiman !</p>
+</blockquote>
+<p>Ja kod svog pisanja po&scaron;tujem tuđu privatnost. Na svaki zahtjev da se ukloni tekst koji ukazuje na sopstveni identitet, odgovorio sam pozitivno.</p>
+<p>Javni službenici su iz toga isključeni, ako se pominju u kontekstu obavljanja svojih poslova u javnim institucijama.</p>
+<p>To su principi kojih se pri pisanju nastojim držati.</p>
+<p>---</p>
+<p>(*)&nbsp;<a href="http://redmine.bring.out.ba/issues/24837">http://redmine.bring.out.ba/issues/24837</a>, <a href="http://hernad.bring.out.ba/svi-u-napad">http://hernad.bring.out.ba/svi-u-napad</a></p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Reakcije (i nedostatak istih) na moje pisanje o knowhow i pozive koje sam uputio developerima i ekonomistima ne daju konkretne rezultate. Ali mi dosta pomažu da dođem do pitanja koja su za nekoga ko se prvi put susreće sa projektom bitna. Tako sam...]]></excerpt:encoded>	
+
+	<wp:post_date>Mon Oct 17 22:51:00 -0700 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>otvoreni-pozivi-stil-pisanja-privatnost-busin</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

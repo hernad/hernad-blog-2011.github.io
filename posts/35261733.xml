@@ -1,0 +1,60 @@
+<item>
+	<title>Statistika, mjere varijabiliteta</title>
+	<link>http://hernad.bring.out.ba/statistika-mjere-varijabiliteta</link>
+	<pubDate>Fri Dec 03 13:01:00 -0800 2010</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/statistika-mjere-varijabiliteta</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Koristim literaturu sa Filozofskog fakulteta Sarajevo, odsjek  psihologija: Priručnik iz Statistike u psihologiji, Poglavlje 4, Đapo,  N., Đokić, R. (2010)</p>
+<p>Nakon mjera <a href="/statistika-mjere-centralne-evidencije">centralne tendencije</a>(*) u Đapinoj literaturi se za za varijancu, standardnu devijaciju, za razliku od FIT statistike, otvara novo poglavlje. Pa se kaže:</p>
+<p>Numerički opis skupa podataka preko mjera centralne tendencije nije dovoljan.</p>
+<p>Pored <strong>tendencije grupisanja</strong> oko neke srednje vrijednosti (&scaron;to opisuju mjere centralne tendencije Mod, C, M), postoji i tendencija <strong>variranja</strong>, tj raspr&scaron;enja oko srednje vrijednosti.</p>
+<p><!--more-->Mjere varijabiliteta su broj kategorija, raspon rezultata, interkvartilni raspon, varijanca i standardna devijacija.</p>
+<p><span style="text-decoration: underline;"><strong>Raspon rezultata</strong></span></p>
+<blockquote class="posterous_short_quote">
+<p>Raspon rezultata je razlika između najveće i najmanje vrijednosti u skupu podataka</p>
+</blockquote>
+<p><span style="text-decoration: underline;"><strong>Interkvartilni raspon (ili raspr&scaron;enje)</strong></span></p>
+<blockquote class="posterous_short_quote">
+<p>Interkvartilni raspon je raspon u kome se nalazi 50% sredi&scaron;njih rezultata</p>
+<p>Za razliku od raspona rezultata, nije osjetljiv na ekstremne rezultate</p>
+</blockquote>
+<p>(... ovo dalje neću ganjati ne sjećam se da sam ovo viđao na FIT statistici ...)</p>
+<p><span style="text-decoration: underline;"><strong>Standardna devijacija i varijanca</strong></span></p>
+<blockquote class="posterous_medium_quote">
+<p>Standardna devijacija i varijanca su mjere varijabiliteta koje se temelje na udaljenostima svakog rezultata od aritmetičke sredine.</p>
+<p>Varijanca skupa podataka (V) je prosjek kvadriradnih odstupanja od aritmetičke sredine, dok je standardna devijacija StdDev = SQRT(V)</p>
+<p>StDev = SQRT ( SUM((Xi - M)^2) / (N-1))&nbsp; (**)</p>
+</blockquote>
+<p>-----</p>
+<p>(*) koje sam by the way u početku non-stop zvao mjere centralne <strong>evidencije</strong> jer mi se sve "smućkalo"</p>
+<p>(**) O'ooo. Ovdje mi ne&scaron;to nije jasno. Sinoć sam sa <a href="/statistika-prvi-cas-sa-profesoricom-dzenanom">Dženanom drugačije radio</a> Za&scaron;to je ovdje N-1 a ne N ?!</p>
+<p>Dženana mi je maloprije objasnila: Kada se koristi mali uzorak, 300-500 ispitanika, &scaron;to je najče&scaron;ći slučaj, standardna devijacija se namjerno "napumpa" sa ovim N-1, zato &scaron;to sigurno gre&scaron;ke u uzorku postoje. Ovim pumpanjem StdDev obezbjeđujemo veću vjerovatnoću da će nam rezultati ući u onih 99%, odnosno da će gre&scaron;ke biti +/-5 % &scaron;to je prihvatljivo. Ouch. Evo ispričala mi preko telefona a ja već sad nisam siguran da sam dobro napisao :(.</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Koristim literaturu sa Filozofskog fakulteta Sarajevo, odsjek psihologija: Priručnik iz Statistike u psihologiji, Poglavlje 4, Đapo, N., Đokić, R. (2010) Nakon mjera centralne tendencije(*) u Đapinoj literaturi se za za varijancu, standardnu devij...]]></excerpt:encoded>	
+
+	<wp:post_date>Fri Dec 03 13:01:00 -0800 2010</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>statistika-mjere-varijabiliteta</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

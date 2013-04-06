@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<link href='../../../exports.css' rel='stylesheet'>
+<link href='../../../exports.css' rel='stylesheet'>
+
+</head>
+<body>
+<div id='wrap'>
+<div id='header'>
+<h1>hernad</h1>
+<h2>This is an archived post
+This is an archived post
+</h2>
+</div>
+<div id='content'><div id='nav'>
+<a href="../../../posts/2011/01/dzenana-husremovic-doktor-nauka.html">Previous</a>
+&nbsp; 
+<a href="../../../index-11.html">Index</a>
+&nbsp; 
+<a href="../../../posts/2011/01/spam-or-not-spam.html">Next</a>
+</div>
+<div class='post'>
+<div class='post_header'>
+<h3>Uvod u baze podataka, hello world, non-microsoft toolset</h3>
+<div class='post_info'>
+<span class='post_time'>January 17 2011, 12:26 PM</span>
+<span class='author'>&nbsp;by Ernad Husremović</span>
+</div>
+</div>
+<div class='post_body'><p>Nakon <a href="/uvod-u-baze-podataka-zbrkizacija">početnih predavanja</a>, do&scaron;ao sam i do konkretnih stvari. Međutim, početne dojmove: "ne kontam", "nelogično", "gubim se" nikako nisam mogao izbiti.</p>
+<p>Imao sam očekivanja da će stvari kod na kraju ipak početi "lijegati na svojem mjesto". Međutim, do tačke "aha - kontam" nikako nisam mogao doći :(</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Uvod u baze podataka, hello world</strong></span></p>
+<p>Tražio sam<a href="/hello-world"> "hello world"</a> predmeta ali ga nikako nisam mogao naći.&nbsp; Video materijali su dobri, ali oni nemaju nikakvu logičku vezu sa teorijskim dijelom, posebno ER dijagramima. Možda sam ne&scaron;to ispustio !? Lo&scaron; kvalitet, nekonzistentnost materijala su mi stvorili veliki problem. Poku&scaron;ao sam to iskompenzirati traženjem poja&scaron;njenja po internetu ... Ali, koliko god mi neki internet materijal pomogao, svjestan sam da za polaganje ispita prije svega moram "sažvakati" ono &scaron;to materijali govore. Ma koliko to meni&nbsp; bilo konfuzno  ...</p>
+<p>Zato sam danas nakon &scaron;to sam priveo čitanje materijala kraju, odlučio da na par praktičnih primjera utvrdim &scaron;ta sam "pohvatao".</p>
+<p><!--more--><span style="text-decoration: underline; font-size: medium;"><strong>Hello world 1</strong></span></p>
+<p>Prvi zadatak koji sam sebi postavio je izrada R dijagrama na osnovnu ER dijagrama sa entitetima i relacijama(*): Putnik (kupuje) Karta (važi) Let (vodi) Kapetan.</p>
+<p>Nisam se ba&scaron;&nbsp; proslavio. Trebalo mi je najmanje 45 minuta da to uradim. Napravio sam dosta gre&scaron;aka, ali sam na kraju dobio ispravno rje&scaron;enje:</p>
+<p><div class='p_embed p_image_embed'>
+<img src='../../../image/2011/01/20177728-putnik_karta_let_kapetan.png'>
+</div>
+</p>
+<p>Jedina stvar koja mi je u materijalima ostala nejasna je to &scaron;to u (MS access) primjeru grafičkog prikaza relacijske sheme stoji KAPETAN(1) -&gt; LET(beskonačno). MS Access nema posebnu oznaku za relaciju za (0..1), ili se radi o gre&scaron;ci u materijalima ?&nbsp;</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Hello world 2</strong></span></p>
+<p>U prvom primjeru sam uočio da najvi&scaron;e dilema imam u tome da li će relacija sa ER dijagrama u relacionoj shemi biti tabela ili neće.</p>
+<p>Time sam do&scaron;ao do toga da mi je najbitnije preraditi materijal "Prevođenje ER modela u R model". Materijal po principu pravila obja&scaron;njava kako karakteristične elemente ER dijagrama&nbsp; treba prebaciti u R model. Tako je svaka od kombinacija binarnih veza ( (1..1) : (1..1) ; (0..1) : (1..1); (0..1) : (0..1)&nbsp; ...) posebno obrađena.&nbsp;</p>
+<p>Nakon prolaska kroz materijal, nisam mogao uočiti zajedničku nit, a memorisanje napamet pojedinih hem mi <a href="/glupan">te&scaron;ko ide</a>, hem smatram najobičnijom glupo&scaron;ću da mozak za takvo &scaron;ta rezervi&scaron;em.</p>
+<p>Skont'o sam strategiju:</p>
+<blockquote class="posterous_short_quote">
+<p>Napraviću "hello world 2". Uzeću jedan od primjera i "rastaviti ga do crvenih krvnih zrnaca". Kada to uradim, valjda ću skontati u čemu je fol' - &scaron;ta je pozadina ovih pravila.</p>
+</blockquote>
+<p>Uzeo sam nasumice primjer binarne veze sa (0..N) : (0..1)&nbsp; spojevima. Entuzijastično sam napravio u <a href="http://projects.gnome.org/dia/">dia</a>-i dijagram:</p>
+<p><div class='p_embed p_image_embed'>
+<img src='../../../image/2011/01/20178026-er_binarna_veza.png'>
+</div>
+Nakon toga sam uzeo <a href="http://ermaster.sourceforge.net">ER master</a> i sa njim napravio ovaj R dijagram:</p>
+<p><div class='p_embed p_image_embed'>
+<img src='../../../image/2011/01/20178379-udzbenici.png'>
+</div>
+Međutim, moja verzija nije zadovoljavala rje&scaron;enje koje se navodi materijalima. U materijalima se navodi ovo rje&scaron;enje:</p>
+<p><span style="text-decoration: underline;">strukturalna komponenta (tabele):</span></p>
+<ul>
+<li>predmet(id_predmet, naziv)</li>
+<li>udzbenik(id_udzbenik, naslov)</li>
+<li>koristi(id_udbzenik, id_predmet)</li>
+</ul>
+<p><span style="text-decoration: underline;">integritetna komponenta R modela (relacije među tabelama):</span></p>
+<ul>
+<li>koristi[id_udbzenik]&nbsp; FK(**) &lt;- udbzenik[id_udbzenik]</li>
+<li>koristi[id_predmet]&nbsp; FK &lt;- predmet[id_predmet]</li>
+</ul>
+<p>&nbsp;</p>
+<p>Rad prema mom "feeling"-u nije sadržavao ovu tabelu koristi. &Scaron;to će im ova tabela ?! Zato sam se odlučio da nastavim sa svojim "hello world 2". ERmaster mi nudi DDL(***) pa ću u <a href="http://www.postgresql.org">PostgreSQL</a>(****) bazi napraviti ove tabele.</p>
+<p><p><a href="https://gist.github.com/783370">https://gist.github.com/783370</a></p></p>
+<p>Onda sam sa <a href="http://www.pgadmin.org">pgAdmin</a> unio testne podatke:</p>
+<p><div class='p_embed p_image_embed'>
+<img src='../../../image/2011/01/20178877-udzbenik.png'>
+</div>
+Jedina stvar koja se može uslovno spornom nazvati jesu NULL stavke, međutim, tabele i struktura su po meni "čiste k'o suza".</p>
+<p>Rje&scaron;enje sa tabela "koristi" je takođe ispravno, ali ja nikakvu anomaliju ne vidim ni u svom rje&scaron;enju. Dapače. Moje rje&scaron;enje ima dvije tabele, za razliku od ponuđenih tri iz materijala. &Scaron;to manje tabela, to je buduće održavanje sistema jednostavnije(*****).</p>
+<p>Ostaje mi da se raspitam da li je ovo ispravno. U materijalima nisam na&scaron;ao da li je ovo "jedno od rje&scaron;enja" ili se navedeno smatra jedino ispravnim rje&scaron;enjem.</p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Rezime</span></strong></span></p>
+<p>Dobra stvar je da sam napokon pro&scaron;ao par konkretnih stvari, te da sam sam dobio aplikacijski toolset koji bi mi trebao omogućiti da predmete iz oblasti baza podataka&nbsp; radim bez Microsoftovih alata. Poku&scaron;aću i seminarski rad uz pomoć ovih alata u najvećoj mjeri uraditi.</p>
+<p>Moj toolset u ovom trenutku je:</p>
+<ol> </ol>
+<p>1) <a href="http://projects.gnome.org/dia/">dia</a> - izrada ER dijagrama</p>
+<ul>
+<li>image export - ok</li>
+</ul>
+<p>2) <a href="http://ermaster.sourceforge.net">ER master</a> - izrada R dijagrama&nbsp;</p>
+<ul>
+<li>(omogućava kreiranje DDL SQL komandi)</li>
+<li>kvalitetan image export dijagrama</li>
+<li>pamćenje pojedinih revizija modela - ekstra korisna opcija</li>
+</ul>
+<p>3) <a href="http://www.postgresql.org">PostgreSQL</a> kao testna relacijska baza</p>
+<p>4) pgAdmin - GUI client za PostgreSQL</p>
+<ul>
+<li>create database</li>
+<li>create tables sa SQL DDL-om </li>
+<li>direktni unos podataka u tabele <br />(nije "user friendly" kao MS access; nema validacijske kontrole - input maske kao MS access ovo je ipak čisti frontend baze podataka - za takve validacije je pretpostavljam neophodno pisati&nbsp; PL/SQL server-side procedure)</li>
+<li>filter podataka <br />(slično kao MS access filteri)</li>
+<li>query - nema neki gui dizajner upita kao MS Access - samo klasični SQL upiti sa WHERE/JOIN<br /> 
+<ul>
+</ul>
+</li>
+</ul>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Toolset za seminarski, "gdje je ba zapelo"</strong></span></p>
+<p>Glavna stvar koja mi nedostaje za izradu seminarskoj je alat za grafički dizajn korisničkog  interfejsa. Tu mi ba&scaron; i nije jasno &scaron;ta se u stvari od nas uop&scaron;te želi.</p>
+<p>Nisam načisto da li se tu očeku pravljenje MS Access formi, kori&scaron;tenje makroa i sl. Valjda ne. To bi mi ba&scaron; bila muka "ganjati".</p>
+<p>Ako bih mogao sav posao zavr&scaron;iti sa ovim toolsetom, pa na kraju ručno napraviti MS Access bazu (taman da to izvježbam za ispit) i dodati par onih input maski i constraint-a prema video materijalima, to bi bilo skroz ok.</p>
+<p>Računam da bih na ovaj način realizirao glavne ciljeve predmeta, bez prekomjernog "mučenja" sa&nbsp; MS Access i&nbsp; VBA(******). Gradivo koje pokriva ovaj, a sigurno i budući predmeti iz oblasti baza podataka, može se savladati i bez striktnog baziranja Microsoft tehnologijama. Mora moći - moja trial licenca za MS office ističe za heftu :)</p>
+<p>----</p>
+<p>(*) Materijal pod naslovom ER model -&gt; Relacioni model -&gt; relationship</p>
+<p>(**) FK - foreign key, u materijalima se koristi znak za podskup da bi se ovo opisalo - meni ta notacija nikako ne sjeda</p>
+<p>(***) DDL - SQL data definition language</p>
+<p>(****) PostgreSQL se koristim u <a href="http://redmine.bring.out.ba/projects/knowhow/wiki">knowhow</a> projektu</p>
+<p>(*****) U praksi ne prezam od tabela koje ne zadovoljavaju ni 1NF ako znam da će one biti male po broju redova, i da će mi takav dizajn olak&scaron;ati održavanje sistema.</p>
+<p>(******) VBA - Visual basic for aplications, skriptni jezik koji se koristi u Microsoft Office aplikacijama.</p></div>
+<div class='post_tags'>
+<h4>Tags</h4>
+<div class='post_tags_list'>database, fit_2_godina, fit_mostar</div>
+</div>
+<div class='post_responses'>
+<h4>3669 views and 4 responses</h4>
+<ul class='post_responses list'>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Jan 17 2011,  1:17 PM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>Obratio sam se kolegama asistentima sa predmeta po pitanjima koja su mi ostala otvorena:<p>---</p><p>Poštovane kolege, u članku <a href="http://hernad.bring.out.ba/uvod-u-baze-podataka-konverzija-er-u-r-model" rel="nofollow">http://hernad.bring.out.ba/uvod-u-baze-podataka-konverzija-er-u-r-model</a>, pojavljuju se pitanja za koje trebam vašu pomoć</p><p>1) Na kraju poglavlja "Hello world 1" stoji pitanje 1:</p><p>> Jedina stvar koja mi je u materijalima ostala nejasna je to što u (MS access) primjeru grafičkog prikaza relacijske sheme stoji KAPETAN(1) -> LET(beskonačno). MS Access nema posebnu oznaku za relaciju za (0..1), ili se radi o grešci u materijalima ?</p><p>2) Poglavlje "Hello world 2" sadrži naredno pitanje.</p><p>3) Molio bih pojašnjenje po seminarskog rada, posebno vezano za dizajn grafičkog interfejsa, odnosno stavki koje se trebaju uraditi mimo dizajna same baze podataka.</p><p>U zadnjem poglavlju članka "Toolset za seminarski, 'gdje je ba zapelo'" su detalji ovog pitanja.</p><p>Nadam se da vam neće predstavljati problem što sam se obratio na obje adrese. Nisam bio siguran koja je prava.</p><p>Unaprijed hvala na pomoći</p><p>---</p></div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Jan 17 2011,  1:36 PM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>ako je u seminarskom potrebno uraditi forme, da li se može pokušati sa nekih alatom kao što glom (<a href="http://www.glom.org/wiki/index.php?title=Screenshots" rel="nofollow">http://www.glom.org/wiki/index.php?title=Screenshots</a>) ?<p>bez obzira što je to "100x" veći posao, više bih volio vrijeme utrošiti na proučavanje ovakvih alata nego li na MS Access.</p></div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Jan 18 2011,  1:34 AM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>Počeo sam čitati video materijale za Database GUI koji se očekuje na seminarskom:<p>* I dio(<a href="http://www.youtube.com/watch?v=8Pb4hURpwqk" rel="nofollow">http://www.youtube.com/watch?v=8Pb4hURpwqk</a>)<br />* II dio(direktan link: <a href="http://www.youtube.com/watch?v=fQqAIft1pd8" rel="nofollow">http://www.youtube.com/watch?v=fQqAIft1pd8</a> )<br />* III dio (direktan link: <a href="http://www.youtube.com/watch?v=7ayjcvL13B4" rel="nofollow">http://www.youtube.com/watch?v=7ayjcvL13B4</a> )<br />* IV dio (direktan link: <a href="http://www.youtube.com/watch?v=2odsWmphmAg" rel="nofollow">http://www.youtube.com/watch?v=2odsWmphmAg</a> )</p><p>Uhh ... počeo sam sa prvim materijalom ... i po svemu sudeći pomoći mi nema - intenzivno access-anje mi ne gine :(</p></div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Jan 19 2011,  4:17 AM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>Što se tiče pitanja 2), tu sam stvar u međuvremenu djelimično razjasnio:<p><a href="http://hernad.bring.out.ba/autenticnost-materijala" rel="nofollow">http://hernad.bring.out.ba/autenticnost-materijala</a></p></div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

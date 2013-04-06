@@ -1,0 +1,107 @@
+<item>
+	<title>knowhow, pregled aktivnosti 25.11.2010 - 20.01.2011 </title>
+	<link>http://hernad.bring.out.ba/knowhow-pregled-aktivnosti-25112010-20012011</link>
+	<pubDate>Fri Jan 21 02:40:00 -0800 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+	
+		<category domain="tag" nicename="b_knowhow"><![CDATA[b_knowhow]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/knowhow-pregled-aktivnosti-25112010-20012011</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p><span style="text-decoration: underline; font-size: medium;"><strong>Dinamika,&nbsp; mjesec ka&scaron;njenja</strong></span></p>
+<p>Nakon <a href="http://www.bring.out.ba/knowhow">objave projekta,</a> utvrđena je <a href="http://www.bring.out.ba/sta-sa-fmk">dinamika</a> projekta.</p>
+<p>Faza <strong>"knowhow-init"</strong> je određen za januar, ali taj rok nije postignut. Razloga za to je vi&scaron;e, od čega bih izdvojio dva glavna:</p>
+<ol>
+<li><a href="http://www.bring.out.ba/bringout-suspenduje-svoje-operacije-u-ulozi-s">problemi sa fiskalizacijom</a></li>
+<li>"&scaron;irenje" teme u odnosu na prvobitnu zamisao(*)<ol>
+<li>prvobitno je zami&scaron;ljeno da se urade prilagodbe za na&scaron;e zakone bez bitnih programerskih intervencija, međutim, u toku realizacije pokazalo  se da će takve stvari biti neophodne</li>
+<li>dosta vremena je posvećeno na upoznavanje OpenERP koncepata, koji opet ukazuju na standardne principe knjigovodstva u "bijelome svijetu". Mnogi od otvorenih ticketa upravo obrađuju ovu temu: <a href="http://redmine.bring.out.ba/issues/21925">#21925</a>, <a href="http://redmine.bring.out.ba/issues/22137">#22137</a>, <a href="http://redmine.bring.out.ba/issues/22021">#22021</a>, <a href="http://redmine.bring.out.ba/issues/22053">#22053</a>, <a href="http://redmine.bring.out.ba/issues/22068">#22068</a></li>
+</ol></li>
+</ol> <ol> </ol>
+<p><!--more--></p>
+<p>Od stvari koje je bitno naglasiti, istaknuću činjenicu smo u bring.out uspjeli napraviti potrebnu reorganizaciju, tako da su sve tekuće operacije preuzele kolege.</p>
+<p>Naime, prvobitni plan je taj da u prve dvije faze na projektu radim samostalno, a da upravljačke funkcije preuzme kolega Sa&scaron;a. Taj proces je uspje&scaron;no zavr&scaron;en, tako da ova organizacija funkcioni&scaron;e od početka godine.</p>
+<p>Jedan od glavnih razloga za ovu "zgusnutu" dinamiku jeste nastojanje da se knowhow pokrene zajedno sa fiskalizacijom.</p>
+<p>Dobra okolnost je taj da je država ovaj projekat takođe <a href="/odgovornost-i-fiskalizacijska-lakrdija">promjerila</a> za mjesec dana, tako da ovo ka&scaron;njenje ne isključuje mogućnost da se knowhow i fiskalizacija u "Rama-glas"-u realizuju zajedno.</p>
+<p>Pored gore navedenih događaja, drugi bitan faktor realizacije <a href="http://hernad.bring.out.ba/fit-iii-semestar-drugi-parcijalni">moje privatne obaveze na fakultetu</a>. Nadam se da u narednom izvje&scaron;taju neće stajati: "S obzirom da sam popad'o sve ispite u prvom roku ... morao sam spremati drugi ... pa sam opet toga pao u drugom&nbsp; ... pa evo spremam za treći rok ..." :)</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Redmine statistika</strong></span></p>
+<p><a href="http://redmine.bring.out.ba/projects/knowhow">Redmine</a> se u bring.out koristi i za praćenje radnog učinka.&nbsp; Tu praksu sam nastavio i na knowhow. Ta evidencija kazuje da je do sada utro&scaron;eno <strong>60 programer/analiza-priprema sahata</strong>. Procjena je da je ukupno 100-120 sahata vrijeme potrebno za realizaciju faze knowhow-init. &nbsp; To bi bilo jo&scaron; cca 10 dana efektivng rada, odnosno dvije hefte.<p />U proteklom periodu kreirana 54 ticketa, od toga status "otvoreno" ima 40.<p /><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Realizacija</span></strong></span><p /><span style="text-decoration: underline; font-size: small;"><strong>Programiranje</strong></span><p />"Zgnječen" je i prvi pravi <a href="http://redmine.bring.out.ba/issues/22037">bug</a> :). Evo o čemu se radi:<p />OpenERP, kao internacionalni projekat, ima standardnu boljku podr&scaron;ke na&scaron;ih diakritika (na&scaron;ih slova). Ispitivajući reporting opcije, do&scaron;ao sam do opcije pode&scaron;enja reporta na korisničkom nivou. Opcija funkcioni&scaron;e ovako:</p>
+<ul>
+<li>u openoffice writer instaliramo "openerp designer" ekstenziju</li>
+<li>ta ekstenzija, kao i svaki drugi klijent pristupa knowhow serveru</li>
+<li>iz liste odabiremo željeni report, designer nam prebaci taj report kao standardni openoffice dokument</li>
+<li>napravimo ispravke - send to server i posao je gotov ... imamo prilagođeni report</li>
+</ul>
+<p>&nbsp; <br />Međutim, kod testiranja te opcije sam dobio gre&scaron;ke, za koje sam brzo (čitajući forume) uočio da je uzrokovana na&scaron;im diakriticima.<br />&nbsp; <br />Idući tim putem do&scaron;ao sam do informacije da je u developerskom stablu taj problem rije&scaron;en. "Pokupio" sam to rje&scaron;enje, ali se ispostavilo da to rje&scaron;enje ne radi dobro. Ako u report ubacim na&scaron;a slova, gre&scaron;ka se ponovo de&scaron;ava. <p />Iako sam u ovoj fazi projekta, sa funkcionalog stanovi&scaron;ta, komotno mogao ovaj problem ostaviti po&nbsp; strani, odlučio sam da ga ipak "napadnem". Razlog:</p>
+<blockquote class="posterous_short_quote">
+<p>To je znanje - knowhow koji trebam - idem ga uzeti bez odlaganja.</p>
+</blockquote>
+<p>Svaki netrivijalni debug uključuje upoznavanje detaljno upoznavanje projekta. Očekivano, borba sa ovim bugom je pomogao da steknem i/ili osvježim znanje iz <a href="http://redmine.bring.out.ba/issues/21924">python</a>-a, te da napravim testno developersko okruženje u svrhu <a href="http://redmine.bring.out.ba/issues/22042">izolacije gre&scaron;ke</a>.<p />Dva dana sam utro&scaron;io na ovom bug-u. Ali sada, ako ni&scaron;ta drugo, mogu reći da knowhow nije čisti džon OpenERP-a :). <p /><span style="text-decoration: underline; font-size: small;"><strong>&Scaron;ta OpenERP nema, a FMK ima ?</strong></span><p />Kao i za sve ostalo, po ovom pitanju postoji <a href="http://redmine.bring.out.ba/issues/22022">ticket</a>.<p />Glavna stvar koja nedostaje je kalkulacija zavisnih tro&scaron;kova kod ulaza robe/sirovina. Na openerp forumima sam do&scaron;ao do toga da su se sa istim problemom susreli mnogi, a da su najdalje stigli - ni manje ni vi&scaron;e nego Tajlanđani :)<br />&nbsp;<br />Prema onome &scaron;to sam pročitao, u modulu addon "ac_account_thai" ta opcija je već implementirana. Ostaje da se opcija analizira na nivou source koda. Naime, ovaj dio će sigurno tražiti prilagodbe za na&scaron;e potrebe, tako da je "napamet" instalacija modula izvjesno put koji neće dati željene rezultate. Dobra je stvar &scaron;to sam se za to već dobro pripremio pri otklanjaju bug-a <a href="http://redmine.bring.out.ba/issues/22037">#22037</a>. <p /><span style="text-decoration: underline; font-size: small;"><strong>&Scaron;ta od gornjih nedostajućih stavki pripada bosanskoj legislativi, a &scaron;ta navikama ?</strong></span></p>
+<p>Otvorenost knowhow projekta je njegov bitan atribut. Jedan od knowhow foruma nosi naziv&nbsp; <a href="http://redmine.bring.out.ba/projects/knowhow/boards/8">knjigovodstvo</a> . Objasniću za&scaron;to je ovaj forum bitan, i &scaron;ta od njega očekujem.</p>
+<p>Cilj knowhow projekta nije samo tehnolo&scaron;ko unapređenje na&scaron;ih ERP rje&scaron;enja. Taj dio nažalost i nije te&scaron;ko postići :(.</p>
+<p>Podjednako je bitno da da knowhow bude realizovan na takav način da se u njega na najbolji načinu ugradi na&scaron;e dugogodi&scaron;nje iskustvo iz oblasti knjigovodstva i poslovnih procesa općenito.<p />U članku <a href="/trazimo-knjigovodu">"Tražimo knjigovođu"</a> sam objasnio strategiju koju smo primjenili kod implementacije PDV zakoske regulative. "Slijepo" prihvatanje zahtjeva korisnika nije dobar način za izgradnju kvalitetnog IT rje&scaron;enja.&nbsp; <br />&nbsp;<br />Taj princip primjenjujemo i u knowhow projektu.<p />Računovodstvena legislativa u u BiH se iz godine u godinu mijenja u jednom smijeru: <strong>Međunarodni računovodstveni standardi</strong>.<p />Tako recimo u standardu <a href="http://redmine.bring.out.ba/issues/22070">"MRS-2 - zalihe"</a>, se nigdje navodi da se prodavnica treba voditi po prodajnim cijenama.</p>
+<p>Jedna od stvari koja u OpenERP u odnosu na Fmk nedostaje jeste nedostatak opcije nivelacije u prodavnicama.</p>
+<p>OpenERP u dijelu zalihe (stock) isključivo barata sa nabavnim cijenama, bez obzira da li se radi o prodavnici (shop) ili prodaji iz magacina (warehouse). <p />S druge strane, OpenERP ima detaljno razrađen sistem cjenovnika (price list).</p>
+<p>Ovo je sve uvod u princip nadogradnje koji želimo primjenjivati u knowhow projeku:</p>
+<blockquote class="posterous_medium_quote">
+<p>Prilagodbama OpenERP pristupiti sistematski. Dobro prostudirati postojeću logiku i vidjeti da li su stvari koje mi sada (u postojećim rje&scaron;enjima ) radimo drugačije iz radi na&scaron;e zakonske regulative ili radi na&scaron;ih *ranijih navika*.</p>
+</blockquote>
+<p><span style="text-decoration: underline;">Primjer: </span><p />Prilikom uvođenja PDV-a, većina na&scaron;ih korisnika je insistirala na tome da se magacin vodi (kako je do tada bilo) po prodajnim cijenama. Za&scaron;to ? Zato &scaron;to su to tako navikli, i zato &scaron;to je to tako bilo obavezno u staroj zakonskoj regulativi (porez na promet, porez na razliku u cijeni u veleprodaji).<p />Kada smo prilikom uvođenja PDV-a rekli da prelazimo na vođenje magacina po nabavnim cijenama (te da se posljedično ukidamo opciju nivelacije magacina), imali smo niz pritužbi korisnika. Međutim, kasnije se pokazalo se da je na&scaron;a odluka bila ispravna. <p /><span style="text-decoration: underline;"><strong>OpenERP community</strong></span><p />U toku programerskih aktivnosti, veliki dio vremena sam utro&scaron;io na upoznavanje <a href="http://redmine.bring.out.ba/issues/22035">openerp community</a>-ja.<p />Pored zemalja koje gravitiraju oko Belgije (tvoraca OpenERP-a), na&scaron;ao sam firme i pojedince iz &Scaron;panije, Tajland, Pakistana koji su iskusni implementatori i/ili developeri (najče&scaron;će oboje) rje&scaron;enja baziranih na OpenERP-u.</p>
+<p>Uočio sam da su te firme mahom dijele na&scaron;u filozofiju otvorenosti. Naravno, OpenERP licence ih "tjeraju" da source kod objavljuju, ali nije sve u source kodu. Bitno je da su oni aktivni učesnici foruma, da dijele svoja uspje&scaron;na iskustva ali i probleme.</p>
+<p>To je "karta" na koju sam puno položio. Informacije koje sam u proteklom periodu prikupio mi kažu da nisam oful'o.<p /><strong><span style="text-decoration: underline;"><span style="font-size: medium;">Nerealizovano</span></span></strong><p />Nisam napravio ni jednu video prezentaciju do sada urađenih stvari. Jedna je riječ, a drugo je slika.</p>
+<p>To ću staviti kao <a href="http://redmine.bring.out.ba/issues/22216">prioritet</a>. Takvi materijali će pomoći publicitetu projekta, i uključivanju drugih zainteresovanih.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Kako "stvar" radi ?</strong></span></p>
+<p>Prema onome &scaron;to sam tokom rada testirao mogu konstatovati da su bazne komponente dobro rije&scaron;ene: sistem knjiženja, hijerarhijski kontni plan, hijerarhijski BOM (bill - of materijal - sastavnice u proizvodnji).</p>
+<p>Način unosa podataka je jednostavan i intuitivan. Najveći dio vremena sam utro&scaron;io na standardnom GUI (gtk) klijentu. Korisnicima Fmk će sigurno trebati stanovito vrijeme za drugačiji korisnički interfejs, ali nisam sreo ni&scaron;ta za &scaron;ta očekujem komentare tipa: "&Scaron;ta nam ovo uvaliste ljudi !?"</p>
+<p>Reporting sistem je jača strana knowhow. Upravljački dio firme će veoma brzo, aBd, dobiti ono &scaron;to u Fmk nije mogao dobiti.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Zaključak</strong></span></p>
+<ol>
+<li>tokom rada je potvrđena pretpostavka sa kojom se u&scaron;lo u projekat: knowhow ima dobru <strong>tehnolo&scaron;ku osnovu</strong></li>
+<li>potvrđena je i kvalitetna <strong>funkcionalna osnova</strong> (kontni plan, proizvodi, sastavnice, sistem izvje&scaron;tavanja)</li>
+<li>sve do do sada tražene informaciju su javno dostupne. Pored "source koda" dostupna je i velika količina popratne dokumentacija kako od OpenERP s.a. (vođe projekta) tako i od community-ja.</li>
+<li>OpenERP projekat je veliki eko-sistem. Unutar njega funkcioni&scaron;e globalni - &scaron;irom svijeta raspoređen "community". Kao takav, on je odlična baza za knowhow projekat.</li>
+</ol>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Lični dojam</strong></span></p>
+<p>Najvi&scaron;e sam nezadovoljan vremenom koji sam proveo efektivno na projektu. Sam rad na projektu najbolje bih opisao na ovaj način:</p>
+<blockquote class="posterous_short_quote">
+<p>Jest' lijepo radit' pametne stvari !</p>
+</blockquote>
+<p>Statistika pokazuje da sam u ovih dva mjeseca tek 10-tak dana bio kompletno "u knowhow". To moram popraviti.</p>
+<p>S druge strane, takvo &scaron;to je bilo očekivano jer je kompletnu firmu bilo neophodno "preswitchati" u drugačiji režim rada. Taj switch je izvr&scaron;en, i to mi daje realnu osnovu da u narednom periodu očekujem znatno veći omjer knowhow/ostale_aktivnosti.&nbsp; Iskreno, najvi&scaron;e se bojim obaveza na fakultetu.</p>
+<p>Činjenica je međutim da se stvar "zakolutala", da imamo progres, da su pretpostavke sa kojima se u projekat u&scaron;lo u najvećoj mjeri potvrđene, te da je knowhow projekat koji je i meni i svima u bring.out vratio optimizam po pitanju budućnosti firme. A to nam je "k'o kruh" trebalo :).</p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Za kraj</span></strong></span><p />Dinamika realizacije se se pomijera za mjesec dana u odnosu na prvobitni plan.<p />Knowhow  od dana objavljivanja "živi" kao otvoren projekat. Svaka aktivnost  je vidljiva za bilo kog internet korisnika. U početnoj fazi projekta, ta činjenica nema veliku važnost. Moje očekivanje je da će ta  dimenzija u budućnosti biti jedan od ključnih atributa razvoja projekta,  inshallah.  Zato sam posebno ponosan na tu odluku.</p>
+<p>Kada sam prije 5-6 godina pokrenuo blog o free &amp; opensource software-u, na naslovu stranu sam stavio ovu rečenicu:</p>
+<blockquote class="posterous_short_quote">
+<p>Is it possible to make good software - here in Bosnia ?(*)</p>
+</blockquote>
+<p>Kada sam postavio to retoričko pitanje, vodio sam se stavom da na malom trži&scaron;tu, kao &scaron;to je bosansko, nije moguće napraviti dobar software(**) sa klasičnim - zatvorenim modelom razvoja, te da jedino otvoreni model razvoja može obezbjediti dovoljno resursa da bi u konačnici dobili software koji ima atribut <strong>"dobar"</strong>.</p>
+<p>"knowhow" projekat je upravo rezultat nastojanja da na gornje pitanje, na kraju "balade", ipak odgovorim: "Jeste !"</p>
+<p>Bil' hajr.</p>
+<p>---</p>
+<p>(*) Da li je moguće napraviti dobar software - ovdje u Bosni ?</p>
+<p>(**) Pri tome mislim prije svega na ERP/poslovni software koji je u fokusu na&scaron;eg rada</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Dinamika, mjesec kašnjenja Nakon objave projekta, utvrđena je dinamika projekta. Faza "knowhow-init" je određen za januar, ali taj rok nije postignut. Razloga za to je više, od čega bih izdvojio dva glavna: problemi sa fiskalizacijom "širenj...]]></excerpt:encoded>	
+
+	<wp:post_date>Fri Jan 21 02:40:00 -0800 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>knowhow-pregled-aktivnosti-25112010-20012011</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<link href='../../../exports.css' rel='stylesheet'>
+<link href='../../../exports.css' rel='stylesheet'>
+
+</head>
+<body>
+<div id='wrap'>
+<div id='header'>
+<h1>hernad</h1>
+<h2>This is an archived post
+This is an archived post
+</h2>
+</div>
+<div id='content'><div id='nav'>
+<a href="../../../posts/2011/12/moj-najbolji-subotnji-potez.html">Previous</a>
+&nbsp; 
+<a href="../../../index-4.html">Index</a>
+&nbsp; 
+<a href="../../../posts/2011/12/pismo-upuceno-fit-prodekanu-za-nastavu.html">Next</a>
+</div>
+<div class='post'>
+<div class='post_header'>
+<h3>"knowhow ERP" i seminarski rad iz "Softverskog inžinjeringa"</h3>
+<div class='post_info'>
+<span class='post_time'>December  5 2011,  7:13 AM</span>
+<span class='author'>&nbsp;by Ernad Husremović</span>
+</div>
+</div>
+<div class='post_body'><p>Pozitivan odgovor koji sam dobio od kolega sa <a href="http://hernad.bring.out.ba/knowhow-erp-based-student-project-on-subject">MIS-a</a>(*) za relizaciju "knowhow ERP" baziranog seminarskog rada mi je definitivno uljep&scaron;ao dan.</p>
+<p>S obzirom da mi je već ranije odobrena tema iz <a href="https://github.com/hernad/PIS/raw/master/2792.pdf">PIS-a</a>&nbsp;(**), postavlja se logično pitanje da li je moguće i posljednji seminarski iz ovog semestra SI(***) uraditi unutar "knowhow ERP".&nbsp;</p>
+<p>U Syllabus-u unutar sekcije "Ciljevi predmeta", pored ostalog pi&scaron;e:</p>
+<blockquote class="posterous_medium_quote">
+<p>Od studenata se očekuje da samostalno rije&scaron;e konkretne probleme vezane za proces njihovog modeliranja, dizajna softvera i pripreme za implementaciju, kao i primjenu validacije verifikacije i testiranja software-a</p>
+</blockquote>
+<p>Sam proces razvoja knowhow kori&scaron;tenjem <a href="http://do-we-know-how.bring.out.ba/knowhow-erp-gdje-sta-kako">redmine-a i github-a</a> čini na&scaron; način razvoj interesantnim u kontekstu ovog predmeta. Generalno, mi dosta pažnje posvećujemo <a href="http://redmine.bring.out.ba/search/index/knowhow-t0?q=%22metodologija+%26+dizajn%22&amp;scope=&amp;all_words=1&amp;issues=1&amp;wiki_pages=1&amp;submit=Po%C5%A1alji">metodologiji razvoja</a>.</p>
+<p>Za "knowhow ERP" bi bilo veoma korisno da se tom aspektu razvoja posveti i dodatna pažnja.</p>
+<p><!--more--><span style="text-decoration: underline; font-size: medium;"><strong>Konkretno, da konkretnije ne može biti</strong></span></p>
+<p>&Scaron;to se tiče "konkretnih problema" koji se u Syllabus-u pominju, svaka aktivnost u na&scaron;em projektu je konkretna, da konkretnija ne može biti :)</p>
+<p>Iako PIS seminarski zahtjeva samo modeliranje i izradu prototipa aplikacije, u startu je predviđena implementacija. To sam i unutar prijedloga teme za PIS naveo.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>PIS implementacija = SI seminarski ?</strong></span></p>
+<p>Da li je moguće PIS implementaciju tretirati kao seminarski iz PIS-a. U skladu sa ciljevima iz Syllabus-a - nedvojbeno jeste.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>TDD - Test driven developement</strong></span></p>
+<p>Ono &scaron;to je posebno interesantno za knowhow ERP, a pretpostavljam da i SI tom aspektu razvoja posvećuje značajnu pažnju jeste testiranje.</p>
+<p>Jedan od dugoročnih ciljeva knowhow ERP jeste upravo &scaron;to veće "pokrivanje" projekta testovima.</p>
+<p>U tome sam već pisao: <a href="http://do-we-know-how.bring.out.ba/knowhow-erp-gdje-sta-kako">http://do-we-know-how.bring.out.ba/knowhow-erp-gdje-sta-kako</a></p>
+<p>Ako se vratim na "MultiWHs feature" koji planiram implementirati tokom realizacije PIS seminarskog, tu se može očekivati svega:</p>
+<ol>
+<li>Rad na xtuple/knowhow ERP Qt/C++ sloju je siguran</li>
+<li>Rad na vi&scaron;em qtscript/javascript aplikacionom sloju će vjerovatno biti potreban</li>
+</ol>
+<p>Naravno, testovi moraju oba sloja tretirati posebno. <a href="http://do-we-know-how.bring.out.ba/test-driven-development-sa-c-fitnesse-cslim-c">C-slim</a>&nbsp;se vjerovatno može koristiti za 1, a&nbsp;&nbsp;<a href="http://pivotal.github.com/jasmine/">Jasmine testovi BDD</a> za javascript nivo.</p>
+<p>E ba&scaron; bi bilo super tro&scaron;iti vrijeme na ovo rje&scaron;enje. Testiranje je stvarno bitno.</p>
+<p><span style="text-decoration: underline; font-size: large;"><strong>CI - Continous integration</strong></span></p>
+<p>Sljedeća stvar koja je veoma interesantna za "knowhow ERP" u kontekstu efikasnog razvoja je CI. S obzirom da je "knowhow ERP" multiplatformsko rje&scaron;enje, bilo bi pravo cool napraviti rje&scaron;enje koje bi finalne artifakte "bacalo" sa "<a href="http://jenkins-ci.org/">Jenkins" CI-a</a> na google code kako smo te već počeli (ali bez CI-a) sa <a href="http://code.google.com/p/knowhow-erp-f18/downloads/list">F18</a>.</p>
+<p>knowhow ERP Qt/C++ core je vremenski zahtmetli. Build na mom quad-core Mac-u traje i traje. Jo&scaron; ako hoću buildati Qt to je ba&scaron; poduhvat. CI koji bi obezbjedio Mac/Linux/Windows build bila bi ekstra stvar za projekat.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>SI seminarski rad</strong></span></p>
+<p>Vratimo se predmetu i seminarskom radu. <a href="https://github.com/hernad/PIS/raw/master/2792.pdf">MultiWhS feature</a>, sa akcentom na TDD/BDD, CI bio bi jedan super seminarski rad.</p>
+<p>Jedini problem koji ja uočavam je potpuno različit <a href="http://redmine.bring.out.ba/projects/knowhow-t0">programski i razvojni toolset</a>&nbsp;knowhow ERP u odnosu na ono &scaron;to je navedeno na predmetu (Java, Eclipse, MS SQL Server).</p>
+<p>Ipak nakon ove analize koju sam napravio očekujem pozitivan odgovor od i od kolega sa SI.</p>
+<p>Ako se u sredi&scaron;te razmatranja stave <span style="color: #ff0000;"><strong>glavni nastavni ciljevi</strong></span>, smastram da je prijedlog teme mog seminarskog rada vi&scaron;e nego prihvatljiv.</p>
+<p>&Scaron;to se tiče demonstracije znanja programiranja u "Javi", računam da nije problem da to putem zadaća ili na sličan način demonstriram.</p>
+<p>---</p>
+<p>(*) Management informacioni sistemi</p>
+<p>(**) Projektovanje informacionih sistema.</p>
+<p>(***) Softverski inžinjering.</p></div>
+<div class='post_tags'>
+<h4>Tags</h4>
+<div class='post_tags_list'>fit_3_godina, fit_mostar</div>
+</div>
+<div class='post_responses'>
+<h4>680 views and 4 responses</h4>
+<ul class='post_responses list'>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Dec  5 2011,  7:59 AM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>From :	 Ernad Husremovic <br />Subject :	knowhow ERP i seminarski rad iz SI-a<br />To :	 asistent SI<br />Mon, Dec 05, 2011 04:58 PM<p>Poštovani kolega, zamolio bih Vas da razmotrite moj prijedlog za izradu seminarskog rada.</p><p><a href="http://hernad.bring.out.ba/knowhow-erp-i-seminarski-rad-iz-softverskog-i" rel="nofollow">http://hernad.bring.out.ba/knowhow-erp-i-seminarski-rad-iz-softverskog-i</a></p><p>Unaprijed hvala na razumjevanju,<br />---<br />Ernad Husremović, DL 2792</p></div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Dec  5 2011, 11:17 AM</div>
+<div class='response_name'>murga responded:</div>
+</div>
+<div class='response_body'>Postoji li neka zvanična vijesti o sem. radu iz SI?</div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Dec  5 2011, 11:51 AM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>Ništa Murga, ja idem malo "naprijed" sa pitanjima prema asistentima. <p>Kao što možeš primjetiti, nastojim sve seminarske radnje staviti "pod kapu" aktivnosti unutar "knowhow ERP".</p><p>To je glavni razlog što postavljam ove upite prije nego su teme za seminarske radove objavljene.</p></div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Dec 13 2011, 11:23 AM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>> From :	 Ernad Husremovic<br />> Subject :	Re: knowhow ERP i seminarski rad iz SI-a<br />> To :	 Asistent SI<br />> Tue, Dec 13, 2011 08:22 PM<p>> Poštovani kolega,</p><p>> F18 je podprojekat "knowhow ERP". On je trenutno u fokusu našeg rada. </p><p>> Sve ovo Vam kazujem zato što su aktivnosti koje smo poduzeli na njemu, a što je opisano u ovom članku:</p><p>> <a href="http://do-we-know-how.bring.out.ba/f18-development" rel="nofollow">http://do-we-know-how.bring.out.ba/f18-development</a></p><p>> zamišljene i za ostale "knowhow ERP" projekte, i praktično predstavljaju ono što imam namjeru realizirati unutar seminarskog iz SI-a, ali na okruženju C/C++, javascipt/qtscript.</p><p>> Nadam se da će ova informacija pomoći Vašem pozitivnom odgovoru.</p><p>> S poštovanjem,<br />> Ernad</p></div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

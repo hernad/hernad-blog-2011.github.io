@@ -1,0 +1,51 @@
+<item>
+	<title>Poslovna inicijativa i open source tržište u &quot;usranoj&quot; državi</title>
+	<link>http://hernad.bring.out.ba/poslovna-inicijativa-u-usranoj-drzavi</link>
+	<pubDate>Tue May 08 05:40:00 -0700 2012</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="bosna"><![CDATA[bosna]]></category>
+	
+		<category domain="tag" nicename="opensource"><![CDATA[opensource]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/poslovna-inicijativa-u-usranoj-drzavi</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Dobio sam interesantan email:</p>
+<blockquote class="posterous_medium_quote">
+<p>Po&scaron;tovani Ernade,<p />obraćam vam se u ime studentskog poslovnog tima, jo&scaron; nepoznatog imena, koji je trenutno prijavljen na natječaj studentskog poduzetni&scaron;tva. Misao vodilja na&scaron;eg poslovnog plana je u doba legalizacije Microsoft OS-ova, ponuditi korisnicima alternativu u obliku instalacije open-source OS-a. Zanima nas, ako ste u mogućnosti, da nam napi&scaron;ete par rečenica o open-source trži&scaron;tu u Bosni i Hercegovini, te va&scaron;a iskustva sa implementacijom instalacije fiskalnih kasa na Linux/Unix sisteme.</p>
+</blockquote>
+<p>Evo mog odgovora:<!--more--></p>
+<blockquote>
+<p>Pozdrav,<p />vezano za Va&scaron;u ideju, naravno da je pozdravljam. Ukazao bih na sljedeće stvari:<p />&gt; ponuditi korisnicima alternativu u obliku open-source OS-a<p />Poslovnim korisnicima korisnicima se ne može nuditi OS. Oni trebaju&nbsp;<strong>rje&scaron;enje</strong>.<p />Siguran sam da je to i vama jasno, ali je bitno to u svakom obraćanju naglasiti.<p />Postoje alternativna <strong>*rje&scaron;enja*</strong>.<p />Evo jednog potencijalno atraktivnog sistemskog rje&scaron;enja baziranog na otvorenom software-u:<p /><span><a href="http://hernad.bring.out.ba/linuxkerberos-manje-para-amerikancima-vise-bo" target="_blank">http://hernad.bring.out.ba/linuxkerberos-manje-para-amerikancima-vise-bo</a></span><p />&Scaron;to se tiče fiskalnih sistema, ovo je ono &scaron;to nam je na&scaron;a, izvinite na izrazu, "usrana" država dala:<p /><span><a href="http://hernad.bring.out.ba/drzava-i-bosansko-hercegovacki-it" target="_blank">http://hernad.bring.out.ba/drzava-i-bosansko-hercegovacki-it</a></span><p />Međutim, vođeni sličnom idejom, mi smo uspjeli sve fiskalne sisteme koje imaju na&scaron;i klijenti "pogurati" na linux-u.<p />To su modeli fiskalnih proizvođača kimtec/Tremol, kimtec/HCP, neosoft/FPrint.<p />Postoje na&scaron;e bilje&scaron;ke o svemu tome&nbsp;<span><span><a href="http://redmine.bring.out.ba/search/index/ubuntu-b-out-ba?issues=1&amp;q=fiskal" target="_blank">http://redmine.bring.out.ba/search/index/ubuntu-b-out-ba?issues=1&amp;q=fiskal</a></span></span><p />Pretpostavljam da ćete iz tih bilje&scaron;ki brzo uočiti da je bilo potrebno puno znoja i upornosti da se dođe do rje&scaron;enja koje neće biti ovisno o jednom vendoru i jednom OS-i.<p />Svejedno, kada se taj cilj dosegne, otvaraju se mnoge opcije.<p />Na&scaron;a poslovna politika je da kao otvoreni provajder dijelimo svoja postignuća sa javnosti. Tako su i glavni ciljevi tih na&scaron;ih aktivnosti public:<p /><span><a href="http://code.google.com/p/knowhow-erp-fmk/downloads/list" target="_blank">http://code.google.com/p/knowhow-erp-fmk/downloads/list</a></span><p />Nadam se da ćete i vi u razvoju va&scaron;e poslovne ideje biti vođeni istom logikom.<p />Smatram da &nbsp;"open source", u zemljama trećeg svijeta kakava je na&scaron;a, predstavlja <strong>mogućnost napretka, građenja sopstvenog znanja i kompetencija</strong>.<p />Stoga i poslovni model koji želite ponuditi treba snažno reflektirati potencijal&nbsp;<strong>sopstvene proizvodnje naspram kupovine tuđeg znanja</strong>.<p />Open source software jeste po pitanju licenci primamljive cijene: 0 :).<p />Ali, ako se klijentu ne može ponuditi rje&scaron;enje koje je će obavljati posao, onda je i 1 KM za takvo rje&scaron;enje previ&scaron;e.<p />Sve ovo govorim zato &scaron;to se u javnosti "open source" veže za "džaba", "volonterizam", "tu nema para". To je pogre&scaron;an pristup.<p />Open source software tehnolo&scaron;ki gledano nije jeftinije nego drugačije, bez granica. Jedina granica su sposobnosti i ideje razvojnih inžinjera.<p /><span style="text-decoration: underline; font-size: medium;"><strong>Primjer: "fljas" install</strong></span><p />Daću vam jedan primjer:<p />Kod pripreme ubuntu desktopa za krajnjeg korisnika, uočio sam da je pogrebno značajno vrijeme da se kvalitetno podesi operativni sistem. Pored toga, čitav taj proces je uveliko ovisan o stručnosti servisera.<p />Kod većeg broja instalacija, ta stavka odnosi veliko vrijeme, &scaron;to naravno u posljedici utiče na cijene prema kranjim korisnicima.<p />Nakon par dana, do&scaron;li smo do inicijalnog rje&scaron;enja (bazirano <a href="http://fai-project.org/">FAI projektu</a>) koje za manje od (3) tri minute instalira potpuno konfiguraisan OS na prazan računar(*).<p />Takav posao je do sada trajao nekih 2-3 sahata.<p />Poenta je u tome da mi je otvorenost omogućila da dođem do rje&scaron;enja koje je po pitanju instalacije i konfiguracije "za 5 kopalja" bolje od "all mighty" Windows OS-a.<p />Znači *bolje*, ne samo *jeftinije*.<p /><span style="text-decoration: underline; font-size: medium;"><strong>Za kraj</strong></span><p />Nisam siguran da sam vam dao odgovor koji ste tražili, ali evo neka to bude moje prvo javljanje.<p />Za sva dodatna pitanja sam vam na raspolaganju.<p />Pozdrav,<br />----<br />Ernad&nbsp;</p>
+<p>(*) Neke bilje&scaron;ke o tome postoje, istina za većinu nerazumljive :)&nbsp;<span><span><a href="http://redmine.bring.out.ba/issues/27618" target="_blank">http://redmine.bring.out.ba/issues/27618</a></span></span></p>
+</blockquote>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Open source trži&scaron;te ? Ma bjaaaži ...</span></strong></span></p>
+<p>U tom predhodnom mailu mladim kolegama nisam odgovorio na jedno bitno pitanje:</p>
+<blockquote class="posterous_short_quote">
+<p>Zanima nas, ako ste u mogućnosti, da nam napi&scaron;ete par rečenica o open-source trži&scaron;tu u Bosni i Hercegovini</p>
+</blockquote>
+<p>Odgovor je jednostavan. <strong>Open source trži&scaron;te ne postoji</strong>.</p>
+<p>Razlog - i razlog je jednostavan: krije se u naslovu ovog članka.</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Dobio sam interesantan email: Poštovani Ernade,obraćam vam se u ime studentskog poslovnog tima, još nepoznatog imena, koji je trenutno prijavljen na natječaj studentskog poduzetništva. Misao vodilja našeg poslovnog plana je u doba legalizaci...]]></excerpt:encoded>	
+
+	<wp:post_date>Tue May 08 05:40:00 -0700 2012</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>poslovna-inicijativa-u-usranoj-drzavi</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

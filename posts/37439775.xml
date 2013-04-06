@@ -1,0 +1,83 @@
+<item>
+	<title>Clonezilla - prebacivanje ubuntu sistema sa jednog na drugi hard disk</title>
+	<link>http://hernad.bring.out.ba/uputstvo-kloniranje-prebacivanje-ubuntu-siste</link>
+	<pubDate>Sat Dec 25 08:15:00 -0800 2010</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="linux"><![CDATA[linux]]></category>
+	
+		<category domain="tag" nicename="sysadmin"><![CDATA[sysadmin]]></category>
+	
+		<category domain="tag" nicename="ubuntu"><![CDATA[ubuntu]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/uputstvo-kloniranje-prebacivanje-ubuntu-siste</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p><span style="text-decoration: underline; font-size: medium;"><strong>1. Uvod</strong></span></p>
+<p>Uputstvo pokriva prenos kompletnog fajl sistema sa jednog na drugi hard disk (hdd). Uputstvo obrađuje i "resize" (promjenu veličine) LVM volumena - podatkovne particije na ciljnom disku.</p>
+<p>Kori&scaron;teni alat: <a href="http://clonezilla.org/">clonezilla</a></p>
+<p><!--more--><span style="text-decoration: underline; font-size: medium;"><strong>2. disk to image na samba mrežni disk</strong></span></p>
+<p>pokrenuti clonezilla live cd/usb</p>
+<p>otići na konzolu i za svaki slučaj uraditi fsck svih data particija. Npr:</p>
+<p>&nbsp; &nbsp;&nbsp;&nbsp; sudo fsck /dev/bringout/root</p>
+<p>Nakon toga sa exit se vratiti clonezilla aplikaciju i podesiti mrežni share. Npr:</p>
+<ul>
+<li>&nbsp;samba volumen: server: 192.168.45.42</li>
+<li>&nbsp;domain = &lt;prazno&gt;</li>
+<li>&nbsp;share: /shared</li>
+<li>&nbsp;login: bringout, password: ...</li>
+</ul>
+<p>=&gt; clonezilla je mountala /home/partimage</p>
+<p>odabire save tu image - save partitions. Odabirem sve aktivne particije. Npr:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; sda1 sda5</p>
+<p>expert pode&scaron;enje, opcije:</p>
+<ul>
+<li>save partitions: -q2 partclone &gt; partimage &gt; dd</li>
+<li>-z0 no compression</li>
+<li>- 10000 veličina fajla u MB</li>
+<li>- p true</li>
+</ul>
+<p>clonezilla je prikazala komandu koju pokreće</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /opt/drbl/sbin/scs-sr -q2 -c -j2 -z0 -i 10000 -p true saveparts 2010-12-23-08-img sda1 sda5</p>
+<p>Nakon se vr&scaron;i "partclone". Brzina na mrežnom disku (brzina mreže 1GB/sec) je cca 500 MB/min.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>3. restore image-a na novi disk</strong></span></p>
+<p>Pravimo particije prema shemi particioniranja na starom disku, s tim &scaron;to ostatak pridružujemo LVM particiji.</p>
+<p>Vr&scaron;imo restore prema ponuđenim opcijama</p>
+<p>Nakon restore-a radimo resize fajl sistema u clonezilla-i. Npr:</p>
+<p><p><a href="https://gist.github.com/754938">https://gist.github.com/754938</a></p></p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>4. boot sa novog - kloniranog diska</strong></span></p>
+<p>Nakon ovih operacija novi sistem je spreman za boot. Kod postojeće clonezille i ubuntu lucid sistema boot proces je zastajao na grub meniju.</p>
+<p>Ovo je rije&scaron;ilo taj problem. Nakon boot-a ubuntu sistema uraditi:&nbsp;</p>
+<p><p><a href="https://gist.github.com/754946">https://gist.github.com/754946</a></p></p>
+<p>Nakon toga boot sistema prolazi bez prekida.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>5. Ostale informacije</strong></span></p>
+<p>proces kopiranja (i save i restore) 70 GB je trajao cca 2-2.5 sahata. Znači, možemo računati da bakcup/restore 30 GB traje cca 1h.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>6. Reference:</strong></span></p>
+<ol>
+<li><a href="http://redmine.bring.out.ba/issues/21976">#21976</a> bring.out ticket - "hernad dell vostro, kloniranje diska"</li>
+<li>blog post: <a href="/a-sto-ga-bjasko-zna-sfuserit">"A &scaron;to ga bjasko zna sfu&scaron;erit'"</a></li>
+<li><iframe src="http://www.youtube.com/embed/6zC99DZlJw4?wmode=transparent" allowfullscreen frameborder="0" height="417" width="500"></iframe></li>
+<li>bring.out #22027 - uputstvo: prebacivanje ubuntu sistema sa jednog na drugi hard disk, clonezilla</li>
+</ol>]]></content:encoded>
+	<excerpt:encoded><![CDATA[1. Uvod Uputstvo pokriva prenos kompletnog fajl sistema sa jednog na drugi hard disk (hdd). Uputstvo obrađuje i "resize" (promjenu veličine) LVM volumena - podatkovne particije na ciljnom disku. Korišteni alat: clonezilla 2. disk to image na samba...]]></excerpt:encoded>	
+
+	<wp:post_date>Sat Dec 25 08:15:00 -0800 2010</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>uputstvo-kloniranje-prebacivanje-ubuntu-siste</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

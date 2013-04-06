@@ -1,0 +1,362 @@
+<item>
+	<title>WT praktični ispit, 4 put</title>
+	<link>http://hernad.bring.out.ba/wt-prakticni-ispit-4-put</link>
+	<pubDate>Thu Oct 04 15:23:00 -0700 2012</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="fit_3_godina"><![CDATA[fit_3_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/wt-prakticni-ispit-4-put</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p><span style="text-decoration: underline; font-size: medium;"><strong>Uvod</strong></span></p>
+<p>Praktični ispit iz WT-a je neočekivano za mene postao pravi problem.</p>
+<p>Dojmovi koje sam stekao &nbsp;<a href="http://hernad.bring.out.ba/wt-zasto-je-aspnet-los-za-prve-korake-u-razvo">prilikom prvog izlaska ispit</a>&nbsp;su se pokazali pogre&scaron;nim.</p>
+<p>U naredna dva roka sam do&scaron;ao do zaključka da je faktor <strong>ograničenog&nbsp;vremena</strong>&nbsp;ključni faktor za polaganje ispita.</p>
+<p>Na internim studentskim forumima sam tu bojazan u par navrata iznio.</p>
+<p>Nakon posljednjeg ispita (sada već pretposljednjeg :)) sam se požalio Profesoru:</p>
+<blockquote class="posterous_medium_quote">
+<p>Imam pravi problem. Ja ovaj ispit u predviđenom vremenu ne mogu rije&scaron;iti. Ovaj put nisam do&scaron;ao spreman, ali procjenjujem da i pod uslovom da sam vježbao, ne bih bio ni blizu cilja. Ako idem sa pretpostavkom da sam iznimno spor, da sam ostario, opet smatram da vrijeme ne bi trebalo biti presudni faktor kod polaganja ispita. Ispitivanje ipak na prvo mjesto treba staviti znanje - poznavanje materije.</p>
+</blockquote>
+<p><!--more-->Profesor mi je odgovorio sa par utje&scaron;nih i manje utje&scaron;nih riječi:</p>
+<blockquote class="posterous_medium_quote">
+<p>&Scaron;to se tiče problema godina, to ne bih komentarisao. A &scaron;to se tiče vremena, sve sugestije studenata uzimamo u obzir. Mislim da je ipak najbitnija stvar to &scaron;to niste dovoljno uvježbali gradivo za ispit.</p>
+</blockquote>
+<p>Međutim i nakon toga su mi se po glavi neprestano vraćala pitanja:</p>
+<blockquote class="posterous_medium_quote">
+<p>KAKO uop&scaron;te pripremati ovaj ispit ? Naredni slijedi za deset dana ... Imam dovoljno vremena, ali koju strategiju primjeniti ? Učiti listinge napamet ?! Vježbati jednu te istu stvar po 10 puta ?</p>
+</blockquote>
+<p>Onda mi je sinulo:</p>
+<blockquote class="posterous_medium_quote">
+<p>Možda ja skroz pogre&scaron;no pristupam realizaciji ispita ?! Možda bih, kad bi vidio kako neko iskusan ovaj ispit radi, shvatio optimalan red operacija, uočio gdje ja grije&scaron;im ?</p>
+</blockquote>
+<p>Iz tog razloga sam zamolio profesora da se napravi jedan video u kome bi se demonstriralo rje&scaron;enje jednog ispita.</p>
+<p>Pri tome sam razmi&scaron;ljao sljedećom logikom:</p>
+<p>Ako neko ko je već utreniran (ima u glavi problem, poznaje sve elemente koje treba primjeniti kod pisanja programskog koda) za realizaciju ispita neće trebati vi&scaron;e od 60-70% vremena trajanja ispita normalnom dinamikom rada.</p>
+<p>Ako bi takvom izvr&scaron;iocu trebalo vi&scaron;e vremena, onda je moja bojazan opravdana.&nbsp;</p>
+<p>Kod kalkulacije vremena realizacije prosječnog studenta se moraju uzeti u obzir faktori:</p>
+<ol>
+<li>Stanje stresa koju svako ispitivanje neminovno generi&scaron;e</li>
+<li>Vrijeme pripreme - vrijeme potrebno da se problem razumije</li>
+<li>Ispravljanje gre&scaron;aka koje se tokom pisanja programskog koda neminovno de&scaron;avaju. Ove gre&scaron;ke su usljed faktora 1) dodatno izražene u odnosu na uobičajeno radno okruženje.</li>
+</ol>
+<p>Par dana pred ispit Asistent je objavio rje&scaron;enje zadatka sa posljednjeg ispitnog roka.</p>
+<p>Međutim, sam programski kod nije dao odgovor na ključna pitanja koja su me motivirala da tražim video prezentaciju.</p>
+<p>Postavio sam to pitanje na forumima, ali sam brzo shvatio da je programski kod jedina stvar koju u ovom trenutku mogu dobiti.</p>
+<p>Ok. Uzeo sam programski kod i počeo ga analizirati. Kod, kako sam to i očekivao, nije sadržavao ni&scaron;ta novo i spektakularno.</p>
+<p>Rije&scaron;eni primjer mi je pomogao u konceptu dizajna stranice (CSS), dok me HTML i PHP kod (programska logika) nije posebno dojmila. Dapače.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Pred ispit</strong></span></p>
+<p>Jedan kolegica me pozdravi sljedećim riječima : "Hej kako si, jesi li se spremio za ispit ? Evo ja do&scaron;la da padnem ..."</p>
+<p>Studenti između sebe predviđaju &scaron;ta bi moglo biti na ispitu. Nadaju se ponavljanju prvih ispita: "Kad bi nam dali onaj guest book, to je bio na prvim rokovima".</p>
+<p>"&Scaron;ta je tu trebalo uraditi ?", drugi pita. Treći počinje "Ajax validacija je tu bila te&scaron;ka ...". Onaj prvi ga prekida: "Kakva ajax validacija ?!".&nbsp;</p>
+<p>Treći nastavlja "to je bio kreterij za 7-cu na ispitu". "Kakvo crna 7-ca ?! Ja to o ne čitam ! Gledam &scaron;ta se traži za 6 i to &nbsp;... Čuj njega: 7-ca ..."</p>
+<p>Ja opet, vi&scaron;e za sebe nego za druge, rekoh:</p>
+<blockquote class="posterous_medium_quote">
+<p>Fakat ne znam. Čak i da mi se pro&scaron;li ispit ponovi, trebalo bi mi brat-bratu četiri i po sahata da ga uradim. I sve to nakon &scaron;to sam to rje&scaron;enje 5 puta pro&scaron;ao uzduž i poprijeko ... Nisam pametan ... Koju strategiju uop&scaron;te primjeniti na ovakvom ispitu kad si jo&scaron; i prije početka osuđen na propast ...</p>
+</blockquote>
+<p>Nisam ni slutio da će predhodni rok upravo biti tema ispita koji slijedi.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Tema ispita Facebook, klapa drugi put</strong></span></p>
+<p>Odmah na početku Profesor nas je informisao da će ispit biti produžen na 2h i da će tema predhodnog ispita biti ponovljena.</p>
+<p>"Ako vam i to ne bude dovoljno, stvarno ne znam koji bi vam sljedeći ustupak mogli napraviti", zavr&scaron;io je riječima.</p>
+<p>Moja prva reakcija je bila: "Ljudi moji, pa nije ponavljanje ispita rje&scaron;enje problema &nbsp;!?" (*).&nbsp;</p>
+<p>Nakon te negativne rekacije slijedila je samomotivacija:&nbsp;</p>
+<blockquote class="posterous_medium_quote">
+<p>Kako god, ovo si stalno vježbao zadnja dva dana, uradi koliko &scaron;to može&scaron; stići, demonstriraj da si savladao materiju ! &nbsp;Na kraju krajeva, ovo je ne&scaron;to najbolje &scaron;to ti se i moglo desiti danas, ako već ne može doći do promjene koncepta ispita.</p>
+</blockquote>
+<p><strong><span style="text-decoration: underline;"><span style="font-size: medium;">Priprema razvojnog okruženja</span></span></strong></p>
+<p>Kada se upoznajem sa novom tehnologijom/programskim jezikom, prva stvar koju tražim je odgovarajući razvojni "toolset". Kada se programer navikne na određeni "toolset", njegova produktivnost (efikasnost) značajno ovisi od dostupnosti tog toolseta.</p>
+<p>Uočiv&scaron;i problem vremena na ispitu, toolsetu sam posvetio dodatnu pažnju, da bih uz njegovo optimalno kori&scaron;tenje dobio veću brzinu realizacije.</p>
+<p>Kada sam počeo učiti html/javascript, prva stvar koju sam tražio je mogućnost debugiranja - pregleda gre&scaron;aka u napisanom kodu.</p>
+<p>Chromium browser mi je sa svojom developerskom konzolom u tom segmentu obezbjedio sve &scaron;to trebam.&nbsp;</p>
+<p>Eclipse IDE je bilo preporučeno okruženje za pisanje koda, &scaron;to sam i sam usvojio.</p>
+<p>Međutim, svaka varijacija i nova verzija razvojnog zna uticati na efikasnost programera. Tako je recimo problem zamjenjenog znaka "]" u PHP source fajlu eclipse ID-a stvar koja te lahko može izbaciti iz cipela.</p>
+<p>Iako je workaround za taj problem očigledan i jednostavan (copy-paste sekvence "]" iz drugog editora), takav problem 5 ponavljanja može postati značajan distraktor u radu.</p>
+<p>Stepen distrakcije u ovakvim situacijama je svakako individualan. Nekome je vi&scaron;e imun na ovakve probleme, neko manje.&nbsp;</p>
+<p>U stresnim situacijama (vremenska ogrančenja za realizaciju zadatka) ovakve situacije mogu značajno omesti.</p>
+<p>Ta činjenica je me je ponukala da napravim prijedlog&nbsp;<a href="https://github.com/hernad/FIT_WT/tree/master/dev_env">developerskog okruženja za PHP</a></p>
+<p><a href="https://github.com/hernad/FIT_WT/tree/master/dev_env"></a>koje će instalirati u jednom potezu - raspakivanjem arhive.</p>
+<p>Takvo okruženje bi omogućilo da student uvijek zna &scaron;ta ga čeka.</p>
+<p>Takođe, s obzirom da je javno dostupno, svako bi kod sebe mogao instalirati&nbsp;<strong>identično&nbsp;</strong>razvojno kruženje.</p>
+<p>Na jučera&scaron;njem ispitu desila se sljedeća stvar:</p>
+<p>Nakon &scaron;to sam pokrenuo eclipse-IDE i kreiro svoj projekat, dobio sam prazan ekran. Poku&scaron;am ponovo - eclipse kaže projekat već postoji. Pogledam u opcijama "View" da nije "Project View" isključen - takve opcije nema.&nbsp;</p>
+<p>Odmah me je obuzela nervoza. "E samo se tebi ovo može desiti", pomislio sam.&nbsp;</p>
+<p>"Da li počnem raditi bez eclipse-a ? Nema &scaron;anse, ionako ne mogu ni pola stići od traženog, jo&scaron; mi samo fali neko novo programsko okruženje na kome nisam vježbao ..."</p>
+<p>Nakon &scaron;to sam se priprao, uspio sam doći do rje&scaron;enja.</p>
+<p>Utvrdio sam da je .config eclipse-a razde&scaron;en, pa sam napravio potpuno novi "c:/xampp/htdocs" direktorij i ponovio kreiranje "workspace"-a u tom direktoriju.</p>
+<p>To je dalo željeni rezultat. Čitav taj problem je trajao nekih 5 minuta. Ali i to je bilo dovoljno da mi u glavi bukvalno gori od stresa.</p>
+<p>Nisam mogao da ne pomislim: "Eh, da je prihvaćen moj prijedlog, ne bih morao počinjati ispit na ovaj način".&nbsp;</p>
+<p><strong><span style="text-decoration: underline; font-size: medium;">Poč-poč-početak</span></strong></p>
+<p>Nakon &scaron;to mi se pode&scaron;enje razvojnog okruženja oteglo k'o "gladna godina" napokon sam uspje&scaron;no kreirao svoj projekat:</p>
+<p>New PHP project: 2792 ...&nbsp;</p>
+<p>Sa copy paste kopiram SOURCE-CODE koji smo dobili kao osnovu za rje&scaron;avanje zadatka u projekat.</p>
+<p>Pode&scaron;avam <a href="https://github.com/hernad/FIT_WT/blob/master/09_2012_3/header.php">header.php</a>,&nbsp;tako da mi <a href="https://github.com/hernad/FIT_WT/blob/master/09_2012_3/login_3.php#L5">glavni programski fajl </a>&nbsp;bude pregledan.</p>
+<p>Tako sam vježbao, pa sam to "podžonio" iz glave ...</p>
+<p>Pokrežem Chromium browser, sa ctrl+shift+I odmah otvaram konzolu.&nbsp;</p>
+<p>Prvo setujem "console.log('login.php')" statement" da znam da mi je sintaksa javascripta ispravna.&nbsp;</p>
+<p>Testiram u browseru: <a href="http://localhost:8080/2792/login.php">http://localhost:8080/2792/login.php</a></p>
+<p>vidim "login.php". Dobro do&scaron;ao sam do tačke 0.</p>
+<p>Trajanje: <span style="text-decoration: underline;"><span style="color: #ff6600;">5 minuta.</span></span></p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Database layer</strong></span></p>
+<p>&Scaron;ta dalje ?!</p>
+<p>Bez puno razmi&scaron;ljanja - Db layer. To sam ba&scaron; vježbao <a href="https://github.com/hernad/FIT_WT/blob/master/09_2012_5/db.php">noć pred ispit</a>.</p>
+<p>Tu noć sam mjerio vrijeme za izradu - trebalo mi je 40-50 minuta.</p>
+<p>I njega poku&scaron;avam "podžoniti" iz glave ko pjesmicu, ali to već ne ide ...</p>
+<p>Gradim klasu, idem gore-dole, dodajem varijable, čistim funkciju.</p>
+<p>Pred kraj izrade, pi&scaron;em testni kod za Db klasu: <a href="https://github.com/hernad/FIT_WT/blob/master/09_2012_5/create_database.php">https://github.com/hernad/FIT_WT/blob/master/09_2012_5/create_database.php</a></p>
+<p>Međutim ... sintaksnih gre&scaron;aka more. "Kako sam to uspio postići ?" pomislim. "Pa jesi li ti retardiran čovječe ?! Pisao si sinoć to isto, preksinoć isto tako !?".</p>
+<p>Uh, kako ove negativne misli crpe energiju ... to je za priču ...</p>
+<p>Svejedno, ja nisam čovjek koji se olahko predaje. Brzo sam se presabrao i nastavljam. "Čistim" kod od sintaksnih gre&scaron;aka. Create table i insert funkcije rade, ali mi select funkcije nikako ne daju željene rezultate.&nbsp;</p>
+<p>Prosljeđujem upite koji trebaju dati pozitivan rezultat, ali uporno dobijam odgovor nema zapisa ?!</p>
+<p>Odlazim na cmd prompt, mysql konzola</p>
+<p style="padding-left: 30px;"><em>select * from users;</em></p>
+<p>ma tu su zapisi, inserti su ok ... ali select ne "kupi" &scaron;to treba da "pokupi" ?!</p>
+<p>Pregledam kod ... Međutim, sve isto sam napisao kao kod vježbi ... &Scaron;ta je problem ?!</p>
+<p>Prisjećam se uputstava za mysql/mysql_stmt klase ... Uh da mi je onaj <a href="https://github.com/hernad/FIT_WT/tree/master/dev_env#docs">"cheat sheet"</a> ili PHP manual za PHP/mysql da mogu uporediti sa svojim kodom.&nbsp;</p>
+<p>"Ljudi moji, ljudi moji &scaron;to me maltretirate. Ne programira se napamet ...", svađam se u mislima sa nastavnicima.</p>
+<p>Ajs ... ispustio si stmt-&gt;fetch() levatu jedan !</p>
+<p>Ali ni nakon toga ne dobijam željeni rezultat ?!</p>
+<p>Eto ti sad ti i tvoj mysqli ... Eto ti preglednog koda. Eto ti unaprijeđenog koda ... &Scaron;to nisi đonio ono &scaron;to je Asistent dao pa onda pametuj ...&nbsp;</p>
+<p>Vraćam se ponovo u pozitivan "flow": "Mora biti neka budala&scaron;tina ... nema &scaron;ta ovo je kod koji je radio" ...</p>
+<p>Kroz intellisense IDE-a pregledam metode koje bi mogle biti uzrok mom problemu. &nbsp;</p>
+<p>stmt-&gt;store_result() ? Da nije to ?! Ne bi trebalo al hajde da probam ... I kad sam to dodao sve funkcije sa SELECT-ima proradi&scaron;e :)</p>
+<p>Danas sam provjerio i uočio da taj store_result u mom testnom okruženju(**) uop&scaron;te nije ni bio potreban. Garant neki bug u verziji PHP 5.3 koja je instalirana na ispitu. &nbsp;Neise.</p>
+<p>Na kraju ipak proradilo.</p>
+<p>Trajanje: <span style="text-decoration: underline;"><span style="color: #ff6600;">55 minuta</span></span></p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Za&scaron;to sam za database layer koristio mysqli klasu ?</strong></span></p>
+<p>Kori&scaron;tenje mysqli i mysql_stmt klasa je preporučeno zato &scaron;to se time pi&scaron;e robusniji kod.</p>
+<p>Umjesto da se prave sql upiti "ručno" tipa:</p>
+<p style="padding-left: 30px;"><em>$id = mysql_real_escape_string(htmlentities($_REQUEST[$id]))</em></p>
+<p style="padding-left: 30px;"><em>$rezult = mysql_query("select first_name from users where user_id = '$id'");</em></p>
+<p style="padding-left: 30px;"><em>while ($row = $rezult-&gt;fetch_array())&nbsp;</em></p>
+<p style="padding-left: 30px;"><em>&nbsp; // $row matrica sadrži rezultat&nbsp;</em></p>
+<p>&nbsp;</p>
+<p>pi&scaron;e se kod koji radi sve ove validacije statementa puno kvalitetnije, pri čemu je kod, iako duži, robusniji i pregledniji:&nbsp;</p>
+<p style="padding-left: 30px;"><em>$qry = "select first_name from users where user_id=?</em></p>
+<p style="padding-left: 30px;"><em>// napravi prepared statement</em></p>
+<p style="padding-left: 30px;"><em>$stmt-&gt;prepare(qry);</em></p>
+<p style="padding-left: 30px;"><em>// ubaci integer varijablu $id kao parametar upita</em></p>
+<p style="padding-left: 30px;"><em>$stmt-&gt;bind_param("i", $id);</em></p>
+<p style="padding-left: 30px;"><em>$stmt-&gt;bind_result($first_name);</em></p>
+<p style="padding-left: 30px;"><em>$stmt-&gt;execute();</em></p>
+<p style="padding-left: 30px;"><em>while $stmt-&gt;fetch()</em></p>
+<p style="padding-left: 30px;"><em>&nbsp; &nbsp;// u $first_name varijabli nalazi se rezultat fetch-anja</em></p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Ajax validacija init (validationEngine), login forma, html css</strong></span></p>
+<p>Da bih uop&scaron;te mogao testirati formu, morao sam naravno napraviti html formu koju validiram.</p>
+<p>Login forma je naravno ne&scaron;to najjednostavnije &scaron;to se može napraviti - hello world formi :)</p>
+<p>Svejedno i tu sam uspio "zapeti" :(.</p>
+<p>Očekivano se nisam sjetio ključeva kod setovanja validation engine-a:</p>
+<ul>
+<li>ajaxFormValidation</li>
+<li>onAjaxFormComplete</li>
+<li>onBeforeAjaxFormValidation</li>
+</ul>
+<p>Iako sam to <a href="https://github.com/hernad/FIT_WT/blob/master/09_2012/index.php#L27">vježbao</a>, iako sam pred ispit poku&scaron;avao ova tri ključa naučiti napamet, kada sam do toga do&scaron;ao . nisam mogao da se sjetim.</p>
+<p>Sva sreća pa sam vježbao prije ispita kako da nađem te izraze:</p>
+<ul>
+<li>otiđi u source code <a href="https://github.com/hernad/FIT_WT/blob/master/09_2012/scripts/jquery/validation/jquery.validationEngine.js">validation engine-a</a></li>
+<li>Traži options.on, options.onBefore ...</li>
+</ul>
+<p>Onda sam sa copy paste prebacio u svoj program potrebne ključeve. Iz source-a sam pročitao i redoslijed parametara koje callback funkcije trebaju.</p>
+<p>Ok, možda sam glup ko ćuskija &scaron;to ovo ne mogu zapamtiti. Ali za glupave kao ja postoje "cheet sheat"-ovi.</p>
+<p>Search i copy-paste mi je uzelo 5-7 dragocjenih minuta. I &scaron;to je jo&scaron; bitnije, dodatno me "potro&scaron;ilo" i skrenulo pažnju sa glavnog zadatka.</p>
+<p>Kada sam napokon postavio skeleton (prazne funkcije) za ajax handler funkcije, uočavam da mi klijentska validacija ne radi.</p>
+<p>Stavio sam u input element "class = valid[required]"</p>
+<p>Ali uočavam da se validacija ne radi. Pri tome me počinje zezati nemogućnost kucanja &scaron;to me dodatno nervira "]".</p>
+<p>Da nije "validate" ? Da nije "validation". Joj joj joj. Koliko puta sam to ukucao ali u ovom trenutku ne znam !?</p>
+<p>Onda mi pomaže Chromium konzola. Lijepo mi pi&scaron;e "validation engine requires id on checked fields ...".</p>
+<p>Ah ja sam kucajući html navodio input elemente bez id-ova. Nije mi prvi put da vidim ovu poruku. Al džabe ... opet sam to smetnuo s uma.</p>
+<p>Brzo sam do&scaron;ao do toga da mi je "validate[vako_nako]" ispravan izraz.</p>
+<p>Ponovo, za ovakve stvar služe "cheat sheets" !</p>
+<p>Trajanje: <span style="text-decoration: underline;"><span style="color: #ff6600;">20 minuta</span></span></p>
+<p><span style="text-decoration: underline;"><span style="font-size: medium;"><strong>CSS - dizajn login forme</strong></span></span></p>
+<p>E sada je nastala "blaga panika". Veći dio ispitnog vremena je pro&scaron;ao. Već osjetim zamor, a nikakvog rje&scaron;enja na vidiku !</p>
+<p>Da li da zavr&scaron;im validaciju ili da uradim dizajn ?</p>
+<p>Dizajn je jedna od stvari koje sam puno vježbao. Ovu formu sam <a href="https://github.com/hernad/FIT_WT/blob/master/09_2012_3/templates/public/m3.css">dan pre ispit pravio</a>:</p>
+<p><div class='p_embed p_image_embed'>
+<a href="http://getfile2.posterous.com/getfile/files.posterous.com/temp-2012-10-04/qlsqhFJDyezBkjIFlouacqIEuqvtHozIpksFrBndhEmJGurhxorcIqCgaikn/login.png.scaled1000.png"><img alt="Login" height="382" src="http://getfile8.posterous.com/getfile/files.posterous.com/temp-2012-10-04/qlsqhFJDyezBkjIFlouacqIEuqvtHozIpksFrBndhEmJGurhxorcIqCgaikn/login.png.scaled500.png" width="500" /></a>
+</div>
+</p>
+<p>Čak se sjećam dimenzija: 180px labela, 220px input, button, 200px ...</p>
+<p>Ali, koliko god da se sjećam to će opet potrajati. Ma idem sve probati uraditi na ovom loginu pa kud puklo - da puklo.</p>
+<p>Naravno, i pored sve vježbe forma se u drugom redu razletila.</p>
+<p>Prisjeti se Ernade, gdje treba&scaron; dodati "clear: left;" !?</p>
+<p>Brzo sam se prisjetio, na <a href="https://github.com/hernad/FIT_WT/blob/master/09_2012_3/templates/public/m3.css#L126">.box_login_body&nbsp;</a></p>
+<p>Kada me je "krenulo" vi&scaron;e nisam puno razmi&scaron;ljao.&nbsp;</p>
+<p>Pri tome sam sve iz glave radio. Nisam ni otvorio sliku u README fajlu. U glavi mi trubi ko bubanj: "Nemam vremena"</p>
+<p>Trajanje: <span style="text-decoration: underline;"><span style="color: #ff6600;">30 minuta</span></span></p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Ajax validacija forme, restricted.php</strong></span></p>
+<p>Ostalo je jo&scaron; dvadeset minuta ! Joj ... hoću li stići odraditi validaciju ?! Ako ne stignem, nemam ni teoretske &scaron;anse da položim.</p>
+<p>Ajax validaciju forme sam validationEngine sam <a href="https://github.com/hernad/FIT_WT/blob/master/09_2012/valid_form.php">vježbao</a>.</p>
+<p>Ali, dosada&scaron;nji toku ispita je pokazalo da vježba ne znači da će realizacija proći bez problema.&nbsp;</p>
+<p>Svejedno bodrim sebe: blizu si kraja, koncentri&scaron;i se!</p>
+<p>Ovaj dio koda radim za divno čudo bez puno gre&scaron;aka.</p>
+<p>pravim test case:</p>
+<p><em><a href="http://localhost:8080/2792/valid_login.php?email=hernad@bring.out.ba&amp;password=test">http://localhost:8080/2792/valid_login.php?email=hernad@bring.out.ba&amp;pass...</a></em></p>
+<p>Time ću u&scaron;tedjeti na vremenu ...&nbsp;</p>
+<p>Dolazim do json odgovora koji trebam: <em>[["password", true, ""],["email", true, "Login uspje&scaron;an"]]</em></p>
+<p>Testiram pogre&scaron;nu lozinku dobijam: <em>[["password", true, ""],["email", false, "Login neuspje&scaron;an!"]]</em></p>
+<p>Po&scaron;to je Db klasa čista ko suza, za trenu ubacujem validaciju iz baze.</p>
+<p>To je to ! Blizu sam !</p>
+<p>Stavljam javascript kod koji u slučaju uspje&scaron;ne validacije (status=true) radi redirekciju document.location="restricted.php"</p>
+<p>Brže bolje pi&scaron;em restricted.php i u njega setujem provjeru session varijable userid $_SESSION["userid"] ...</p>
+<p>Vraćam se u valid_login.php i tu dodajem da se po uspje&scaron;nom loginu setuje sesijska varijabla, a po neuspje&scaron;nom radi unset te varijable.&nbsp;</p>
+<p>Provjeravam u login formi: Jupiiii evo napokon ne&scaron;to konkretno !</p>
+<p>Trajanje: <span style="text-decoration: underline;"><span style="color: #ff6600;">30 minuta</span></span></p>
+<p><span style="text-decoration: underline;"><span style="font-size: medium;"><strong>Error_box na login formi</strong></span></span></p>
+<p>Profesor obavje&scaron;tava: "Kolege, ulazimo u sudijsko vrijeme".&nbsp;</p>
+<p>Nakon &scaron;to sam napokon dobio jednu potpunu funkcionalnost, &nbsp;zadajem sebi jo&scaron; jedan, posljednji cilj:</p>
+<p>Staviti error_box na login formu.</p>
+<p>Dobro se sjećam kako sam u rje&scaron;enom primjeru rekao - uh jest ovo ružno napravljeno (urađeno je kao if php/html kod, vrlo nepregledno).&nbsp;</p>
+<p>Taman da pokažem da znam raditi sa jquery-jem.&nbsp;</p>
+<p>Dodajem u html #error_box elemenat. Pi&scaron;em nekakvu poruku o gre&scaron;ci u html kodu. Sakrivam ga sa "display:none;".</p>
+<p>Pravim css, onako iz glave (nek je red border, malo margine, padding ... samo nek ne bude "kriza" u izgledu)</p>
+<p>Dodajem u javascript:</p>
+<p style="padding-left: 30px;"><em>$("#error_box").css("display", "box") u slučaju da je validacija neuspje&scaron;na.</em></p>
+<p>Jupiii/2 - radi i error box kako treba raditi.</p>
+<p>Trajanje: <span style="text-decoration: underline;"><span style="color: #ff6600;">10 minuta&nbsp;</span></span></p>
+<p><span style="text-decoration: underline;"><span style="font-size: medium;"><strong>Za&scaron;to ajax validacija ?</strong></span></span></p>
+<p>Za ajax validaciju sam se odlučio zato &scaron;to se u konačnici dobija pregledno i otvoreno rje&scaron;enje.&nbsp;</p>
+<p>Pod "otvoreno" rje&scaron;enje mislim na nove zahtjeve za validaciju (složenija validacija, novi uslovi itd).</p>
+<p>Naravno, login forma nije posebno dobar primjer sa svoja dva polja, ali svejedno.&nbsp;</p>
+<p>Uniformnost rje&scaron;enja je bitna stvar. Kod pregleda koda najbolje je da se uzme isti koncept za sve slične operacije.</p>
+<p>Primjer #error_box-a koji sam implementirao je dobar pokazatelj preglednosti koda koji se izborom javascript/ajax php validacije.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>A &scaron;ta sa stvarima koje nisam zavr&scaron;io na ispitu ?</strong></span></p>
+<p>Glavna funkcionalnost koju nisam napravio je "register" forma.&nbsp;</p>
+<p>Register formu sam <a href="https://github.com/hernad/FIT_WT/blob/master/09_2012_3/register.php">uvježbao pred ispit</a>, <a href="https://github.com/hernad/FIT_WT/blob/master/09_2012_3/templates/public/m3.css">css</a></p>
+<p>Dosta sam se zadržao na CSS-u te forme, sigurno par sahata dok sam vježbao. Ovo je rezultat koji sam dobio:</p>
+<p><div class='p_embed p_image_embed'>
+<a href="http://getfile6.posterous.com/getfile/files.posterous.com/temp-2012-10-04/hlhBtbxbnCopkuAGhuIGgFyHGFsczJmlcoHxipgjDJrarlpirIznbulxnFgC/register_2.png.scaled1000.png"><img alt="Register_2" height="339" src="http://getfile4.posterous.com/getfile/files.posterous.com/temp-2012-10-04/hlhBtbxbnCopkuAGhuIGgFyHGFsczJmlcoHxipgjDJrarlpirIznbulxnFgC/register_2.png.scaled500.png" width="500" /></a>
+</div>
+</p>
+<p>Interesantna je ova javascript sekvenca:</p>
+<p style="padding-left: 30px;"><em><span style=""> </span>var select = $("select[name=s_day]");</em></p>
+<p style="padding-left: 30px;"><em><span style=""> </span>fill_select_with_days(select);</em></p>
+<p style="padding-left: 30px;"><em><span style=""> </span>var select = $("select[name=s_month]");</em></p>
+<p style="padding-left: 30px;"><em><span style=""> </span>fill_select_with_months(select);</em></p>
+<p style="padding-left: 30px;"><em><span style=""> </span>var select = $("select[name=s_year]");</em></p>
+<p style="padding-left: 30px;"><em><span style=""> </span>fill_select_with_years(select);</em></p>
+<p>Naime, forme se dinamički napune, uz pomoć <a href="https://github.com/hernad/FIT_WT/blob/master/09_2012/util.js#L9">javascript funkcija</a>.</p>
+<p>Kod pravljenja Db klase sam odmah napravio &nbsp;insert funkciju u bazu (da bih mogao ubaciti testne usere), tako da je "džon" validacijskog koda praktično spreman.</p>
+<p>Realizacija bi se svela na: valid_login.php =&gt; valid_register.php.</p>
+<p>Priča je identična kao kod logina samo &scaron;to bi se umjesto $db-&gt;is_valid_login() radila validacija $db-&gt;insert funkcije kojoj bi se prosljedili parametri iz $_REQUEST varijable.</p>
+<p>Procjena vremena potrebnog za te radnje:</p>
+<p><span style="text-decoration: underline;"><span style="color: #ff0000;">40-tak minuta</span></span> za CSS i html</p>
+<p><span style="text-decoration: underline;"><span style="color: #ff0000;">20-tak</span></span> minuta za valid</p>
+<p>To međutim nije sve. Ostala je jo&scaron; "forget password" forma. Za forma je srazmjerno jednostavna, kao i aplikativni dio koda.</p>
+<p>U rije&scaron;enom primjeru je napravljeno rje&scaron;enje da se nakon navođenja email-a na ekranu prikaže lozinka. Ja sam potražio rje&scaron;enje za slanje mailom, koje je kranje jednostavno - postoji mail($to, $from, $subject, $body) funkcija koju sam u svom testnom okruženju testirao.</p>
+<p>Da bi u realnom okruženju i radilo, Potrebno u xampp/php/php.ini podesiti smtp server. U mom testnom okruženju stvar funkcioni&scaron;e:</p>
+<p style="padding-left: 30px;">[mail function]<br />SMTP=zimbra.bring.out.ba<br />smtp_port = 25</p>
+<p>U zadatku bi bilo dovoljno navesti poziv ove funkcije i na konzoli reći: "lozinka je poslana na va&scaron;u email adresu".</p>
+<p>Procjena potrebnog vremena:</p>
+<p><span style="text-decoration: underline;"><span style="color: #ff0000;">15-20 &nbsp;minuta</span></span> za CSS i html</p>
+<p><span style="text-decoration: underline;"><span style="color: #ff0000;">10-tak minuta</span></span> za programsku logiku.</p>
+<p>Na to bi sve se trebao dodati i umor koji bi uzeo svoj danak u dodatnih <span style="text-decoration: underline;"><span style="color: #ff0000;">10-20 minuta</span></span>.</p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Ukupno vrijeme</span></strong></span></p>
+<p><span style="text-decoration: underline;"><strong>Realizovani dio</strong></span></p>
+<p>db layer + ajax init (minuta) + css dizajn + ajax validacija forme + error_box = &nbsp;60 + 20 + 30 + 30 + 10 = 150 minuta = <span style="color: #ff0000;">2h i 30 min</span></p>
+<p>Ovo vrijeme odgovara vremenu koji sam potro&scaron;io na ispitu.</p>
+<p><span style="font-size: small;"><strong><span style="text-decoration: underline;">Nerealizovani djelovi zadatka, procjena vremena:</span></strong></span></p>
+<p>register css i html + logika + forget css i html + umor</p>
+<p>40 + 20 + 20 + 10 &nbsp;+ 20 = 100 - 110 minuta = <span style="color: #ff0000;">1h i 30-40 min</span></p>
+<p>Kada se sabere realizovano vrijeme i moja procjena sa početka testa dobije se nekih cca 4h.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Ukupno vrijeme, konačna verzija</strong></span></p>
+<p>Međutim, čitavo vrijeme ispita rad je bio ko na "pokretnoj traci". Bez puno razmi&scaron;ljanja i planiranja. Samo kucaj &scaron;to brže može&scaron; ...&nbsp;</p>
+<p>U kalkulaciji vremena nedostaje jedan detaljan pregled i testiranje koda. Za taj dio koda bi svakako na ovih <span style="color: #ff0000;">4h trebalo dodati jo&scaron; cca 30 min</span>.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Ukupno vrijeme, analiza</strong></span></p>
+<p>&Scaron;to se tiče samog utro&scaron;ka vremena, database layer je u mom slučaju bio najveći "potro&scaron;ač" vremena. Međutim, taj kod je srce aplikacije. Njemu se treba posvetiti pažnja.</p>
+<p>Zato, kada bih nastavio sa pitanjem: Da li bi ova raspodjela vremena bila u realnom vremenu prihvatljiva, mi&scaron;ljenja sam da jeste.</p>
+<p>Pod uslovom da je rezultat dobro napisan, pregledankod.&nbsp;</p>
+<p>Da li sam ja tokom rada napravio previ&scaron;e gre&scaron;aka ? Gre&scaron;aka je bilo, ali je faktor pritiska da se ispit položi očekivan izvor dodatnih gre&scaron;aka.</p>
+<p>Ja sam na kraju ipak zadovoljan svojim učinkom - iz svih tih situacija sam se ipak izvukao u nekom razumnom vremenu.</p>
+<p>Recimo da se tih situacija moglo smanjiti 20% da imam veći nivo koncentracije. Opet je za čitav ispit potrebno 4.5 * 0.8 = <span style="color: #ff0000;">3.6h </span>(ako se predvidi vrijeme za zavr&scaron;no testiranje).</p>
+<p>Da li bi drugi izvr&scaron;ilac mogao značajno ubrzati čitav proces ? Bez dvojbe bi. Ako sam ja iznimo spor, recimo da neko normalne brzine treba -30% vremena &scaron;to je: 3.6 * 0.7 = <span style="color: #ff0000;">2.52 h</span>. To je opet cca 3h.</p>
+<p>Ukratko vrijeme da se ovaj zadatak uradi čestito do - početka, pod pretpostavkom da ja pripadam kategoriji veoma sporih zvr&scaron;ilaiaj, opet ne može biti ispod <span style="color: #ff0000;">3h</span>.</p>
+<p>Treba jo&scaron; jednom napomenuti da se kalkulacija vremena formira na bazi procjene potpune realizacije zadatka, a ne postizanja prolazne ocjene.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Razgovor nakon ispita&nbsp;</strong></span></p>
+<p>Nakon ispita sam Asistentu rekao da sam uradio samo login formu i prikaz restricted stranice. Rekao sam mu kako mi je database layer uzeo puno vremena, skoro 1h.</p>
+<p>"Kako toliko ?" začudio se on. "Za database layer ne bi trebalo vi&scaron;e vremena od 15 minuta".</p>
+<p>Odgovorio sam mu: "Moj database layer je tražio toliko. Nadam se da vam nakon pregleda rada ipak neće biti ako začuđujući moj utro&scaron;ak vremena".&nbsp;</p>
+<p>Asistent mi je tokom ispita uočio da mnogi studenti, iako je rje&scaron;enje zadatka objavljeno, nisu zadatak čestito ni pogledali.</p>
+<p>Ja sam ga detaljno pregledao i prevježbao. Međutim, to nisam uradio sistemom "copy-paste" datog rje&scaron;enja, nego uzimajući u obzir programersko znanje, metode i prakse koje inače koristim.</p>
+<p>Da li je to lo&scaron; potez ? S obzirom je memorisanje 300-400 linija koda koliko nemoguć, toliko i besmislen zadatak, mislim da sam odabrao ispravan put.</p>
+<p>Uzeo sam zadatak i detaljno ga izvježbao.</p>
+<p>Da je to tačno, govori moj <a href="https://github.com/hernad/FIT_WT/">github repozitorij</a> . U njemu se nalaze praktično svi ključni segmenti rje&scaron;enja zadataka - i onoga &scaron;to sam stigao uraditi na ispitu i onoga &scaron;to nisam.</p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Bojazan od trivijalnosti ispita</span></strong></span></p>
+<p>Ono &scaron;to mi je posebno ostalo u sjećanju je konstatacija u formi pitanja Asistenta:</p>
+<blockquote class="posterous_medium_quote">
+<p>Kažete da ste unutar implementacije Login forme demonstrirali da vladate materijom ? Nisam siguran da je moguće na tako jednostavnoj funkciji demonstrirati znanje. Ali, dobro vidjećemo ..."</p>
+</blockquote>
+<p>Mislim da se upravo u ovoj rečenici krije postojeći problem ovog ispita. Nastavnici očigledno imaju bojazan da bi ispit sa manje zahtjevanih funkcija bio postao trivijalan.</p>
+<p>Držeći se postojeće formulacije zadataka, ta mogućnosti realno postoji.</p>
+<p>"Moja" implementacija login forme je obuhvatila kompletan database layer.&nbsp;</p>
+<p>Druga obuhvata jedan on-the-fly select statement ubačen u html kod. Kvaka je &scaron;to takve dvije implementacije neuporedive.</p>
+<p>Kada bi se ovim detaljima posvetila pažnja, onda bi i manji funkcionalni elementi bili jasan pokazatelj <strong>znanja</strong> studenta, a da se on pri tome ne bi "gu&scaron;io" u ograničenom vremenu.</p>
+<p>Druga stvar koja bi se mogla uraditi jesu parcijalno rije&scaron;eni zadaci.</p>
+<p>Na &scaron;ta mislim: Ako pogledamo "register" formu, najveću kompleksnost imamo kod dijazna headera sa slikom i desnim tekstom i dropdown boxovi na dnu.</p>
+<p>Da bi se ovaj layout i napravio kako treba potrebno je puno vremena.</p>
+<p>Na to treba dodati i <a href="https://github.com/hernad/FIT_WT/blob/master/09_2012/util.js#L9">dinamičko punjenje select-a za godinu, mjesec i dan</a>.</p>
+<p>Bez problema se na realizaciju ta dva elementa može izgubiti vrijeme čitavog ispita.</p>
+<p>Komentar Asistenata je bio taj da se na kraju prihvaćalo rje&scaron;enje u kome bi se umjesto dropdown boxova stavljali obični text boxovi.</p>
+<p>Međutim, to u samoj formulaciji zadatka nije navedeno. Ako je prihvatljvo, to je trebalo navesti kod definicije zadatka.</p>
+<p>Ali ponovo, ako je radi toga nemoguće postići najveću ocjenu (jer bi se na dosljednoj implementaciji izgubilo previ&scaron;e vremena) onda je to najbolje izbaciti iz samog zadatka.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Parcijalno rije&scaron;eni zadaci kao rje&scaron;enje problema vremena na ispitu ?</strong></span></p>
+<p>Međutim, postoji i treće, možda i najbolje rje&scaron;enje:</p>
+<p>Studentima se dadne javascript <a href="https://github.com/hernad/FIT_WT/blob/master/09_2012/util.js#L9">util set funkcija</a>&nbsp;i zada im se da ih iskoriste - da sa njima napune dropdown boxove.</p>
+<p>Ovakvi zadaci bi pokazali sljedeće:&nbsp;</p>
+<ul>
+<li>Da li student razumije poizvoljan javascript/jquery kod</li>
+<li>Da je student sposoban raditi u timu (koristi kod drugih programera)</li>
+</ul>
+<p>Iste stvari se mogu uraditi i sa PHP funkcijama.</p>
+<p>Slična stvar se može uraditi sa CSS dizajnom. Jednostavni dio dizajna dati studentu, a u zadatak mu dati da rije&scaron;i kompleksnije dijelove layout-a.</p>
+<p>Tako npr. kod register forme je najkompleksniji dio bilo smje&scaron;tanje slike i desno poravnatog testa. To je moglo bi ostavljeno na rje&scaron;avanje studentu.</p>
+<p><span style="text-decoration: underline;"><strong>Ovakvi parcijalno rije&scaron;eni zadaci se mogu učiniti puno manje vremenski zahtjevnim, sa fokusom na dobro poznavanje materije.</strong></span></p>
+<p>Praktična korist studenta od ovoga koncepta je takođe velika.</p>
+<p>Naime, kada se uzme u obzir činjenica da programer svoje prve korake redovno provode provode čitajući, dograđujući i ispravljajući "source code" postojećih projekata (source kod drugih programera).&nbsp;Rijetki su oni kojima je prvi posao pisati nove aplikacije iz temelja.</p>
+<p>Varijacije na ovu temu su beskonačne.</p>
+<p>Ono &scaron;to je najbitnije, ovakvi ispiti se ne bi učinili ispit trivijalnim - dapače.</p>
+<p>Na njima bi faktor <strong>znanja</strong> postao primarni faktor ocjenjivanja, pri čemu brzina realizacije ne bi bila odlučujući faktor.</p>
+<p>Sada je situacija obrnuta.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Zaključak</strong></span></p>
+<p>Nakon svega navedenog čvrsto stojim na stanovi&scaron;tu da je postojeći koncept ispita primarno test brzine(***), a manje test znanja.</p>
+<p>Konkretno, ponavljanje ispita i produženje vremena realizacije za pola sahata će sigurno pomoći studentima, ali ta pomoć neće biti presudna, kako su to izgleda nastavnici očekivali.</p>
+<p>Dobar rezultat će opet postići isključivo studenti koji posjeduju <strong>brzinu</strong> memorisanja i reprodukcije. Znanje neće biti presudan faktor.</p>
+<p>Studenti koji ne posjeduju brzinu i dalje ne mogu realizovati sve &scaron;to se traži na ispitu.</p>
+<p>Pregledom mojih vježbi pred ispit(****) jasno se vidi da sam sve ključne elemente zadatka izvježbao. Ali opet nisam mogao postići traženi kvantitet.</p>
+<p>Ja sam ipak zadovoljan. Ono &scaron;to sam predao je dobro urađeno, uzev&scaron;i u obzir ograničeno vrijeme. Sve probleme na koje sam nai&scaron;ao sam uspio rije&scaron;iti.</p>
+<p>Da li je to dovoljno za prolaz ? Prema navedenim kriterijumima kvantiteta nije. Ipak imam nadu da će me kvalitet uspjeti izvući.</p>
+<p>Kako mi je Asistent tokom na&scaron;eg razgovora rekao, kriterij kvaliteta postoji. Međutim, koliki će njegovo ponder biti u ocjenjivanju ne znam.</p>
+<p>Znam da neki značajan napredak u brzini ne mogu postići. Ako ovaj put padnem, a da se pri tome u narednim rokovima koncept ispita ne promjeni, crno mi se pi&scaron;e.</p>
+<p>Bil' hajr.</p>
+<p>----</p>
+<p>(*) Jeste za one koji posjeduju brzinu reprodukcije i memorisanja koda.&nbsp;Ali to samo po sebi nije demonstracija programerskih vje&scaron;tina.</p>
+<p>(**) Fakat nije, po svoj prilici moje testno okruženje je imalo noviju verziju PHP-a od one na kojoj sam radio na ispitu.&nbsp;</p>
+<p>Ponovo se pokazalo da je unificirano testno okruženje bitno.&nbsp;</p>
+<p>(***) oni koji se bave testiranjem kažu za ovakve testove da su oni testovi snage.</p>
+<p>(****) Nalaze se na javnom repozitoriju, vrijeme je lahko provjeriti</p>
+<p />
+<p>&nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Uvod Praktični ispit iz WT-a je neočekivano za mene postao pravi problem. Dojmovi koje sam stekao prilikom prvog izlaska ispit su se pokazali pogrešnim. U naredna dva roka sam došao do zaključka da je faktor ograničenog vremena ključni fakt...]]></excerpt:encoded>	
+
+	<wp:post_date>Thu Oct 04 15:23:00 -0700 2012</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>wt-prakticni-ispit-4-put</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

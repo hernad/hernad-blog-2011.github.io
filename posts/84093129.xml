@@ -1,0 +1,489 @@
+<item>
+	<title>FIT: Ispiti bazirani na ponuđenim odgovorima</title>
+	<link>http://hernad.bring.out.ba/fit-ispiti-bazirani-na-pitanjima-i-ponudenim</link>
+	<pubDate>Mon Dec 05 04:26:00 -0800 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="fit_3_godina"><![CDATA[fit_3_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/fit-ispiti-bazirani-na-pitanjima-i-ponudenim</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p><span style="text-decoration: underline; font-size: medium;"><strong>A) Uvod</strong></span></p>
+<p>Ispiti bazirani na ponuđenim odgovorima (žargonski među studentima pitanja "na click")&nbsp;&nbsp;su u većini lo&scaron;e postavljeni.</p>
+<p>Obrazovni ishodi ovog sistema ispitivanja su katastrofalni.</p>
+<p>U ovom članku ću prezentovati nedostatke koje sam uočio prilikom polaganja ispita "na click". Takođe ću poku&scaron;ati dati moguća <strong>rje&scaron;enja</strong>&nbsp;po ovom pitanju.</p>
+<p><!--more--><span style="text-decoration: underline; font-size: medium;"><strong>B) Lo&scaron;e konstruisana pitanja</strong></span></p>
+<p>Zbog stalne frustracije ovim problemom, na predmetu "Projektovanje informacionih sistema" uključio sam se u <a href="https://gist.github.com/1426651">diskusiju po tom pitanju</a>.</p>
+<p>Iz diskusije treba izdvojiti opći princip kojim se treba voditi pri sastavljanju pitanja:</p>
+<blockquote class="posterous_medium_quote">
+<p>Osnovni postulat u pripremi "multiple-choice" pitanja je da, ako student zna odgovor na pitanje, onda NE SMIJE biti zbunjen alternativama, a ako NE ZNA, sve alternative mu moraju biti podjednako atraktivne.</p>
+</blockquote>
+<p>Kako za "multiple-choice", ovaj princip se može primjeniti i za "single-choice" pitanja.</p>
+<p>U proteklim godinama sam uočio da je nivo konstrukcije pitanja (izuzev&scaron;i testove iz Engleskog jezika) općenito neprihvatljiv. Profesori sastavljaju svoja pitanja, koriste sopstveni riječnik, koriste se duplim negacijama i raznoraznim "zamkama". Sve to odvlači studenta od glavnog cilja - <strong><span style="color: #ff0000;">ispitivanje znanja fokusiranog na sadržaj konkretnog predmeta</span></strong>.</p>
+<p>Za odgovor na pitanje često je <strong>veći</strong> akcenat na općoj logici nego na testiranju znanja iz predmetnih sadržaja.</p>
+<p>Pitanja koja su u stručnom smislu trivijalna se "maskiraju" raznoraznim jezičkim zamkama &scaron;to je potpuno pogre&scaron;an način u ovom sistemu ispitivanja.&nbsp;</p>
+<p>Jo&scaron; gore, nije rijedak slučaj da se ide i i korak dalje od općih logičkih pitalica - &nbsp;pitanja se konstrui&scaron;u na bazi subjektivne logike ispitivača. Takav slučaj se desio na predmetu PIS.&nbsp;</p>
+<p>Naime, iz ono malo činjenica koje su iznijeli nastavnici po pitanju sastavljanja pitanja, shvatio sam da su oni pri konstrukciji pitanja promjenili neke svoje logičke principe. Rezultati su pokazali da je ta logika za mnoge studente bila - nelogična. To je u konačnici je stvorilo potpuni haos na ispitu.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>C) Kako studenti "rje&scaron;avaju" ove probleme</strong></span></p>
+<p>&Scaron;ala koja se desila na posljednjem ispitu je dobro pokazuje kuda postojeći koncept ispitivanja vodi.</p>
+<p>Jedno pitanje na ispitu WT je bilo karakteristično po tome &scaron;to je imalo veliki broj odgovora po principu "multiple-choice"-a (životni ciklus učitavanja web stranice u ASP.NET okruženju).&nbsp;</p>
+<p>Na pitanje kolegice kako sam uradio to pitanje, odgovorio sam:</p>
+<blockquote class="posterous_short_quote">
+<p>Sve sam označio. To je onaj dio koji si nam ti pred ispit detaljno u autu&nbsp;<strong>pročitala</strong>. U odgovoru su navedene sve te faze.</p>
+</blockquote>
+<p>Kolegica mi odgovorila:</p>
+<blockquote class="posterous_short_quote">
+<p>Aaaa nije sve tačno, bilo je <strong>"zamki"</strong> u par odgovora. Pred kraj rečenice su stavljeni dijelovi koji ne pripadaju odgovoru.</p>
+</blockquote>
+<p>Uzvratio sam:</p>
+<blockquote class="posterous_medium_quote">
+<p>Čuj ? Istina je da od one "sile" riječi nisam do kraja zadržao koncentraciju za svaki odgovor. Pratio sam koliko sam mogao, učinilo mi se da je to ono &scaron;to smo ponavljali i označio <strong>ok</strong>.</p>
+</blockquote>
+<p>Uz osmijeh mi je odgovorila:</p>
+<blockquote class="posterous_short_quote">
+<p>Nije nije ... I ja sam pogrije&scaron;ila. Drugi kolega mi je rekao da je odgovor&nbsp;<strong>"BCE"</strong> :). Ova su pitanja bila i na predhodnim ispitima.</p>
+</blockquote>
+<p>Kolega je jednostavno vizuelno naučio "BCE". &Scaron;ta pod tim "BCE" pi&scaron;e - nebitno.</p>
+<p>Znači, studenti su na&scaron;li "rje&scaron;enje" - uče odgovore napamet, nerjetko memori&scaron;ući samo <strong>brojeve odgovora</strong>. Ajoj.</p>
+<p>Iako ovaj konkretni primjer u smislu konstrukcije pitanja, pa ni odgovora <strong>NIJE</strong> eklatantan primjer lo&scaron;e konstrusanog pitanja ili lo&scaron;e konstruisanih odgovora (*) on zorno pokazuje da postojeći način ispitivanja ne zadovoljava obrazovne ciljeve.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>D) Kako pobolj&scaron;ati stvari ?</strong></span></p>
+<p><span style="text-decoration: underline;"><strong>D.1) Workaround 1 - "Plivajući odgovori"</strong></span></p>
+<p>Mi informatičari koristimo termin "workaround" za rje&scaron;enja koja su&scaron;tinski ne rje&scaron;avaju problem ali su ipak korisno i značajno pobolj&scaron;anje.&nbsp;</p>
+<p>Plivajući odgovori će omogućiti da se poredak odgovora pojavi po slučajnom izboru.</p>
+<p>Ono &scaron;to je kod jednog studenta A/B/C/D, kod drugog će se permutirati na B/C/A/D.</p>
+<p>Studenti će barem morati učiti <strong>značenje pitanja</strong>. Iako će i ovo omogućiti da se odgovori uče kao telefonski imenik, ipak će značajno otežati učenje bez razumjevanja.</p>
+<p><span style="text-decoration: underline;"><strong>D.2) Workaround 2 - "Slobodni komentar" kod svakog pitanja</strong></span></p>
+<p>Počeću sa primjerom. Pitanje iz predmeta MIS:</p>
+<p>Pitanje: <span style="text-decoration: underline;">Planiranje je:</span></p>
+<ol>
+<li>rutinska aktivnosti</li>
+<li>ne&scaron;to &scaron;to garant nije</li>
+<li>takođe ne&scaron;to &scaron;to garant nije ...</li>
+<li>ni&scaron;ta od navedenog</li>
+</ol>
+<p>Na ispitu sam kolegu asistenta pitao:</p>
+<blockquote>
+<p>U bosanskom jeziku postoje dva značenje termina "rutinski":</p>
+<ol>
+<li>pozitivan u smislu da se radi svakodnevno</li>
+<li>negativan u smislu da se radi bez puno pažnje, mehanički</li>
+</ol>
+<p>Na koje od ova dva značjenja je ispitivač mislio ? Kolega asistent i pored najbolje volje mi nije znao odgovoriti.</p>
+</blockquote>
+<p>Ja sam znao odgovor: ako je rutinsko pomenuto u pozitivnom kontekstu - odgovor je 1, a ko je u negativnom odgovoro je 4.</p>
+<p>Međutim, to nisam mogao napisati nigdje.</p>
+<p>Kada bi postojala uz svako pitanja mogućnost slobodnog komentara, student bi ovakve dileme mogao navesti i u mnogim slučajevima pokazati ono najbitnije:</p>
+<blockquote class="posterous_short_quote">
+<p>Da li student razumije ili ne razumije materiju.</p>
+</blockquote>
+<p>Tek kada sam do&scaron;ao na uvid radova, vidjev&scaron;i da je tačan odgovor 4), shvatio sam da je ispitivač koristio termin "rutinski" u negativnom kontekstu.</p>
+<p>Bio je to za mene potpuni paradoks netačno odgovoriti na ovakvo pitanje. Za mene, koji svojim saradnicima svako malo govorim:</p>
+<blockquote class="posterous_short_quote">
+<p>Ne može&scaron; preći na realizaciju prije pripreme - planiranja zadatka.</p>
+</blockquote>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>E) Učenje knjige napamet</strong></span></p>
+<p>Predmet MIS je pun pitanja koja se baziraju na doslovnom učenju rečenica iz knjige.</p>
+<p>Vjerovatno se u knjizi i nalazi negdje ovaj diferencijacija (vjerovatno pi&scaron;e: nemojte rutinski prilaziti poslovima planiranja, ona su bitna ...), međutim, pitanja NE SMIJU biti doslovno učenje knjige.</p>
+<p>Svako pitanje mora biti zasebna cjelina. Mora se po&scaron;tovati sljedći princip</p>
+<blockquote class="posterous_short_quote">
+<p>Ako student poznaje materiju koja je predmet ispitivanja, (u najvećoj mjeri) bez obzira na kori&scaron;tenu literaturu, mora moći razumjeti i ponuditi tačan odgovor</p>
+</blockquote>
+<p>Može se prihvatiti da postoji određeni set pitanja koji akcenat stavljaju na to da je student ovladao terminima i taksonomijama koji se navode u nastavnim materijalima, ali ovaj pristup je neprihvatljiv.</p>
+<p>Ukratko, pitanja ne smiju da se ograniče na memorisanje nego na razumijevanje nastavnih sadržaja.</p>
+<p>Odličan primjer nepotpunog, lo&scaron;e konstruisanog pitanja je:</p>
+<blockquote class="posterous_short_quote">
+<p>&Scaron;ta na grafikonu znači vrijednost "Tr" ?&nbsp;</p>
+</blockquote>
+<p>Ponovo sam asistenta pitao:</p>
+<blockquote>
+<p><span style="color: #ff0000;"><strong>Kojem</strong></span> grafikonu ?</p>
+</blockquote>
+<p>Asistent je odgovorio. "Pa valjda nekom iz knjige ?"</p>
+<blockquote>
+<p><span style="color: #ff0000;"><strong>Kojem</strong></span>&nbsp;grafikonu iz knjige ?</p>
+</blockquote>
+<p>Pomalo zatečen, asisent mi je odgovorio:</p>
+<blockquote class="posterous_short_quote">
+<p>Pa neki grafikon u knjizi ima tu vrijednost ...</p>
+</blockquote>
+<p>Prekinuo sam ga:</p>
+<blockquote class="posterous_medium_quote">
+<p>Kolega ja ne učim knjige napamet. Ja sam informatičar. Nisam pravnik !</p>
+<p>Pitajte me &scaron;ta na U/I dijagramu znači "R". Pitajte me &scaron;ta se dijagramu "Životni cikus proizvoda" nalazi na y-osi. Pitanje u kome ću "skenirati" u mislima knjigu i pratiti gdje se pojavljuje "Tr" varijabla nema nikakvog smisla. To nije test znanja nego test koji provjerava da li sam knjigu naučio napamet - NISAM i NEĆU !&nbsp;</p>
+</blockquote>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>F) Real - long term solutions</strong></span></p>
+<p>Po&scaron;to sam koristio workaround, nastaviću sa informatičkim riječnikom. Ovo je ipak Fakultet informacionih tehnologija :)</p>
+<p>Ovaj način ispitivanja se ne mora u potpunosti napustiti. On se može unaprijediti na sljedeći način:</p>
+<p><span style="text-decoration: underline;"><strong>F.1) Real solution 1 - edukacija konstruktora pitanja</strong></span></p>
+<p>Mislim da FIT treba angažovati stručnjake iz ove oblasti. Ti stručnjaci bi edukovali sve nastavnike koji učestvuju u konstruisanju ovih pitanja.</p>
+<p>Evidentno je da osoblje FIT-a ovaj posao radi lo&scaron;e.</p>
+<p><span style="text-decoration: underline;"><strong>F.2) Real solution 2 - kori&scaron;tenje feedback-a iz "Workaround 2" rje&scaron;enja</strong></span></p>
+<p>Već nakon par ispita za očekivati je da će se na najlo&scaron;ije konstruisanim pitanjima pojaviti najvi&scaron;e komentara studenata.</p>
+<p>To će ispitivačima ukazati na činjenici da trebaju promijentiti konstrukciju pitanja. Siguran sam da je ovaj princip neka ustaljena praksa (evaluacija kvaliteta pitanja) na koju će vam eksperti iz predhodnog "Real solution 1" ukazati.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>H) Disclaimer</strong></span></p>
+<p>Ranije sam pomenuo da je moja supruga ekspert u oblasti mjerenja i ocjenjivanja znanja. U pisanju ovog članka ipak nisam koristio njena znanja niti direktne sugestije (izuzev B)&nbsp;opći princip kojim se treba voditi pri sastavljanju pitanja).</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>I) Updates</strong></span></p>
+<p>- v3, 05.12.2011, 21:34 - uklonio G) Moja očekivanja - suvi&scaron;no.</p>
+<p>&nbsp; Promjena naslova: Ispiti bazirani na <del>predefinisanim pitanjima i</del> ponuđenim odgovorima.</p>
+<p>- v2, 05.12.2011, 21:19 - minor upgrades - preformulacija nejasnih rečenica, uočenih gre&scaron;aka nakon dodatnih čitanja.</p>
+<p>---</p>
+<p>(*) Ali svakako svakako ukazuje da nije ni najbolje konstruisano na strani pitanja, s obzirom da je test pokazao da prije nedostatak koncentracije ispitanika, s obzirom da se radilo o temi koju sam nedavno ponovio i generalno dovoljno &nbsp;<strong>dobro razumio</strong>)</p>
+<p>&nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[A) Uvod Ispiti bazirani na ponuđenim odgovorima (žargonski među studentima pitanja "na click") su u većini loše postavljeni. Obrazovni ishodi ovog sistema ispitivanja su katastrofalni. U ovom članku ću prezentovati nedostatke koje sam uoči...]]></excerpt:encoded>	
+
+	<wp:post_date>Mon Dec 05 04:26:00 -0800 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>fit-ispiti-bazirani-na-pitanjima-i-ponudenim</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[murga]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Mon Dec 05 11:08:54 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Mon Dec 05 11:08:54 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Još mi je ostala gorčina u ustima od ova 2 ispita (PIS i MIS) na koja sam nažalost potrošio samo bezveze pare i to je to... kontajući da ću bar ako išta nešto logično odgovoriti.
+
+c c c]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[Adnan]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Dec 07 06:30:37 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Wed Dec 07 06:30:37 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Vidim da FIT i dalje muce isti problemi. Nisam vise mogao gutati...napustio sam :(
+Svaka cast na trudu i zalaganju da se nesto promijeni. Iskreno se nadam da ce imati efekta.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Dec 07 06:46:16 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Wed Dec 07 06:46:16 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Adnane, hvala na podršci.
+
+ Ja očekujem promjene. Ne bih trošio silno vrijeme da mislim da &quot;to tako mora biti&quot;. Ne mora.
+
+http://hernad.bring.out.ba/ipak-tako-ne-mora-biti
+
+
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[Adnan]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Dec 07 07:14:26 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Wed Dec 07 07:14:26 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Mislim da je sada daleko povoljnije vrijeme za promjene nego prije par godina kada je FIT imao neku vrstu monopola nad IT obrazovanjem u BiH. Sada svako selo ima &quot;univerzitet&quot; i ako zele studente u svojim prostorijama onda se moraju i potruditi da obezbijede adekvatno obrazovanje. Jako puno ljudi je odustalo od FIT-a i iz licnog iskustva znam da je dosta ljudi upisalo druge fakultete upravo zahvaljujuci losem iskustvu prethodnika.
+Na Debconf-u sam cuo jedno interesantno opisivanje FIT-a i slicnih fakulteta:
+&quot;Oni ne treba da daju ljudima diplome nego certifikate. Diploma se izdaje za poznavanje koncepta, a ne za poznavanje rjesenja. Oni ljude uce rjesenjima, a ne konceptima. Neka izdaju certifikate za poznavanje MSSQL-a, MS Visual Studio, .NET tehnologija itd. Mogli bi vise zaraditi na tome nego na ovakvom &quot;univerzitetskom&quot; obrazovanju&quot; Covjek koji je ovo rekao inace radi na Univerzitetu u Bostonu!]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Dec 07 07:38:11 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Wed Dec 07 07:38:11 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[&gt; &quot;Oni ne treba da daju ljudima diplome nego certifikate. Diploma se izdaje za poznavanje koncepta, a ne za poznavanje rjesenja. Oni ljude uce rjesenjima, a ne konceptima. Neka izdaju certifikate za poznavanje MSSQL-a, MS Visual Studio, .NET tehnologija itd. Mogli bi vise zaraditi na tome nego na ovakvom &quot;univerzitetskom&quot; obrazovanju&quot; Covjek koji je ovo rekao inace radi na Univerzitetu u Bostonu!
+
+U potpunosti se slažem. FIT nastupa kursistički i pristrasno:
+
+http://hernad.bring.out.ba/mogucnost-izbora-je-takode-stvar-koja-se-uci
+
+Fokus stavlja na određen tehnologije a ne na principe. 
+
+http://redmine.bring.out.ba/projects/fit-open
+
+Diplomant FIT-a je sve ali ne izgrađen informatičar, ukoliko je svoja fundamentalna IT znanja bazirao na onome što uči na FIT-u.
+
+Stvari koje sam ovdje pokrenuo su opet puno &quot;pliće&quot; od svega ovoga što pričamo. Ali one po principu spojenih posuda mogu i trebaju eliminisati ovakve &quot;nastavne materijale&quot;
+
+http://hernad.bring.out.ba/hernad-doso-tobe
+
+Ovo što sam ja pokrenuo u ovom članku konkretno je tako očito i banalno.
+
+O svemu što pominješ sam pisao. Ali sve to se može staviti pod kapu &quot;ma to je onaj ludi hernad kome sve živo smeta&quot;.
+
+Ovo radi svoje jednostavnosti može priču odvestu samo u dva smjera:
+
+1) daljnje relativiziranje problema, čime FIT javno potpisuje &quot;Mi smo obrazovna lakrdija i takvi ćemo ostati&quot;
+
+2) Razumijemo problem i nastojaćemo ga riješiti.
+
+Javni diskurs ovog izlaganja je &quot;opasna&quot; stvar.
+
+Koliko god moj blog bio blog anonimusa, što definitivno jeste, on je ipak javni. Moj otvoreni pristup daje problemu dodatnu dimenziju. 
+
+On &quot;tjera&quot; osoblje FIT-a da nešto poduzme i onemogućava da se problem stavi pod tepih.
+
+Ja ne kažem da je varijanta 1) nemoguća. Dapače. Ali mislim da bio ona imala popriličnu cijenu za FIT.
+
+Za razliku od mladih kolega koji FIT vide kao način da započnu karijeru, za mene to FIT nije.
+
+http://hernad.bring.out.ba/odakle-ja-na-fit-u
+
+Zato i jesam &quot;problematičan&quot;.  
+
+Iako lično smatram da je ovo što radim nešto najbolje što se FIT-u moglo desiti, ukoliko pročitaju što se ovdje piše.
+
+Ja radim kao informatičar dugo godina i znam šta nakon FIT-a slijedi.
+
+Na žalost, vjerovatnoća da diplomac FIT-a, nakon svog napornog studiranja dobije od svog poslodavca odgovor kao na kraju ovog članka:
+
+http://hernad.bring.out.ba/postignuce-ahaa-efekat
+
+je prevelika.
+
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Dec 07 08:05:33 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Wed Dec 07 08:05:33 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Želim još jednu bitnu stvar napomenuti Adnane.
+
+U članku antiznanje http://hernad.bring.out.ba/antiznanje, čiji je bitan (ali ne jedini) povod bio FIT i studiranje na FIT-u pomenuo sam kolege sa Elektrotehničkog fakulteta.
+
+Stavio sam ih u grupu &quot;ignoranti&quot;.  Zato što pripadaju onima koji znaju ali ništa ne poduzimaju.
+
+Kada kolega sa kojim si razgovarao digne svoj glas i javno kaže: Obrazovanje jeste ... Obrazovanje nije ....
+
+stvari se mogu promijeniti. Bosna je društvo u kome nema prostora gledati stvari sa strane. Mi smo na dnu.
+
+Ako sebe kolega sa Univerziteta u Bostonu vidi kao Bosanca koga je briga, Bosanca koji voli svoju zemlju, neka napiše članak, neka uputi otvoreno pismo Ministarstvu obrazovanja kantona HNK, Sarajevskog, upravi Fakulteta ovog, onog ... 
+
+Ali ni to ne mora. Neka napiše članak na http://radiosarajevo.ba/
+
+Šta god, samo neka PODUZME NEŠTO.
+
+Bez takvog djelovanja nema promjena. Bez toga bolje i ne zaslužujemo.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Dec 07 08:08:57 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Wed Dec 07 08:08:57 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Adnan je napisao:
+&gt; .. iz licnog iskustva znam da je dosta ljudi upisalo druge fakultete upravo zahvaljujuci losem iskustvu prethodnika ...
+
+Koje fakultete su ti ljudi odabrali ?
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[Adnan]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Dec 07 15:50:41 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Wed Dec 07 15:50:41 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Odabrali su one fakultete na kojima za iste pare ili nesto malo vise, a bez ikakvog truda dobiju isti &quot;papir&quot;. Na FIT-u i platis i trudis se, a dobijes....nista :(
+Ok, grijesim u ovome &quot;nista&quot;...mi koji smo vec prilicno dugo u IT svijetu dobijemo nista, jer smo naopaki. Prvo godinama radimo, a onda pokusamo da na neki nacin i verifikujemo znanje diplomom, samo sto ono sto se tamo uci nema veze sa onim sto smo u radnom iskustvu vidjeli.
+Necu imenovati kolegu koji je sa FIT-a presao u B.Luku i u roku zavrsio. Sad je fino za poslen na poziciji koja zahtijeva VSS, a to sto on nema pojma je totalno nebitno. On je Dipl. ing. :( Okvirna logika bi bila: &quot;Zasto da idem na FIT, placam i ucim neke nebuloze, kad mogu da dobijem papir koji podjednako vrijedi, a da ne ucim nista?&quot; Ovdje je sad vece pitanje etike i morala. To je moje licno misljenje. Ja radije ostajem sa SSS i radim to sto radim, nego da imam takvu diplomu. Mozda cu se nekad kajati, vidjecemo :)]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[Adnan]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Dec 07 15:57:41 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Wed Dec 07 15:57:41 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Sto se tice kolege iz Bostona....isto pitanje kao i ovo gore: Zasto da se borim i patim? Odo negdje gdje sam priznat, gdje je sve vec uredjeno i nastavim zivot. Takav je bio njegov izbor i koliko vidim nije pogrijesio. Ja ostajem gdje jesam, vec je i porodica kao i kod tebe na okupu, imam koliko toliko OK posao za nase uslove, a za fax me jos nikad niko nije pitao. Poslodavcima je bitno da ZNAS zavrsiti posao i to je sve. To je mozda najveci razlog zasto sam za sada &quot;digao ruke&quot;.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Thu Dec 08 02:10:35 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Thu Dec 08 02:10:35 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[@Adnan,
+
+1) kolega iz Bostona - nisam ni pomislio na njegov povratak u Bosnu, to bi bila čista ludost :), nego o mogućnostima djelovanja.
+
+2) &quot;Fakulteti&quot; kao taj banjalučki. 
+
+http://hernad.bring.out.ba/kvazi-fakulteti 
+
+Ukratko, slažemo se u potpunosti :).
+
+3) Da li ćeš zažaliti u budućnosti radi nezavršavanja fakulteta ... ?
+
+Možda ti pomogne moje viđenje stvari. Na početku rata sam bio 3. godina fakulteta - ETF smjer telekomunikacija. Rat me je odveo u informatičke vode.
+
+Po završetku rata sam kao pripadnik dobio status apsolventa. Rekao sam tada:
+
+&quot;Šta će mi fakultet, ja se neću baviti telekomunikacijama. Baviću se informatikom i nemam živaca učiti o antenama i ostalim stvarima sa TK ...&quot;
+
+http://hernad.bring.out.ba/25-godina-hardware-a-i-software-a
+
+Gotovo 20 godina nakon, sudbina me je dovela na FIT. &quot;Učenje o antenama&quot; bi u odnosu na većinu predmeta bila razonoda. Problem FIT-a je što je preplavljen antiznanjem. 
+
+Sada više nije problem u tome da li mi treba ili ne. Antiznanje &quot;truje&quot; mozak, tjera te unazad. Frustrira.
+
+Nakon 20 godina fakultetska diploma za mene ima još manju vrijednost. Što poslovno, što praktično. 
+
+Ovaj put sam ipak odlučan završiti barem ove tri godine. One će prije svega, aBd, obezbjediti mojim roditeljima smiraj u srcu. 
+
+Ona bi trebala i mojoj djeci pomoći da babu napokon smjeste na za njih jasnije mjesto. Sadašnje stanje je da je mama psiholog, doktor nauka, a babo samoproglašeni informatičar. 
+
+Kada me je zatekao ovaj događaj http://hernad.bring.out.ba/fit-i-narodna-republika-kina prokomentarisao sam:
+
+&quot;
+Da mi se sada vratiti u '96. Sam bih sebe toljagom udar'o dok ona blentovina od mene ne bi rekla: &quot;U redu u redu završiću fakultet ako vam je do toga tako stalo&quot;.
+&quot;
+
+Evo sada kada pišem, čitava moja priča meni samom zvuči nadrealno. Ali želim da ti je ispričam. Da nakon 10 godna ne dođeš do spoznaje da si ipak pogriješio.
+
+Ja jesam. ]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Thu Dec 08 02:15:09 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Thu Dec 08 02:15:09 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[... kao pripadnik  =&gt; ... kao pripadnik ARBiH]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Thu Dec 08 02:15:55 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Thu Dec 08 02:15:55 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Sada više nije problem u tome da li mi treba ili ne. 
+
+=&gt;
+
+Sada više nije problem u tome da li mi *određeno znanje* treba ili ne. ]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Thu Dec 08 02:33:50 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Thu Dec 08 02:33:50 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Po svim temama na ovu temu treba prije svega misliti na svoju djecu.
+
+Ako se poklopimo &quot;ušima&quot; naši problemi biće sitnice.
+
+Šutnja i prihvatanje ovog koncepta vodi ka stanju u kojem će se današnji vakat zvati &quot;prošlim lijepim vremenima&quot;.
+
+Da li će naši pojedinačni postupci nešto promijeniti ? Ostavimo se tih pitanja. Ne smijemo, ako ništa drugo, biti saučesnici. 
+
+Saučesnici nečemu što se po meni bez ikakvih problema može zvati obrazovni zločin.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Tue Dec 13 02:10:28 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Tue Dec 13 02:10:28 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://hernad.bring.out.ba/zlocesti-i-lijeni-student]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[nedim]]></wp:comment_author>
+			<wp:comment_author_email>dbnedim@gmail.ba</wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Mon Jan 23 01:07:11 -0800 2012</wp:comment_date>
+			<wp:comment_date_gmt>Mon Jan 23 01:07:11 -0800 2012</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[E! ja sam cijeli život birao teži put. Kad sam mogao nisam htio sad kad ne mogu hoću po svaku cijenu. Meni dosta toga na FIT-u ije jasno. Svako malo mijenjaju pravila igre i to svaki put u korsit štete studenata a samim tim i te ustanove koja se voli nazivati obrazovnom. Ja lično imam problem da jednostavno NE ZNAM učiti na pamet. Nešto ima u mojoj glavi da mi to jednostavno predstavlja ogroman problem pogotovo ako je to nešto logički ne povezivo kao recimo Marksizam koji smo imali na ETF-u. Ja sam to položio kao i ti malo prepisivanjem malo prijetnjama Musliji Muhoviću ali sam položio. Za razliku od tebe meni to nisu priznali pa sam se prislio i učio i učio tzv Sociologijju. Sam sebe iznenadio ali sam to nekako polozio. E sad imam drugi puno veći problem, nikako ne mogu da položim PR1 (iz UPR dobio 10). Iza sebe imam hiljade linija koda koji se još uvijek koristi u različitim aplikacijama u zemlji i inostranstvu, ali nikako ne mogu da položim predmet koji bi mi po definiciji trebao biti šala. Zašto, mislim da je zbog toga što se polože na &quot;suho&quot; što opet podrazumjeva bubanje, sintakse, definicija i sličnih stvari koje ja jednostavno ne pamtim. Valjda sam se ulijenio koristeći različite alate koje koje mi ne daju pogrišiti u nećem što ja smatram trivijalnim kao što je sintaksa na tom ispitu je zanemarena inventivnost i sam ispit je doveden do apsurda. Likovi na ispitu koji bi trebao biti uvod u c++ daju komplicirane poslovne modele  u cilju provjere znanja, pokazivača, struct-ura i višedimenzionalnih redova tako većina nas ne uspije shvatiti što je cilj programa kojeg pišemo na suho a ako ne mogu shvatiti cilj đaba mi i sitaksa i logika.
+
+Možda sam profulao temu ali mene ovo žulja]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

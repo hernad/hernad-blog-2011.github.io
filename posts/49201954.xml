@@ -1,0 +1,81 @@
+<item>
+	<title>Porezna uprava FBiH: &quot;Problem fiskalizacije nije 'naš rejon' ... Obratite se Ministarstvu Finansija&quot;</title>
+	<link>http://hernad.bring.out.ba/porezna-uprava-fbih-problem-fiskalizacije-nij</link>
+	<pubDate>Mon Apr 11 06:04:00 -0700 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="administracija"><![CDATA[administracija]]></category>
+	
+		<category domain="tag" nicename="bosna"><![CDATA[bosna]]></category>
+	
+		<category domain="tag" nicename="business"><![CDATA[business]]></category>
+	
+		<category domain="tag" nicename="sistem"><![CDATA[sistem]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/porezna-uprava-fbih-problem-fiskalizacije-nij</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Jutros nam se pojavio jedan problem po pitanju fiskalizacije:</p>
+<p>Radi razlika u zaokruženju, postoje situacije u kojima "stara" porezna faktura i fiskalni isječak "ne &scaron;timaju" za znatan iznos.</p>
+<p>Obratio sam se, pored ostalih Poreznoj upravi FBiH, i dobio odgovor da oni za to nisu nadležni:</p>
+<p><a href="http://redmine.bring.out.ba/boards/8/topics/4954?r=4969#message-4969">http://redmine.bring.out.ba/boards/8/topics/4954?r=4969#message-4969</a></p>
+<p>U prvom momentu sam prihvatio to, jer sam svjestan da je <strong>Porezna uprava implementator zakona</strong>, a ne <strong>zakonodavac</strong>.</p>
+<p>Međutim, koliko god to bilo tačno sa jedne strane, kada se stvar posmatra u cijelini to ba&scaron; i nije tako ...</p>
+<p>Zato sam krenuo da napi&scaron;em novi email kolegi informatičaru iz Porezne uprave:</p>
+<p><!--more--></p>
+<blockquote>
+<p>Po&scaron;tovani,<br /> shvatam da je Va&scaron;a institucija implementator zakona, te da nas radi toga upućujete na Ministarstvo.<br /> Međutim, ipak postoji dio koji je u nadležnosti Porezne uprave. Zato ću preformulisati pitanje:<p />  Kako se va&scaron;i inspektori postavljaju u ovakvom slučaju ?<br /> Koji je dokument "jači" ? Porezna faktura ? Fiskalni isječak ? Nijedan ?<p />  Na&scaron; klijent je, nakon &scaron;to je konstatovao razliku, panično tražio od nas  instrukcije da uradi storniranje dokumenta. To sve stvar dodatne  komplikacije i probleme kod njega i kod nas. Mi smo blokirani jer  korisnik od nas očekuje rje&scaron;enje, korisnikov posao stoji jer ne može  ispostaviti fakturu ... zbrka živa.<p />  A za&scaron;to ? <br /> 1) Zato &scaron;to&nbsp; Zakon o fiskalizaciji bez dvojbe ima rupa k'o &scaron;vicarski sir<br /> 2) Zato &scaron;to se porezni obveznici gotovo iracionalno boje inspektora Porezne uprave(*). <p />  Zato bi od Va&scaron;e institucije morali dobiti informacije koje će ovu zbrku,  probleme i nervozu svesti na najmanju moguću mjeru. Mislim da to JESTE  "va&scaron; rejon" i va&scaron;a obaveza.<p />  Da rezimiram:<p />  Molim da Porezna uprava da informaciju poreznim obveznicima i svojim  inspektorima&nbsp; &scaron;ta treba poduzeti dok se po ovom praktičnom problemu ne  očituje zakonodavac - Ministarstvo.&nbsp; <p />  <span style="color: #ff0000; font-size: medium;"><strong>Obaveza Va&scaron;e institucije je implementacija zakona na terenu. Kada su ti  zakoni manjkavi, ili se tek uvode, logično je da pored mjera represije  (kažnjavanja u slučaju kr&scaron;enja zakona) *pomognete* poreznim obveznicima u  ovakvim situacijama. </strong></span><p />  Vi ste ti koji &scaron;alju svoje porezne insepktore. Ti porezni inspektori u  ovakvim situacijama postupaju *<strong>nekako</strong>*. Postavlja se pitanje <strong>KAKO ?</strong><p />  Valjda nije "rje&scaron;enje" reći poreznom obvezinku: "<em><strong>Zaustavi posao dok se ovo ne rije&scaron;i ?!</strong></em>"<p />  Obraćam Vam se kao informatičar informatičaru. Nas dvojica možemo  napraviti link između va&scaron;ih radnih kolega - poreznih inspektora i na&scaron;ih  klijenata - poreznih obveznika.<p />  Paradoks je da najveću paniku dižu upravo oni radi kojih je ova  fiskalizacijaka "halabuka" bila skroz suvi&scaron;na - oni koji su i do sada  uredno evidentirali sav svoj promet. <br /> ---<br /> <span style="font-size: x-small;"><em>(*) Naravno, ovo je&nbsp; prije svega stvar stava samih poreznih obveznika,  ali i općeg odnosa na relaciji porezni obveznik - inspektor</em>. Inspektori Porezne uprave su trenirani da porezne obveznike kažnjavaju. Prava  je rijetkost da sa terena čujem da je neki porezni inspektor dao  savjete na&scaron;em korisniku ako ne&scaron;to nehotice grije&scaron;i.</span><p /> </p>
+</blockquote>
+<div style="font-family: Times New Roman; font-size: 12pt; color: #000000;">Kada sam zavr&scaron;io email, uočio sam da sam ustvari formulisao jedan standardni problem na relaciji:</div>
+<div style="font-family: Times New Roman; font-size: 12pt; color: #000000;">Zakonodavac (Ministarstvo Finansija) &lt;-&gt; Implementator zakona (Porezna uprava personificirana u poreznim inspektorima) &lt;-&gt; software provajder (bring.out) &lt;-&gt; Porezni obveznik (bring.out klijent)</div>
+<p />
+<div style="font-family: Times New Roman; font-size: 12pt; color: #000000;"><span style="text-decoration: underline; font-size: medium;"><strong>Zaključak </strong></span></div>
+<p />
+<div style="font-family: Times New Roman; font-size: 12pt; color: #000000;">U ovakvim situacijama, niko ne bi smio reći:</div>
+<div style="font-family: Times New Roman; font-size: 12pt; color: #000000;">
+<blockquote class="posterous_short_quote">Nije moj rejon !<br /></blockquote>
+</div>
+<div style="font-family: Times New Roman; font-size: 12pt; color: #000000;">Obaveza Zakonodavca, Implementatora zakona, Software provajdera mora biti:</div>
+<blockquote>
+<div style="font-family: Times New Roman; font-size: 12pt; color: #000000;">Pomoći poreznom obvezniko da svoj posao radi sa &scaron;to manje pote&scaron;koća.</div>
+</blockquote>
+<div style="font-family: Times New Roman; font-size: 12pt; color: #000000;">To opet ne smije biti stvar dobre volje pojedinaca, nego sljedeće činjenice:</div>
+<blockquote>
+<div style="font-family: Times New Roman; font-size: 12pt; color: #000000;">Sve nas ti porezni obveznici hrane. Mi radimo za njih a ne oni za nas. Zato su ovakvi problemi rejon SVIH NAS !</div>
+</blockquote>
+<p>&nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Jutros nam se pojavio jedan problem po pitanju fiskalizacije: Radi razlika u zaokruženju, postoje situacije u kojima "stara" porezna faktura i fiskalni isječak "ne štimaju" za znatan iznos. Obratio sam se, pored ostalih Poreznoj upravi FBiH, i dob...]]></excerpt:encoded>	
+
+	<wp:post_date>Mon Apr 11 06:04:00 -0700 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>porezna-uprava-fbih-problem-fiskalizacije-nij</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Mon Apr 11 09:09:01 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Mon Apr 11 09:09:01 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://hernad.bring.out.ba/zamislite-ovakvu-poreznu-upravu-fbih]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

@@ -1,0 +1,117 @@
+<item>
+	<title>A što ga bjasko zna sfušerit' ...</title>
+	<link>http://hernad.bring.out.ba/a-sto-ga-bjasko-zna-sfuserit</link>
+	<pubDate>Sat Dec 25 08:59:00 -0800 2010</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+	
+		<category domain="tag" nicename="sistem"><![CDATA[sistem]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/a-sto-ga-bjasko-zna-sfuserit</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Moj kolega Jasmin Beganović (nadalje bjasko) je interesantna osoba.</p>
+<p>On pripada onoj pametnoj raji &scaron;to &scaron;kolu nije plaho voljela. Garant je bjasko na većini &scaron;kolskih časova jedino razmi&scaron;ljao: "Kad će ovo vi&scaron;e zavr&scaron;iti ?!". Takva raja te međutim sa svojim vje&scaron;tinama zna pravo iznenaditi.</p>
+<p>Tako moj bjasko slabo pi&scaron;e bosanski(*), ali odlično govori engleski i njemački. Bosanski mu očigledno nikada nije bio interesantan, dok strane jezike "fura k'o iz &scaron;ale".</p>
+<p>Bjasko je pravi električar. Ima vje&scaron;tinu i preciznost u rukama. Zna misliti i baratati sa "žicama".</p>
+<p>Bjasko poslove radi "cik-cak". U nekim briljira, a druge "sfu&scaron;eri" samo tako.</p>
+<p>Ukratko, bjasko se na poslu pona&scaron;a ko Dr. Jekyll and Mr. Hyde.&nbsp; Da odmah razjasnimo: bjasko nije lijenčina. Bjasko je vrijedan čovjek. "Fu&scaron;eranje" nije bjaskova strategija, nego jednostavno mahana koje se ne može jednostavno kutarisati. Za tu bjaskovu mahanu, siguran sam, ponajvi&scaron;e je zaslužan bosanski antiobrazovni sistem.</p>
+<p>Kroz dugogodo&scaron;nji rad sa bjaskom, naučio sam da brzo skontati da li bjasko radi ko Mr. Hyde (crno) ili Dr. Jekyll (bijelo).</p>
+<p><!--more-->Neki dan sam pisao članak u kome je bjasko u svom Dr. Jekyll izdanju - <a href="/ping-pong-podrska">"ping-pong" podr&scaron;ka</a>. Recite mi da ovako može neki&nbsp; "tupson" raditi poslove - ne može. Zato vam kažem: bjasko je pametan čovjek.</p>
+<p><span style="text-decoration: underline;"><span style="font-size: medium;"><strong>bjasko i bring.out</strong></span></span></p>
+<p>Ako je nekome bring.out sistem puno dobra donio - to je bjasko. Ali je bjasko takođe i među onih top 5 koji su najvi&scaron;e muke od tog sistema vidjeli. &Scaron;ta ćete&nbsp; - bez muke nema nauke. <p />Jaskovi izvje&scaron;taji nikada nisu osrednji - oni su ili grozota ili super. On il' misli il' ne misli.&nbsp;</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Mr. Hyde</strong></span></p>
+<p>Neki dan bio sam bio sudionik njegove "Mr. Hyde" faze. <p />Evo o čemu se radi:<p />Prije mjesec i kusur sam uočio da moj notebook pravi probleme (#20029).&nbsp; Utvrdili smo da je uzrok hard disk (hdd), pa smo u njega stavili servisni hdd,&nbsp; a o&scaron;tećeni poslali na servis.<p />Prije 20-tak dana od servisa smo dobili novi hdd. Međutim, radi drugih obaveza taj posao nikako da se uradi.<p />Prije par dana sam uočio da se taj zadatak nikako ne pomiče sa mrtve tačke, pa sam jaska "pogurao". A to guranje je bilo -&nbsp; uradi to odmah danas.<p /><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Uradi pripremu, nemoj "lupati" napamet !</span></strong></span></p>
+<p>Prije toga sam vi&scaron;e puta pominjao da ovo trebamo uraditi, i ukazao bjasku da se za to treba pripremiti.</p>
+<p>Svaka aktivnost koja nije trivijalna traži pripremu. Ta priprema se sastoji u tome da se pregledaju ranije aktivnosti i vidi &scaron;ta se od toga može iskoristiti.<p />Nakon mog "guranja", odmah sam uočio da to jasko poku&scaron;ava "sfu&scaron;eriti". <p />On mi je tražio laptop da vidi stanje na njemu. Odmah sam mu rekao:</p>
+<blockquote class="posterous_short_quote">
+<p>&Scaron;ta će ti moj laptop. Napravi pripremu. Moj ti laptop ne treba.</p>
+</blockquote>
+<p>Da je samo uzeo aktivnost havarije #20029, na njoj bi na&scaron;ao sve informacije o mom laptopu. A i bez toga, priprema je trebala odgovoriti <strong>KAKO</strong> uraditi kloniranje.<p />Sve mi je govorilo da je bjasko u svojoj Mr. Hyde fazi.&nbsp; Zato sam se dodatno angažovao, pa sam sam na brzinu pregledao ranije aktivnosti i podsjetio se &scaron;ta ja ranije radio na tu temu. Zaključio sam da se zadatak može uraditi sa <a href="/uputstvo-kloniranje-prebacivanje-ubuntu-siste">clonezilla-om</a>.&nbsp; Download-ovao sam CD, spržio ga i dao bjasku.&nbsp; Time sam napravio "guranje-2":</p>
+<blockquote class="posterous_short_quote">
+<p>Hajde, valjda će sad "otkočiti" ...</p>
+</blockquote>
+<p>pomislio sam. Od <a href="http://www.bring.out.ba/knowhow">započinjanja knowhow projekta</a> smo napravili privremene organizacijske promjene. Da bih se mogao ovom projektu maksimalno posvjetiti, upravljačke funkcije za tekuće operacije je preuzeo sa&scaron;a Sa&scaron;a (Sa&scaron;a Vranić - nadalje vsasa).<p />Kod predavanja ove funkcije :), posebno dam naglasio vsasa da prati bjaskove operacije. Bjasko jednostavno treba kontrolu da bi funkcionisao unutar sistema.<p />Kada sam otvorene aktivnosti na projektu "interna infrastruktura", u kome dominiraju bjaskovi ticketi (zaduženja), skontao sam da ta kontrola izostaje.<p />Tada sam rekao vsasi:</p>
+<blockquote class="posterous_short_quote">
+<p>Ovo ovako ne ide. Jasno se vidi da se procedura jutarnjeg pregleda ticketa - pripreme za radni dan ne obavlja. Ti mora&scaron; ove stvari, bez obzira na svoje obaveze, pratiti.</p>
+</blockquote>
+<p><br />To je jedan od onih trenutaka kada u firmi zrak postane gu&scaron;či ... Opu&scaron;tenu atmosferu zamijeni napetost:</p>
+<blockquote class="posterous_short_quote">
+<p>Evo ga hernad opet nije dobre volje.&nbsp; Kren'o je u "napad".</p>
+</blockquote>
+<p>Slijed reakcija nakon mojih napada je uvijek ima sličan scenario:<p /><span style="text-decoration: underline;">1) bjasko me je počene "ublehariti"</span><p />pričom kad sam mogao nisam stigao ... imao sam privatne obaveze ....<p />Nije bjasko bezobraznik koji to radi svjesno. Njegova reakcija je tipična ljudska reakcija - poku&scaron;aj da se problem i sopstvena odgovornost relativizira.<p />Međutim u bring.out sistemu ubleharanje za seknudu "ispliva" na vidjelo.<p />Samo malo pregleda&scaron; tickete, vidi&scaron; kako su se stvari odvijale ... i zaključi&scaron; je li to osnovana priča ili nije.<p />Zato sam već nakon par rečenica bjasku rekao - prekini.<p /><span style="text-decoration: underline;">2) nakon toga ti&scaron;ina u kancelariji ...</span><p />Nezadovoljstvo. Ta &scaron;utnja je ustvari neizrečen stav:</p>
+<blockquote class="posterous_short_quote">
+<p>Mi se trudimo, ubismo se od posla, a ti na&scaron; tako "reže&scaron;" ...</p>
+</blockquote>
+<p>Prije su moje kolege ovakve stvari znale izreći naglas. Međutim, moj odgovor je uvijek bio:</p>
+<blockquote class="posterous_short_quote">
+<p>Nemojte mi to govoriti.&nbsp; Ako sam u krivu, objasnite mi - objasnite mi to na redmine-u. Prekinimo "bla bla" priče ...</p>
+</blockquote>
+<p>Na &scaron;utnji se ova situacija i zavr&scaron;ila. Oni su ostali na poslu, a ja sam morao po Bakira u &scaron;kolu.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>hernad - bjaskov ađutant</strong></span></p>
+<p>Ujutro, kad sam do&scaron;ao na posao, prvo sam uzeo da pročitam dokle je bjasko sa tom aktivnosti do&scaron;ao.<p />bjasko je pokrenuo proces kloniranja tako &scaron;to je prikopčao novi disk na "usb rack" pa pokrenuo disk -&gt; disk operaciju.<p />U bjaskovom izvje&scaron;taju je pisalo:</p>
+<blockquote class="posterous_medium_quote">
+<p>segate 500GB ubacio u USB rack te pokrenuo clonezilla dis2disk clone, odabrao sve opcije, clone MBR-a, boot particije + LVM<p />kloniranje 120GB će potrajati par sati, kopira se brzinom 270-300MB/min<p />ovo će potrajati, ujutro samo treba zamijeniti diskove i podići sistem sa novog diska</p>
+</blockquote>
+<p>Kada sam pročitao izvje&scaron;taj, pomislio sam:</p>
+<blockquote class="posterous_short_quote">
+<p>bjasko, bjasko ... finog će&scaron; ti meni posla danas napraviti ...</p>
+</blockquote>
+<p>Naime, znao sam da to bjaskovo "samo" je sve ali ne sitnica.&nbsp; Nakon samog kopiranja moram napraviti jo&scaron; niz operacija da bih posao zavr&scaron;io.</p>
+<p>Te stvari sam ranije radio, tako da nije problem bio u tome da li to znam uraditi. Problem je bio u vremenu i rasporedu poslova.</p>
+<p>Da je jasko radio prema uputama i procedurama firme, to ne bi bio problem. U sklopu pripreme za zadatak bi pro&scaron;ao kroz čitav ciklus operacija, i ja bih imao na raspolaganju uputstvo.&nbsp; Da takve upute postoje, onda se ne bih morao ufuravati u temu i podsjećati kako čitav proces ide.</p>
+<p>Stvar je bila jasna:&nbsp;</p>
+<blockquote class="posterous_short_quote">
+<p>Ja moram uraditi posao =&gt; ja ovdje ispadam bjaskov ađutant. A tu ulogu beli ne volim :(&nbsp; ...</p>
+</blockquote>
+<p>Ali, računar mi treba, i sada nemam izbora. Valja mi to zavr&scaron;iti.&nbsp; Kada sam se popeo, stvar je ispala jo&scaron; gora nego sam pretpostavio čitanjem izvje&scaron;taja:</p>
+<blockquote class="posterous_short_quote">
+<p>clone proces uo&scaron;te nije zavr&scaron;io. usb disk je prijavio "milion" error-a</p>
+</blockquote>
+<p>Znači, status aktivnosti je bio čista 0.</p>
+<p>Ja sam operaciju obavio na drugi način - <a href="/uputstvo-kloniranje-prebacivanje-ubuntu-siste">formiranjem image-a na mrežnom disku</a>.</p>
+<p>Kada se malo razmisli, jedini dobar način(**) da se iskoristi puni kapacitet novog - većeg diska.&nbsp; Onda sam shvatio da nije nikakva velika &scaron;teta &scaron;to bjaskov poku&scaron;aj kloniranja zavr&scaron;io neuspje&scaron;no. Ja bih ga na ionako morao ponoviti.<p />Tu sam uočio interesantnu stvar: bjasko je u svom izvje&scaron;taju prijavio da brzina USB kopiranja ide cca 300 MB/min.&nbsp; Mrežno kopiranje je i&scaron;lo 500 MB/min.<p /><span style="color: #ff0000; font-size: medium;"><strong>bjasko bjasko ... Stvari se ne rade napamet. Stvari se testiraju ! Koliko je to puta rečeno ?!</strong></span> <br />&nbsp;<br />Ja sam prvobitno rekao bjasku da koristi mrežni disk jer je to jednostavnije - ne mora se kopčati ni&scaron;ta.&nbsp; Onda je on rekao: "skopčaću ja USB disk, to će ići brže". Sjećam se da sam ga pitao: "A koliko brže ?". On je samouvjereno odgovorio: "Ne znam tačno ali sigurno je USB kopiranje znatno brže od mrežnog ..."<p /><span style="font-size: medium;"><strong><span style="color: #ff0000;">E zato sam je hiljadu puta rećeno: testirati testirati testirati!</span></strong></span><br />&nbsp;<br />Ova tema se obrađuje u bring.out uputstvima za rad brat-bratu jedno 10 puta. Na raznim mjestima. Ali džaba sve to. Bjasko je bio u Mr. Hyde fazi.<p />Da skratim priču, fino sam se "zabavio" bjaskovim zadatkom. 2-3 sahata sam ja to "diklio" dok nisam zavr&scaron;io. <p />Nisam naletio ni na kakav poseban problem, ali sam se dobrano naradio.<p />Kada sam to zavr&scaron;io, odmah sam u sebi rekao:</p>
+<blockquote class="posterous_short_quote">
+<p>E ovo treba blogirati. Ovo treba objasniti. I ovu priču jednom za svagda zavr&scaron;iti.</p>
+</blockquote>
+<p>Nemam nikakve dvojbe da je ovo &Scaron;TO sam ja uradio i KAKO sam uradio, bjasko mogao takođe uraditi bez ikakvih problema.<span style="color: #ff0000;"> </span></p>
+<p><span style="color: #ff0000; font-size: medium;"><strong>Samo da se držao bring.out&nbsp; uputstava i radnih procedura.</strong></span><br />&nbsp;<br /><span style="text-decoration: underline;"><span style="font-size: medium;"><strong>Kakva je onda korist od bring.out sistema ?</strong></span></span></p>
+<p>Na ovo pitanje sam sebi i drugima nebrojeno puta odgovarao ... Ali sam na kraju prestao. Zato &scaron;to sam skontao da nije problem u sistemu, nego u ljudima.</p>
+<p>Međutim, čak i kada stvari ne funkcioni&scaron;u, kako je to sada bio slučaj, bring.out sistem daje efekte:</p>
+<blockquote class="posterous_short_quote">
+<p>bring.out sistem rada je pomogao da se problem brzo "ispliva na povr&scaron;inu", da se "ubleharenje" čim prije prekine.</p>
+</blockquote>
+<p>On pomaže da se bjasko u najkraćem mogućem roku prebaci iz&nbsp; "Mr. Hyde" u "Dr. Jekyll" fazu.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Kako se ovi zadaci rade na "bring.out način" ?</strong></span></p>
+<p>Evo kako:</p>
+<p><span style="text-decoration: underline;"><strong>1) Priprema</strong></span><br />Mora se napraviti priprema za realizaciju&nbsp; koja će odgovoriti na pitanja: KAKO zadatak uraditi.</p>
+<p>Dobar primjer zlata vrijedi. Zato sam napravio video materijal koji prikazuje kako serviser/sysadmin treba napraviti pripremu za ovakav zadatak:</p>
+<p><iframe src="http://www.youtube.com/embed/6zC99DZlJw4?wmode=transparent" allowfullscreen frameborder="0" height="417" width="500"></iframe><p /><span style="text-decoration: underline;"><strong>2) Uputstvo</strong></span><br />Ako od ranije ne postoji, PRIJE realizacije se pravi <a href="/uputstvo-kloniranje-prebacivanje-ubuntu-siste">servisno uputstvo</a>(***). Servisno uputstvo se radi na step-by-step principu. Tako napisano uputstvo omogućava da se brzo, i bez plaho mozganja, dođe do postavljenog cilja.</p>
+<p><span style="text-decoration: underline;"><strong>3) Realizacija, "deguruizacija" </strong></span><br />Kada imamo uputstvo 2), realizacija zadatka je "prdimahovina". Sa ovakvim materijalima zadatak može obaviti i manje obučen serviser, &scaron;to je veoma bitno za operativni kapacitet firme. Na taj način, firma ne ovisi o raznoraznim "guruima" koji su jedini sposobni određeni posao zavr&scaron;iti.</p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Rezime</span></strong></span><br />Ovo je jedini način da firma konstantno povećava svoj kapacitet, svoju sposobnost - <a href="/radni-dan-u-bringout"><strong><span style="color: #ff0000;">svoj knowhow</span></strong></a>. <p /><span style="font-size: medium;"><strong><span style="color: #ff0000;">Svaki drugi način obavljanja zadataka nije "bring.out način", te je kao takav u na&scaron;oj firmi NEDOZVOLJEN</span></strong>.</span><p />----<br />(*) razlikovanje "č" i "ć" mu je bolna tačka :). Ali da se odmah razumijemo, za neke <a href="http://hernad.bring.out.ba/?sort=&amp;search=nepismeno">asistente na FIT-u bjasko može biti profesor bosanskog</a></p>
+<p>(**) mogla se praviti nova particija pa onda nova LVM particija i to slijepiti na kraju ... ali to je "krpaža" samo tak'a</p>
+<p>(***) ako već postoji uputstvo na istu ili sličnu temu, po potrebi se radi njegova nadogradnja, ovisno o rezultatima pripreme. Uputstva su <strong>dinamični materijali</strong>. Oni se prirodom kori&scaron;tenja ko svake nove operacije <strong>kontroli&scaron;u</strong> i po potrebi <strong>nadograđuju</strong> (upgrade). Dobro uputstvo, uputstvo koje ima upotrebnu vrijednost mora biti svježe - aktuelno.</p>
+<p>&nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Moj kolega Jasmin Beganović (nadalje bjasko) je interesantna osoba. On pripada onoj pametnoj raji što školu nije plaho voljela. Garant je bjasko na većini školskih časova jedino razmišljao: "Kad će ovo više završiti ?!". Takva raja te me...]]></excerpt:encoded>	
+
+	<wp:post_date>Sat Dec 25 08:59:00 -0800 2010</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>a-sto-ga-bjasko-zna-sfuserit</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

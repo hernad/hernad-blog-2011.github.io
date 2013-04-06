@@ -1,0 +1,376 @@
+<item>
+	<title>Uvod u baze podataka, &quot;zbrkizacija&quot;</title>
+	<link>http://hernad.bring.out.ba/uvod-u-baze-podataka-zbrkizacija</link>
+	<pubDate>Wed Jan 12 03:37:00 -0800 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+		<category domain="tag" nicename="sistem"><![CDATA[sistem]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/uvod-u-baze-podataka-zbrkizacija</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Juče smo imali konsultacije iz predmeta Uvod u baze podataka.</p>
+<p>Iskoristio sam te konsultacije da pročitam materijale. Kod pro&scaron;log čitanja, materijali mi nikako <a href="/uvod-u-baze-podataka-vjezbe-youtube">"nisu legli"</a>. Tada nisam bio mogao razlučiti da li je taj negativan utisak rezultat umor i nedostatak vremena, materijali na hrvatskom ili lo&scaron; sadržaj. &nbsp;</p>
+<p>Ovo je jedini ispit na koji nisam <a href="/uvod-u-baze-podataka-1-parcijalni-strategija">iza&scaron;ao na prvom parcijalnom</a>. Baze su moj fah, to sam želio čestito i&scaron;čitati. Juče sam stigao sam pročitati prvih par predavanja. Kako to je to normalno sa predmetima koji imaju prefiks "Uvod", početna predavanja uvode i obja&scaron;njavaju temeljne pojmove predmeta.</p>
+<p><!--more--><span style="text-decoration: underline; font-size: medium;"><strong>Background</strong></span></p>
+<p>U informatičko zanimanje sam sam u&scaron;ao <a href="/25-godina-hardware-a-i-software-a">"navrat-nanos"</a>. Slobodno se može reći i naopako - od kraja ka početku. Odmah sam krenuo od konkretnih projekata i zaduženja.</p>
+<p>Iz tog razloga morao sam se boriti na "dva fronta" istovremeno:</p>
+<ul>
+<li>upoznavanjem sa domenom samih projekata (kadrovska evidencija - personalni poslovi, finansije, računovodstvo)</li>
+<li>učiti se informatici</li>
+</ul>
+<p>Ne znam ni sam u čemu sam bio tanji :). Student treće godine telekomunikacija ETF-a o informatici ne zna puno. U svemu mi je možda i najvi&scaron;e pomogla&nbsp; nadmenost koju sam kroz 20 položenih ispita stekao:</p>
+<blockquote class="posterous_short_quote">
+<p>Ako znam uraditi integral, mogu se i sa ovim množenjima i dijeljenjima izboriti ...</p>
+</blockquote>
+<p>Sva sreća da pojma nisam imao kolika sam "truba" bio :). Dobra je stvar da je tu nadmenost brzo zamijenila upornost i želja za učenjem novih stvari.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Komandant za računare</strong></span></p>
+<p>To ratno doba je po mnogo čemu bilo čudno. Komandatni su postajali "ljudi sa ledine".</p>
+<p>Po istom principu po kome su radni komandanti mogli postati metalski radnici, tako sam i ja postao programer. Programer III. korpusa Armije RBiH. Interesantno zar ne ? Razbježali se inžinjeri, pa do&scaron;ao red na studente ...</p>
+<p>Svi mi smo praktično učili prve korake zanata - oni u vođenju čete, bataljona ili brigade, ja u programiranju.</p>
+<p>Rat je po definiciji generator ekstremnih stvari i događaja. Takvo okruženje iz ljudi izvlače ili ono najbolje ili ono najgore. Zato je sasvim prirodno da je rat iznjedrio <a href="http://www.plbih.info/cms/Safet-Zajko-i-Enver-Sehovic.349.0.html">"Zajke"</a>, ali i <a href="http://www.bhdani.com/arhiva/246/intervju.shtml">"Cace"</a>.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Sistematizacija i "zbrkizacija"</strong></span></p>
+<p>Hah gdje ja odoh ... A sve &scaron;to sam prvobitno htio reći jeste to da u informatiku i baze podataka nisam u&scaron;ao na <strong>sistematski</strong> način :)</p>
+<p>Ono &scaron;to mene razlikuje inih priučenih informatičara (a takvih je u informatici "more"), jeste to da nikada nisam bio pobornik teze:</p>
+<blockquote class="posterous_short_quote">
+<p>Ma pusti teoriju, bitna je praksa !</p>
+</blockquote>
+<p>Teorija obezbjeđuje sistematski pristup rje&scaron;avanju problema. Da li je neko sposoban da bez formalnog obrazovanja sistematski pristupi rje&scaron;avanju problema ili ne, to je drugo pitanje.</p>
+<p>Činjenica je da teoretsko znanje nikada nije vi&scaron;ka. Čak i kada niste saglasni sa određenom teoretskom postavkom, ona vam pomaže da svoje stavove i način rada "iste&scaron;ete". Na kraju krajeva, ne možete osporavati stvari koje i ne poznajete.</p>
+<p>Zato kod svakog novog predmeta na FIT-u, kao način samomotivacije kažem sebi:</p>
+<blockquote class="posterous_short_quote">
+<p>Dobro je da ono &scaron;to zna&scaron; - sistematizira&scaron;. A ono &scaron;to ne zna&scaron;, a misli&scaron; da ti ne treba - ma ko zna &scaron;ta te sutra čeka ?!</p>
+</blockquote>
+<p>Nažalost, mnogi od tih predmeta me vrlo brzo "razoružaju" time &scaron;to mi umjesto sitematizacije prije nude "zbrkizaciju".</p>
+<p>E ovaj članak bezpovratno prelazi u čar&scaron;af ... ali dobro. Za one najupornije,&nbsp; idemo dalje ...</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>"Zbrkizacija" u predmetu "Uvod u baze podataka"</strong></span></p>
+<p>Jedno&nbsp; od mojih prvih pitanja bila je definicija pojma <a href="http://en.wikipedia.org/wiki/Database">baze podataka</a>:</p>
+<blockquote class="posterous_short_quote">
+<p>Baza podataka je skup međusobno zavisnih i/ili nezavisnih podataka koja može biti organizovana ili ne organizovana(*): klasična ili digitalna.</p>
+</blockquote>
+<p>Ovo je po meni sasvim pogre&scaron;na definicija. Zbunjujuće. Svaki atribut u definiciji prati i njegov antonim. Pa &scaron;ta se onda time defini&scaron;e ?! Ni&scaron;ta.</p>
+<p>Svrha definicije je da istakne ono &scaron;to taj pojam izdvaja od drugih.</p>
+<p>Ovo bi mogla biti defiinicija skupa podataka, ili jednostavno podataka. Termina database mene (a vidim na wikipediji i većinu svijeta) asocira na <strong>uređeni</strong> skup podataka. &nbsp;</p>
+<p>Zato ovu "definiciju" označavam kao <em><span style="text-decoration: underline;">zbrkizacija No1</span></em>.</p>
+<p>Asistentica je kasnije rekla da ovo nije materijala predavanja nego vježbi, te da ona na te materijale nema uticaj. Na to sam upitao:</p>
+<blockquote class="posterous_short_quote">
+<p>Pa ko ima ?!</p>
+</blockquote>
+<p>Ah da ... materijali Uvoda u baze imaju taj problem. Nisu dobro označeni. Na DL sistemu kod pretrage materijala postoji selekcija Predavanja/Vježbe/Workshop. Kod UBP materijala niz materijala iz vježbi su označeni kao "Predavanja".</p>
+<p>Po&scaron;tovane kolege, uzmite materijale kolege Denisa sa Programiranja (PR1, PR2). Zaglavlje svakog materijala počinje sa Vježba/Workshop No taj i taj.</p>
+<p>Nama DL (distance learning) studentima, koji smo redovno "kampanjci", to nije nebitno.</p>
+<p>Bez obzira na čitaoca, materijali moraju imati sistem označavanja koji će omogućiti da se iz hrpe tih materijala na stolu jednostavno napravi uređen set podataka - baza podataka :)</p>
+<p>Dolazim do moje asocijacija No2, vezano za baze podataka: <strong>RED</strong>.</p>
+<p>Materijali UBP-a su u popriličnom neredu.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Pismenost</strong></span></p>
+<p>Asistentica Emina je vezano za seminarski rad rekla jednu stvar:</p>
+<blockquote class="posterous_medium_quote">
+<p>Ja puno polažem na "pismenost". Vi kao budući inžinjeri morate znati napraviti dokumentaciju projekta. Često vidim odličnu bazu ili odličan program koji nije dokumentovan ... Ja znam da vi mislite da dokumentacija nije , ali mi na to puno polažemo ...</p>
+</blockquote>
+<p>Po&scaron;tovana asistentice, ja ne da dijelim va&scaron;e mi&scaron;ljenje da je pismenost bitna, nego smatram da atribut "odlična" ne ide uz bazu ili program koji nije dokumentovan.</p>
+<p>Ako dijelimo mi&scaron;ljenje o tome da je pismenost bitna, siguran sam da smo takođe saglasni da nastavni materijali trebaju biti primjer pismenosti.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Preciznost</strong></span></p>
+<p>U istom materijalu sam na&scaron;ao ovo:</p>
+<p><em>Baze podataka susrećemo svugdje:</em></p>
+<ol>
+<li><em>web mail sistemi (hotmail, gmail, yahoo ...)</em></li>
+<li><em>web portali</em></li>
+<li><em>FIT online DL servisi</em></li>
+<li><em>online kupovina (amazon ebay...)</em></li>
+<li><em>itd ...</em></li>
+</ol>
+<p>Onda sam se prisjetio da u sam u jednoj skripti&nbsp; koja kruži među studentima, a vezano za praksu UBP-a teorije na&scaron;ao ovo pitanje:</p>
+<p>Danas je te&scaron;ko osmisliti bilo koji IS koji iza sebe ima neku vrstu baze sa podacima. Međutim, da li sve navedeno ima u pozadini relacionu bazu podataka:</p>
+<ol>
+<li><em>web mail servisi</em></li>
+<li><em>online zajednice (portali, forumi)</em></li>
+<li><em>FIT online servisi</em></li>
+<li><em>POS kasa</em></li>
+<li><em>MS Excel</em></li>
+<li><em>MS Access</em></li>
+<li><em>Bankonmat</em></li>
+</ol>
+<p>Usporedbom sa materijalom, pretpostavljam da se očekuje odgovor: "Uljez je MS Excel"(***)</p>
+<p>Odgovor međutim nije tačan.</p>
+<p>Tačan je odgovor za stavke 1, 2, 4, 7 je:</p>
+<blockquote class="posterous_short_quote">
+<p>Zavisi od implementacije. U navedenim rje&scaron;enjima se podaci najče&scaron;će pohranjuju u relacijsku bazu podataka.</p>
+</blockquote>
+<p>Između pitanja i odgovora ima jo&scaron; jedna nepreciznost: U materijalima se navodi primjeri gdje se susreću baze podataka, a u pitanju se govori o rje&scaron;enjima koje u pozadini imaju <strong>relacionu</strong> bazu podataka. To su dva pojma.</p>
+<p>S druge strane, da je u pitanju bilo navedeno samo baza podataka bez "relaciona", onda uljez ne bi bila spreadsheet aplikacija. Spreadsheet aplikacija radi sa uređenim setom podataka.</p>
+<p>Na ovo pitanje mi je asistentica dogovorila da je i ona par puta predlagala da se ovo pitanje ukloni, ali nije imala saglasnost drugih kolega.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Baza podataka je baza podataka - i u Bosni i u Hondurasu</strong></span></p>
+<p>Kakvo god bilo pitanje, po meni ono mora zadovoljavati sljedeći kriterij:</p>
+<blockquote class="posterous_short_quote">
+<p>Ako poznajem nastavnu temu, bez obzira da li sam čitao nastavne materijale ili ne, formulacija pitanja mora biti takva da pouzdano, bez nagađanja, mogu dati tačan odgovor.</p>
+</blockquote>
+<p>Ja na ovakva pitanja ne mogu pouzdano dati tačan odgovor. A temu poznajem. Znači pitanje ima <strong>"formulacijski bug"</strong>.</p>
+<p>Da ovo pisanje ne bi gre&scaron;kom bilo uzeto kao "neselektivna paljba", želim da napravim jasnu gradaciju:&nbsp; "Uvod u baze podatka" ne stavljam pod istu kapu kao predmete koji su označeni kao <a href="/tag/antiznanje">"antiznanje"</a>. Barem ne jo&scaron;.</p>
+<p>Nedostataka ima, ali se oni mogu otkloniti. Kod predmeta kao &scaron;to su "Uvod u operativne sisteme", "Statistika i vjerovatnoća" to nije moguće. To su predmeti koje treba sve pobrisati pa krenuti od nule sa pitanjem:</p>
+<blockquote class="posterous_short_quote">
+<p>&Scaron;ta su glavni ciljevi ovog predmeta ?</p>
+</blockquote>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Gre&scaron;ke</strong></span></p>
+<p>U materijalu 3 (kod mene označen P-3) postoji skroz taksonomija (kategorizacija):</p>
+<p><em>Tipovi i strukture baze podataka</em></p>
+<ol>
+<li><em>Centralizirana baza podataka - terminalski pristup</em></li>
+<li><em>Client - server pristup</em></li>
+<li><em>Paralelna struktura baze podataka</em></li>
+</ol>
+<p>E ovo je skroz pogre&scaron;no.</p>
+<p>Ovakve taksonomije/kategorizacije (ali nigdje ne&scaron;to ovakvo) se u IT literaturi pominju kod navođenja arhitekture aplikacije. Aplikacija &lt;&gt; Baza podataka.</p>
+<p>Primjer <a href="http://en.wikipedia.org/wiki/Client%E2%80%93server_model">client server modela aplikacije</a>:</p>
+<blockquote class="posterous_short_quote">
+<p>The client-server model of computing is a distributed application structure ...</p>
+</blockquote>
+<p>Tu o bazi podataka ni riječi nema - sasvim opravdano. U data sloju (backend) može da se "vrti" bilo kakva baza podataka, ili nikakva(****)</p>
+<p>&Scaron;to se tiče tačke tri, <a href="http://en.wikipedia.org/wiki/Parallel_computing">"parallel computing"</a> se vezuje opet uz arhitekturu aplikacije - način kako aplikacija vr&scaron;i zahtjevne proračune (sekvencijalno, paralelno).</p>
+<p>Dodatno tačka tri generalno ne pripada ovoj klasifikaciji. Ako bi zanemarili mje&scaron;anje aplikacija - baza podataka, dio ovakve podjele bi najprije bila <a href="http://en.wikipedia.org/wiki/Multitier_architecture">troslojna, odnosno vi&scaron;eslojna aplikacijska struktura</a>. Odakle god krenuo, ovo je <span style="text-decoration: underline;"><em>zbrkizacija No2</em></span>.</p>
+<p>Asistentica je prihvatila moju argumentaciju vezano za ovo, pa mi se zahvalila na korisnoj sugestiji za popravku materijala.&nbsp;</p>
+<p>U istom predavanju, slijedi poglavlje "Modeli podataka". E ono je "grozota" :(!</p>
+<p>Tu ima svega ... nekakvih taksonomija ... pa umetnutih definicija .... pa opet taksonomija. Ama zbrka totalna. Nakon svakog novog čitanja stvar mi je bila sve manje i manje jasna :(.&nbsp; Time dolazimo do <span style="text-decoration: underline;"><em>zbrkizacije No3</em></span>.</p>
+<p>Pitao sam ko je radio ovaj materijal - rekla je: "Profesorica":</p>
+<blockquote class="posterous_medium_quote">
+<p>E pa profesorice: halalite, al' ja ovaj materijal označavam "ni&scaron;ta-ni-sa-čim". A vi provjerite je li razlog taj &scaron;to pripadam manjini koja nije kadra shvatiti ovaj materijal, ili sam jedan od rijetkih koji je bez uspjeha poku&scaron;ao shvatiti ovaj materijal.&nbsp;</p>
+</blockquote>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Relacija poveznika</strong></span></p>
+<p>U materijalu sa naslovom "Model entiteta i poveznika" do&scaron;ao sam do jedne semantičke nelogičnosti:</p>
+<blockquote class="posterous_short_quote">
+<p>Primjer 2.2 .... U tabelama su prikazane odgovarajuće relacije entiteta i relacija poveznika ...</p>
+</blockquote>
+<p>Čitavo vrijeme sam se patio sa translacijom poveznik =&gt; relacija. Gunđao sam u sebi:</p>
+<blockquote class="posterous_short_quote">
+<p>joj &scaron;ta me sa ovom hrva&scaron;tinom "handre" ...</p>
+</blockquote>
+<p>Ne ... nije to zato &scaron;to sam <a href="/bosanski-nacionalista">bosanski nacionalista</a>. Ja to jesam, ali svoj nacionalizam ispoljavam na drugi način.</p>
+<p>Radi se o problemu praktične prirode: ja koristim termine&nbsp; "relacija" umjesto "poveznik", i atribut umjesto "obilježje" zato &scaron;to svakodnevno čitam englesku literaturu (koja opet koristi termine "relation" i "attribute"). Ali koliko go mi to i&scaron;lo na živce - prihvatam.</p>
+<p>Međutim, kada sam nai&scaron;ao na ovu rečenicu moj sistem prevođenja je "čučn'o":</p>
+<blockquote class="posterous_short_quote">
+<p>relacija poveznika =&gt; relacija relacije. Molim ?!</p>
+</blockquote>
+<p>Asistentica mi je objasnila:</p>
+<blockquote class="posterous_short_quote">
+<p>Mi koristimo "relaciona &scaron;ema", ili skraćeno "relacija". Primjer relacione &scaron;eme radnika : RADNIK(mbr, ime, prz, god)</p>
+</blockquote>
+<p>Uzvratio sam:</p>
+<blockquote class="posterous_medium_quote">
+<p>Ok, ali terminologija mora biti <strong>jedinstvena</strong>. Ili koristite relacija ili koriste poveznik. Konstrukcija "relacija poveznika" je semantički besmislena. "Trpate" dvije riječi koje su sinonimi u jednu konstrukciju. To je isto kao da kažem "djelatnikov radnik".</p>
+</blockquote>
+<p>Poku&scaron;aću sada ono &scaron;to se u pomenutim tabelama prikazuje (i čiji mi je sadržaj potpuno jasan) doći do nečega &scaron;to je i u pisanoj formi smislena konstrukcija.</p>
+<p>U wikipedia članku <a href="http://en.wikipedia.org/wiki/Relational_model">"Relational model"</a> se pominje relaciona shema. Shema očekivano označava strukturu podataka. Instanca te sheme su konkretni podaci - uzorak podataka.</p>
+<p>Tabele pokazuju instance (uzorke konkretnih podataka) relacijskih sheme entiteta "radnik", "radno mjesto",&nbsp; te relacije "raspoređen", &scaron;to je bilo vidljivo i na prvi pogled.</p>
+<p>Relacijske sheme su: <strong>Radnik</strong>(ime, prz, god); <strong>Radno_Mjesto</strong>(naz, bri, brb, spr); <strong>Raspoređen</strong>(mbr, naz).</p>
+<p>Instance sheme - tabele uzorci podataka su:</p>
+<ul>
+<li>T1: Radnik( [88, Eva, Pap, 1950],&nbsp; [50, Ivo, Ban, 1950], [01, Mile, Srdanovic, 1960], [81, Muhamed, Konjić, 1970] ) (*****)</li>
+<li>T2: Radno_Mjesto( [Programer, 5, 530, VSS], [Daktilograf, 3, 700, SSS], [Projektant, 3, 700, VSS], [Kurir, 1, 300, NSS])</li>
+<li>T3: Raspoređen( [88, Daktilograf], [01, Programer], [81, Programer])</li>
+</ul>
+<p>E sada kada sam sve ovo lijepo ispisao, poku&scaron;aću napraviti konstrukciju koja ima nema semantički problem:</p>
+<blockquote class="posterous_short_quote">
+<p>Primjer 2.2 .... U tabelama T1-T3 prikazane su uzorci podataka (instance relacijskih shema) za sve entitete i relacije ER dijagrama</p>
+</blockquote>
+<p>E ovo već shvatam ...</p>
+<p>Relacijska shema i instanca relacijske sheme su dvije različite stvari. <strong>Temeljno različite</strong>. Kao &scaron;to su u programiranju klasa i objekat. Radi jasnosti se u&nbsp; izlaganju ove stvari moraju jasno razgraničiti.</p>
+<p>Skraćeni naziv "relacija", a da se pri tome misli na&nbsp; "relacijska shema" nije problematičan ako se ne pominje zajedno sa relacijom kao <strong>elementom ER dijagrama</strong>. Ako se pominje, onda se ne smije ispustiti informacija da se misli na relaciju - element ER dijagrama.</p>
+<p>"Relacija poveznika" je besmislica. Nema te konvencije u kojoj je ovakva konstrukcija prihvatljiva. Ovo <span style="text-decoration: underline;"><em>zbrkizacija No4</em></span>.</p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Rezime</span><br /></strong></span></p>
+<p>Pojmovi i taksonomije (kategorizacije) su bitni elementi usvajanja materije. Ako se njima ne posveti pažnja, postoji velika opasnost da student u materiju uđe "naopako".&nbsp;</p>
+<p>Kako je asistentica Emina rekla: "Pismenost je bitna". Preciznost, jasnost, kvaliteta izražavanja su atributi pismenog materijala.&nbsp;</p>
+<p>Kolege sa UBP-a, potrudite se da nastavni materijali budu primjer pismenosti. To sada nije slučaj.</p>
+<p>---</p>
+<p>(*) tako pi&scaron;e u materijalu, treba "neorganizovana"</p>
+<p>(**) Asistentica Emina na vježbama je bila maksimalno susretljiva. Istinski se trudila da mi objasni &scaron;ta se u materijalima željelo reći.&nbsp;</p>
+<p>(***) Ovdje mi smeta "microsoftalizacija" FIT-a. Ne, ne očekujem da pi&scaron;e: "Gnumeric" ili "Openoffice Calc". Korektno je napisati "Spreadsheet aplikacija" ili "Program za tabelarne proračune" ...&nbsp; ali ovo je posebna tema</p>
+<p>(****) Aplikacija može podatke uzimati iz nekog eksternog web resursa, tako da uop&scaron;te nema sopstvene podatke. U tim situacijama imamo samo ke&scaron; (cache) eksternih podataka, ako&nbsp; je funkcija ke&scaron;iranja implementirana.</p>
+<p>(*****) Kako je kod nas u Bosni sve po nacionalnom ključu, ja sam u odnosu na originalni materijal napravio ispravke - stavio jednog Srbina i jednog Bo&scaron;njaka</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Juče smo imali konsultacije iz predmeta Uvod u baze podataka. Iskoristio sam te konsultacije da pročitam materijale. Kod prošlog čitanja, materijali mi nikako "nisu legli". Tada nisam bio mogao razlučiti da li je taj negativan utisak rezultat...]]></excerpt:encoded>	
+
+	<wp:post_date>Wed Jan 12 03:37:00 -0800 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>uvod-u-baze-podataka-zbrkizacija</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Jan 12 06:57:07 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Wed Jan 12 06:57:07 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Asistentica Emina mi je putem email-a ukazala na drugu definiciju baze podataka:
+
+&gt; Imate u materijalima predavanja i ovu definiciju (P2_Model podataka_10_11):
+
+&gt; &quot;Baza podataka je skup relevantnih podataka za jednu organizaciju koji su organizirani na određeni način tako da među njima postoji određena logička veza&quot;
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Jan 12 06:58:39 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Wed Jan 12 06:58:39 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Da, ima. Uočio sam je. Baš to predavanje sam detaljno u svom članku opisao (zbrkizacija No2, zbrkizacija No3).
+
+Ta definicija je definitivno bolja one koju sam naveo ali mi ni ona ne &quot;odskače&quot; previše&quot;:  nejasna i komplikovana konstrukcija, previše generalizacije.
+
+Svakako možemo uočiti da materijali imaju dvije bitno različite definicije baznog pojma što samo po sebi nije dobro.
+
+Kada sam već toliko &quot;trunio&quot; o definiciji baze podataka, red je da kažem šta bi to po meni bila korektna definicija:
+
+&gt; Baza podataka je organizovani skup podataka. U informatici se pri tome najčešće misli na podatke pohranjenje u digitalnoj formi.
+
+Jednostavna i dovoljno precizna u kontekstu onoga što mi izučavamo.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Jan 12 07:13:19 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Wed Jan 12 07:13:19 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Odlična prezentacija na temu &quot;Entity Relationship&quot; modeling:
+
+http://www.scribd.com/doc/7500847/entity-relationship-diagram
+
+u ovom materijalu se koristi &quot;Candidate key&quot; - atribut ili kombinacija atributa koji jedinstveno određuju svaku instancu nekog entiteta
+
+U našim materijalima se za ovo koristi termin &quot;superključ&quot;. 
+
+Superključ mi je baš nelogičan ... dok mi je &quot;candidat key&quot; od prve &quot;leglo&quot; - kandidat za primarni ključ (odnosno &quot;identifier&quot;, termin koji se u gornjem materijalu koristi) 
+
+Siguran sam da naši nastavnici nisu izmislili termin &quot;superkey&quot;, ali &quot;kvaka&quot; dobre terminologije jeste odabir pojmova koji ljudima najbolje &quot;ulaze u glavu&quot; .
+
+Kvalitetna, konzistentna terminologija je bitna. 
+
+Iz tog razloga svaki ozbiljniji projekat (bio on informatički ili ne) sadrži riječnik termina - glossary. 
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Jan 12 07:58:14 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Wed Jan 12 07:58:14 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Gerund or Associative Entity.
+
+Gerund je bio termin koji sam prvi put u životu čuo ...
+
+U ovom materijalu sam našao odlične primjere za taj gerund, i ono što ću definitivno lakše zapamtiti: &quot;Associative Entity&quot;.
+
+http://www.siue.edu/~dbock/cmis450/3-ermodel.htm
+
+Evo i jednostavne forme identifikacije asocijativnog entiteta:
+
+&gt; if a relationship has attributes (intersection attributes), then you may have an associative entity or gerund.
+
+sada sam i u wikipediji našao ovaj termin: http://en.wikipedia.org/wiki/Associative_Entities
+
+U tom članku piše:
+
+The following guidelines may be used when considering the use of an associative entity:
+* All relationships for the associative entity should be many.
+* The associative entity could have meaning independent of the other entities.
+* The associative entity preferably has a unique identifier, and should also have other attributes.
+* The associative entity may participate in relationships other than the entities of the associated relationship.
+
+Asocijativni entitet ER modela  korelira sa junction (spojnim) tabelama u relacijskom modelu:
+
+http://en.wikipedia.org/wiki/Junction_table
+
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Wed Jan 12 08:04:38 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Wed Jan 12 08:04:38 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[U našim materijalima pod naslovom &quot;Heuristička uputstva za projektovanje modela realnog sistema putem ER modela&quot;, tačka 7 kaže:
+
+&gt; 7. Potreba takvog *selektivnog* povezivanja entiteta tri ili više skupova, kod kojeg u vezi mogu učestovati samo entiteti, koji su već u nekakvoj drugoj vezi sa entitetima jednog (ili više) drugih skupova, ukazuje na neophodnost korištenja gerunda, kao modela tih drugih veza
+
+E sada sam se baš sjetio da sam nakon ove rečenice, kada sam pripremao 1. parcijalne rekao: &quot;na UBP neću izaći, ja ovo ništa ne kontam&quot;.
+
+Evo sam ponovo pročitao i ovu rečenicu par puta i opet isto: &quot;Ništa ne kontam&quot;.
+
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Fri Jan 28 10:41:18 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Fri Jan 28 10:41:18 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[&gt; &quot;Candidate key&quot; ... U našim materijalima se za ovo koristi termin &quot;superključ&quot;. 
+
+Nisam u pravu.
+
+Evo sada čitam ponovo UBP materijale i postoje dva termina:
+1) super-ključ koji predstavlja podskup atributa koji jednoznačno identificiraju svaki član iz skupa entiteta
+
+2) kandidati za ključ kao minimalni  podskupovi atributa koji su takođe super-ključ
+
+primjer: student( jmbg, br_index, ime, prezime)
+
+super-ključevi: jmbg, br_index, jmbg+br_index, jmbg+ime, jmbg+br_index+ime, ...
+
+iz gornjeg skupa superključeva kandidati za ključ:
+jmbg, br_index
+
+za primarni ključ odabiremo jedan od kandidata za klljuč zavisno od onoga što smatramo prikladnijim u kasnijoj primjeni.
+
+tako recimo, u skupu entiteta &quot;studenti&quot; sigurni smo da za svaki element tog skupa možemo biti sigurni da ćemo imati br_indeksa, a da nam podatak jmbg neće biti dostupan. tada biramo br_indeksa za primarni ključ entiteta. 
+
+
+ ]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

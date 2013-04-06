@@ -1,0 +1,85 @@
+<item>
+	<title>Spreadsheet, trodimenzionalne reference</title>
+	<link>http://hernad.bring.out.ba/spreadsheet-trodimenzionalne-reference</link>
+	<pubDate>Sat Nov 27 02:25:00 -0800 2010</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="bosna"><![CDATA[bosna]]></category>
+	
+		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+	
+		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+	
+		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
+	
+		<category domain="tag" nicename="sistem"><![CDATA[sistem]]></category>
+	
+		<category domain="tag" nicename="software_piratstvo"><![CDATA[software_piratstvo]]></category>
+	
+		<category domain="tag" nicename="spreadsheet"><![CDATA[spreadsheet]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/spreadsheet-trodimenzionalne-reference</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Čitam knjigu "Statistika uz pomoć Excela" od Murata Pra&scaron;e i najvi&scaron;e me nervira &scaron;to se "dočep'o" isključivo Microsoft Excela.</p>
+<h2>FIT nastava, mjesto za reklamiranje Microsoft proizvoda</h2>
+<p>Za&scaron;to jednostavno nije knjigu obradio Kao "Statistika uz pomoć <a href="http://en.wikipedia.org/wiki/Spreadsheet">spreadsheet aplikacija</a> (*) ?</p>
+<p>Da se razumijemo: da je knjiga namjenjena za slobodno trži&scaron;te - nikakav problem. Autor može da obrađuje &scaron;ta god želi.</p>
+<p>Međutim ova <strong>knjiga je nastavno učilo</strong>.</p>
+<p><!--more--></p>
+<p>da je knjiga Naravno, autoru zamjeram na autoru i alati isključivo zato &scaron;to se knjiga koristi kao</p>
+<p>Ovakav pristup obradi gradiva se ne bi smio upotrebljavati u javnim obrazovnoj ustanovama. MS Excel je proizvod i brend jedne firme. Fakultet ne smije biti mjesto promocije pojedinačnih proizvođača.</p>
+<p>Sa druge strane, siguran sam da se svi problemi koji se na ovom predmetu obrađuju mogu bez ikakvog problema rije&scaron;avati koristeći Openoffice Calc(**).</p>
+<p>Kako god bilo, na str. 43 knjige se pominje trodimenzinalna referenca:</p>
+<blockquote class="posterous_short_quote">
+<p>Trodimenzionalne 3D reference se koriste kad se žele analizirati podaci na istim ćelijama ili njihovoj seriji iz vi&scaron;e radnih listova unutar radne knjige</p>
+</blockquote>
+<h2>Terminologija</h2>
+<p>Uh .. Al' ja ovu bosansku terminologiju te&scaron;ko razumijem.</p>
+<p>Meni bi bilo puno lak&scaron;e razumjeti:</p>
+<blockquote>
+<p>3D reference se koriste kada se žele analizirati podaci na ćelijama ili <span style="color: #ff0000;">rangu</span> ćelija iz vi&scaron;e <span style="color: #ff0000;">sheet</span>-ova jednog <span style="color: #ff0000;">spreadsheet dokumenta</span>.</p>
+</blockquote>
+<p>Za mnoge pojmove u informatici engleski termini su "zakon". Ti termini su koji su toliko uvriježeni u komunikacji da će mnogim korisnicima (bez obzira da li govore engleski ili ne)&nbsp; biti jasnije kada se kaže "download" umjesto "preuzimanje", "fajl" umjest "datoteka", "sheet" umjesto "radni list", "calc/excel/spreadsheet dokument",&nbsp; umjesto "radna knjiga". Ja pripadam ovoj grupi korisnika.</p>
+<p>Razlika u terminologiji međutim nije samo stvar ukusa. Ona za mene ima i praktične implikacije: kada čitam ovaj tekst ja non-stop radim prevod sa autorove na uobičajenu terminologiju. Kao da čitam starni tekst na nepoznatom jeziku.</p>
+<p>Sigurno čitaoc koji nema ranija znanja sa ovim nema problem. Ali on će imati problem pri samostalnom kori&scaron;tenju ovih aplikacija. Ova terminologija se jednostavno unutar aplikacija ne koristi.</p>
+<h2>Spreadsheet 3D referenca</h2>
+<p>Kao primjer se pominje formula SUM(Sheet2:Sheet13!B5) koja izračunava zbir ćelija B5 svih ovih sheet-ova. Ja to nikada nisam koristio, a sintaksa mi je generalno bila rogobatna, pa me zainteresovalo kako (i da li) to&nbsp; radi u programu koji svakodnevno koristim - OO Calc-u.</p>
+<p>Vrlo brzo sam do&scaron;ao do rje&scaron;enja:</p>
+<p><strong>Openoffice</strong>: Saberi sve ćelije za Sheet1, Sheet2, Sheet3 iz opsega A1:B1</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong><span style="color: #993300;">=SUM(Sheet1.A1:Sheet3.B1)</span></strong></p>
+<p>Ali kako to radi u MS excel ? Iz autorovog primjera to nisam mogao odmah skontati(***) pa sam jednostavno uradio sljedeće: Save as MS excel u openoffice-u i otvorio u excel-u(****).</p>
+<p><strong>Excel</strong>, dobio sam sljedeće:</p>
+<p>&nbsp;&nbsp;&nbsp; <strong><span style="color: #993300;">=SUM(Sheet1:Sheet3!A1:B1)</span></strong></p>
+<p>Aha ... znači iza "!" se može navesti takođe rang.</p>
+<p>Openoffice sintaksa je definitivno logičnija i intuitivnija.</p>
+<p>---</p>
+<p><span style="font-size: xx-small;">(*) ili aplikacije za tablearne proračune ako treba po bosanski</span></p>
+<p><span style="font-size: xx-small;">(**) A razlika je drastična: Calc = 0$, Excel = 50-60$(*). </span><span style="font-size: x-small;">Excel se uvijek prodaje unutar nekog od MS Office paketa, tako da njegova pojedinačna cijena nije poznata.</span></p>
+<p><span style="font-size: xx-small;">Zanemarivanje ove činjenice je indirektna podr&scaron;ka softverskom piraststvu.</span></p>
+<p><span style="font-size: xx-small;">Na stanovi&scaron;tu sam da FIT postojećom organizacijom nastavnog gradiva upravo&nbsp; to čini. Procjenjujem da skoro svi studenti&nbsp; koriste piratske kopije MS office-a (izuzetak su vjerovatno samo oni kojima su firme nabavile licencirani software). Igorisanje ove činjenice je potkopavanje sopstvene struke. Ako studenti informatike ne ne po&scaron;tuju intelektualno vlasni&scaron;tvo, pa ko će onda po&scaron;tovati !?</span></p>
+<p><span style="font-size: xx-small;">Generalno na FIT-u ima taj problem &scaron;to se predmeti obrađuju isto ko da je FIT Microsoft workshop, a ne javna ustanova.</span></p>
+<p><span style="font-size: xx-small;">(***) odmah nakon prvog primjera u knjizi postoji obja&scaron;njenje za rang, ali ja sam požurio sa testom u OO-u pa sam tek kad sam ovaj članak već ispisao vidio da je naredni primjer za rang ćelija u vi&scaron;e sheet-ova&nbsp; <br /></span></p>
+<p><span style="font-size: x-small;">(****) Radi pripreme ispita sam na jednu virtualbox Windows Vista sesiju instalirao MS Office proffesional 2010. Trial verzija traje 60 dana. Valjda će mi biti dovoljno da spremim ove ispite.</span></p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Čitam knjigu "Statistika uz pomoć Excela" od Murata Praše i najviše me nervira što se "dočep'o" isključivo Microsoft Excela. FIT nastava, mjesto za reklamiranje Microsoft proizvoda Zašto jednostavno nije knjigu obradio Kao "Statistika uz pomoć spr...]]></excerpt:encoded>	
+
+	<wp:post_date>Sat Nov 27 02:25:00 -0800 2010</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>spreadsheet-trodimenzionalne-reference</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

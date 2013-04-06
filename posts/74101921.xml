@@ -1,0 +1,71 @@
+<item>
+	<title>&quot;Pije li vode&quot; OSS ERP software u Bosni - OpenBravo</title>
+	<link>http://hernad.bring.out.ba/pije-li-vode-oss-erp-software-u-bosni-openbra</link>
+	<pubDate>Wed Oct 05 02:09:00 -0700 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="business"><![CDATA[business]]></category>
+	
+		<category domain="tag" nicename="erp"><![CDATA[erp]]></category>
+	
+		<category domain="tag" nicename="it"><![CDATA[it]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/pije-li-vode-oss-erp-software-u-bosni-openbra</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>U&nbsp;<a href="http://hernad.bring.out.ba/pije-li-vode-open-source-erp-software-u-bosni">prvom dijelu</a>&nbsp;sam naveo motive i kriterija za odabir open source (nadalje OSS) ERP software-a.</p>
+<p>Ovdje ću iznijeti svoja dosada&scaron;nja iskustva sa OpenBravo ERP-om.</p>
+<p><em><span style="text-decoration: underline;">Napomena: mnoge konstatacije ovdje navedene nisu do kraja provjerene ili su rezultat mojih subjektivnih dojmova. Ako sam ne&scaron;to pogrije&scaron;io, biću zahvalan na komentarima koji će ukazti na neispravnosti.</span></em></p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Istorija</strong></span></p>
+<p>OpenBravo je kao i Adempiere Compiere fork. OpenBravo je "forkiran" prije Adempiere-a.</p>
+<p>Sjećam se da sam čitao članak autora Compiere-a gdje o pokretačima OpenBravo projekta govori malte ne kao o ucjenjivačima. Oni su valjda u to vrijeme napravili nadogradnje web interfejsa i tražili od Compiere-a pare. Ovi na to nisu pristali, te su napravili svoj fork. Tada&scaron;nja licenca Compiere-a je bila MPL(*), &scaron;to je bilo naklonjeno nakanam OpenBravo tima.</p>
+<p><!--more--></p>
+<p>Vjerovatno je radi toga Compiere sa MPL i pre&scaron;ao na GPL licencu.</p>
+<p>OpenBravo (nadalje OB) je napravio dobar posao sa &scaron;panskim državnim institucijama. To su valjda bile njihove prve instalacije.</p>
+<p>Ono OB definitivno krasi jeste <strong>dobar marketing</strong>. Kada odete na njihove stranice doista imate utisak da se radi o profesionalnom i kompletnom proizvodu.</p>
+<p>U proteklim godinama imali su jake finansijske <a href="http://en.wikipedia.org/wiki/Venture_capital">VC</a>&nbsp;"injekcije".</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Tehnologija</strong></span></p>
+<p>Prateći Adempiere forume, pročitao sam dosta mi&scaron;ljenja da se ispod lijepog OB interfejsa krije zastarjeli engine, da OB puno ulaže na "&scaron;minku" korisničkog interfejsa i marketing ali da je puno toga daleko od razrađenog i usavr&scaron;enog.</p>
+<p>Stvari su se tu po mnogim pitanjima zasigurno promijenile. OB community stranice su pune kvalitetnih developerskih članaka. Sve je to puno organizovanije i ažurnije nego li kod Adempiere-a. Svakako se vide pozitivni efekti corporate politike OB-a.</p>
+<p>Na OB developerskim sadržajima se dosta pominje <a href="http://en.wikipedia.org/wiki/Domain-driven_design">DDD</a>&nbsp;te uvođenje modenih java tehnologija (abstrakcija database layer-a sa java POJOs i slično) u novu treću verziju OB-a.</p>
+<p><span style="text-decoration: underline;"><strong>Kad se sve to sastavi ... moj feeling</strong></span></p>
+<p>Prije dvadesetak dana sam instalirao OB. Spoor. Najveći potro&scaron;ać memorije do sada ...</p>
+<p>Korisnički interfejs jeste dotjeran u odnosu na Adempiere ... samo tako. Sve to izgleda veoma privlačno. Ali ... ja i dalje vidim jedan generički pristup record, document ?!</p>
+<p>To interfejs čini i dalje poprilično <strong>neintuitivnim</strong>.</p>
+<p>Imam dojam Njihova web-only klijent strategija je urodila plodom. Oni stvarno imaju primamljiv korisnički interfejs. Lijepi SVG/HTML grafovi "frcaju". Stvarno je tu puno posla napravljeno.</p>
+<p>Ali od one revolucije ispod haube ja i dalje ne vidim puno. PostgreSQL baza ima 700 i kusur tabela. Vidim i dalje ono more Application dictinonary tabela ...</p>
+<p>Hm sve mi to izgleda kao stara stvar umotana u ukrasni celofan. Kad odmota&scaron;, opet je to ona ista stara stvar.</p>
+<p>U pregled OB-a sam uložio najmanje vremena.</p>
+<p>Vjerovatno zato &scaron;to nakon to malo utro&scaron;enog vremena nisam vidio nikakav kvantni skok u odnosu na Adempiere. Korisnički interfejs jeste bitan. Ali oni "ispod haube" je podjednako bitno.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Licenca</strong></span></p>
+<p>Licenca je OpenBravo public license. Radi se o modifikovanoj MPL licenci kod koje je na korisnički interfejs bitno dodati referencu na OB kao originalnog proizvođača software-a.</p>
+<p>Kao takva, licenca je sasvim ok.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Poslovni model</strong></span></p>
+<p>OB ima veliki community. Međutim stekao sam dojam da se jedini pravi posao i značajne instalacije OB-a de&scaron;avaju unutar mreže partnera.</p>
+<p>Community verzija je "oklja&scaron;trena" - umanjenih funkcija. Istaknuti primjer je integracija sa njihovim POS proizvodom. POS je takođe OSS software (GPL licenca) ali je integracija između OB-a i OB POS-a zatvoreni software.</p>
+<p>Ako je to tako, onda nekih značajnih razlika u odnosu na biznis modele viđene kod distribucije proprietary software-a nema.</p>
+<p><span style="color: #ff0000;"><strong>Naime, ako ja kao partner OB-a isključivo distribuiram plaćene verzije OB-a onda ja nisam vendor open source software-a nego &nbsp;<span style="text-decoration: underline;">vendor zatvorenog software-a</span> koji ima OSS verziju ... koju niko ne koristi.</strong></span></p>
+<p>---</p>
+<p>(*) Odabir licence u OSS projektu je veoma bitan !</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[U prvom dijelu sam naveo motive i kriterija za odabir open source (nadalje OSS) ERP software-a. Ovdje ću iznijeti svoja dosadašnja iskustva sa OpenBravo ERP-om. Napomena: mnoge konstatacije ovdje navedene nisu do kraja provjerene ili su rezultat m...]]></excerpt:encoded>	
+
+	<wp:post_date>Wed Oct 05 02:09:00 -0700 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>pije-li-vode-oss-erp-software-u-bosni-openbra</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

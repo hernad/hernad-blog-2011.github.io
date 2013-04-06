@@ -1,0 +1,101 @@
+<item>
+	<title>Politika zapošljavanja i poslovne saradnje u &quot;open source&quot; svijetu</title>
+	<link>http://hernad.bring.out.ba/radno-mjesto-u-bringout</link>
+	<pubDate>Tue Oct 11 02:27:00 -0700 2011</pubDate>
+	
+	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+	
+		<category domain="tag" nicename="business"><![CDATA[business]]></category>
+	
+		<category domain="tag" nicename="oglas_posao"><![CDATA[oglas_posao]]></category>
+	
+		<category domain="tag" nicename="opensource"><![CDATA[opensource]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://hernad.bring.out.ba/radno-mjesto-u-bringout</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Juče sam putem facebook-a dobio jedno pitanje:</p>
+<blockquote class="posterous_short_quote">
+<p>Ernade, imate li otvorenih pozicija u "bring.out" ?</p>
+</blockquote>
+<p>Krenuo sam da odgovorim ... ali sam onda zastao. To &scaron;to imam reći po ovom pitanju definitivno ne mogu napisati u jednoj rečenici.</p>
+<p>Formalno otvorenih pozicija nemamo. U ovom trenutku čitava firma je mobilisana na pripremi knowhow P1(*). Pri tome, ove aktivnosti predstavljaju podlogu za za <a href="http://redmine.bring.out.ba/issues/24644">"backend" mobilne prodaje</a>.</p>
+<p>Međutim, kako sam to već&nbsp;<a href="http://hernad.bring.out.ba/kako-knowhow-san-pretvoriti-u-stvarnost">ranije procijenio</a>, potrebe firme za kadrovima su veće nego ikada do sada.&nbsp;</p>
+<p><!--more-->To je lijepa strana medalje.&nbsp;"Ružna" strana je taj da je posao koji radimo zahtjevan. Kadrove koje trebamo je te&scaron;ko naći.</p>
+<p>Na&scaron;a posljednja <a href="http://hernad.bring.out.ba/konkurs-za-posao-email-filter-100">potraga za radnicima</a>&nbsp;je bila totalni fjasko. Kada se tome doda da se radilo o poslovima najnižeg stepena složenosti (serviser), kako tek naći prave ljude za poslove razvoja ?!</p>
+<p>Ključni faktor na&scaron;e politike <a href="http://hernad.bring.out.ba/mursel-i-totalno-otvaranje-bringout">otvorenosti</a> jeste nastojanje da olak&scaron;amo razmjenu informacija van granica firme.</p>
+<p>Takva politika opet treba otvoriti opcije&nbsp;<strong>saradnje</strong>&nbsp;sa firmama koje rade na sličnim stvarima i podržavaju slične koncepte rada. Firme koje otvorenost vide kao &scaron;ansu a ne (samo) kao opasnost.</p>
+<p>Međutim, kako se otvara mogućnost saradnje sa drugim firmama, tako se naravno i pruža mogućnost saradnje sa pojedincima.</p>
+<p>Mislim da je golema stvar činjenica da bilo ko, bez ikakvih administrativnih zavrzlama i posebnih dopu&scaron;tenja, može pogledati na&scaron;e&nbsp;<a href="http://redmine.bring.out.ba/projects">projekte</a> i reći:</p>
+<blockquote class="posterous_short_quote">
+<p>Hej, meni se sviđa ovo &scaron;to ovi ljudi rade. Ja bih volio/la ovdje raditi.&nbsp;</p>
+</blockquote>
+<p>A onda, ako dođe do takvog zaključka, može opet bez ikakvog ograničenja "proći" sve na&scaron;e <strong>aktuelne</strong> aktivnosti "surfanjem" po redmine-u, &nbsp;pregledom članaka na na&scaron;em&nbsp;<a href="http://do-we-know-how.bring.out.ba">blogu</a>.</p>
+<p>Ako mu se i nakon tog drugog prolaza svidi ono &scaron;to bring.out radi, neka otvori&nbsp;github account, <a href="http://do-we-know-how.bring.out.ba/moj-prvi-github-pull-request">"forkira"</a>&nbsp;projekte koji mu se učine interesantnim (<a href="https://github.com/bringout-fmk">knowhow</a>, <a href="https://github.com/bringout-fmk">fmk</a>). &nbsp;</p>
+<p>To je najbolji način da se upoznamo.</p>
+<p>To je način na koji bring.out u budućnosti ima namjeru raditi zapo&scaron;ljavanje tehničkih kadrova.</p>
+<p>Putem gitview-a i redmine view-a :). To će nam reći o vama od sto na&scaron;minkanih CV-ova.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Jel' to neko lud ovdje ?!</strong></span></p>
+<p>Postavlja se sasvim logično pitanje:</p>
+<blockquote class="posterous_short_quote">
+<p>Ko je lud da se toliko muči da nađe posao u tamo nekoj nepoznatoj "firmici" kakav je "bring.out" ?</p>
+</blockquote>
+<p>Ja sam već ranije jasno rekao da tražimo <a href="http://hernad.bring.out.ba/drzavo-pomagaj">blentave</a> ljude.</p>
+<p>Princip kompatibilnosti kaže da ljudi funkcioni&scaron;u samo u srodnom okruženju: blentavi sa blentavim, otvoreni sa otvorenim ... &nbsp;</p>
+<p>Mi smo otvaranjem izvornog koda svih na&scaron;ih projekata,&nbsp;jasno rekli da su blentavost i ovorenost dio identiteta bring.out a ne neki marketin&scaron;ki fol.</p>
+<p>Tražimo one do takvih stvari drže.</p>
+<p>Tražimo one koji mogu prepoznati pozitivne stvari takvog pristupa.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>&Scaron;ta je za vas "open source" ?</strong></span></p>
+<p>Tražimo one kojima asocijacija na "open source" software NIJE samo:</p>
+<blockquote class="posterous_short_quote">
+<p>"software koji je džaba", "tuđi rad koji mogu iskoristiti za sebe".</p>
+</blockquote>
+<p><span style="text-decoration: underline; color: #ff0000; font-size: medium;"><strong>Tražimo one koji "open source" software razumijevaju kao medij za komunikaciju i učenje, kao način da se dođe do DOBROG software-a.</strong></span></p>
+<p><span style="text-decoration: underline;"><strong><span style="font-size: medium;">Zar je ovo bitno za uposlenika bring.out !?</span></strong></span></p>
+<p>Bitno je.&nbsp;</p>
+<p>Ako želimo biti pravi open source IT provajder, onda takvom pitanju treba i kroz politiku zapo&scaron;ljavanja treba dati potrebnu pažnju.</p>
+<p>Stoga istinsko razumjevanje "open source"-a od danas i zvanično postaje eliminirajući faktor &nbsp;za zapo&scaron;ljavanje u na&scaron;oj firmi.</p>
+<p>Zato, ako neko želi da se zaposli u bring.out prvo treba pogledati &scaron;ta mi radimo.</p>
+<p>To svako na dunjaluku &nbsp;može jednostavno vidjeti:</p>
+<blockquote class="posterous_short_quote">
+<p>Ukucaj u svoj browser <a href="http://redmine.bring.out.ba/projects">http://redmine.bring.out.ba/projects</a> i "opleti" !</p>
+</blockquote>
+<p>Kada vidi&scaron; &scaron;ta mi to radimo, sigurno će&scaron; brzo skontati nalazi&scaron; li sebe u toj priči ili ne nalazi&scaron;.</p>
+<p>---</p>
+<p>(*) Moji prijedlozi sa posljednjeg <a href="http://hernad.bring.out.ba/kasnjenje">sastanka</a> su prihvaćeni, P1 treba pripremiti do kraja oktobra.</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Juče sam putem facebook-a dobio jedno pitanje: Ernade, imate li otvorenih pozicija u "bring.out" ? Krenuo sam da odgovorim ... ali sam onda zastao. To što imam reći po ovom pitanju definitivno ne mogu napisati u jednoj rečenici. Formalno otvor...]]></excerpt:encoded>	
+
+	<wp:post_date>Tue Oct 11 02:27:00 -0700 2011</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>radno-mjesto-u-bringout</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<!-- <wp:comment_id>5</wp:comment_id> -->
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_date>Mon Oct 24 00:09:54 -0700 2011</wp:comment_date>
+			<wp:comment_date_gmt>Mon Oct 24 00:09:54 -0700 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://redmine.bring.out.ba/issues/24926]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

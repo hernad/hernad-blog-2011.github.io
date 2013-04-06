@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<link href='../../../exports.css' rel='stylesheet'>
+<link href='../../../exports.css' rel='stylesheet'>
+
+</head>
+<body>
+<div id='wrap'>
+<div id='header'>
+<h1>hernad</h1>
+<h2>This is an archived post
+This is an archived post
+</h2>
+</div>
+<div id='content'><div id='nav'>
+<a href="../../../posts/2011/03/racunarske-mreze-case-study-projektant-ili-po.html">Previous</a>
+&nbsp; 
+<a href="../../../index-9.html">Index</a>
+&nbsp; 
+<a href="../../../posts/2011/02/guru-za-sistem.html">Next</a>
+</div>
+<div class='post'>
+<div class='post_header'>
+<h3>Uvod u baze podataka, integralni</h3>
+<div class='post_info'>
+<span class='post_time'>February 14 2011,  3:29 PM</span>
+<span class='author'>&nbsp;by Ernad Husremović</span>
+</div>
+</div>
+<div class='post_body'><p>Nikako da ispi&scaron;em članak o UBP-u(*), koji je ujedno i zadnji ispit III semestra koji sam polagao. Ovo je jedini ispit koji sam kod prve parcijale <a href="/uvod-u-baze-podataka-1-parcijalni-strategija">preskočio</a>. Ovo je takođe jedini od ispita koji sam prije samih <a href="/fit-iii-semestar-drugi-parcijalni">rokova</a> koliko-toliko i&scaron;čitao.</p>
+<p>UBP je moje najveće razočarenje. Ali, da odmah razjasnim:</p>
+<blockquote>
+<p>UBP nije najbezvezniji ispit na godini, nego je iznevjerio moja  očekivanja. Baze podataka su moje interesno područje. Po mnogo čemu, one su mi interesantnije od <a href="/programiranje-2-drugi-parcijalni">programiranja</a>(**)</p>
+</blockquote>
+<p>Kada sam napisao <a href="/brclanakaofitmostar-a-pb-ptp-pk"><strong>br_clanaka_o_FIT_Mostar = a + b1 *p_b + b2 * p_tp +&nbsp; b3 / p_k </strong></a>, imao sam upravo na umu UBP. UBP ima veoma visok p_b, ali i nizak p_k.</p>
+<p><!--more--><span style="text-decoration: underline; font-size: medium;"><strong>Teoretski i praktični dio, "k'o sjekirom" odsječeno </strong></span></p>
+<p>Tokom spremanja ispita, posebno kod teoretskog dijela, masa stvari mi je stvarala distrakciju. Kod praktičnog dijela, <a href="/uvod-u-baze-podataka-ms-access-je-je-pogresan">"Access"</a> se u zadnjem dijelu(***) pokazao kao dodatni distraktor.</p>
+<p>Sama podjela predmeta na teoretski i praktični dio je neprirodno napravljena. Isto k'o da se nastavnici "teoretičari" i nastavnici "praktičari" ni u putu nisu sreli ...</p>
+<p>&Scaron;to se tiče utiska drugih studenata, tokom odlaska na ispit sam slu&scaron;ao komentare drugih. Ovo je opći dojam drugih studenata:</p>
+<ul>
+<li>Praktični dio je jasan i interesantan. Za razliku od mene druga raja ne vidi nikakav problem u access-u. </li>
+<li>Za teoretski dio postoji opći koncenzus: komplikovan i nejasan. Kori&scaron;tena terminologija, date definicije nikome nisu "sjele".</li>
+</ul>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Spremanje ispita</strong></span></p>
+<p>Ispit sam skroz nakaradno spremao. Access sam tri puta otvorio čisto da upratim gdje se &scaron;ta nalazi. Vi&scaron;e sam vremena proveo u ermaster-u, nego li u access-u. Znao sam da mi to nije dobra strategija za polaganje ispita, ali ja jednostavno imam problem da k'o normalan student radim stvari koje me nit' interesuju, nit' ih smatram odveć korisnim.</p>
+<p>&Scaron;to se tiče teoretskog dijela, na kraju sam "uz more" članaka sa interneta uspio preći gradivo ...</p>
+<p>Bio sam svjestan od početka svjestan da je ova strategija sa stanovi&scaron;ta uspjeha na ispitu <a href="/uvod-u-baze-podataka-konverzija-er-u-r-model">najgora moguća</a>. Većinu vremena sam utro&scaron;io na traganje o tome kako drugi obrađuju osnove baza podataka. Međutim, visok parametar bitnosti (p_b) "vukao" je moj rad u neminovno u ovom smjeru ...</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Ispit</strong></span></p>
+<p>Ispit je trajao dva sahata. Sastojao se od tri teoretska i tri praktična pitanja.</p>
+<p><span style="text-decoration: underline;"><strong>ER diagram =&gt; R shema</strong></span></p>
+<p>Prvo pitanje iz teoretskog dijela je bila konverzija E-R dijagrama u R shemu. Kako sam to na kraju dobro sažvakao (barem mislim da jesam), krenuo sam sa tim zadatkom. Zadatak sam priveo kraju u nekih 50-tak minuta. Već sam osjetio znatan umor.&nbsp;</p>
+<p>Ovaj zadatak je imao praktično dio, koji je zahtjevao da se dobijena R shema prebaci u access.</p>
+<p>Bojeći se za moj standardni problem nedostatka vremena, pitao sam asistenta Jasmina&nbsp; da li da idem na praktični dio (access upiti na <a href="/uvod-u-baze-podataka-pubs-database">pubs bazi</a>). Jasmin mi je preporučio da to ipak ne preskačem.</p>
+<p>Krenuo sam "bocati" po access-u tabele ... Sve je i&scaron;lo dobro do pred kraj. Naime, E-R dijagram je imao <a href="/uvod-u-baze-podataka-mora-li-gerund-biti-sahb">dva asocijativna entiteta (gerunda)</a>. Po sjećanju je to izgledalo ovako(****):</p>
+<p><div class='p_embed p_image_embed'>
+<img src='../../../image/2011/02/21568254-ispit_er.png'>
+</div>
+Oni su uzrokovali kreiranje acocijativnih tabela, koje su sadržale vi&scaron;estruke ključeva. U Access-u isprva nisam mogao naći kako se uop&scaron;te vi&scaron;estruki ključevi prave, ali sam to ipak nekako "naboc'o". Međutim, u accessu nikako nisam znao napraviti obje veze sa tabelom ispit(*****). Nakon 10-15 minuta uzaludnih poku&scaron;aja, ostavio sam zadatak nezavr&scaron;en.</p>
+<p>Ono &scaron;to sam zamislio sam u ermaster-u brzo uradio:</p>
+<p><div class='p_embed p_image_embed'>
+<img src='../../../image/2011/02/21570491-ispiti.png'>
+</div>
+Je li ovo ispravno ? Bio bih zahvalan za komentar nekoga ko je "jak" po ovom pitanju. Je li ovo dobro ? Je li moje neznanje access neznanje ili ja ER -&gt; R ne kontam !?</p>
+<p><span style="text-decoration: underline;"><strong>Access queries x 3</strong></span><span class="o">&nbsp;</span></p>
+<p>Ostatak praktičnog dijela ispita se sastojao u izradi 3 access query-ja.</p>
+<p>Ovo su dva koja se sjećam:</p>
+<p><span class="n">query_1</span><span class="p">:</span> <span class="n">prikazi</span> <span class="n">prodaju</span> <span class="n">za</span> <span class="n">naslove</span> <span class="n">koji</span> <span class="n">sadrze</span> <span class="n">naslov</span> <span class="ss">"Executive"</span> <span class="o">-</span> <span class="n">prodanu</span> <span class="n">kolicinu</span><span class="p">,</span> <span class="n">i</span> <span class="n">ukupnu</span> <span class="n">vrijednost</span> prodaje</p>
+<p><span class="n">query_2</span><span class="p">:</span> <span class="n">prikazi</span> <span class="n">sve</span> <span class="n">zaposlene</span> <span class="n">u</span> <span class="n">formi</span> <span class="ss">"prezime ime"</span> <span class="n">koji</span> <span class="n">su</span> <span class="n">na</span> poslovima   "<span class="n">Manager</span><span class="p">",</span> <span class="n">a</span> <span class="n">kod</span> <span class="n">kojih</span> <span class="n">je</span> <span class="n">grad</span> <span class="n">Berkeley</span> <span class="n">ili</span> <span class="n">prezime</span> <span class="n">po</span><span class="err">č</span><span class="n">inje</span> <span class="n">sa</span> <span class="ss">"B"</span></p>
+<p>Dobra stvar je da je kod svakog query-ja naveden očekivani broj zapisa, tako da student može svoj rezultat prekontrolisati.</p>
+<p>Query_1 sam započeo sa pomisli da to neće biti problem. Ali, moje nepoznavanje access-a zajedno sa umorom dalo je svoj danak. Da budemo po&scaron;teni, prvi faktor je bio presudan.</p>
+<p>U query dizajner sam nabacao tabele koje su mi *mogle* zatrebati. Gre&scaron;ka. To se nikada tako ne radi. Uvijek se kod izrade upita ide tabela po tabela ... Ja sam nabacao &scaron;umu tabela, i počeo klikati. Pravi access krkan :(. Falila mi je jedna pregledna <a href="/uvod-u-baze-podataka-pubs-database">shema na papiru</a>. Accesov ima "relationship" pregled, ali mi on nikako nije pasalo. Non stop sam se prebacivao između tog pogleda query-ja ... Ajoj. Na kraju sam nekako uz pomoć asistenta Jasmina naboc'o prvi query. Međutim, muka kojom sam do&scaron;ao do rezultata me je i zatekla i iscrpila.</p>
+<p>Na drugom query-ju sam jo&scaron; gore zapeo. Trebalo je napraviti OR između dva različita polja. To u query dizajneru access-a ide tako &scaron;to se pojedini kriteriji navode u različitim redovima ... ali ja sam se u tome gubio samo tak'o:</p>
+<blockquote class="posterous_short_quote">
+<p>Dajte mi moj SQL !</p>
+</blockquote>
+<p>vikao sam u sebi. S obzirm da Access ima i SQL view, prebacio sam se u njega sa nadom da ću tako doći do rje&scaron;enja. Ali, njegov izgenerisani SQL je bio totalno nepregledan. Svako polje je uokvireno u zagrade ... to je izraz činilo neupotrebljivim za ručne ispravke. S obzirom da sam se GUI dizajneru osjećao jo&scaron; vi&scaron;e zagubljen, poku&scaron;ao sam uraditi ručnu ispravku na SQL-u - bez uspjeha. Kod svake ručne ispravke dobijao sam "syntax error" - il mi fali neka zagrada il' ih imam vi&scaron;ka. Blokada totalna ... Jasmin mi je ponovo pri&scaron;ao. Ja mu komentari&scaron;em: "Ovo meni definitivno nije familijarno okruženje ...".</p>
+<p>Ranije sam ga upoznao da nisam u ljubavi sa <a href="/uvod-u-baze-podataka-ms-access-je-je-pogresan">access-om kao alatom za UBP</a>. Međutim, to ga nije navelo da mi kaže: "Eto kolega, i access se treba naučiti !". Dapače. Pri&scaron;ao mi je i pomogao da rije&scaron;im zadatak. Bez njegove pomoći bi sigurno bio "trofać".</p>
+<p>Treći query sam nekako sam "skuck'o".</p>
+<p>Ostalo mi je jo&scaron; malo vremena za drugo pitanje iz teorije:</p>
+<p><span style="text-decoration: underline;"><strong>Normalizacija</strong></span></p>
+<p>Ovo je bilo je lagano pitanje. Trebalo je konstatovati kako zadana tabela ne zadovoljava 1NF (vi&scaron;estruku vrijednost), kao ni 2NF (parcijalna funkcionalna ovisnost nezavisnog polja o ključu). Nakon te dvije operacije dekompozicije tabela, dobio sam shemu koja je zadovoljavala 3NF.</p>
+<p><span style="text-decoration: underline;"><strong>ER dijagram na osnovu zadanog teksta</strong></span></p>
+<p>Ovo je bilo zadnje teoretsko pitanje. Nisam ga ni takn'o. Nije bilo vremena. Pojeli ga access queries :(</p>
+<p>&Scaron;teta, mislim da bih ga bez problema rije&scaron;io.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Jesam li tala&scaron;ika za "Access" ili sam generalna tala&scaron;ika za baze podataka ?!</strong></span></p>
+<p>S obzirom na neslavnu epizodu na ispitu, odlučio sam da uradim import pubs podataka u PostgreSQL, pa da testiram svoje znanje na klasičnoj SQL konzoli. Jo&scaron; ranije sam sa ermaster-om napravio <a href="https://github.com/hernad/FIT_UBP/blob/master/ermaster_pubs/pubs.sql">SQL shemu pubs baze</a>.</p>
+<p>Prvo sam sve tabele exportovao u <a href="https://github.com/hernad/FIT_UBP/tree/master/pubs_import">csv format</a>, pa sam sa <a href="https://github.com/hernad/FIT_UBP/blob/master/pubs_import/postgresql_import_notes.txt">PostgreSQL COPY uradio import</a>. <a href="https://github.com/hernad/FIT_UBP/blob/master/pubs_import/postgresql_import_notes.txt#L50">sed unix alat </a>sam iskoristio da csv prebacim na US format <span style="font-size: xx-small;">(^*)</span> &scaron;to PostgreSQL COPY zahtjeva.</p>
+<p>Do željenih rezultata sam do&scaron;ao očekivano brzo - 10-15 minuta po query-ju<span style="font-size: xx-small;">(^**)</span>:</p>
+<p><p><a href="https://gist.github.com/826489">https://gist.github.com/826489</a></p></p>
+<p><p><a href="https://gist.github.com/826487">https://gist.github.com/826487</a></p></p>
+<p>Kada sam do&scaron;ao do rje&scaron;enja, osjetio sam olak&scaron;anje - ipak nisam generalna nego parcijalna - access tala&scaron;ika :)</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Rezultati</strong></span></p>
+<p>"Na guranje", odnosno uz veliku pomoć asistenta Jasmina, dobio sam 6. Ako ne manje - vi&scaron;e definitivno nisam ni zaslužio.</p>
+<p>Jasmine, velika hvala na pomoći.</p>
+<p>Prolaznost na ovom ispitu je bila prilično velika. Ima dosta dobrih ocjena:</p>
+<ul>
+<li>deset(10) x 7</li>
+<li>devet(9) x 3</li>
+<li>osam(8) x 5</li>
+<li>sedam(7) x 10</li>
+<li>&scaron;est(6) x 13</li>
+</ul>
+<p><span style="text-decoration: underline; font-size: large;"><strong>UBP vs Sociologija</strong></span></p>
+<p>Paradoksalno je studenti na predmetu kakav je UBP imaju 3-4 x bolje ocjene nego li na predmetu kakva je <a href="/zamjena-predmeta-sociologija-sa-pravila-poslo">Sociologija</a>. Ima li iko profesoru sa Sociologije reći:</p>
+<blockquote class="posterous_short_quote">
+<p>FIT je skraćenica za "Fakultet informacionih tehnologija", a ne "Filozofija i tako to" !?</p>
+</blockquote>
+<p>Ako nema, evo da mu hernad kaže:</p>
+<blockquote class="posterous_short_quote">
+<p>Podijeli djeci 9-ke i 10-tke a ne tamo neke 6-ce i 7-ce. Raja bi sa "Sociologijom" trebala popravljati, a ne srozavati prosjek !</p>
+</blockquote>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Emir je junak druge parcijale</strong></span></p>
+<p>Vezano za raniju konstataciju, moj <a href="/emir-i-berin-drugi-dio">Emir</a> je iz sociologije dobio 7, a iz UBP-a 10 !</p>
+<p>Emir je inače je sve ispite osim PR2 položio u prvom "cugu". A i za PR2 mu je "zehra" falila ... Nadam se da će uspjeti i njega rije&scaron;iti u drugom roku. S obzirom da je ovaj rezultat postigao i uz činjenicu da se prije par mjeseci zaposlio, želim mu ispred <a href="/racunarske-mreze-priprema-za-ispit">svih sarajevskih DL-ovaca odati priznanje</a>:</p>
+<blockquote class="posterous_short_quote">
+<p>Emire ti si na&scaron; ponos. Samo tako nastavi !</p>
+</blockquote>
+<p>Dok hvalim Emira, Berina moram naružiti:</p>
+<blockquote class="posterous_short_quote">
+<p>Berine, ako mi ubrzo ne javi&scaron; da si se kutaris'o barem OEK-a(^***), mahsuz ću ti posvetiti čitav jedan članak !</p>
+</blockquote>
+<p>---</p>
+<p>(*) UBP - Uvod u baze podataka</p>
+<p>(**) I ovu konstataciju treba uzeti uslovno. Pa i baza podataka se na kraju koristi tako &scaron;to programer "dohvata" podatke.</p>
+<p>(***) Treba naglasiti da je taj dio koji je meni posebno zasmetao nebitan za ispit - rad sa GUI formama se traži u seminarskom radu.</p>
+<p>(****) bilo je tu jo&scaron; niz elemenata ali je ovaj dio sa gerundima najinteresantniji</p>
+<p>(*****) ispit &lt;-&gt; n_predaje_p, ispit &lt;-&gt; p_slusa_s</p>
+<p>(^*) Access radi export u CSV u skladu sa postojećim BH/HR postavkama:&nbsp; 999.999,00. US format je ovaj: 999,999.00</p>
+<p>(^**) nisam znao kako ide SQL concat - brzo sam na internetu na&scaron;ao "||"</p>
+<p>(^***) OEK - Osnove ekonomije</p></div>
+<div class='post_tags'>
+<h4>Tags</h4>
+<div class='post_tags_list'>database, fit_2_godina, fit_mostar, ispit</div>
+</div>
+<div class='post_responses'>
+<h4>19193 views and 7 responses</h4>
+<ul class='post_responses list'>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Feb 15 2011,  2:39 AM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>Što se tiče dileme vezano za "ER diagram => R shema", nisam siguran da sam me sjećanje dobro služi. Ko u magli se sjećam da je tabela ispit imala veze (0..1) sa lijeve i desne strane, tako da sam imao na izbor za primarni ključ odabrati pk lijeve ili desne tabele<p>[n_predaje_p] (id_nastavnik, id_predmet) -- (0..1) -- [&lt;ispit>] --- (0...1) --- [p_slusa_s] (id_student, id_predmet)</p><p>ja sam recimo uzeo uzeo sam za pk tabele ispit: (id_nastavnik, id_predmet)</p><p>baš ću sada pogledati da li bih imao problem sa implementacijom te sheme u ermaster-u</p></div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Feb 15 2011,  2:52 AM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>kako sam očekivao, nisam imao nikakav problem. Jedina stvar je promjena primarnog ključa u generisanom SQL DDL-u:<p><a href="https://github.com/hernad/FIT_UBP/commit/a4bc4664bf17ed039aa3ef8be8a256d40d0aca99#L2L18" rel="nofollow">https://github.com/hernad/FIT_UBP/commit/a4bc4664bf17ed039aa3ef8be8a256d40d0a...</a></p></div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Feb 17 2011,  1:57 PM</div>
+<div class='response_name'>Emir responded:</div>
+</div>
+<div class='response_body'>Pošto nam je Berin trenutno u offline modu   :)<p>OEK rezultati 2010/2011<br />2662     Kalajdžić Berin          6</p></div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Feb 17 2011,  3:04 PM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>E pa znaš kako si me obradovao Emire ... Imaš od mene još jednu vožnju gratis + pogačice na Ostrošcu + sok 1/2 litra.<p>Baš smo te pominjali danas kad sam bio u Distiju. Adisa mi je rekla da si zadovoljan sa PR2 ... hajd još to pa da veselje bude potpuno.</p></div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Feb 17 2011, 11:31 PM</div>
+<div class='response_name'>Emir responded:</div>
+</div>
+<div class='response_body'>PR2 rezultati 2010/2011<br />2663        80  bodova         8<br />Izašli rezultati    :)</div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Feb 18 2011, 12:01 AM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>Ma svaka čast majstore.<p>Izmjena plana: demo aBd na janjetinu !</p></div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Feb 18 2011, 12:28 AM</div>
+<div class='response_name'>Emir responded:</div>
+</div>
+<div class='response_body'>aBd  :)</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
