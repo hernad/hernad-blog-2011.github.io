@@ -8,7 +8,7 @@
 	
 		<category domain="tag" nicename="bosna"><![CDATA[bosna]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
 	
@@ -68,9 +68,10 @@
 	<excerpt:encoded><![CDATA[U jučerašnjem članku sam napisao: Razvoj DOBROG software-a je miks klasičnog inžinjerstva i kreacije. Kada sam ovo pisao, dvoumio sam se da li da napišem "umjetnost" ili "kreacija". Da me ne bi prozivali po čaršiji: "Eno onog umjetnika ......]]></excerpt:encoded>	
 
 	<wp:post_date>Tue Nov 15 00:29:00 -0800 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Tue Nov 15 00:29:00 -0800 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>80199469</wp:post_id>
 	<wp:post_name>software-as-art</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

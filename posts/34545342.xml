@@ -8,7 +8,7 @@
 	
 		<category domain="tag" nicename="bosna"><![CDATA[bosna]]></category>
 	
-		<category domain="tag" nicename="etf"><![CDATA[etf]]></category>
+		<category domain="tag" nicename="ETF"><![CDATA[ETF]]></category>
 	
 		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
 	
@@ -76,12 +76,13 @@
 <p>Brana nas je učila tome da postanemo inžinjeri.</p>
 
 ]]></content:encoded>
-	<excerpt:encoded><![CDATA[Razmišljao sam o tome kako da dam naslov ovome članku. Prvo mi je palo na pamet: “� ta inžinjer treba znati ?”, al' onda sam se sjetio da ja nisam inžinjer pa kako da dijelim drugima savjete :) Svoju ću priču ograničiti na tehničke fak...]]></excerpt:encoded>	
+	<excerpt:encoded><![CDATA[Razmišljao sam o tome kako da dam naslov ovome članku. Prvo mi je palo na pamet: “ ta inžinjer treba znati ?”, al' onda sam se sjetio da ja nisam inžinjer pa kako da dijelim drugima savjete :) Svoju ću priču ograničiti na tehničke fak...]]></excerpt:encoded>	
 
 	<wp:post_date>Tue Jun 15 23:31:00 -0700 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Tue Jun 15 23:31:00 -0700 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>34545342</wp:post_id>
 	<wp:post_name>sta-trebamo-uciti-na-tehnickim-fakultetima</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

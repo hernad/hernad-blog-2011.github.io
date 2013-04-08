@@ -8,11 +8,11 @@
 	
 		<category domain="tag" nicename="bosna"><![CDATA[bosna]]></category>
 	
-		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+		<category domain="tag" nicename="bring.out"><![CDATA[bring.out]]></category>
 	
 		<category domain="tag" nicename="business"><![CDATA[business]]></category>
 	
-		<category domain="tag" nicename="it"><![CDATA[it]]></category>
+		<category domain="tag" nicename="IT"><![CDATA[IT]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -104,9 +104,10 @@
 	<excerpt:encoded><![CDATA[U ranija dva članka sam objasnio koga tražimo, i zašto baš tražimo "IT poletarce" ... Ali koji su to poslovi ? "Dobra" stvar je ta, da gdje god u "bring.out" pogledaš, fali ljudi ... Loša stvar je ta da je posljedica toga u zadnje tri godine imamo...]]></excerpt:encoded>	
 
 	<wp:post_date>Thu Mar 24 07:02:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Thu Mar 24 07:02:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>47193979</wp:post_id>
 	<wp:post_name>bringout-point-of-view-na-erp-biznis</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

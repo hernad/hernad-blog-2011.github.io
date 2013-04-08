@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+		<category domain="tag" nicename="FIT_2_godina"><![CDATA[FIT_2_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -72,9 +72,10 @@
 	<excerpt:encoded><![CDATA[Teme koje pokriva predmet "Reporting" na FIT-u su domen mog interesovanja po dva osnova: kao direktora firme kao kreatora ERP/poslovnih aplikacija Zato mi je "Reporting", vjerovali ili ne, pravo interesantan predmet :) E sada, tu ima niz problema ...]]></excerpt:encoded>	
 
 	<wp:post_date>Fri Mar 18 03:46:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Fri Mar 18 03:46:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>46388584</wp:post_id>
 	<wp:post_name>reporting-u-praksi</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -85,10 +86,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[murga]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7798152</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[murga]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Fri Mar 18 05:30:14 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Fri Mar 18 05:30:14 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Uistinu citajuci postove na cs fit ba sticem osjecaj da raja bas i nevoli ovaj predmet, a posebno iz post-a na kojem je ass. Emir ostavio svoje utiske nakon polaganja ispita iz rep-inga :), gdje navodi da je prolaznost skoro pa katastrofalna... no eto.. tematika je zaista korisna pa cu se potruditi da i ovo postane dio moje proslosti, a isto tako i buducnosti :)]]></wp:comment_content>
@@ -98,10 +100,10 @@
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7799108</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Mar 18 06:33:41 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Fri Mar 18 06:33:41 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Da ... i ja sam čuo od raje da je ovo bauk predmet.

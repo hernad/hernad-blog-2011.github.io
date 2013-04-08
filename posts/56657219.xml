@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+		<category domain="tag" nicename="FIT_2_godina"><![CDATA[FIT_2_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -56,9 +56,10 @@
 	<excerpt:encoded><![CDATA[Nakon prve parcijale u ljetnom semestru nisam našao vremena da napišem svoje utiske ... Drugi me poslovi i belaji okupirali ... Nakon skoro dva mjeseca više se ne sjećam detalja ispita. Neki dan me je kolegica upitala za ispit iz OOAD(*)-a, je...]]></excerpt:encoded>	
 
 	<wp:post_date>Fri Jun 10 05:43:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Fri Jun 10 05:43:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>56657219</wp:post_id>
 	<wp:post_name>ooad-prvi-parcijalni-zadaci</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

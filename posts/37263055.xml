@@ -12,7 +12,7 @@
 	
 		<category domain="tag" nicename="business"><![CDATA[business]]></category>
 	
-		<category domain="tag" nicename="it"><![CDATA[it]]></category>
+		<category domain="tag" nicename="IT"><![CDATA[IT]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -67,9 +67,10 @@ Uređaj je napravljen na fiskalnom &scaron;tampaču FP-550H.</p>
 	<excerpt:encoded><![CDATA[Porezna Uprava FBiH i Ministarstvo finansija su započeli sa sistematskim antiobrazovnim programom stanovništva na teritoriji FBiH. Kako ? Putem fiskalnih računa. Ovo je fiskalni račun koji je prošao "strogi" proces certifikacije odobren od st...]]></excerpt:encoded>	
 
 	<wp:post_date>Thu Dec 23 07:53:00 -0800 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Thu Dec 23 07:53:00 -0800 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>37263055</wp:post_id>
 	<wp:post_name>porezna-uprava-vam-pomaze-da-budete-nepismeni</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -80,10 +81,11 @@ Uređaj je napravljen na fiskalnom &scaron;tampaču FP-550H.</p>
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[V]]></wp:comment_author>
-			<wp:comment_author_email>the_kld_0@yahoo.com</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6513790</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[V]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Fri Dec 24 04:23:28 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Fri Dec 24 04:23:28 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Pretpostavljam da bi nadogradnja, ma kako trivijalna, zahtijevala ponovnu certifikaciju software-a i uređaja od strane Porezne uprave i Ministarstva finansija.]]></wp:comment_content>
@@ -93,10 +95,10 @@ Uređaj je napravljen na fiskalnom &scaron;tampaču FP-550H.</p>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6517678</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Dec 24 11:10:25 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Fri Dec 24 11:10:25 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Da, po svim dostupnim informacijama, bila bi potrebna kompletna certifikacija,  obzirom da ne postoji zakonski definisana procedura za ovakve minorne nadogradnje software-a. 
@@ -115,10 +117,10 @@ To čitavoj buljumenti &quot;stručnjaka&quot; očigledno ni u peti nije bilo. Z
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7094410</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Mon Feb 14 06:17:26 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Mon Feb 14 06:17:26 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[u međuvremenu smo dobili poziv za poslovnu saradnju od neosofta - proizvođača ovog printera FP550H. Pitao sam ih za njihov stav po ovom pitanju.

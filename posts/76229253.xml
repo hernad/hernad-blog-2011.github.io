@@ -63,9 +63,10 @@
 	<excerpt:encoded><![CDATA[Juče sam slušao izlaganje na temu "Izvrsnost"(*). Tema je izložena na principu teza, pravila: No1, No2, No3 ... Teza No1 mi se nikako nije svidjela. Ali nakon 10 minuta slušanja, nisam se upšte mogao sjetiti kako teza No1 glasi ... Vjerovatno zato...]]></excerpt:encoded>	
 
 	<wp:post_date>Wed Oct 19 23:42:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Wed Oct 19 23:42:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>76229253</wp:post_id>
 	<wp:post_name>izvrsnost</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -76,10 +77,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Adnan]]></wp:comment_author>
-			<wp:comment_author_email>adnan@disti.ba</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9892246</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Adnan]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Thu Oct 20 02:18:51 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Oct 20 02:18:51 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Kao sto sam rekao u samom pocetku izlaganja ono sto je izvrsno tebi mozda nije i meni, i obratno. Osvrnuo bih se prvo na tvoju analizu primjera Hotela Bristol. Imam potrebu prvo da ti objasnim pozadinu cijele price Hotel bristol, naime iza samog hotela stoji vlasnik Al Shidi a on je hotel iznajmio grupaciji hotela koja je jedna od vodecih u jugoistocnoj evropi. Obzirom da je pomenuti gospodin iz Istanbula prodavac luksuznih tepiha-cilima zelja mu je bila da pokusa prosiriti saradnju sa tom grupacijom i prodavao se najbolje sto je mogao i on je dosao u Sarajevo iako je znao da ga zovu u vezi fontane za koju zna da nije isporucio želio je da ostavi utisak partnera na kojeg se mogu osloniti. I ja to vidim kao izvrsnost bez obzira sto je pozadina toga interes, nemas puno prodavaca koji su spremni napraviti takav iskorak. Sto se tice uprave hotela u to nebih ulazio.
@@ -98,10 +100,10 @@ U svakom slucaju hvala ti na tvojim komentarima smatram ih pozitivnom kritikom i
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9892407</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Oct 20 03:02:29 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Oct 20 03:02:29 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Adnane mogu samo da ti kažem: svaka čast na javljanju !
@@ -126,10 +128,10 @@ Sretan sam jer sam uočio da ćeš znati iskoristiti ono što sam ovdje napisao.
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9892518</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Oct 20 03:39:22 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Oct 20 03:39:22 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; Kao sto sam rekao u samom pocetku izlaganja ono sto je izvrsno tebi mozda nije i meni, i obratno.
@@ -152,10 +154,10 @@ Bez obzira na vrstu posla.
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9892519</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Oct 20 03:41:02 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Oct 20 03:41:02 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[relativizacije osnovne =&gt; relativizacije osnovne teme]]></wp:comment_content>

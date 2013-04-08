@@ -10,9 +10,9 @@
 	
 		<category domain="tag" nicename="dunjaluk"><![CDATA[dunjaluk]]></category>
 	
-		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+		<category domain="tag" nicename="FIT_2_godina"><![CDATA[FIT_2_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -38,9 +38,10 @@
 	<excerpt:encoded><![CDATA[U predhodnom članku sam se dotakao teme: "zašto blogiram". Ali ostaje mi pitanje zašto baš ovih dana ovoliko blogiram ? Iskreno, ni meni nije jasno. Prije par dana sam rekao da idem spremati ispite, sa konstatacijom da skroz nespreman ulazim u ove...]]></excerpt:encoded>	
 
 	<wp:post_date>Thu Dec 02 01:23:00 -0800 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Thu Dec 02 01:23:00 -0800 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>35114633</wp:post_id>
 	<wp:post_name>dva-bloga-dnevno-u-po-ispita-ne-kontam</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

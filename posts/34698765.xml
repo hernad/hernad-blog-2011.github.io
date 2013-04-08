@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+		<category domain="tag" nicename="FIT_2_godina"><![CDATA[FIT_2_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
 	
@@ -33,9 +33,10 @@
 	<excerpt:encoded><![CDATA[Ovaj asistent iz računarskih mreže slabo govori bosanski ?! Bojim se da ću, ako budem previše čitao njegove materijale, skroz izgubiti osjećaj za "č" i "ć". Evo prve rečenice vježbi: Računarske mreže su nastale kao pokušaj da se omogući efikasnije...]]></excerpt:encoded>	
 
 	<wp:post_date>Sat Nov 27 14:34:00 -0800 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Sat Nov 27 14:34:00 -0800 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>34698765</wp:post_id>
 	<wp:post_name>racunarske-mreze-vjezbe-nepismeno</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

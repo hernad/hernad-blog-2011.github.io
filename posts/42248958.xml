@@ -6,11 +6,11 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="c"><![CDATA[c]]></category>
+		<category domain="tag" nicename="c%2B%2B"><![CDATA[c++]]></category>
 	
-		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+		<category domain="tag" nicename="FIT_2_godina"><![CDATA[FIT_2_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="ispit"><![CDATA[ispit]]></category>
 	
@@ -99,9 +99,10 @@
 	<excerpt:encoded><![CDATA["PR1" i "PR2" su ključni predmeti na FIT-u. "Programiranja", pored ASP-a(*) imaju najbolje nastavne materijale. Preciznije, vježbe i workshop materijali su ekstra, dok kod predavanja postoji izvjesna "šarada". Uzrok toj šaradi je vjerovatno činjen...]]></excerpt:encoded>	
 
 	<wp:post_date>Mon Feb 07 01:47:00 -0800 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Mon Feb 07 01:47:00 -0800 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>42248958</wp:post_id>
 	<wp:post_name>programiranje-2-drugi-parcijalni</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -112,10 +113,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[fitovac]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7011380</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[fitovac]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Mon Feb 07 05:13:49 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Mon Feb 07 05:13:49 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Čitam redovno sve blogove, stvarno Vam je svaka &quot;na mjestu&quot;. Svaka čast :)
@@ -127,10 +129,10 @@ U vezi ove statistike konačnih ocjena, tu se očigledno ogleda Denisov pristup 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7126336</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Feb 15 03:07:23 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Feb 15 03:07:23 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@fitovac, nema razloga za persiranje. Godine nisu važne :)
@@ -151,10 +153,10 @@ Ovaj članak dosta o tome govori http://hernad.bring.out.ba/mogucnost-izbora-je-
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7126470</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Feb 15 03:50:18 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Feb 15 03:50:18 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Pored kolega studenata, mnogi od kolega koji su danas asistenti će sutra aBd biti profesori. Mislim da bi i njima moje pisanje moglo biti od koristi. ]]></wp:comment_content>

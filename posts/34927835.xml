@@ -6,7 +6,7 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+		<category domain="tag" nicename="bring.out"><![CDATA[bring.out]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -78,9 +78,10 @@
 	<excerpt:encoded><![CDATA[Pravo sam se dvoumio na kom ovo mjestu postirati: na www.bring.out.ba ili na svom blogu. I onda sam skontao: bring.out nije bla bla marketing firma, zato to napiši na svom blogu. Background Kada je prije godinu dana počela priča o fiskalizaciji...]]></excerpt:encoded>	
 
 	<wp:post_date>Tue Nov 30 02:13:00 -0800 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Tue Nov 30 02:13:00 -0800 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>34927835</wp:post_id>
 	<wp:post_name>fiskalizacija-je-velika-sansa-za-bringout</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -91,10 +92,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[zemljak iz Zenice]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6261119</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[zemljak iz Zenice]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Tue Nov 30 06:03:21 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Tue Nov 30 06:03:21 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Selam Ernade. Slazem se s tobom da je nas bivsi i tvoj cini mi se i sadasnji posao rudarski. Jedini razlog tome je sto mi zivimo u takvom okruzenju (Bosna) gdje su vlasnici firmi uglavnom polupismeni ljudi generalno (slasticari, mesari i sl.) a informaticki naravno totalno nepismeni. Jedini softver koji su platili u zivotu je bio nas ili tvoj knjigovodstveni program i to nam nikad nisu mogli halaliti :) Takodjer, da ne pricamo o tehnickoj podrsci i sl. Svaki od njih ce bez pogovora platiti automehanicaru 50Km da mu zamijeni &quot;krajnicu&quot; na autu ili pak placati mjesecno zastitarsku firmu (100-200KM), ali kad je rijec o nama (koji odrzavamo tu &quot;havu&quot; kako oni to vide) ... e to ne moze. Kasicni upiti s njihove strane &quot;... a sto ti ja to moram placati kad nista ne radis, mislim ti sjedis a ja ti placam!&quot; :) Poredjenja radi, prica mi prijatelj koji zivi i radi u USA u WallMartu, kad njima dodje programer u &quot;posjetu&quot; svima klecaju noge od upravnika pa na nize. I to je naravno tako jer se u normalnom okruzenju razumije/cijeni/postuje nas rad i naravno adekvatno placa. Poslije 5-6 godina posla sa lokalnim &quot;mesarima&quot; (zajednicki naziv za sve tipove lokalnih &quot;menadzera&quot;), stvarno smo postali siti svega. I onda Bog nam otvori oci ... ej ba pa mi zivimo u vremenu kad postoji Internet! Sta se peglamo sa lokalnim debilima kad platis 10Km domenu, 100KM hosting i imas &quot;kiosk&quot; na nivou dunjaluka. I tako smo poceli ... Sad nemozemo Bogu nazahvaljivat sto smo krenuli tim putem. Imamo par biznisa koje vrtimo na Interentu. Sjedis u kuci, radis kreativne stvari, zaposljavas indijce (al ovo ozbiljno kazem), NE ZVONI TI MOBITEL :) i naravno zaradjujes barem 10 x vise nego si zaradjivao letajuci od jednog do drugog &quot;mesara&quot; objasnjavajuci mu zasto on mora placati softver :)
@@ -105,10 +107,10 @@ Tako da svim novopecenim/buducim ili trenutno zaposlenim softverasima preporucuj
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6261233</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[bring.out doo Sarajevo]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Nov 30 06:41:20 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Tue Nov 30 06:41:20 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; Recice neki &quot;dobro ako vi niste uspjeli
@@ -151,10 +153,10 @@ I opet možemo, i trebamo, kao ljudi jedni drugima pružiti ruku.
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6261281</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[bring.out doo Sarajevo]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Nov 30 06:51:51 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Tue Nov 30 06:51:51 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; Tako da svim novopecenim/buducim ili trenutno zaposlenim softverasima preporucujem da ne padaju u tu &quot;zamku&quot; lokalnog biznisa. 
@@ -177,10 +179,11 @@ Jer u bijelom svijetu, u kome vi radite, ublehe nemaju jaku prođu: samo znanje 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[zemljak iz Zenice]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6261536</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[zemljak iz Zenice]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Tue Nov 30 08:06:43 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Tue Nov 30 08:06:43 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt;Međutim, sada dobro gledam sa kim imam posla. I pri tome puno više gledam da radimo sa nekim ko je kompatibilan sa nama po pitanju korektnog odnosa, uzajamnog uvažavanja, nego li njegovog bogatstva. 
@@ -204,10 +207,10 @@ Eto toliko, ja opet oduzi, al mislim da ova tema ima smisla ... Selam]]></wp:com
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6261545</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Nov 30 08:08:01 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Tue Nov 30 08:08:01 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[U ovoj sretnoj priči za moje Zeničane, ima jedan tužan detalj:
@@ -224,10 +227,11 @@ O tome trebaju budući i sadašnji softveraši razmisliti. I najprije, oni koji 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[zemljak iz Zenice]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6261572</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[zemljak iz Zenice]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Tue Nov 30 08:15:25 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Tue Nov 30 08:15:25 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt;Zato što su ti Indijci *kvalitetnija* i *jeftinija IT* radna snaga od njegovih zemljaka.
@@ -244,10 +248,10 @@ Selam]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6261587</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Nov 30 08:18:32 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Tue Nov 30 08:18:32 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; ako je u pitanju firma da sebi odredi jedan takav projekat ... lokalnog na interent trziste
@@ -266,10 +270,10 @@ Ja upravo tom konceptu vidi mogućnost da svoje resurse na najbolji način iskor
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6262392</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Nov 30 10:15:31 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Tue Nov 30 10:15:31 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt;  :) vjeruj mi da je zalosno koliko smo imali neuspjesnih pokusaja da zaposlimo lokalnu raju. Placas im da uce, i da od kuce rade i opet nece.

@@ -8,9 +8,9 @@
 	
 		<category domain="tag" nicename="antiznanje"><![CDATA[antiznanje]]></category>
 	
-		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+		<category domain="tag" nicename="FIT_2_godina"><![CDATA[FIT_2_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -32,9 +32,10 @@
 	<excerpt:encoded><![CDATA[Čitam ovo: 9.4 Deset glavnih osobina Windows Servera 20039.4.4 Niži ukupni troškovi posjedovanja (TCO) putem konsolidacije i najnovije tehnologijeWindows Server 2003 pruža mnoge tehničke prednosti koje organizacijama smanjuju ukupne troškove...]]></excerpt:encoded>	
 
 	<wp:post_date>Thu Jan 20 04:23:00 -0800 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Thu Jan 20 04:23:00 -0800 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>40410212</wp:post_id>
 	<wp:post_name>hernad-doso-tobe</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

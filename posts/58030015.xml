@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+		<category domain="tag" nicename="bring.out"><![CDATA[bring.out]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -42,9 +42,10 @@ Državo, hvala. Nadam se da ćemo ove poticaje na najbolji način iskoristiti - 
 	<excerpt:encoded><![CDATA[Naša aplikacija Kantonalnom Zavodu za zapošljavanje priravnika je prihvaćena: Državo, hvala. Nadam se da ćemo ove poticaje na najbolji način iskoristiti - i na korist firme, i na korist budućih uposlenika. Aplicirali smo za dva radna mjesta...]]></excerpt:encoded>	
 
 	<wp:post_date>Tue Jun 21 06:08:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Tue Jun 21 06:08:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>58030015</wp:post_id>
 	<wp:post_name>it-poletarci-de-ste</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -55,10 +56,10 @@ Državo, hvala. Nadam se da ćemo ove poticaje na najbolji način iskoristiti - 
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9104196</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Jun 21 07:06:06 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Jun 21 07:06:06 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[U rekordnom roku, nakon objave našeg poziva javila nam se kolegica. Nažalost, ona do sada nije bila prijavljena na biro. Ovo je moj odgovor:
@@ -72,10 +73,11 @@ Svakako ti preporučujem da to učiniš, a mi ćemo sa Zavodom vidjeti da li je 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[emina]]></wp:comment_author>
-			<wp:comment_author_email>emina.suljevic@edu.fit.ba</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9104324</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[emina]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Tue Jun 21 07:25:50 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Jun 21 07:25:50 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[ccc :D a nadam se da cu to moci izganjati ja mogu sto se mene tice i sutra do fita po diplomu :) nije mi ni mrsko ni tesko ]]></wp:comment_content>
@@ -85,10 +87,10 @@ Svakako ti preporučujem da to učiniš, a mi ćemo sa Zavodom vidjeti da li je 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9104715</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Jun 21 08:54:39 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Jun 21 08:54:39 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Da ne bude nesporazuma:

@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+		<category domain="tag" nicename="FIT_2_godina"><![CDATA[FIT_2_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="sistem"><![CDATA[sistem]]></category>
 	
@@ -198,9 +198,10 @@
 	<excerpt:encoded><![CDATA[Juče smo imali konsultacije iz predmeta Uvod u baze podataka. Iskoristio sam te konsultacije da pročitam materijale. Kod prošlog čitanja, materijali mi nikako "nisu legli". Tada nisam bio mogao razlučiti da li je taj negativan utisak rezultat...]]></excerpt:encoded>	
 
 	<wp:post_date>Wed Jan 12 03:37:00 -0800 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Wed Jan 12 03:37:00 -0800 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>39540902</wp:post_id>
 	<wp:post_name>uvod-u-baze-podataka-zbrkizacija</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -211,10 +212,10 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6717248</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Jan 12 06:57:07 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Jan 12 06:57:07 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Asistentica Emina mi je putem email-a ukazala na drugu definiciju baze podataka:
@@ -229,10 +230,10 @@
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6717254</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Jan 12 06:58:39 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Jan 12 06:58:39 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Da, ima. Uočio sam je. Baš to predavanje sam detaljno u svom članku opisao (zbrkizacija No2, zbrkizacija No3).
@@ -252,10 +253,10 @@ Jednostavna i dovoljno precizna u kontekstu onoga što mi izučavamo.]]></wp:com
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6717331</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Jan 12 07:13:19 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Jan 12 07:13:19 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Odlična prezentacija na temu &quot;Entity Relationship&quot; modeling:
@@ -280,10 +281,10 @@ Iz tog razloga svaki ozbiljniji projekat (bio on informatički ili ne) sadrži r
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6717562</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Jan 12 07:58:14 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Jan 12 07:58:14 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Gerund or Associative Entity.
@@ -319,10 +320,10 @@ http://en.wikipedia.org/wiki/Junction_table
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6717594</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Jan 12 08:04:38 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Jan 12 08:04:38 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[U našim materijalima pod naslovom &quot;Heuristička uputstva za projektovanje modela realnog sistema putem ER modela&quot;, tačka 7 kaže:
@@ -340,10 +341,10 @@ Evo sam ponovo pročitao i ovu rečenicu par puta i opet isto: &quot;Ništa ne k
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6903512</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Jan 28 10:41:18 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Fri Jan 28 10:41:18 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; &quot;Candidate key&quot; ... U našim materijalima se za ovo koristi termin &quot;superključ&quot;. 

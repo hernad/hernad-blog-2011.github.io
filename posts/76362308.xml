@@ -25,9 +25,10 @@
 	<excerpt:encoded><![CDATA[Na ovom linku je primjer korištenja free pascal-a (edit, compile, run ciklus). Takođe su navedene komande mkdir, cd, git za preuzimanje preuzimanje podataka sa github repozitorija. OS: Mac OS X. Bez ikakvih modifikacija primjenljivo na linux. Anal...]]></excerpt:encoded>	
 
 	<wp:post_date>Fri Oct 21 02:53:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Fri Oct 21 02:53:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>76362308</wp:post_id>
 	<wp:post_name>free-pascal-compiler-edit-compile-run-ciklus</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

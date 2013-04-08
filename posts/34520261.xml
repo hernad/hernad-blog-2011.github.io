@@ -10,9 +10,9 @@
 	
 		<category domain="tag" nicename="bosna"><![CDATA[bosna]]></category>
 	
-		<category domain="tag" nicename="fit_1_godina"><![CDATA[fit_1_godina]]></category>
+		<category domain="tag" nicename="FIT_1_godina"><![CDATA[FIT_1_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
 	
@@ -50,9 +50,10 @@
 	<excerpt:encoded><![CDATA[Tekst iz serijala: Antiznanje Bosnu ruši. Podaci o knjizi Drugo izmijenjeno i dopunjeno izdanje Fakultet informacijskih tehnologija, Mostar, 2004 godina, prof. dr. Nijaz Bajgorić Ova knjiga će vam biti od koristi: 1) za ubijanje muha (provjerio au...]]></excerpt:encoded>	
 
 	<wp:post_date>Sun Jun 13 15:01:00 -0700 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Sun Jun 13 15:01:00 -0700 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>34520261</wp:post_id>
 	<wp:post_name>os-je-korisna-knjiga</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

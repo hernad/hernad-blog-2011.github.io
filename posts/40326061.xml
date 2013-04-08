@@ -35,9 +35,10 @@
 	<excerpt:encoded><![CDATA[Samra je juče "donijela" ocijene sa prvog polugodišta. O njenoj školi - odnosno MYP programu (Middle Years Programme) sam već pisao. Njihov koncept ocjenjivanja je na Samrinom pregledu ocjena zorno prikazan: Čitava arhiva o djetetu čovječe ... Dru...]]></excerpt:encoded>	
 
 	<wp:post_date>Wed Jan 19 07:19:00 -0800 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Wed Jan 19 07:19:00 -0800 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>40326061</wp:post_id>
 	<wp:post_name>samra-myp-ocjene-prvo-polugodiste</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -48,10 +49,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Lejla]]></wp:comment_author>
-			<wp:comment_author_email>lejla.softic@savjetnik.ba</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11178141</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Lejla]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[www.savjetnik.ba]]></wp:comment_author_url>
+			
 			<wp:comment_date>Thu Jun 28 01:14:52 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Jun 28 01:14:52 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Babo, od malena se TO razvija ( komentar profesorice historije)....a, ne kada ti se predloži NEŠTO drugačije od tvog mišljenja na predmetnu temu....da to mrtvo-hladno odbiješ...baš k'o TITO u svoje doba :) 
@@ -66,10 +68,10 @@ Pozz iz TZ :)]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11178322</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Jun 28 02:23:16 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Jun 28 02:23:16 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Lejla,

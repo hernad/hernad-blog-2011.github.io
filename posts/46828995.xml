@@ -8,7 +8,7 @@
 	
 		<category domain="tag" nicename="bosna"><![CDATA[bosna]]></category>
 	
-		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+		<category domain="tag" nicename="bring.out"><![CDATA[bring.out]]></category>
 	
 		<category domain="tag" nicename="business"><![CDATA[business]]></category>
 	
@@ -37,9 +37,10 @@
 	<excerpt:encoded><![CDATA[Prvobitni naslov ovog članka je bio "Državo pomagaj". Evo i zašto: Subject: Programi za zaposljavanje mladih bez predhodnog radnog iskustva Tue 22 Mar 2011 09:37:49 AM CETFrom: hernad@bring.out.baTo: Ministarstvo privrede Kantona Sarajevo; Mini...]]></excerpt:encoded>	
 
 	<wp:post_date>Tue Mar 22 01:40:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Tue Mar 22 01:40:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>46828995</wp:post_id>
 	<wp:post_name>drzavo-pomagaj</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -50,10 +51,10 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7839716</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Mar 22 02:09:50 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Mar 22 02:09:50 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[RE: Programi za zaposljavanje mladih bez predhodnog radnog iskustva	Tue 22 Mar 2011 09:50:07 AM CET
@@ -74,10 +75,10 @@ Fax: 033/208-257]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7839739</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Mar 22 02:15:18 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Mar 22 02:15:18 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[evo toga što sam tražio
@@ -90,10 +91,10 @@ http://www.juszzks.com.ba/app_pripravnici.doc
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7839832</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Mar 22 02:41:49 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Mar 22 02:41:49 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Re: Programi za zaposljavanje mladih bez predhodnog radnog iskustva	Tue 22 Mar 2011 10:39:52 AM CET
@@ -116,10 +117,10 @@ Dvije stvari mi nisu jasne:
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7853170</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Mar 24 05:35:59 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Mar 24 05:35:59 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Re: Programi za zaposljavanje mladih bez predhodnog radnog iskustva	Thu 24 Mar 2011 10:29:38 AM CET
@@ -147,10 +148,10 @@ Ernad Husremović
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7853182</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Mar 24 05:39:28 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Mar 24 05:39:28 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Napokon sam dobio odgovor:
@@ -189,10 +190,10 @@ Ernad Husremović
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7853237</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Mar 24 05:55:57 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Mar 24 05:55:57 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Re: Odgovor na upit	Thu 24 Mar 2011 01:53:16 PM CET
@@ -223,10 +224,10 @@ Unaprijed hvala na odgovoru.]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7853284</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Mar 24 06:07:01 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Mar 24 06:07:01 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Ovaj put dobio sam ekspresan odgovor :)

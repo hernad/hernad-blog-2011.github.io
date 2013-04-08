@@ -8,7 +8,7 @@
 	
 		<category domain="tag" nicename="h_samra"><![CDATA[h_samra]]></category>
 	
-		<category domain="tag" nicename="it"><![CDATA[it]]></category>
+		<category domain="tag" nicename="IT"><![CDATA[IT]]></category>
 	
 		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
 	
@@ -92,9 +92,10 @@ Part 5<strong>
 	<excerpt:encoded><![CDATA[Samrina prezentacija Mac OS-a za CT(*). Prezentacije su objavljene na screencast.com. Za prikaz na na čitavom ekranu na raspolaganju je dugmić u donjem desnom uglu, nakon što se pokrene video(**). Part 1 Unable to display content. Adobe Flash is r...]]></excerpt:encoded>	
 
 	<wp:post_date>Wed Apr 27 12:50:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Wed Apr 27 12:50:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>51024223</wp:post_id>
 	<wp:post_name>samra-mac-osx-prezentacija</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -105,10 +106,11 @@ Part 5<strong>
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Samra Husremovic]]></wp:comment_author>
-			<wp:comment_author_email>samra.husremovic@gmail.com</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>8323023</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Samra Husremovic]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Wed Apr 27 13:43:25 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Apr 27 13:43:25 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[tata ovo nisu jaja, nego kamenja sa plaže. hahahahaha]]></wp:comment_content>
@@ -118,10 +120,10 @@ Part 5<strong>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>8330637</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Apr 28 00:10:33 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Apr 28 00:10:33 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Fernala Sejmen-Banjac via facebook:
@@ -138,10 +140,11 @@ Ernad Husremović:
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Samra Husremovic]]></wp:comment_author>
-			<wp:comment_author_email>samra.husremovic@gmail.com</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>8336088</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Samra Husremovic]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Thu Apr 28 12:36:27 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Apr 28 12:36:27 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[:D]]></wp:comment_content>

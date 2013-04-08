@@ -6,7 +6,7 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+		<category domain="tag" nicename="bring.out"><![CDATA[bring.out]]></category>
 	
 		<category domain="tag" nicename="b_knowhow"><![CDATA[b_knowhow]]></category>
 	
@@ -113,9 +113,10 @@
 	<excerpt:encoded><![CDATA[Zadnjih godinu dana redovno dovim: Dragi Allahu, providi. Olakšaj moje poslove! Podaj da započete poslove, preuzete obaveze, postavljene ciljeve ostvarim do kraja. Podaj da se kanem beskorisna posla, ili posla koji nisam kadra završiti ! Podaj ...]]></excerpt:encoded>	
 
 	<wp:post_date>Thu Oct 13 02:07:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Thu Oct 13 02:07:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>75289082</wp:post_id>
 	<wp:post_name>fokus</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

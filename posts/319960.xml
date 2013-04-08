@@ -21,9 +21,10 @@
 	<excerpt:encoded><![CDATA[Sale mi jutros poslao sliku.Joj, vidi me ko avetinja .... Od kad' li je ova slika ? Negdje 2002-2003, s obzirom da je slikano u travničkoj.]]></excerpt:encoded>	
 
 	<wp:post_date>Tue Jan 06 06:23:01 -0800 2009</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Tue Jan 06 06:23:01 -0800 2009</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>319960</wp:post_id>
 	<wp:post_name>avetinja</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -34,10 +35,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[murga]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7852318</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[murga]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Thu Mar 24 02:03:30 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Mar 24 02:03:30 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Onaj smiley na papiru mi je poznat LOL :)]]></wp:comment_content>

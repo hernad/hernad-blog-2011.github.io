@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_3_godina"><![CDATA[fit_3_godina]]></category>
+		<category domain="tag" nicename="FIT_3_godina"><![CDATA[FIT_3_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -95,9 +95,10 @@
 	<excerpt:encoded><![CDATA[Danas sam polagao ispit iz SI-a(*). SI pripada velikog grupi ispita na FIT-u u kome su teoretski i praktični dio "k'o sjekirom odsječeni". Spremanje ovog ispita mi je teško palo. Moje bilješke o tome dosta govore: ranije iz prvog parcijalnog bilje...]]></excerpt:encoded>	
 
 	<wp:post_date>Mon Jan 23 09:47:00 -0800 2012</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Mon Jan 23 09:47:00 -0800 2012</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>95712748</wp:post_id>
 	<wp:post_name>istrenirani-majmuni</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -108,10 +109,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[murga]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10415973</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[murga]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Mon Jan 23 16:52:09 -0800 2012</wp:comment_date>
 			<wp:comment_date_gmt>Mon Jan 23 16:52:09 -0800 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[A ja se nisam sjetio six sigme :)]]></wp:comment_content>
@@ -121,10 +123,11 @@
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[sladja]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10421299</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[sladja]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Tue Jan 24 11:50:34 -0800 2012</wp:comment_date>
 			<wp:comment_date_gmt>Tue Jan 24 11:50:34 -0800 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[hmmm, znaci ako budem više stašnija umjesto više nestašnija dobit cu tih vocki, banana il sta vec :D bacio si me na razmisljanje...pa covjece nisam ni za majmuna :( sposobna, hehehehehe...]]></wp:comment_content>
@@ -134,10 +137,10 @@
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10421498</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Jan 24 12:23:03 -0800 2012</wp:comment_date>
 			<wp:comment_date_gmt>Tue Jan 24 12:23:03 -0800 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Draga kolegice, nadam se da ti ne smeta što te pominjem.
@@ -187,10 +190,11 @@ Nadam se da mi ne zamjeriš što sam te poimenice naveo.]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[sladja]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10422453</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[sladja]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Tue Jan 24 14:40:00 -0800 2012</wp:comment_date>
 			<wp:comment_date_gmt>Tue Jan 24 14:40:00 -0800 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[hihihi, zamjeriti, zasto? Ja vrlo dobro shvatam poentu price s nase kafe i sta je tu je i tako je. Moj silly comment znaci o yes i agree. :D slobodno ti mene navedi dje god sam ucesnik ili ti govornik.]]></wp:comment_content>

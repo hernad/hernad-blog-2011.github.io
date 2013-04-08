@@ -31,9 +31,10 @@
 	<excerpt:encoded><![CDATA[Dženanin članak je izašao u "Graciji". Članak sam već čitao dok ga je pripremala, pa nisam previše obratio pažnju na sadržaj. Prvo što sam prokomentarisao: Pa dobro ženo, 'đe baš tebe uslikaše u gro-planu, i to u "minjaku" ?! Kad pročitao članak, ...]]></excerpt:encoded>	
 
 	<wp:post_date>Fri Jan 21 06:46:00 -0800 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Fri Jan 21 06:46:00 -0800 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>40514144</wp:post_id>
 	<wp:post_name>dzenana-u-graciji</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -44,10 +45,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[hdzenana]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6829816</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[hdzenana]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Fri Jan 21 23:58:23 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Fri Jan 21 23:58:23 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Ipak ostajemo favorit emisija uzivo. Tamo nema izrezivanja niti interpretacija (iako u samim profilima stvarno nema puno izrezivanja - Gracija, svaka cast za to). 

@@ -10,9 +10,9 @@
 	
 		<category domain="tag" nicename="bosna"><![CDATA[bosna]]></category>
 	
-		<category domain="tag" nicename="fit_1_godina"><![CDATA[fit_1_godina]]></category>
+		<category domain="tag" nicename="FIT_1_godina"><![CDATA[FIT_1_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
 	
@@ -63,9 +63,10 @@
 	<excerpt:encoded><![CDATA[Nijaz Bajgorić, April 2004 godine, drugo izmijenjeno i dopunjeno izdanje Serijal: Antiznanje Bosnu ruši Utisak Jedinstveno čitalačko iskustvo. Čitanje me je asocirao na film “Rain man”: Scena sa Dustin Hoffman-om, čitanje telefonskog ime...]]></excerpt:encoded>	
 
 	<wp:post_date>Fri Jun 18 00:06:00 -0700 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Fri Jun 18 00:06:00 -0700 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>34547436</wp:post_id>
 	<wp:post_name>uos-knjiga-1-procitana</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

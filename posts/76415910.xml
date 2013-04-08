@@ -10,9 +10,9 @@
 	
 		<category domain="tag" nicename="b_knowhow"><![CDATA[b_knowhow]]></category>
 	
-		<category domain="tag" nicename="fit_3_godina"><![CDATA[fit_3_godina]]></category>
+		<category domain="tag" nicename="FIT_3_godina"><![CDATA[FIT_3_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -160,9 +160,10 @@
 	<excerpt:encoded><![CDATA[Juče sam prvi put otišao na FIT DL sistem(*). Htio sam da se upoznam sa predmetima ove godine. Iskreno, FIT studiranje mi je pravo dojadilo ... da mi je ovu godinu nekako završiti a da ne zapostavim poslovne obaveze. Sada kada aktivnosti oko "k...]]></excerpt:encoded>	
 
 	<wp:post_date>Fri Oct 21 10:22:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Fri Oct 21 10:22:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>76415910</wp:post_id>
 	<wp:post_name>genijalna-ideja-knowhow-erp-winter-of-code-de</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -173,10 +174,10 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9906911</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sun Oct 23 05:48:22 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sun Oct 23 05:48:22 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Na FIT studentskom forumu sam danas napisao:
@@ -214,10 +215,10 @@ Svejedno, tiče se studenata, pa ću postirati (i) ovdje.]]></wp:comment_content
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9906970</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sun Oct 23 05:59:33 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sun Oct 23 05:59:33 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Nastaviću misao ovdje:
@@ -243,10 +244,10 @@ Ta vještina se postojećim konceptom rada bez dvojbe ostavlja po strani.]]></wp
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9907117</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sun Oct 23 06:46:32 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sun Oct 23 06:46:32 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[tijera =&gt; tjera]]></wp:comment_content>
@@ -256,10 +257,10 @@ Ta vještina se postojećim konceptom rada bez dvojbe ostavlja po strani.]]></wp
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9910561</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Mon Oct 24 00:09:07 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Mon Oct 24 00:09:07 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[http://redmine.bring.out.ba/issues/24926]]></wp:comment_content>
@@ -269,10 +270,10 @@ Ta vještina se postojećim konceptom rada bez dvojbe ostavlja po strani.]]></wp
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9997845</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Nov 08 04:52:02 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Nov 08 04:52:02 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[http://redmine.bring.out.ba/issues/25171]]></wp:comment_content>

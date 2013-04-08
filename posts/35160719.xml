@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+		<category domain="tag" nicename="FIT_2_godina"><![CDATA[FIT_2_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -27,9 +27,10 @@
 	<excerpt:encoded><![CDATA[Na prvom parcijalnom prag je 56%. Na "klikanje" sam dobio 58,51%, 27.5 od 47 bodova. U odnosu na pripremu, odličan rezultat. Ne bi me nikako začudilo da sam kao završnu poruku testa dobio: "Ernade ti si totalna talašika iz gramatike". Ispit se rad...]]></excerpt:encoded>	
 
 	<wp:post_date>Thu Dec 02 11:50:00 -0800 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Thu Dec 02 11:50:00 -0800 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>35160719</wp:post_id>
 	<wp:post_name>engleski-1-parcijalni-polozen</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

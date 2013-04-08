@@ -6,7 +6,7 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
 	
@@ -64,9 +64,10 @@
 	<excerpt:encoded><![CDATA[Kada mi neko napiše komentar za članak napisan prije godinu dana, dođem do spoznaje da je moji pisanje korisno. Zato ću komentar napisati na posebnom članku: Dragi Armine, hvala na ovom iscrpnom i krajnje otvorenom komentaru. Posebno cijenim ...]]></excerpt:encoded>	
 
 	<wp:post_date>Sat Oct 22 03:27:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Sat Oct 22 03:27:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>76491572</wp:post_id>
 	<wp:post_name>hrabrost-na-fit-u</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -77,10 +78,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Armin Smajic]]></wp:comment_author>
-			<wp:comment_author_email>c.leoo@hotmail.com</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9903330</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Armin Smajic]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[www.cao.ba]]></wp:comment_author_url>
+			
 			<wp:comment_date>Sat Oct 22 04:29:57 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 04:29:57 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Hehe, prvi clanak o meni bilo gdje, postajem popularan. :) 
@@ -99,10 +101,10 @@ Armin.]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9903570</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Oct 22 05:46:28 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 05:46:28 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; molim da me se ne shvati pogrešno
@@ -139,10 +141,10 @@ Ali evo šta piše u tim neobjavljenim bilješkama:
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9903601</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Oct 22 05:53:25 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 05:53:25 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; ne trazim ni od koga da se radi mene nesto mjenja
@@ -156,10 +158,10 @@ ja TRAŽIM.  Obrazovanje ima svoje ciljeve, oni na  FIT-u u mnogim sferama nisu 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9903633</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Oct 22 05:58:56 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 05:58:56 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; evo primjera, niko se nije javio na oglas asistenta Azemovica za rad u banci, vezan za baze podataka  ...
@@ -184,10 +186,10 @@ Nudi se nedovoljno novca ? Nedovoljno informacija o poslovima koji se trebaju ra
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9903673</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Oct 22 06:07:00 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 06:07:00 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; Hehe, prvi clanak o meni bilo gdje, postajem popularan. :) 
@@ -201,10 +203,10 @@ tvoj čin za mene predstavlja hrabrosti. Posebnim člankom sam htio pokazati da 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9903682</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Oct 22 06:08:40 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 06:08:40 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; oglas asistenta Azemovica
@@ -216,10 +218,10 @@ kolega Azemović je od ove godine docent. Ovog ljeta je doktorirao. ]]></wp:comm
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9903705</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Oct 22 06:13:44 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 06:13:44 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Radi objektivnosti ću navesti još jedan segment iz pomenutih bilješki u kojima se pominje profesor Prašo:
@@ -240,10 +242,11 @@ kolega Azemović je od ove godine docent. Ovog ljeta je doktorirao. ]]></wp:comm
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Armin Smajic]]></wp:comment_author>
-			<wp:comment_author_email>c.leoo@hotmail.com</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9903843</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Armin Smajic]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Sat Oct 22 07:00:40 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 07:00:40 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[huh, puno odgovora za kratko vrijeme. :) 
@@ -274,10 +277,11 @@ pa se cujemo. :)]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Armin Smajic]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9903851</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Armin Smajic]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Sat Oct 22 07:03:55 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 07:03:55 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[*pa se pishemo. :)]]></wp:comment_content>
@@ -287,10 +291,10 @@ pa se cujemo. :)]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9903908</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Oct 22 07:20:18 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 07:20:18 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Armine,
@@ -314,10 +318,10 @@ Svi oni koji hajra u xxx@yyy.com shemi polaganja vide rješenje, vode sebe i či
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9903927</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Oct 22 07:24:34 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 07:24:34 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; Pregledat cu kasnije, pa ako dodjem do zakljucka da bih mozda mogao konkurisati, javicu se, ali iskreno, sumnjam pomalo u svoje znanje.
@@ -336,10 +340,11 @@ Ako ti se u prvom čitanju i učini sve ovo &quot;too much&quot;, a svidi ti ide
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Armin Smajic]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9903958</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Armin Smajic]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Sat Oct 22 07:32:16 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 07:32:16 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Dogovoreno, hvala na komplimentima. :) ]]></wp:comment_content>
@@ -349,10 +354,10 @@ Ako ti se u prvom čitanju i učini sve ovo &quot;too much&quot;, a svidi ti ide
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9904170</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Oct 22 08:44:07 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 08:44:07 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; objasnio mi neke stvari o VHDL kodu za pola sata-sat, ja bih ispit nekako prosao, ali ne bih uopste znao da se neke stvari u svijetu tako mogu razvijati i da uopste postoji nesto sto se zove VHDL kod
@@ -406,10 +411,10 @@ bolje shvatiti napraviti par “hello world” primjera čestito, nego da naš
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9904189</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Oct 22 08:51:28 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 08:51:28 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; ne treba naravno generalizovati sve, ima i &quot;raje&quot; koja su se snasla u ovakvom sistemu, ali ja pricam o prosjecnim studentima, koji nemaju sve desetke.
@@ -421,10 +426,10 @@ http://hernad.bring.out.ba/tri-vrste-studenata]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9904206</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Oct 22 08:55:56 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 08:55:56 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Vidio sam da ne moram da ucim UIT, UOS, AKS, ENG, KT, RM i jos neke predmete i jednostavno sam ih ignorisao, jer je osnovni cilj zavrsiti fakultet sto prije, a to je podrazumjevalo ucenje ovih vec milion puta pomenutih predmeta i stoga sad imam veeeeliku supljinu

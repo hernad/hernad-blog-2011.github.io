@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+		<category domain="tag" nicename="FIT_2_godina"><![CDATA[FIT_2_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -71,12 +71,13 @@
 <p>Topologija mreže tipa "sabirnica" je najjednostavniji i najče&scaron;ći način umrežavanja računara.</p>
 </blockquote>
 <p><strong><span style="color: #ff0000;">krupna materijalna gre&scaron;ka.</span></strong></p>]]></content:encoded>
-	<excerpt:encoded><![CDATA[Danas pročitao predavanja (6) iz Računarskih mreža (RM). Nakon sinoćnjeg iskustva sa vježbama (pročitao samo prve vježbe), stanje sa predavanjima je puno bolje. Nedostatak 1: klasifikacije Kod P4 (Osnovni elementi lokalnih računarskih mre�...]]></excerpt:encoded>	
+	<excerpt:encoded><![CDATA[Danas pročitao predavanja (6) iz Računarskih mreža (RM). Nakon sinoćnjeg iskustva sa vježbama (pročitao samo prve vježbe), stanje sa predavanjima je puno bolje. Nedostatak 1: klasifikacije Kod P4 (Osnovni elementi lokalnih računarskih mre...]]></excerpt:encoded>	
 
 	<wp:post_date>Sun Nov 28 06:13:00 -0800 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Sun Nov 28 06:13:00 -0800 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>34754755</wp:post_id>
 	<wp:post_name>racunarske-mreze-predavanja</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

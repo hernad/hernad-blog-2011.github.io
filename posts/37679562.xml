@@ -45,9 +45,10 @@
 	<excerpt:encoded><![CDATA[Potražio sam na internetu ovaj tekst: ... i svijeću u njegovoj sobi često zora gasi ... I nigdje nisam našao puni tekst ove pjesmice o Titu. Iako sam ograničen "ko prizemlje" što se tiče sposobnosti pamćenja, ovaj odlomak iz neke pjesmice, iz neke...]]></excerpt:encoded>	
 
 	<wp:post_date>Tue Dec 28 02:04:00 -0800 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Tue Dec 28 02:04:00 -0800 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>37679562</wp:post_id>
 	<wp:post_name>titovim-stazama-revolucije</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -58,10 +59,10 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6545857</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Dec 28 02:55:05 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Tue Dec 28 02:55:05 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[i sad kad na google search napišeš:
@@ -75,10 +76,11 @@
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[V]]></wp:comment_author>
-			<wp:comment_author_email>the_kld_0@yahoo.com</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6551984</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[V]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Tue Dec 28 13:51:31 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Tue Dec 28 13:51:31 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Moraš naučiti Google koristiti :)
@@ -114,10 +116,10 @@ Samo istina pobjedjuje.]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6557509</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Dec 28 23:28:03 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Tue Dec 28 23:28:03 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@V, do mene.
@@ -128,10 +130,11 @@ A ja duge pjesme ... Ovo je moralo biti u čitanki za 8 razred :)]]></wp:comment
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Omer Pasa Latas]]></wp:comment_author>
-			<wp:comment_author_email>bosna@bosna.yu</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11744832</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Omer Pasa Latas]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[www.whatever.ba]]></wp:comment_author_url>
+			
 			<wp:comment_date>Sun Dec 30 01:34:45 -0800 2012</wp:comment_date>
 			<wp:comment_date_gmt>Sun Dec 30 01:34:45 -0800 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[ubleha, ej?
@@ -152,10 +155,10 @@ Ne siri demagogiju da bi ispao cool. Guvis mi se jarane. Prestario si ti to.]]><
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11745305</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sun Dec 30 10:39:51 -0800 2012</wp:comment_date>
 			<wp:comment_date_gmt>Sun Dec 30 10:39:51 -0800 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@Omer Pasa Latas
@@ -166,6 +169,35 @@ Ti izgleda znaš i razumiješ nešto što ja ne znam ili ne razumijem.
 
 Prosvijetli me. I po mogućnosti, potpiši se.
 ]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<wp:comment_id>11879085</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Omer Pasa Latas]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
+			<wp:comment_date>Fri Mar 01 15:03:49 -0800 2013</wp:comment_date>
+			<wp:comment_date_gmt>Fri Mar 01 15:03:49 -0800 2013</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Eh, Ernade,
+nema potrebe za sarkazam, a ime sam dobio bez moje volje pa smatram da &quot;nomen non est omen&quot;. Osim toga po balkanskom kljucu nacije i religije mozda bi me po imenu svrtao negdje gdje ne pripadam ili ne zelim da pripadam. Nije mi bila namjera da te uvrijedim, ali imas djecu kao i ja pa im bar reci istinu kao sto to cinim i ja pa makar se ne uklapa u sadasnji svijet. Neka sami uporede. 
+
+Na tvoju stranicu sam naletio jer sam trazio Titove staze revolucije jer se nadam da cu jednog dana imati priliku da posjetim sva ta mjesta koja su mi omogucila da budem ono sto sam i danas. Za mene je to jedna od najsvijetlijih trenutaka balkanskih naroda, odnosno Slavena, bez obzira na naciju i religiju. Za tebe nemora biti ako to ne smatras, ali molim te promuckaj prije upotrebe kao sto sam i ja pa ces mozda bar priblizno isto misliti.
+  
+Ne bih ostavio komentar da mi se nije ucinilo da bi trebao da malo bolje razumijes proslo vrijeme iz razloga sto si ga sam bar malo dozivio, a i tvoj dedo (aferim mu) ti je sve rekao. Ne, nije sve bilo zlatno, ali smatram da u zivotu covjek mora da se strpi u interesu neceg vaznijeg. Drug &quot;Stari&quot; nam je otrao usi sa krilaticom &quot;Cuvajmo bratstvo i jedinstvo kao zjenicu oka svoga&quot;, ali od prvog dana nacininalo-religioznog ludila shvatio sam da nam je trebao to ugradi u coprcessor  u glavi, iako neznam da li bi i to bilo dovoljno. 
+
+Obisao sam pola zemaljske kugle i na svakom kontinentu, u svakoj zemlji sam vidio potvrdu koliko bi vrijedilo kad bi Tito imao opet svoju &quot;kubanu&quot; i whisky. Nikada nisam bio pristalica &quot;kulta licnosti&quot;, ali jesam &quot;kulta djela&quot;. 
+
+Vlastodrsci i njihovi algoritmi su svuda isti, ali to je kao dobar ili los poker aparat u kaficu. Ako se procuje da daje fuflinge svi lete na njega, ali u ovom danasnjem svijetu i bilo kom mjestu na zemaljskoj kugli mozemo kockati do besvijesti, ali fuflinga nema osim za prvog i njegova tri sloja na piramidi. Kod nas je piramida nekada ipak stajala malo drugacije. Zar ne?
+
+
+Pozdrav i svako dobro tebi i tvojima, a posebno tvojoj djeci.
+
+P.S:
+Zar nije paradox da je radnicka klasa jednom u istoriji covjecanstva imala svoju kakvu-takvu drzavu i razorila je? Krvavo. Nove generacije su zatrovane da im ne padne na pamet da smo svi od istih gena, isti DNA. Mozemo imati dva-tri drzavljanstva, ali sam jednu religiju iako kazu da je Bog samo jedan? What a crap.]]></wp:comment_content>
 			<wp:comment_approved>1</wp:comment_approved>
 			<wp:comment_type></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>

@@ -12,7 +12,7 @@
 	
 		<category domain="tag" nicename="dunjaluk"><![CDATA[dunjaluk]]></category>
 	
-		<category domain="tag" nicename="it"><![CDATA[it]]></category>
+		<category domain="tag" nicename="IT"><![CDATA[IT]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -115,9 +115,10 @@
 	<excerpt:encoded><![CDATA[U proteklih mjesec i kusur dana sam uputio dosta upita po pitanju upoznavanja sa "knowhow ERP". Uglavnom sam kao odgovor dobio šutnju. U ono malo kontakata, pojavio se problem se privatnosti. Sve takve reakcije završavale su se internim email prep...]]></excerpt:encoded>	
 
 	<wp:post_date>Mon Nov 21 05:09:00 -0800 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Mon Nov 21 05:09:00 -0800 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>81087554</wp:post_id>
 	<wp:post_name>neprilagodeni-informaticar</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -128,10 +129,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[dragan]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10089921</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[dragan]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Mon Nov 21 08:46:02 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Mon Nov 21 08:46:02 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Pozdrav kolega,
@@ -147,10 +149,10 @@ Doduše ja sam u RS-u pa je moguće da se entitetski propisi i razlikuju po tom 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10090991</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Mon Nov 21 12:12:54 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Mon Nov 21 12:12:54 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Dragane, malo si me zatekao jer 
@@ -204,10 +206,11 @@ Nadam se da sam ti pojasnio problem koje se ovdje rješava.
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[dragan]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10091999</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[dragan]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Mon Nov 21 14:42:05 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Mon Nov 21 14:42:05 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Izvini što sam te zatekao. Tekst ti je dobar, a ja se uhvatio popusta. Otvorenost bi generalno trebala biti dobra stvar, ali kod nas ni to ne prolazi.
@@ -224,10 +227,10 @@ Inače imaš jako dobar blog, pročitam kad god stignem. Pozdrav.
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10092068</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Mon Nov 21 14:53:53 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Mon Nov 21 14:53:53 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Ma nemaš mi se šta izvinjavati. 

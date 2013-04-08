@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_3_godina"><![CDATA[fit_3_godina]]></category>
+		<category domain="tag" nicename="FIT_3_godina"><![CDATA[FIT_3_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="opensource"><![CDATA[opensource]]></category>
 	
@@ -32,9 +32,10 @@
 	<excerpt:encoded><![CDATA[Da li bi student FIT-a uz pomoć ovog materijala mogao početi koristiti "git" ? Ako neko u kontekstu odgovara na gornje pitanje želi uživo probati https://gitlab.knowhow.out.ba, neka pošalje email na hernad@bring.out.ba za otvaranje account-a.]]></excerpt:encoded>	
 
 	<wp:post_date>Fri Nov 16 07:45:00 -0800 2012</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Fri Nov 16 07:45:00 -0800 2012</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>168842542</wp:post_id>
 	<wp:post_name>git-i-student-fit-a</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

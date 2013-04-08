@@ -29,9 +29,10 @@
 	<excerpt:encoded><![CDATA[Jutros sam dobio čudan mail. Koliko sam razumio, pišem nadmeno, oholo. Ovo je moj odgovor: > Subject: Poštovani > Sasvim slučajno, naišla sam na vaš blog i vašu aplikaciju za posao. Trenutno nemam pristup svojoj mail adresi, tako da se kori...]]></excerpt:encoded>	
 
 	<wp:post_date>Fri May 25 02:50:00 -0700 2012</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Fri May 25 02:50:00 -0700 2012</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>133402059</wp:post_id>
 	<wp:post_name>oholost</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -42,10 +43,10 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11062341</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat May 26 00:56:32 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Sat May 26 00:56:32 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Re: Poštovani

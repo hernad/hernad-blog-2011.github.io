@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_3_godina"><![CDATA[fit_3_godina]]></category>
+		<category domain="tag" nicename="FIT_3_godina"><![CDATA[FIT_3_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -347,9 +347,10 @@
 	<excerpt:encoded><![CDATA[Uvod Praktični ispit iz WT-a je neočekivano za mene postao pravi problem. Dojmovi koje sam stekao prilikom prvog izlaska ispit su se pokazali pogrešnim. U naredna dva roka sam došao do zaključka da je faktor ograničenog vremena ključni fakt...]]></excerpt:encoded>	
 
 	<wp:post_date>Thu Oct 04 15:23:00 -0700 2012</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Thu Oct 04 15:23:00 -0700 2012</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>164219335</wp:post_id>
 	<wp:post_name>wt-prakticni-ispit-4-put</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

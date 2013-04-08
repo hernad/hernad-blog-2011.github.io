@@ -6,7 +6,7 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+		<category domain="tag" nicename="bring.out"><![CDATA[bring.out]]></category>
 	
 		<category domain="tag" nicename="business"><![CDATA[business]]></category>
 	
@@ -54,9 +54,10 @@
 	<excerpt:encoded><![CDATA[U današnjem članku "Strategija 'nedostupan'" sam pomenuo slučaj koji bi se mogao opisati kao ping-pong podrška. Tačnije, da je komunikacija sa Poreznom upravom postojala, vjerovatno bi se desio neki vid ping-pong podrške. U članku "Teška p...]]></excerpt:encoded>	
 
 	<wp:post_date>Thu Dec 23 05:28:00 -0800 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Thu Dec 23 05:28:00 -0800 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>37256664</wp:post_id>
 	<wp:post_name>ping-pong-podrska</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -67,10 +68,10 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6524732</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Dec 25 01:42:53 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Sat Dec 25 01:42:53 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[evo update-a sa našeg radnog ticketa. Jasmin bring.out je napisao:

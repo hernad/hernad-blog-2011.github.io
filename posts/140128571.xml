@@ -8,7 +8,7 @@
 	
 		<category domain="tag" nicename="dunjaluk"><![CDATA[dunjaluk]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -75,9 +75,10 @@
 	<excerpt:encoded><![CDATA[Da li sebe smatrate optimistom, pesimistom, realistom, nadrealistom :) ? Da li sebe smatrate zabavnim, dosadnim, "napornim" ? Upitate li sekako Vas okolina doživljava ? Zadnjih par godina godina redovno blogiram. Jedan od efekata tog blogiranja je...]]></excerpt:encoded>	
 
 	<wp:post_date>Thu Jun 21 23:43:00 -0700 2012</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Thu Jun 21 23:43:00 -0700 2012</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>140128571</wp:post_id>
 	<wp:post_name>ja-sam-magarac-ja-sam-magarac-ja-sam-magarac</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -88,10 +89,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[ma znamo se]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11343506</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[ma znamo se]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Wed Aug 29 00:32:41 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Wed Aug 29 00:32:41 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Vidi...slazem se sa tobom, sve ok...ali hajmo ovo zavrsavati pa sa nekih visih osnova mjenjati stvari koje nam smetaju...
@@ -106,10 +108,10 @@ hajmo pokusati primjeniti zakon o ocuvanju energije pa &quot;pasivnu riku pretvo
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11375229</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Sep 08 02:33:00 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Sat Sep 08 02:33:00 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@maznamose
@@ -139,10 +141,11 @@ Nakon rike ja ipak tražim rješenja. Ne mogu se pohvaliti da imam neke sjajne r
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[ma znamo se ]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11375793</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[ma znamo se ]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Sat Sep 08 07:43:38 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Sat Sep 08 07:43:38 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Znam da trazis rjesenja..a i kad ih nadjes trazices njihova rjesenja:)
@@ -156,10 +159,10 @@ Svaki student-penzioner je tiha gusjenica iz koje se svakog casa moze roditi lep
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11375881</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Sep 08 08:24:53 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Sat Sep 08 08:24:53 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; zasto u nekoj blizoj buducnosti ...

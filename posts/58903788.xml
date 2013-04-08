@@ -6,7 +6,7 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+		<category domain="tag" nicename="bring.out"><![CDATA[bring.out]]></category>
 	
 		<category domain="tag" nicename="business"><![CDATA[business]]></category>
 	
@@ -135,9 +135,10 @@
 	<excerpt:encoded><![CDATA[Pripremam se sastanak sa kolegama iz "Rama-glas"-a. Tema je status knowhow projekta.Pripremam se ako što čitam svoj blog, tickete na redmine-u, bilješke.U šta mi je prošlo proteklih 7 mjeseci !?Umoran sam, iscrpljen ... a opet trebam konstato...]]></excerpt:encoded>	
 
 	<wp:post_date>Tue Jun 28 08:44:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Tue Jun 28 08:44:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>58903788</wp:post_id>
 	<wp:post_name>kasnjenje</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

@@ -137,9 +137,10 @@
 	<excerpt:encoded><![CDATA[Ekonomski analitičari vole reći: Kapital je kao zec. On prvi bježi iz zemalja koje su nesređene i nestabilne. Bosna je nesređena i nestabilna zemlja. To svi znamo. Taj isti princip se može primijeniti na znanje. Iz ove zemlje u toku proteklo...]]></excerpt:encoded>	
 
 	<wp:post_date>Sun Dec 04 00:41:00 -0800 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Sun Dec 04 00:41:00 -0800 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>83944104</wp:post_id>
 	<wp:post_name>antiznanje</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -150,10 +151,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[murga]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10170114</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[murga]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Sun Dec 04 12:18:30 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sun Dec 04 12:18:30 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&quot;Iz društveno-političkih odnosa, znanje se proširilo u školske klupe. Ono je prisutno na časovima historije i maternjeg jezika, ali podjednako i na časovima matematike, fizike i informatike.&quot; - da nije ovdje antiznanje, a ne znanje... ili ja grijesim??
@@ -165,10 +167,10 @@
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10172530</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sun Dec 04 23:11:38 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sun Dec 04 23:11:38 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@Murga, naravno da ne griješiš.

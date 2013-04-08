@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+		<category domain="tag" nicename="FIT_2_godina"><![CDATA[FIT_2_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="ispit"><![CDATA[ispit]]></category>
 	
@@ -203,9 +203,10 @@
 	<excerpt:encoded><![CDATA[U Mostar smo išli Emir, Nedim i ja. Berin je odustao jer mu još nije upisana ocjena iz OEK-a, koji je preduslov za polaganje ovog ispita. Tokom vožnje smo prešli teoriju. Tamo pred kraj nam je svim "dotužilo" ... Došli smo do onih input/outp...]]></excerpt:encoded>	
 
 	<wp:post_date>Mon Mar 21 02:01:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Mon Mar 21 02:01:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>46602419</wp:post_id>
 	<wp:post_name>reporting-prvi-parcijalni-ispit</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -216,10 +217,10 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7832244</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Mon Mar 21 02:58:57 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Mon Mar 21 02:58:57 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Re: Reporting I parcijalni, prijava	Mon 21 Mar 2011 10:57:10 AM CET
@@ -240,10 +241,11 @@ Ernad Husremović, DL 2792
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[murga]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7840938</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[murga]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[http://twitter.com/murga]]></wp:comment_author_url>
+			
 			<wp:comment_date>Tue Mar 22 07:18:53 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Mar 22 07:18:53 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Citajuci ovo sto si napisao mogu izvuci samo jedan zakljucak:
@@ -255,10 +257,10 @@ Ernad Husremović, DL 2792
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7841307</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Mar 22 08:32:52 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Mar 22 08:32:52 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Što murga ? Čini ti se preteškim ?
@@ -279,10 +281,10 @@ Mislim da je to kod ovog ispita veoma poželjno. Moguće je teoriju nalupati po 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7841311</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Mar 22 08:34:45 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Mar 22 08:34:45 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Rezime bi znači bio: &quot;nalupati&quot; skripte, ali i knjigu :)]]></wp:comment_content>

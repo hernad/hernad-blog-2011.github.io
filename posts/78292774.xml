@@ -6,7 +6,7 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+		<category domain="tag" nicename="bring.out"><![CDATA[bring.out]]></category>
 	
 		<category domain="tag" nicename="business"><![CDATA[business]]></category>
 	
@@ -57,9 +57,10 @@
 	<excerpt:encoded><![CDATA[Traži se neko ko je pametan. Pravo pametan. Traži se neko ko razumije IT tehnologije, posebno one koje mi koristimo u knowhow ERP-u . Traži se neko ko zna dobro i pažljvo čitati. Traži se neko ko je samostalan. Traži se neko ko je inventivan. Traž...]]></excerpt:encoded>	
 
 	<wp:post_date>Wed Nov 02 04:24:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Wed Nov 02 04:24:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>78292774</wp:post_id>
 	<wp:post_name>trazi-se-knowhow-erp-project-manager</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -70,10 +71,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[dzenana]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9963671</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[dzenana]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Wed Nov 02 05:45:46 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Nov 02 05:45:46 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[traži se Ernad, ali malo&quot; izbrušen&quot; :))
@@ -90,10 +92,10 @@ Nego prevedi ti ovo lijepo na engleski ili kloniraj sebe. ]]></wp:comment_conten
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9963747</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Nov 02 06:01:21 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Nov 02 06:01:21 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; Tako dragi moj, živimo u ukalupljenom i konvencionalnom društvu gdje se ovakvi oglasi vide samo kao zafrkancija od strane nekog blente. 
@@ -111,10 +113,10 @@ Nije tu pitanje, vjerujem-ne vjerujem. Ali i to dvoje to je po meni ekstra - na 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9963762</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Nov 02 06:04:31 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Nov 02 06:04:31 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; Da sam ja pisala ovaj oglas on bi bio lijepo pospremljen po kategorijama: 
@@ -129,10 +131,10 @@ Kako rekoh, pare kod nas u &quot;bring.out&quot; nisu problem hehehe.
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9963791</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Nov 02 06:08:34 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Nov 02 06:08:34 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; .. lijepo na engleski
@@ -144,10 +146,10 @@ I šta onda ? Nađem nekog Pakistanca, pa uz njega i prevodioca. Pa dobro Džena
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9977020</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Nov 04 07:03:32 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Fri Nov 04 07:03:32 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[http://redmine.bring.out.ba/issues/25147
@@ -158,10 +160,11 @@ I šta onda ? Nađem nekog Pakistanca, pa uz njega i prevodioca. Pa dobro Džena
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Jasko]]></wp:comment_author>
-			<wp:comment_author_email>nebitno@mail.com</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11130589</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Jasko]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[www.rofl.com]]></wp:comment_author_url>
+			
 			<wp:comment_date>Thu Jun 14 11:27:42 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Jun 14 11:27:42 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[I sve to za 500KM ??]]></wp:comment_content>
@@ -171,10 +174,10 @@ I šta onda ? Nađem nekog Pakistanca, pa uz njega i prevodioca. Pa dobro Džena
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11130637</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Jun 14 11:39:20 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Jun 14 11:39:20 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Kakvih 500 KM ? Ko je uopšte pominjao primanja u čitavoj ovoj priči ?]]></wp:comment_content>
@@ -184,10 +187,11 @@ I šta onda ? Nađem nekog Pakistanca, pa uz njega i prevodioca. Pa dobro Džena
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Jasko]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11130659</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Jasko]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Thu Jun 14 11:45:20 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Jun 14 11:45:20 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[To je najbitnija stvar,zivi se od para ( plate).... Ako se vec neko mora zrtvovati i raditi nije problem,al za uzvrat taj neko ocekuje dobru platu a ne neki minimalac...]]></wp:comment_content>
@@ -197,10 +201,10 @@ I šta onda ? Nađem nekog Pakistanca, pa uz njega i prevodioca. Pa dobro Džena
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11130694</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Jun 14 12:02:12 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Jun 14 12:02:12 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@Jasko, objasni o čemu pričaš.
@@ -233,10 +237,10 @@ Mišljenja sam i krajnje korektna firma.
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11130697</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Jun 14 12:03:25 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Jun 14 12:03:25 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; ... do kraja otvorena.
@@ -248,10 +252,11 @@ do kraja otvorena firma.]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Jasko]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11130727</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Jasko]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Thu Jun 14 12:16:56 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Jun 14 12:16:56 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Ne znam o kojem &quot;kolegi&quot; pricas...al to je nebitno.... Sasvim sam slucajno naletio na ovu web adresu. Zasto sam napisao onu cijenu? pa iz razloga jer sam ranije isto radio kod privatnika i znam sta je privatnik guli te od jutra do mraka za minimalac,a svi pricaju o svojoj firmi kako je najbolja,imaju vizije itd....
@@ -264,10 +269,10 @@ Pozdrav]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11130785</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Jun 14 12:37:31 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Jun 14 12:37:31 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[1) Sve su firme iste ? Svi su privatnici isti ? Izvini ali nisu.
@@ -292,10 +297,10 @@ Počeo si diskusiju naopačke.
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11130803</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Jun 14 12:42:48 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Jun 14 12:42:48 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Ispravka:
@@ -314,10 +319,10 @@ Treba:
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11130825</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Jun 14 12:50:04 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Jun 14 12:50:04 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[U oglasu za M3 develpera su primanja precizno navedena.

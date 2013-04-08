@@ -54,9 +54,10 @@
 	<excerpt:encoded><![CDATA[Danas radim obračun plata. Dođem do Sašine plate. Auuuu! Na našem redmine-u izvještaj o realizaciji pokazuje da je Sale ovaj mjesec po učiku postigao rekord firme. Isto k'o da ga je neko prikopč'o na struju. Čitam izvještaje, prisjećam se šta je s...]]></excerpt:encoded>	
 
 	<wp:post_date>Thu Sep 29 06:24:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Thu Sep 29 06:24:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>73052391</wp:post_id>
 	<wp:post_name>sejtan-i-opensource</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

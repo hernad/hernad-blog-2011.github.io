@@ -170,9 +170,10 @@
 	<excerpt:encoded><![CDATA[Naša firma posljednjih 10 godina gradi ponudu baziranu isključivo na F/OSS(*) software-u. Do sada je ovaj model poslovanja bio u najvećoj mjeri utopija, s obzirom da su naši klijenti mahom uzimali "Microsoft Office" sastavnim dijelom računara...]]></excerpt:encoded>	
 
 	<wp:post_date>Mon Mar 19 00:35:00 -0700 2012</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Mon Mar 19 00:35:00 -0700 2012</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>112907069</wp:post_id>
 	<wp:post_name>drzava-i-bosansko-hercegovacki-it</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -183,10 +184,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Outlandish]]></wp:comment_author>
-			<wp:comment_author_email>aneslozo@gmail.com</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10754354</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Outlandish]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Mon Mar 19 05:21:20 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Mon Mar 19 05:21:20 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Pozdrav kolega,
@@ -208,10 +210,10 @@ LP]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10760288</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[bring.out doo Sarajevo]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Mar 20 06:35:45 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Tue Mar 20 06:35:45 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@Outlandish
@@ -265,10 +267,10 @@ Za one koji su osmislili i proveli fiskalizaciju i legalizaciju jedini, koliko-t
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10760358</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[bring.out doo Sarajevo]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Mar 20 06:47:28 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Tue Mar 20 06:47:28 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Ne odgovorih na posljednji podnaslov.
@@ -313,10 +315,11 @@ Bez dileme ljut i prevaren. Zato što sam svjestan konsekvenci procesa o kojima 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Umoran od kucanja]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10763403</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Umoran od kucanja]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Tue Mar 20 15:05:10 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Tue Mar 20 15:05:10 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Došao sam na ovaj blog post putem linka na facebook-u i nisam mogao odoliti a da ne napišem ništa, jer djelimo slične frustracije. Već sada znam da cu ovo pisati barem tri sata, ali nema veze, bit će mi lakše kad završim :) Probati ću da se osvrnem na one djelove koje smatram glavnim tačkama, koliko uspijem…
@@ -363,10 +366,10 @@ Lakše mi je odmah, kad se ovako istresem :). Toliko do mene, mogao bih satu+ima
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10766532</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Mar 21 03:23:46 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Wed Mar 21 03:23:46 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[http://forum.linux.org.ba/viewtopic.php?pid=53585#p53585]]></wp:comment_content>

@@ -8,9 +8,9 @@
 	
 		<category domain="tag" nicename="bosna"><![CDATA[bosna]]></category>
 	
-		<category domain="tag" nicename="fit_1_godina"><![CDATA[fit_1_godina]]></category>
+		<category domain="tag" nicename="FIT_1_godina"><![CDATA[FIT_1_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
 	
@@ -106,9 +106,10 @@
 	<excerpt:encoded><![CDATA[Evo danima mi u glavi “stoji” ova priča. Pa hajd' da je napokon probam ispričati. Kad sam se vraćao sa parcijalnog iz ASP-a, pitao sam dvojicu momaka koje sam ranije na ispitima u Sarajevu treba li im prevoz. Do tada sam sa sa njima poznava...]]></excerpt:encoded>	
 
 	<wp:post_date>Mon Jun 28 14:42:00 -0700 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Mon Jun 28 14:42:00 -0700 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>34518924</wp:post_id>
 	<wp:post_name>emir-i-berin</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -119,10 +120,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Berin]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6291722</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Berin]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Fri Dec 03 07:45:21 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Fri Dec 03 07:45:21 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Haha, ja sam odusevljen tvojom (nema potrebe za persiranje ;) detaljnom analizom i izlaganjem o nama dvojici :D. Doduse, zakasnio sam dobrih 5-6 mjeseci od pisanja ovog posta ali eto, sjetih se danas da imas blog pa rek'o sebi: idi potrazi! Svaka cast za opis i postove; svaki je do bola tacan, a isto tako na neki nacin humoristican. Sretno na ispitu iz statistike, vidjamo se kolega.]]></wp:comment_content>
@@ -132,10 +134,10 @@
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6292412</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Dec 03 10:03:22 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Fri Dec 03 10:03:22 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Berine, drago mi je da ti se blog svidio. Još mi je draže da te vidim na drugoj godini :)  ]]></wp:comment_content>

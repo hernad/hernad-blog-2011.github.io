@@ -8,7 +8,7 @@
 	
 		<category domain="tag" nicename="clipper"><![CDATA[clipper]]></category>
 	
-		<category domain="tag" nicename="etf"><![CDATA[etf]]></category>
+		<category domain="tag" nicename="ETF"><![CDATA[ETF]]></category>
 	
 		<category domain="tag" nicename="nostalgija"><![CDATA[nostalgija]]></category>
 	
@@ -197,9 +197,10 @@
 	<excerpt:encoded><![CDATA[80-te i ZX Spectrum 48K Kada sam tamo negdje ‘85 (dvadesetok vijeka :)) dobio svoj prvi računar ZX Spectrum 48K, bio sam ubjeđen da ta stvarka može sve. Evo upravo sada gledam knjigu “Spektrum priručnik” koja je sva iscufana od silnog č...]]></excerpt:encoded>	
 
 	<wp:post_date>Sun Jun 06 12:58:00 -0700 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Sun Jun 06 12:58:00 -0700 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>34417435</wp:post_id>
 	<wp:post_name>25-godina-hardware-a-i-software-a</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

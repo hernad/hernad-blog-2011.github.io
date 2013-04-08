@@ -84,9 +84,10 @@
 	<excerpt:encoded><![CDATA[Ranija vlast je bila grozna. GROZNA. Ali ova SDP-ovska je uspjela kod mene stvoriti reakcije koje nijedna do sada nije. Oni prijašnji su se sramno "talisali" između sebe. A SDP-ovci ... SDP-ovci su "talisanje" globalizirali. Ministra obrazovanja...]]></excerpt:encoded>	
 
 	<wp:post_date>Wed Mar 21 12:24:00 -0700 2012</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Wed Mar 21 12:24:00 -0700 2012</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>113850240</wp:post_id>
 	<wp:post_name>it-marksizam</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -97,10 +98,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Strider]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10809486</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Strider]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Thu Mar 29 01:39:22 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Mar 29 01:39:22 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Selam Ernade,
@@ -119,10 +121,10 @@ Da se reis petlja u to u sta ti zelis da se petlja - vjerovatno bi zvucao isto k
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10809844</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Mar 29 03:41:57 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Mar 29 03:41:57 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@Strider
@@ -194,10 +196,10 @@ Selam alejkum,]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10809900</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Mar 29 03:56:44 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Mar 29 03:56:44 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@Strider
@@ -224,10 +226,11 @@ Da ... znam. Svrha te hutbe je bila ukazivanje na svetost dženaze za muslimane.
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Strider]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10810023</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Strider]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Thu Mar 29 04:32:42 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Mar 29 04:32:42 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[1.
@@ -256,10 +259,11 @@ Halal (generalno) jeste tema mnogih hutbi. Mozda bi i takvo nesto bilo dobro da 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Strider]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10810046</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Strider]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Thu Mar 29 04:39:10 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Mar 29 04:39:10 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[I btw...preferiranje vendora koje pominjes u clanku nema direktnu vezu s temom halal softvera. Mozes ti preferirati vendora, a to ne znaci da piratiziras software.
@@ -271,10 +275,10 @@ Ne vjerujem da u tom udzbeniku se poziva na piratiziranje. Shodno tome, nema vez
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10810213</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Mar 29 05:17:57 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Mar 29 05:17:57 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@Strider
@@ -365,10 +369,10 @@ Mentalni podaništvo je najteže izliječiti.
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10810277</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Mar 29 05:22:16 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Mar 29 05:22:16 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; IZ da je zekat/sadekat-ul-fitr validan samo ako se daje u tzv. Bejt-ul-mal.
@@ -394,10 +398,11 @@ Selam ajekum.
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Strider]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10810786</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Strider]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Thu Mar 29 07:03:25 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Mar 29 07:03:25 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Priznajem malo je desko diskutovati u komentarima na blogu jer se gubi preglednost, a i dosta smo tema otvorili.
@@ -427,10 +432,10 @@ Selam alejkum]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10814342</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Mar 29 22:59:49 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Mar 29 22:59:49 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@Strider
@@ -458,10 +463,10 @@ Selam alejkum]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10814480</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Mar 29 23:46:16 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Thu Mar 29 23:46:16 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@Strider
@@ -475,10 +480,11 @@ Princip šure nas na to upućuje.]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Strider]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10814900</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Strider]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Fri Mar 30 02:00:01 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Fri Mar 30 02:00:01 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Bice prilike ako Bog da. :)

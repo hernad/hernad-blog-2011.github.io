@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_1_godina"><![CDATA[fit_1_godina]]></category>
+		<category domain="tag" nicename="FIT_1_godina"><![CDATA[FIT_1_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -125,12 +125,13 @@
 <p>Moja ocjena predmeta je 9. &Scaron;to nije 10 ? Ma kopka me brate &ldquo;Branin recept&rdquo; :).</p>
 
 ]]></content:encoded>
-	<excerpt:encoded><![CDATA[25.06.2010 Prekjuče sam radio zadnji ispit iz ovog junskog turnusa. Juče sam krenuo da napišem nešto o ovom ispitu, ali mi mozak ode u ovom smjeru � ta se radi na ASP-u Algoritmi i strukture podataka (ASP) su mi bez ikakve dileme omiljeni pred...]]></excerpt:encoded>	
+	<excerpt:encoded><![CDATA[25.06.2010 Prekjuče sam radio zadnji ispit iz ovog junskog turnusa. Juče sam krenuo da napišem nešto o ovom ispitu, ali mi mozak ode u ovom smjeru  ta se radi na ASP-u Algoritmi i strukture podataka (ASP) su mi bez ikakve dileme omiljeni pred...]]></excerpt:encoded>	
 
 	<wp:post_date>Wed Jun 23 14:32:00 -0700 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Wed Jun 23 14:32:00 -0700 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>34423071</wp:post_id>
 	<wp:post_name>asp-drugi-parcijalni-23062010</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -141,10 +142,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[emina ]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7770557</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[emina ]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Wed Mar 16 08:16:35 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Mar 16 08:16:35 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[ako si iz sarajeva da li bih mogla kupiti od tebe tu knjigu?]]></wp:comment_content>
@@ -154,10 +156,10 @@
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7771704</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Mar 16 09:54:13 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Mar 16 09:54:13 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Kako sam ti na sms rekao, nemaš potrebu za knjigom iz ASP-a.
@@ -172,10 +174,11 @@ Ali evo, pogledao sam - imam dvije knjige iz tog predmeta pa ću ti poslati po a
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[emina ]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7771718</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[emina ]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Wed Mar 16 09:57:21 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Mar 16 09:57:21 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[pa nemoj slati ako mi ne trebaju :D imam i ja neku iz asp-a koju sam na fakultetu kupila ali je totalno konfuzna bas su mi danas stigla dva predavanja iz asp-a i nekako mi super interesantno izgleda :D 
@@ -186,10 +189,10 @@ Ali evo, pogledao sam - imam dvije knjige iz tog predmeta pa ću ti poslati po a
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7772463</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Mar 16 11:09:21 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Mar 16 11:09:21 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[E to je to ... Ma drži se ti Harisovih materijala. Čovjek zna posao ... 
@@ -203,10 +206,11 @@ Dobro dogovorili smo ... A ako nekom drugom slučajno zatrebaju ove knjige, ček
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[emina ]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7847871</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[emina ]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Wed Mar 23 12:05:44 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Mar 23 12:05:44 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[e ovako radim ove zadatke sto smo dobili za vjezbu iz asp pa sam zapela :D :D :D 
@@ -230,10 +234,10 @@ hvala :D]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7851947</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Mar 23 23:48:16 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Mar 23 23:48:16 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Emina, najbolje ti je ovakva pitanja postaviš na studentskim forumima http://cs.fit.ba. Tamo je to raji aktuelno i sigurno će se naći neko ko ti može pomoći.

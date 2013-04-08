@@ -8,7 +8,7 @@
 	
 		<category domain="tag" nicename="dunjaluk"><![CDATA[dunjaluk]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
 	
@@ -81,9 +81,10 @@
 	<excerpt:encoded><![CDATA[Naši fakulteti su krcati lošim studentima. Ko su loši studenti ? Studenti koji ne mare za znanjem i postignućem. Nažalost, današnja mlada generacija je masovno zaražena ovim virusom. Kako i ne bi kada su oni najuspješniji i najviđeniji ma...]]></excerpt:encoded>	
 
 	<wp:post_date>Wed Jun 20 20:58:00 -0700 2012</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Wed Jun 20 20:58:00 -0700 2012</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>139799702</wp:post_id>
 	<wp:post_name>fakulteti-po-mjeri-losih-studenata</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -94,10 +95,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[nihad]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11152599</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[nihad]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Wed Jun 20 22:15:00 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Wed Jun 20 22:15:00 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[svaka cast, ovo se cijeni ;)]]></wp:comment_content>
@@ -107,10 +109,11 @@
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[emir h.]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11161858</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[emir h.]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Sat Jun 23 17:44:05 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Sat Jun 23 17:44:05 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[1.
@@ -154,10 +157,10 @@ Ova moja treca stavka se ne odnosi na tebe da i to ne bi bukvalno shvatio, ovo j
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11163521</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sun Jun 24 10:20:03 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Sun Jun 24 10:20:03 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@emir.h 
@@ -175,10 +178,11 @@ Sretno sa spremanjem ispita.]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Rade Paprica Fashion Guru]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>11374008</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Rade Paprica Fashion Guru]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Fri Sep 07 13:25:54 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Fri Sep 07 13:25:54 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Ernade,

@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+		<category domain="tag" nicename="FIT_2_godina"><![CDATA[FIT_2_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -61,9 +61,10 @@
 	<excerpt:encoded><![CDATA[Koristim literaturu sa Filozofskog fakulteta Sarajevo, odsjek psihologija: Priručnik iz Statistike u psihologiji, Poglavlje 3, Đapo, N., Đokić, R. (2010) Mjere centralne tendencije: Mjere centralne tendencije su vrijednosti koje odražavaju ce...]]></excerpt:encoded>	
 
 	<wp:post_date>Fri Dec 03 12:09:00 -0800 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Fri Dec 03 12:09:00 -0800 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>35258566</wp:post_id>
 	<wp:post_name>statistika-mjere-centralne-evidencije</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -74,10 +75,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[hdzenana]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6293724</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[hdzenana]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Fri Dec 03 13:04:39 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Fri Dec 03 13:04:39 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Ernade, tri su osnovne stvari koje određuju nivo skale mjerenja: veličinski niz, jednakost intervala i postojanje apsolutne nule.
@@ -93,10 +95,10 @@ Kapiši sada?
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6293854</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Dec 03 13:34:44 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Fri Dec 03 13:34:44 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Trebala si ovo &quot;krkanskije&quot; brate objasniti. Previše si mi objasnila. Shvatiti mogu, ali sigurno neću moći izreproducirati.
@@ -110,10 +112,10 @@ Nek stoji za drugi put. Ona me asistentica definitvno &quot;tuširala&quot;]]></
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6293880</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Dec 03 13:44:28 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Fri Dec 03 13:44:28 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[1) Nominalna 
@@ -137,10 +139,10 @@ Primjer: rezultati studenata na univerzitetu: 5..10 ocjene
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6293897</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Dec 03 13:49:45 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Fri Dec 03 13:49:45 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Dženana via telefon:
@@ -156,10 +158,10 @@ omjerna skala je zato što je *razlika* između mjerenja 120 i 100 i ista kao i 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6293913</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Dec 03 13:52:28 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Fri Dec 03 13:52:28 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[broj djece: 0, 1, 2, 3, 4, 5, 6, 7. razlika između imati 5 i 4 djece je jedno dijete, razlika između imati 3 i 2 djeteta je takođe jedno dijete.
@@ -173,10 +175,10 @@ Kad se onome što ima 7 djece ima jedno zagubi na igralištu on i ne primjeti.]]
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6293942</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Dec 03 14:02:23 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Fri Dec 03 14:02:23 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Glavna kvaka kod intervalne skale što kvalitativno razlika između pojedinih mjerenja nije proporcionalna. 

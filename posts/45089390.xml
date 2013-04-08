@@ -8,9 +8,9 @@
 	
 		<category domain="tag" nicename="database"><![CDATA[database]]></category>
 	
-		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+		<category domain="tag" nicename="FIT_2_godina"><![CDATA[FIT_2_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -42,9 +42,10 @@ Ali, kako video ipak sadrži određene informacije koje slika i "živa riječ" n
 	<excerpt:encoded><![CDATA[Učinilo mi se interesantnim popratiti seminarski rad iz UBP-a odgovarajućim video materijalom. To sam na kraju i učinio: Nisam zadovoljan onim što sam dobio. Brat-bratu sam jedno 100 puta započeo i prekinuo snimanje videa. Krenem, zamucam, pa...]]></excerpt:encoded>	
 
 	<wp:post_date>Sun Mar 06 04:05:00 -0800 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Sun Mar 06 04:05:00 -0800 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>45089390</wp:post_id>
 	<wp:post_name>video-materijal-na-temu-seminarskog-rada-iz-u</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

@@ -6,11 +6,11 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+		<category domain="tag" nicename="bring.out"><![CDATA[bring.out]]></category>
 	
-		<category domain="tag" nicename="fit_3_godina"><![CDATA[fit_3_godina]]></category>
+		<category domain="tag" nicename="FIT_3_godina"><![CDATA[FIT_3_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
 	
@@ -40,9 +40,10 @@
 	<excerpt:encoded><![CDATA[Uvijek mi je bilo poblentavo pisati ugovore sa samim sobom. Ja kao direktor ugovaram sa samim sobom ovo ili ono ... Ostao mi je upitnik: Mogu li ja, fizičko lice ugovarati nešto sa sobom kao pravnim licem ?! U neka doba sam kao pravi informatič...]]></excerpt:encoded>	
 
 	<wp:post_date>Wed Oct 12 03:29:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Wed Oct 12 03:29:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>75156008</wp:post_id>
 	<wp:post_name>ugovor-o-stipendiranju-mene</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -53,10 +54,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[XajniN]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9893607</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[XajniN]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[http://twitter.com/XajniN]]></wp:comment_author_url>
+			
 			<wp:comment_date>Thu Oct 20 06:45:06 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Oct 20 06:45:06 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Dobra ideja za stipendiju samom sebi, hhh.
@@ -71,10 +73,10 @@ P.S. Ne radi ti komentarisanje u Operi. ]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9893721</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Oct 20 07:03:35 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Oct 20 07:03:35 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@XajniN
@@ -88,10 +90,11 @@ Super. Znači jedina davalac, množina davaoci ... ima smisla. To mi fakat na pa
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[XajniN]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9893785</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[XajniN]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[http://twitter.com/XajniN]]></wp:comment_author_url>
+			
 			<wp:comment_date>Thu Oct 20 07:20:04 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Oct 20 07:20:04 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Opera 11.51, Windows Server 2008 R2
@@ -103,10 +106,10 @@ Jednostavno ne reaguje na dugme &quot;Post this comment&quot;. I ne mogu mišem 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9893908</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Oct 20 07:51:03 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Oct 20 07:51:03 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[post comment error with Opera browser
@@ -131,10 +134,10 @@ Ernad Husremović
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9893966</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Oct 20 08:00:45 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Oct 20 08:00:45 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[posterous suport:
@@ -150,10 +153,10 @@ Već sam imao prilike komunicirati sa njima. Podrška im je odlična. Ne bih se 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9893986</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Oct 20 08:04:24 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Oct 20 08:04:24 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[pisao sam o tome men' se čini....
@@ -167,10 +170,11 @@ joj jesam i ja lik. Još malo pa ću početi ženi govoriti: imaš na blogu xyz 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[XajniN]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9895047</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[XajniN]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[http://twitter.com/XajniN]]></wp:comment_author_url>
+			
 			<wp:comment_date>Thu Oct 20 10:47:07 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Oct 20 10:47:07 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Fine neke čike.

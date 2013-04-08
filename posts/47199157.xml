@@ -6,7 +6,7 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+		<category domain="tag" nicename="bring.out"><![CDATA[bring.out]]></category>
 	
 		<category domain="tag" nicename="sistem"><![CDATA[sistem]]></category>
 	
@@ -94,9 +94,10 @@
 	<excerpt:encoded><![CDATA[Evo povazdan pišem li pišem ... Pričam kako želimo zaposliti mlade ljude - "IT poletarce", pričam o mom(*) pogledu na ERP biznis, ali nikako ne kažem šta je to što bi ljudi radili ... Pošto sam ja hernad "the otvoreni", otkriću vam tajnu...]]></excerpt:encoded>	
 
 	<wp:post_date>Thu Mar 24 08:52:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Thu Mar 24 08:52:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>47199157</wp:post_id>
 	<wp:post_name>sta-bi-it-poletarci-trebali-raditi-u-bringout</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -107,10 +108,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Emir]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7854577</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Emir]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Thu Mar 24 10:11:34 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Mar 24 10:11:34 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Znam da sam malo škrt sa komentarima.
@@ -121,10 +123,10 @@
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7854598</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Mar 24 10:16:58 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Mar 24 10:16:58 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[He he ... 
@@ -144,10 +146,11 @@ Zato mi je veliko ohrabrenje činjenica da Emir i ja dijelimo mišljenje o tome 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[murga]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7888255</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[murga]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Sun Mar 27 23:46:37 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sun Mar 27 23:46:37 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Cestitam... I. parcijalni iz REPke je pao...]]></wp:comment_content>
@@ -157,10 +160,11 @@ Zato mi je veliko ohrabrenje činjenica da Emir i ja dijelimo mišljenje o tome 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Berin]]></wp:comment_author>
-			<wp:comment_author_email>cinik@live.com</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7900343</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Berin]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Tue Mar 29 03:35:50 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Mar 29 03:35:50 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Kasnim ali sta cu, imao sam neke frke ovih dana. Ja sam naravno zainteresovan za ovakvo nesto zbog sticanja iskustva i ucenja neceg novog - za mene *nix based operativni sistemi su totalni bauk i smatram da bi trebao mjenjati neke svoje navike. Samo me interesuje da li vi ocekujete kao poslodavac da sam &quot;ufurani&quot; korisnik linuksa ili dajete neki rok da se neke stvari savladaju. Inace, sta ima Ernade, sta se radi?
@@ -172,10 +176,10 @@ Pozdrav]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7902000</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Mar 29 06:01:40 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Mar 29 06:01:40 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@murga, hvala. Rezultat je definitivno prevazišao moja očekivanja ]]></wp:comment_content>
@@ -185,10 +189,10 @@ Pozdrav]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7902050</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Mar 29 06:13:52 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Mar 29 06:13:52 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[E ovaj moj Berin je stvarno freak ... Neće da čita ...
@@ -217,10 +221,11 @@ Nakon ovakvih motivirajućih stvari šta drugo da kažem:
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Emir]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7902073</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Emir]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Tue Mar 29 06:17:30 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Mar 29 06:17:30 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Požuri čekamo te :)]]></wp:comment_content>
@@ -230,10 +235,11 @@ Nakon ovakvih motivirajućih stvari šta drugo da kažem:
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[emina]]></wp:comment_author>
-			<wp:comment_author_email>emina.suljevic@edu.fit.ba</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9104143</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[emina]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Tue Jun 21 06:55:27 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Jun 21 06:55:27 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[ja poslah mail :D]]></wp:comment_content>
@@ -243,10 +249,10 @@ Nakon ovakvih motivirajućih stvari šta drugo da kažem:
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9104179</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Jun 21 07:03:44 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Jun 21 07:03:44 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Draga Emina, što jest-jest brza si k'o zmaj. U ovom konkretnom slučaju je veliki problem to što prije objave konkursa nisi bila prijavljena na biro. 

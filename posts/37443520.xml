@@ -6,7 +6,7 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="bringout"><![CDATA[bringout]]></category>
+		<category domain="tag" nicename="bring.out"><![CDATA[bring.out]]></category>
 	
 		<category domain="tag" nicename="sistem"><![CDATA[sistem]]></category>
 	
@@ -102,9 +102,10 @@
 	<excerpt:encoded><![CDATA[Moj kolega Jasmin Beganović (nadalje bjasko) je interesantna osoba. On pripada onoj pametnoj raji što školu nije plaho voljela. Garant je bjasko na većini školskih časova jedino razmišljao: "Kad će ovo više završiti ?!". Takva raja te me...]]></excerpt:encoded>	
 
 	<wp:post_date>Sat Dec 25 08:59:00 -0800 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Sat Dec 25 08:59:00 -0800 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>37443520</wp:post_id>
 	<wp:post_name>a-sto-ga-bjasko-zna-sfuserit</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

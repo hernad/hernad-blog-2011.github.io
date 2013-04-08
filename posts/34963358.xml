@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+		<category domain="tag" nicename="FIT_2_godina"><![CDATA[FIT_2_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="ispit"><![CDATA[ispit]]></category>
 	
@@ -80,12 +80,13 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>]]></content:encoded>
-	<excerpt:encoded><![CDATA[Današnja priprema Iako sam imao čitav dan pred sobom, danas nisam bio pretjerano fokusiran na spremanje ovog ispita. Razloga je više: dijelom zato što su mi ostali workshop-ovi i vježbe za koje mi je inače prvi utisak bio: "� ta je ba ovo ?!...]]></excerpt:encoded>	
+	<excerpt:encoded><![CDATA[Današnja priprema Iako sam imao čitav dan pred sobom, danas nisam bio pretjerano fokusiran na spremanje ovog ispita. Razloga je više: dijelom zato što su mi ostali workshop-ovi i vježbe za koje mi je inače prvi utisak bio: " ta je ba ovo ?!...]]></excerpt:encoded>	
 
 	<wp:post_date>Tue Nov 30 10:36:00 -0800 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Tue Nov 30 10:36:00 -0800 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>34963358</wp:post_id>
 	<wp:post_name>racunarske-mreze-1-parcijalni</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

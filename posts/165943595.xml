@@ -30,9 +30,10 @@
 	<excerpt:encoded><![CDATA[http://player.vimeo.com/video/51620604 Meteor pokazuje da dobra i jednostavna rješenja mogu praviti samo najbolji. Dobro i jednostavno je teško postići. A kada se ipak dostigne - izgleda tako prirodno. Meteor javascript web framework Respect.]]></excerpt:encoded>	
 
 	<wp:post_date>Sat Oct 20 01:11:00 -0700 2012</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Sat Oct 20 01:11:00 -0700 2012</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>165943595</wp:post_id>
 	<wp:post_name>meteor-rethink-javascript-web-applications</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

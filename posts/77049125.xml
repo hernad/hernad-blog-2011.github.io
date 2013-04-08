@@ -80,9 +80,10 @@
 	<excerpt:encoded><![CDATA[Prije nešto više od tri godine, u Samrinom 7. razredu osnovne škole, imali smo pravu dramu. Upravo je mi je to grozno iskustvo i bilo "inspiracija" u članku "Hello programiranje, al' čestito, hernad 'The agresivni'", za poglavlje "hernad The ...]]></excerpt:encoded>	
 
 	<wp:post_date>Mon Oct 24 06:50:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Mon Oct 24 06:50:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>77049125</wp:post_id>
 	<wp:post_name>jel-to-sahbaz-pardon-sahman</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -93,10 +94,10 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9912501</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Mon Oct 24 07:33:13 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Mon Oct 24 07:33:13 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Neki dan je Samra pomenula da je nastavnik Šahman (ko)autor neke školske knjige - udžbenika.
@@ -112,10 +113,11 @@ Prosto mi je nevjerovatno da oni koji ne razumiju glavne CILJEVE svog posla, daj
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[murga]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9918153</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[murga]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Tue Oct 25 05:17:56 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Oct 25 05:17:56 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Prosto nisam mogao a da se nejavim obzirom da ce i moje dijete (iako staro samo 1 godinu) krenuti nekad Insallah u skolu... vrijeme ipak leti...
@@ -133,10 +135,10 @@ Za udžbenik i da ne govorim... to ti je ono što bi se trebalo zvati šund lite
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9918436</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Oct 25 05:54:58 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Oct 25 05:54:58 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Šta da ti kažem dragi Murga, nego da ponovim: &quot;Pazi na svoje dijete&quot;.

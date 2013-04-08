@@ -148,9 +148,10 @@
 	<excerpt:encoded><![CDATA[BNP 3. Linux seminar je završio. Seminar je održan u BNP-u (Bosansko narodno pozorište) Zenica. BNP je svjedok jednog prošlog vremena. To je bilo vrijeme kada su Tito i partija demonstrirali da se i u radničkom gradu može razvijati kultura. ...]]></excerpt:encoded>	
 
 	<wp:post_date>Tue Dec 05 03:00:00 -0800 2006</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Tue Dec 05 03:00:00 -0800 2006</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>80501036</wp:post_id>
 	<wp:post_name>utisci-sa-3-linux-seminara-zenica-02122006</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -161,10 +162,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[murga]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10070231</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[murga]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Thu Nov 17 13:22:40 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Nov 17 13:22:40 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Sta se desava sa ovim seminarom? Odrzava li se redovno?]]></wp:comment_content>
@@ -174,10 +176,10 @@
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10070656</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Nov 17 15:22:47 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Nov 17 15:22:47 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Na žalost, koliko znam ovo je bio posljednji seminar.

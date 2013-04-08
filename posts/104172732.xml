@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_3_godina"><![CDATA[fit_3_godina]]></category>
+		<category domain="tag" nicename="FIT_3_godina"><![CDATA[FIT_3_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -189,9 +189,10 @@
 	<excerpt:encoded><![CDATA[Juče sam prvi put izašao na ispit iz WT-a(*). Zimski semestar 3. godina - PIS, SI, MIS PIS, SI - "šupica-tach" WT je jedini ispit zimskog semestra za koga sam stekao dojam da se radi o smislenom ispitu. PIS i SI(**) su totalno razočarenje. MIS...]]></excerpt:encoded>	
 
 	<wp:post_date>Wed Feb 22 01:31:00 -0800 2012</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Wed Feb 22 01:31:00 -0800 2012</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>104172732</wp:post_id>
 	<wp:post_name>wt-zasto-je-aspnet-los-za-prve-korake-u-razvo</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -202,10 +203,10 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10598827</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Feb 22 09:26:43 -0800 2012</wp:comment_date>
 			<wp:comment_date_gmt>Wed Feb 22 09:26:43 -0800 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[komentar na cs.fit.ba https://gist.github.com/1886174

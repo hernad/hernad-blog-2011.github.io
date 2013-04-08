@@ -8,9 +8,9 @@
 	
 		<category domain="tag" nicename="antiznanje"><![CDATA[antiznanje]]></category>
 	
-		<category domain="tag" nicename="fit_1_godina"><![CDATA[fit_1_godina]]></category>
+		<category domain="tag" nicename="FIT_1_godina"><![CDATA[FIT_1_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -113,12 +113,13 @@
 <p>Hipotetička pitanja bi međutim morala počinjati ovako: &ldquo;U knjizi prof. dr. Nijaza Bajgorića je navedena je klasifikacija &hellip;&rdquo;</p>
 
 ]]></content:encoded>
-	<excerpt:encoded><![CDATA[1) Skraćenica NT znači: nice try new technology no thanks not tested not to day Očekivani odgovor je: 2 Komentar Skraćenica NT ne znači ništa. Međutim, ako bi preformulisali pitanje: � ta znači “Windows NT ?”. Da, to je Microsoftov mar...]]></excerpt:encoded>	
+	<excerpt:encoded><![CDATA[1) Skraćenica NT znači: nice try new technology no thanks not tested not to day Očekivani odgovor je: 2 Komentar Skraćenica NT ne znači ništa. Međutim, ako bi preformulisali pitanje:  ta znači “Windows NT ?”. Da, to je Microsoftov mar...]]></excerpt:encoded>	
 
 	<wp:post_date>Tue Jun 15 00:40:00 -0700 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Tue Jun 15 00:40:00 -0700 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>34549871</wp:post_id>
 	<wp:post_name>uos-pitanja-sta-me-briga</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

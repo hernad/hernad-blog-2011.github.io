@@ -120,9 +120,10 @@ Koje je primarno računanje vremena na ovom kalendaru ?</p>
 	<excerpt:encoded><![CDATA[Džuma, Malezijska džamija Nova Breka, imam ef. hadži Elvedin Klisura, 25. muharrem 1432 hdž, 31.12.2010. Na hutbama uoči Nove godine redovno se govori sljedeće: Braćo ne zaboravite: U novogodišnjoj noći, koja se često naziva "najluđom" ...]]></excerpt:encoded>	
 
 	<wp:post_date>Fri Dec 31 07:02:00 -0800 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Fri Dec 31 07:02:00 -0800 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>37997701</wp:post_id>
 	<wp:post_name>allah-mubareci-nova-2011-godina</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -133,10 +134,10 @@ Koje je primarno računanje vremena na ovom kalendaru ?</p>
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6622958</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Jan 04 00:37:47 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Jan 04 00:37:47 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Kako inače običavam, link na ovaj članak sam proslijedio i ef. Elvedinu.
@@ -162,10 +163,10 @@ Sve više sam ubijeđen da mi generalno mješamo &quot;babe i žabe&quot;, te da
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6622962</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Jan 04 00:39:05 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Jan 04 00:39:05 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[S obzirom da rijasetov članak omogućava komentare komentare(*), kao komentar sam stavio sam link na ovaj članak.

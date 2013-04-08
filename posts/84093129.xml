@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_3_godina"><![CDATA[fit_3_godina]]></category>
+		<category domain="tag" nicename="FIT_3_godina"><![CDATA[FIT_3_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
 	
@@ -143,9 +143,10 @@
 	<excerpt:encoded><![CDATA[A) Uvod Ispiti bazirani na ponuđenim odgovorima (žargonski među studentima pitanja "na click") su u većini loše postavljeni. Obrazovni ishodi ovog sistema ispitivanja su katastrofalni. U ovom članku ću prezentovati nedostatke koje sam uoči...]]></excerpt:encoded>	
 
 	<wp:post_date>Mon Dec 05 04:26:00 -0800 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Mon Dec 05 04:26:00 -0800 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>84093129</wp:post_id>
 	<wp:post_name>fit-ispiti-bazirani-na-pitanjima-i-ponudenim</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -156,10 +157,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[murga]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10176256</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[murga]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Mon Dec 05 11:08:54 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Mon Dec 05 11:08:54 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Još mi je ostala gorčina u ustima od ova 2 ispita (PIS i MIS) na koja sam nažalost potrošio samo bezveze pare i to je to... kontajući da ću bar ako išta nešto logično odgovoriti.
@@ -171,10 +173,11 @@ c c c]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Adnan]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10188089</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Adnan]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Wed Dec 07 06:30:37 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Dec 07 06:30:37 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Vidim da FIT i dalje muce isti problemi. Nisam vise mogao gutati...napustio sam :(
@@ -185,10 +188,10 @@ Svaka cast na trudu i zalaganju da se nesto promijeni. Iskreno se nadam da ce im
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10188162</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Dec 07 06:46:16 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Dec 07 06:46:16 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Adnane, hvala na podršci.
@@ -205,10 +208,11 @@ http://hernad.bring.out.ba/ipak-tako-ne-mora-biti
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Adnan]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10188312</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Adnan]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Wed Dec 07 07:14:26 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Dec 07 07:14:26 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Mislim da je sada daleko povoljnije vrijeme za promjene nego prije par godina kada je FIT imao neku vrstu monopola nad IT obrazovanjem u BiH. Sada svako selo ima &quot;univerzitet&quot; i ako zele studente u svojim prostorijama onda se moraju i potruditi da obezbijede adekvatno obrazovanje. Jako puno ljudi je odustalo od FIT-a i iz licnog iskustva znam da je dosta ljudi upisalo druge fakultete upravo zahvaljujuci losem iskustvu prethodnika.
@@ -220,10 +224,10 @@ Na Debconf-u sam cuo jedno interesantno opisivanje FIT-a i slicnih fakulteta:
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10188439</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Dec 07 07:38:11 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Dec 07 07:38:11 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; &quot;Oni ne treba da daju ljudima diplome nego certifikate. Diploma se izdaje za poznavanje koncepta, a ne za poznavanje rjesenja. Oni ljude uce rjesenjima, a ne konceptima. Neka izdaju certifikate za poznavanje MSSQL-a, MS Visual Studio, .NET tehnologija itd. Mogli bi vise zaraditi na tome nego na ovakvom &quot;univerzitetskom&quot; obrazovanju&quot; Covjek koji je ovo rekao inace radi na Univerzitetu u Bostonu!
@@ -283,10 +287,10 @@ je prevelika.
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10188627</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Dec 07 08:05:33 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Dec 07 08:05:33 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Želim još jednu bitnu stvar napomenuti Adnane.
@@ -312,10 +316,10 @@ Bez takvog djelovanja nema promjena. Bez toga bolje i ne zaslužujemo.]]></wp:co
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10188652</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Dec 07 08:08:57 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Dec 07 08:08:57 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Adnan je napisao:
@@ -329,10 +333,11 @@ Koje fakultete su ti ljudi odabrali ?
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Adnan]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10190969</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Adnan]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Wed Dec 07 15:50:41 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Dec 07 15:50:41 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Odabrali su one fakultete na kojima za iste pare ili nesto malo vise, a bez ikakvog truda dobiju isti &quot;papir&quot;. Na FIT-u i platis i trudis se, a dobijes....nista :(
@@ -344,10 +349,11 @@ Necu imenovati kolegu koji je sa FIT-a presao u B.Luku i u roku zavrsio. Sad je 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Adnan]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10190993</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Adnan]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Wed Dec 07 15:57:41 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Dec 07 15:57:41 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Sto se tice kolege iz Bostona....isto pitanje kao i ovo gore: Zasto da se borim i patim? Odo negdje gdje sam priznat, gdje je sve vec uredjeno i nastavim zivot. Takav je bio njegov izbor i koliko vidim nije pogrijesio. Ja ostajem gdje jesam, vec je i porodica kao i kod tebe na okupu, imam koliko toliko OK posao za nase uslove, a za fax me jos nikad niko nije pitao. Poslodavcima je bitno da ZNAS zavrsiti posao i to je sve. To je mozda najveci razlog zasto sam za sada &quot;digao ruke&quot;.]]></wp:comment_content>
@@ -357,10 +363,10 @@ Necu imenovati kolegu koji je sa FIT-a presao u B.Luku i u roku zavrsio. Sad je 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10192903</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Dec 08 02:10:35 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Dec 08 02:10:35 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@Adnan,
@@ -408,10 +414,10 @@ Ja jesam. ]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10192919</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Dec 08 02:15:09 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Dec 08 02:15:09 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[... kao pripadnik  =&gt; ... kao pripadnik ARBiH]]></wp:comment_content>
@@ -421,10 +427,10 @@ Ja jesam. ]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10192922</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Dec 08 02:15:55 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Dec 08 02:15:55 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Sada više nije problem u tome da li mi treba ili ne. 
@@ -438,10 +444,10 @@ Sada više nije problem u tome da li mi *određeno znanje* treba ili ne. ]]></wp
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10193000</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Dec 08 02:33:50 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Dec 08 02:33:50 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Po svim temama na ovu temu treba prije svega misliti na svoju djecu.
@@ -459,10 +465,10 @@ Saučesnici nečemu što se po meni bez ikakvih problema može zvati obrazovni z
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10219218</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Dec 13 02:10:28 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Dec 13 02:10:28 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[http://hernad.bring.out.ba/zlocesti-i-lijeni-student]]></wp:comment_content>
@@ -472,10 +478,11 @@ Saučesnici nečemu što se po meni bez ikakvih problema može zvati obrazovni z
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[nedim]]></wp:comment_author>
-			<wp:comment_author_email>dbnedim@gmail.ba</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10411423</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[nedim]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Mon Jan 23 01:07:11 -0800 2012</wp:comment_date>
 			<wp:comment_date_gmt>Mon Jan 23 01:07:11 -0800 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[E! ja sam cijeli život birao teži put. Kad sam mogao nisam htio sad kad ne mogu hoću po svaku cijenu. Meni dosta toga na FIT-u ije jasno. Svako malo mijenjaju pravila igre i to svaki put u korsit štete studenata a samim tim i te ustanove koja se voli nazivati obrazovnom. Ja lično imam problem da jednostavno NE ZNAM učiti na pamet. Nešto ima u mojoj glavi da mi to jednostavno predstavlja ogroman problem pogotovo ako je to nešto logički ne povezivo kao recimo Marksizam koji smo imali na ETF-u. Ja sam to položio kao i ti malo prepisivanjem malo prijetnjama Musliji Muhoviću ali sam položio. Za razliku od tebe meni to nisu priznali pa sam se prislio i učio i učio tzv Sociologijju. Sam sebe iznenadio ali sam to nekako polozio. E sad imam drugi puno veći problem, nikako ne mogu da položim PR1 (iz UPR dobio 10). Iza sebe imam hiljade linija koda koji se još uvijek koristi u različitim aplikacijama u zemlji i inostranstvu, ali nikako ne mogu da položim predmet koji bi mi po definiciji trebao biti šala. Zašto, mislim da je zbog toga što se polože na &quot;suho&quot; što opet podrazumjeva bubanje, sintakse, definicija i sličnih stvari koje ja jednostavno ne pamtim. Valjda sam se ulijenio koristeći različite alate koje koje mi ne daju pogrišiti u nećem što ja smatram trivijalnim kao što je sintaksa na tom ispitu je zanemarena inventivnost i sam ispit je doveden do apsurda. Likovi na ispitu koji bi trebao biti uvod u c++ daju komplicirane poslovne modele  u cilju provjere znanja, pokazivača, struct-ura i višedimenzionalnih redova tako većina nas ne uspije shvatiti što je cilj programa kojeg pišemo na suho a ako ne mogu shvatiti cilj đaba mi i sitaksa i logika.

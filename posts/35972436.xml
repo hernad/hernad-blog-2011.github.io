@@ -55,9 +55,10 @@
 	<excerpt:encoded><![CDATA[Moja "palamuđenja" polahko daju efekte :) Bez obzira što se dotičem raznih tema, ja sam ipak prije svega informatičar. I najviše volim pričati o informatici. Tako sam večeras dobio pitanje od jednog kolege sa FIT-a: Želio da počnem sa JAV...]]></excerpt:encoded>	
 
 	<wp:post_date>Fri Dec 10 14:41:00 -0800 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Fri Dec 10 14:41:00 -0800 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>35972436</wp:post_id>
 	<wp:post_name>omiljeni-programski-jezik</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -68,10 +69,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[tnx]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6355402</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[tnx]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Fri Dec 10 15:06:09 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Fri Dec 10 15:06:09 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Hvala na odg. Znaci uspjesan developer mora znati solidno, i sto vise programski jezika, da bi uspjesno napravio neki sofverski projekat, s tim da  treba biti sto fleksibilniji i snalazljiviji. Jer svakim novim pro. jezikom koji naucimo, vidimo prednosi i mane onih prog. jezika koje znamo, tj. na apstraktniji nacin razmisljamo i lakse rijesavamo nastale probleme.
@@ -82,10 +84,10 @@
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6356523</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Dec 10 15:25:01 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Fri Dec 10 15:25:01 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[U principu da. Apstraktni način razmišljanja koji pominješ jeste najbitniji u čitavoj priči.  Učenje novih programskih jezika tome definitivno pomažu. 

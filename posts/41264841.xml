@@ -8,9 +8,9 @@
 	
 		<category domain="tag" nicename="database"><![CDATA[database]]></category>
 	
-		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+		<category domain="tag" nicename="FIT_2_godina"><![CDATA[FIT_2_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
 	
@@ -41,9 +41,10 @@
 	<excerpt:encoded><![CDATA[Nastavio sam "borbu" sa UBP materijalima. Ja sam fakat glup da shvatim ovo: Gerund se koristi za modeliranje situacija kod kojih su pojave jednog tipa poveznika povezane sa pojavama nekog drugog tipa entiteta. tada se povezani tip poveznika transf...]]></excerpt:encoded>	
 
 	<wp:post_date>Fri Jan 28 11:35:00 -0800 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Fri Jan 28 11:35:00 -0800 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>41264841</wp:post_id>
 	<wp:post_name>uvod-u-baze-podataka-gerund-je-sahbaz</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

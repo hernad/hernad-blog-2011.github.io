@@ -95,9 +95,10 @@
 	<excerpt:encoded><![CDATA[Upozorenje: tekst koji slijedi, kako naslov sam govori, pun je nedoličnih komentara, nepristojnih riječi, blaćenja bez odgovarajućih argumenata. Ova saga o ocjenijivanju vjeronauke poprimila je razmjere koje je teško ko mogao predvidjeti. Kol...]]></excerpt:encoded>	
 
 	<wp:post_date>Tue May 24 05:43:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Tue May 24 05:43:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>54270889</wp:post_id>
 	<wp:post_name>kakofonija</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>

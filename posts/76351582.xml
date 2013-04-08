@@ -182,9 +182,10 @@ Zato sad "razguli" - u svoju sobu.</blockquote>
 	<excerpt:encoded><![CDATA[U jednom od po meni najboljih članaka na temu obrazovanje i FIT: "Mogućnost izbora" je stvar koja se takođe uči ! u poglavlju "Zašto je Microsoft Visual studio pogrešan izbor" dotakao sam se ove teme. Jutros sam se u to još jednom uvjerio radeći s...]]></excerpt:encoded>	
 
 	<wp:post_date>Thu Oct 20 23:02:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Thu Oct 20 23:02:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>76351582</wp:post_id>
 	<wp:post_name>hello-programiranje-al-cestito</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -195,10 +196,10 @@ Zato sad "razguli" - u svoju sobu.</blockquote>
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9898297</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Oct 21 03:06:54 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Fri Oct 21 03:06:54 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[http://hernad.bring.out.ba/free-pascal-compiler-edit-compile-run-ciklus]]></wp:comment_content>
@@ -208,10 +209,10 @@ Zato sad "razguli" - u svoju sobu.</blockquote>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9898809</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Oct 21 05:18:00 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Fri Oct 21 05:18:00 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Mišljenje psihologa, mame Dženane:
@@ -223,10 +224,11 @@ http://hernad.bring.out.ba/ukljucujemo-i-psihologe-u-temu-hello-programi]]></wp:
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[famous samra]]></wp:comment_author>
-			<wp:comment_author_email>samra.husremovic@gmail.com</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9900737</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[famous samra]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Fri Oct 21 11:52:20 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Fri Oct 21 11:52:20 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[a) linux, Mac OS X (unix like operativni sistemi)
@@ -249,10 +251,10 @@ je li ovo imenuje fajl ili ga pokreće ili oboje?]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9900767</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Oct 21 12:03:25 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Fri Oct 21 12:03:25 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Samra, tim primjerima se pokreće execute fajl (geometry_calculator) koji je dobijen procesom kompajliranja
@@ -264,10 +266,11 @@ je li ovo imenuje fajl ili ga pokreće ili oboje?]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[famous samra]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9900799</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[famous samra]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Fri Oct 21 12:12:19 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Fri Oct 21 12:12:19 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[a kako se imenuje fajl?]]></wp:comment_content>
@@ -277,10 +280,10 @@ je li ovo imenuje fajl ili ga pokreće ili oboje?]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9900893</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Oct 21 12:33:21 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Fri Oct 21 12:33:21 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Ne pratiš pažljvo tekst. 
@@ -300,10 +303,11 @@ Probaj na svom računaru i razmišljaj. Pročitaj onoliko puta dok ne shvatiš p
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[famous samra]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9902973</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[famous samra]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Sat Oct 22 02:17:32 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 02:17:32 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Zato kada napisem i spasim neki code kao npr samra.pas ne mogu odmah kompajlirati jer mi prijavljuje gresku da nisam kompajlirala souce file? Kada sam otvorila file na finderu i kompajlirala proces je bio uspjesan. ]]></wp:comment_content>
@@ -313,10 +317,10 @@ Probaj na svom računaru i razmišljaj. Pročitaj onoliko puta dok ne shvatiš p
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9903029</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Oct 22 02:39:02 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 02:39:02 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Budi konkretnija. Ne mogu ti pomoći dok jasno ne izložiš problem koji imaš.
@@ -335,10 +339,10 @@ Zaključak: ne mogu ti pomoći dok jasno ne izložiš ŠTA si radila na koje pro
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9903039</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Oct 22 02:42:06 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 02:42:06 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Iako ti ovo može djelovati kao još jedno babino &quot;mučenje&quot;, kako ti ne želim pomoći, nisi u pravu.
@@ -352,10 +356,11 @@ Ovo je vrlo bitna vještina.]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[famous samra]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9903177</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[famous samra]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Sat Oct 22 03:38:04 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 03:38:04 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[kada napisem neki kod u editoru i sacuvam ga ne mogu da ga kompajliram jer se prijavi greska da nisam kompajlirala source code. Kada taj fajl otvorim u finderu moze se kompajlirati. Drugi fajl ni tako nisam mogla kompajlirati jer je opet prijavio gresku da nisam kompajlirala source code]]></wp:comment_content>
@@ -365,10 +370,10 @@ Ovo je vrlo bitna vještina.]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9904307</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Oct 22 09:29:21 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 09:29:21 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Opet si prepričala bez potrebnih detalja, vrlo slično kao predhodni put.
@@ -380,10 +385,10 @@ Opet ne mogu razumjeti šta si radila.]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9904643</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Sat Oct 22 11:07:39 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Sat Oct 22 11:07:39 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[http://hernad.bring.out.ba/hello-programiranje-al-cestito-drugi-dio]]></wp:comment_content>
@@ -393,10 +398,11 @@ Opet ne mogu razumjeti šta si radila.]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[sladja]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9936928</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[sladja]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Fri Oct 28 05:09:06 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Fri Oct 28 05:09:06 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[:D ]]></wp:comment_content>

@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_3_godina"><![CDATA[fit_3_godina]]></category>
+		<category domain="tag" nicename="FIT_3_godina"><![CDATA[FIT_3_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
 	
@@ -47,9 +47,10 @@
 	<excerpt:encoded><![CDATA[Subject: Parcijalni ispiti 3. godina, problemi i nedostaci, Mon, Dec 05, 2011 03:28 PM From: Ernad Husremovic To : FIT Prodekan za nastavu FIT Cc : Dekan FIT, Stručni saradnik za nastavu FIT Poštovana kolegice, s obzirom da sam iscrpio sve druge...]]></excerpt:encoded>	
 
 	<wp:post_date>Mon Dec 05 06:36:00 -0800 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Mon Dec 05 06:36:00 -0800 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>84099798</wp:post_id>
 	<wp:post_name>pismo-upuceno-fit-prodekanu-za-nastavu</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -60,10 +61,10 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10192744</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Dec 08 01:16:51 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Dec 08 01:16:51 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[S obzirom da nisam dobio nikakav feedback, jutros na iste adrese poslao upit:
@@ -81,10 +82,10 @@
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10219224</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Dec 13 02:11:23 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Dec 13 02:11:23 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[http://hernad.bring.out.ba/zlocesti-i-lijeni-student]]></wp:comment_content>

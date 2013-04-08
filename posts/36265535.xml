@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+		<category domain="tag" nicename="FIT_2_godina"><![CDATA[FIT_2_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="obrazovanje"><![CDATA[obrazovanje]]></category>
 	
@@ -85,9 +85,10 @@
 	<excerpt:encoded><![CDATA[Pisanje o nastavi, profesorima i asistentima FIT-a postupno mi je nametnulo obavezu - obavezu da pokušam zabilježiti sve bitne stvari(*). Ako budem pisao samo o onome što smatram negativnim, onda će ovaj blog postati FIT "pljuvačnica". A to j...]]></excerpt:encoded>	
 
 	<wp:post_date>Mon Dec 13 12:07:00 -0800 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Mon Dec 13 12:07:00 -0800 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>36265535</wp:post_id>
 	<wp:post_name>profesor-denis</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -98,10 +99,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Pozz D.]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6407242</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Pozz D.]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Mon Dec 13 13:34:46 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Mon Dec 13 13:34:46 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Denisovu velikodusnost tek mozete vidjeti ako ste redovan student, naravno mozete i kao dl, ali nije to to. To je asistenet koji ima najbolju atmosferu na vjezbama i workshopima, koji se najbolje šali, a da ne pricam kako objasni.
@@ -113,10 +115,11 @@ Pozz
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[fitovac]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6411430</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[fitovac]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Tue Dec 14 02:58:29 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Tue Dec 14 02:58:29 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Baš tako, iako mislim i da su DL studenti zadovoljni sa Denisom, koliko sam mogao zaključiti iz komentara sa foruma i iz priča od kolega. Ali tek kad si u kontaktu sa Denisom &quot;redovno&quot; i jedan duži period, mozeš da vidiš kako se čovjek trudi, u vezi mnogih stvari. Njegovo nastojanje da studenti shvate stvari i da im pomogne, ne samo u vezi programiranja, nego u vezi mnogih stvari se itekako primjeti. Denis je legenda ukratko, i kao predavač i kao čovjek. 
@@ -129,10 +132,10 @@ Pohvale za blog, samo nastavite sa pisanjem, ima nas što Vas redovno čitamo :)
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6412852</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Dec 14 07:11:25 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Tue Dec 14 07:11:25 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@fitovac, hvala.

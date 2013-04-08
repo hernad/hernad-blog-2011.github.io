@@ -89,9 +89,10 @@
 	<excerpt:encoded><![CDATA[Kada je federalni Ministar obrazovanja Damir Mašić preuzeo funkciju, u svakom javnom istupu koji sam gledao(*) navodio je primjer "Vuka na grani", kao primjer propusta u prehodnom "sistemu" certifikacije udžbenika. "Vuk na grani" je dobar primjer ...]]></excerpt:encoded>	
 
 	<wp:post_date>Wed Dec 14 01:04:00 -0800 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Wed Dec 14 01:04:00 -0800 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>86342728</wp:post_id>
 	<wp:post_name>otvoreno-pismo-ministru-obrazovanja-damiru-ma</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -102,10 +103,10 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10225172</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Dec 14 01:20:54 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Dec 14 01:20:54 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[&gt; Otvoreno pismo Federalnom Ministru obrazovanja Damiru Mašiću
@@ -134,10 +135,11 @@
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[murga]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10225229</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[murga]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Wed Dec 14 01:34:44 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Dec 14 01:34:44 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[*** Ja neznam šta je ovo, ali me još gorčina hvata od pomena Nine... kako mi se samo smijala kad sam polagao algoritme... moj prijatelju!]]></wp:comment_content>
@@ -147,10 +149,10 @@
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10230865</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Dec 15 01:28:17 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Dec 15 01:28:17 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@Murga,
@@ -164,10 +166,10 @@ prof. dr. Nina Bijedić je sporedni lik ovog članka :)]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10766072</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Mar 21 01:57:23 -0700 2012</wp:comment_date>
 			<wp:comment_date_gmt>Wed Mar 21 01:57:23 -0700 2012</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Banana ministar banana države:

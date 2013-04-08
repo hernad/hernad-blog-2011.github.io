@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+		<category domain="tag" nicename="FIT_2_godina"><![CDATA[FIT_2_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -36,9 +36,10 @@
 	<excerpt:encoded><![CDATA[Pokušao sam svoj komentar staviti direktno na youtube: ali ne ide. Komentar mi je preveliki :). Onda ću svoj komentar ispisati na blog, pa staviti link. Moj komentar Kolega, dobra i jasna prezentacija. Posebno pozdravljam Vašu odluku da ove materi...]]></excerpt:encoded>	
 
 	<wp:post_date>Thu Dec 02 02:26:00 -0800 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Thu Dec 02 02:26:00 -0800 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>35118618</wp:post_id>
 	<wp:post_name>uvod-u-baze-podataka-vjezbe-youtube</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -49,10 +50,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Jasmin]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6425153</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Jasmin]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Wed Dec 15 06:41:43 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Wed Dec 15 06:41:43 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[U svalom slučaju hvala kolega na komentarima. Meni je dovoljno da neko od ovoga ima korist, a sve ostalo je manje bitno.
@@ -64,10 +66,10 @@ Access je samo alatka sa kojom ucimo osnovne koncepte relacionog modela, prave s
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6425576</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Dec 15 08:02:57 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Wed Dec 15 08:02:57 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@Jasmin, hvala na komentaru. 
@@ -95,10 +97,10 @@ Ubijeđen sam da će tako biti i sa narednim materijalima ... Ako tako ne bude, 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6425585</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Dec 15 08:04:24 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Wed Dec 15 08:04:24 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[s/vi/VI, s/vam/Vam]]></wp:comment_content>

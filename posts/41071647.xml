@@ -6,9 +6,9 @@
 	<dc:creator><![CDATA[Ernad Husremović]]></dc:creator>
 	
 	
-		<category domain="tag" nicename="fit_2_godina"><![CDATA[fit_2_godina]]></category>
+		<category domain="tag" nicename="FIT_2_godina"><![CDATA[FIT_2_godina]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="ispit"><![CDATA[ispit]]></category>
 	
@@ -32,9 +32,10 @@
 	<excerpt:encoded><![CDATA[Danas smo po povratku iz Mostara sa ispita "PR2" uradili jednu sesiju "vozačkog učenja". "Vozačko učenje" je sistem učenja koji se radi tako što se uzme skripta sa pitanjima i odgovorima studenata - neznanih junaka i po njoj "oplete" ... Jedan čit...]]></excerpt:encoded>	
 
 	<wp:post_date>Wed Jan 26 17:07:00 -0800 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Wed Jan 26 17:07:00 -0800 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>41071647</wp:post_id>
 	<wp:post_name>racunarske-mreze-priprema-za-ispit</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -45,10 +46,10 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6885897</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Jan 26 23:37:16 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Jan 26 23:37:16 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[evo kako se polaže (info sa DL sistema):

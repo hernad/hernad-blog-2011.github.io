@@ -10,7 +10,7 @@
 	
 		<category domain="tag" nicename="bosna"><![CDATA[bosna]]></category>
 	
-		<category domain="tag" nicename="it"><![CDATA[it]]></category>
+		<category domain="tag" nicename="IT"><![CDATA[IT]]></category>
 	
 
 	<category><![CDATA[Uncategorized]]></category>
@@ -61,9 +61,10 @@ Eh da&nbsp; ... sada vidite "hijeroglife" ... stoji "@" umjesto "Ž" ... "[" umj
 	<excerpt:encoded><![CDATA[Nakon mog obraćanja Poreznoj upravi i Ministarstvu finansija "Tako to mora biti ... MORA LI ?!", te ponovoljenom upitu prema Ministarstvu "hernad 'the dosadni' i bosanska administracija, nije se desilo ništa :(. Likujete? Komentarišete: Jesmo t...]]></excerpt:encoded>	
 
 	<wp:post_date>Fri Dec 24 00:52:00 -0800 2010</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Fri Dec 24 00:52:00 -0800 2010</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>37331671</wp:post_id>
 	<wp:post_name>ipak-tako-ne-mora-biti</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -74,10 +75,10 @@ Eh da&nbsp; ... sada vidite "hijeroglife" ... stoji "@" umjesto "Ž" ... "[" umj
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6513569</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Dec 24 02:08:25 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Fri Dec 24 02:08:25 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[poslao sam email:
@@ -94,10 +95,11 @@ Eh da&nbsp; ... sada vidite "hijeroglife" ... stoji "@" umjesto "Ž" ... "[" umj
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Amela]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6513598</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Amela]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Fri Dec 24 02:30:32 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Fri Dec 24 02:30:32 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Ernade, hvala na lijepim riječima. Ja samo jako volim svoj posao :)) A sada, što se tice &quot;hijeroglifa&quot;: da bih sto prije postavila pravilnike na stranicu, otisla sam direktno na stranicu Službenog lista i sistemom &quot;copy - paste&quot; uzela pravilnike u samo jednoj jezičnoj varijanti. Ne zelim da kažem da imamo fantastičnu IT službu, ali da sam im se obratila oni bi sigurno zavrsili i ovaj tehnički dio posla. Dakle, vidjela sam sve  hijeroglife, ali sam ih  postavila u ovom formatu zbog želje da pravilnike što prije učinim dostupnim javnosti. U narednom periodu ću svakako postaviti sve tri jezične varijante i dokumete sa &quot;uređenim&quot; tekstom :))
@@ -109,10 +111,10 @@ Amela Mulavdić]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6513739</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Dec 24 03:58:18 -0800 2010</wp:comment_date>
 			<wp:comment_date_gmt>Fri Dec 24 03:58:18 -0800 2010</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@Amela, hvala na komentaru.
@@ -126,10 +128,11 @@ U tom kontekstu, ovi nedostaci su minorni. Ono što je najbitnije, pokazali ste 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Zeljko Bobic]]></wp:comment_author>
-			<wp:comment_author_email>zeljkobobic@bih.net.ba</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6774239</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Zeljko Bobic]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[www.zeljkobobic.com]]></wp:comment_author_url>
+			
 			<wp:comment_date>Mon Jan 17 10:40:11 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Mon Jan 17 10:40:11 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Imam novi kontni plan u excelu koji vas IT manager moze ubaciti u vas financijski program. Ko je zainteresovan neka salje email na zeljkobobic@bih.net.ba]]></wp:comment_content>
@@ -139,10 +142,11 @@ U tom kontekstu, ovi nedostaci su minorni. Ono što je najbitnije, pokazali ste 
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[Salihagić]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>6894164</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Salihagić]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Thu Jan 27 14:29:25 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Jan 27 14:29:25 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[dragi E.H.
@@ -159,10 +163,10 @@ Lijep pozdrav od jos jednog nacionaliste, krajisnika, studenta ekonomije.]]></wp
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7154236</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Feb 17 07:16:27 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Feb 17 07:16:27 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[@Salihagić, drago mi je da si podijelio svoje utiske. Svako dobro.]]></wp:comment_content>
@@ -172,10 +176,10 @@ Lijep pozdrav od jos jednog nacionaliste, krajisnika, studenta ekonomije.]]></wp
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7154363</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Feb 17 07:25:35 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Feb 17 07:25:35 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Željki sam poslao email:
@@ -193,10 +197,10 @@ Ako vam nije problem pošaljite mi taj excel dokument pa ću to objaviti ]]></wp
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>7321834</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Feb 23 02:58:36 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Feb 23 02:58:36 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Re: podrska Wed 23 Feb 2011 09:30:25 AM CET

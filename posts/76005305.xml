@@ -86,9 +86,10 @@ Jezikom matematike:</div>
 	<excerpt:encoded><![CDATA[Napokon sam došao do posljednjeg članka iz današnje serije. Podsjetimo se, posljednji je bio: "mahsuz" software baziran na knowhow ERP U njemu sam došao do sljedećeg zaključka: Bilo da se radi o razvoju novih standardnih ERP fukcija (koje može kor...]]></excerpt:encoded>	
 
 	<wp:post_date>Tue Oct 18 08:34:00 -0700 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Tue Oct 18 08:34:00 -0700 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>76005305</wp:post_id>
 	<wp:post_name>otvoreni-poziv-developerima-honorarni-rad-na</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -99,10 +100,10 @@ Jezikom matematike:</div>
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9884379</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Tue Oct 18 21:40:28 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Tue Oct 18 21:40:28 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Sinoć sam objavio ovaj članak na oglasima za posao FIT-a.
@@ -133,10 +134,10 @@ Pozdrav]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9888193</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Wed Oct 19 10:48:05 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Wed Oct 19 10:48:05 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Admir mi se javio ponovo i izrazio želju da se uključi u rad knowhow ERP.
@@ -262,10 +263,10 @@ Rezime: github, redmine i &quot;opleti&quot;. Baš kako je napisano na http://he
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9892615</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Oct 20 04:04:53 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Oct 20 04:04:53 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Odakle početi ?
@@ -277,10 +278,10 @@ možda odavde: http://redmine.bring.out.ba/issues/24888]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9894382</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Thu Oct 20 09:03:51 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Thu Oct 20 09:03:51 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[http://hernad.bring.out.ba/ljudi-citajte]]></wp:comment_content>
@@ -290,10 +291,10 @@ možda odavde: http://redmine.bring.out.ba/issues/24888]]></wp:comment_content>
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9898289</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Fri Oct 21 03:03:19 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Fri Oct 21 03:03:19 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Moglo bi biti od koristio kolegami se nisu susretali sa git-om github-om:
@@ -306,10 +307,10 @@ http://hernad.bring.out.ba/free-pascal-compiler-edit-compile-run-ciklus
 		</wp:comment>
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>9910568</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
 			<wp:comment_date>Mon Oct 24 00:09:32 -0700 2011</wp:comment_date>
 			<wp:comment_date_gmt>Mon Oct 24 00:09:32 -0700 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[http://redmine.bring.out.ba/issues/24926]]></wp:comment_content>

@@ -8,7 +8,7 @@
 	
 		<category domain="tag" nicename="dunjaluk"><![CDATA[dunjaluk]]></category>
 	
-		<category domain="tag" nicename="fit_mostar"><![CDATA[fit_mostar]]></category>
+		<category domain="tag" nicename="FIT_Mostar"><![CDATA[FIT_Mostar]]></category>
 	
 		<category domain="tag" nicename="islam"><![CDATA[islam]]></category>
 	
@@ -61,9 +61,10 @@
 	<excerpt:encoded><![CDATA[Vizionar je "zeznuta" riječ. Malo je vizionara. Nedavno sam je upotrijebio tokom pominjanja naše firme. Međutim, još dok sam pisao o tome bio sam svjestan da "trčim pred rudu". Da li je neko vizionar može se ocijeniti tek kada se rad o kome se gov...]]></excerpt:encoded>	
 
 	<wp:post_date>Mon Dec 05 02:27:00 -0800 2011</wp:post_date>
-	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:post_date_gmt>Mon Dec 05 02:27:00 -0800 2011</wp:post_date_gmt>
 	<wp:comment_status>open</wp:comment_status>
 	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>84067124</wp:post_id>
 	<wp:post_name>vizionar</wp:post_name>
 	<wp:status>publish</wp:status>
 	<wp:post_parent>0</wp:post_parent>
@@ -74,10 +75,11 @@
 
 	
 		<wp:comment>
-			<!-- <wp:comment_id>5</wp:comment_id> -->
-			<wp:comment_author><![CDATA[murga]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_id>10176216</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[murga]]></wp:comment_author>
+				<wp:comment_author_url><![CDATA[]]></wp:comment_author_url>
+			
 			<wp:comment_date>Mon Dec 05 11:02:07 -0800 2011</wp:comment_date>
 			<wp:comment_date_gmt>Mon Dec 05 11:02:07 -0800 2011</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Amin]]></wp:comment_content>
