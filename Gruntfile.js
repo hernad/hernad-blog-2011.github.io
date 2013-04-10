@@ -53,7 +53,7 @@ grunt.registerMultiTask('htmlfix', 'fix HTML', function () {
      
       var regPregledano = /(\d+) views and (\d+) responses.*<\/h4>/
 
-      content = content.replace(regPregledano, 'Pregleda $1, komentara: $2</h4>(Status na dan 07.04.2013 prema posterous blog statistici ranijeg posterous blog-a)<hr/>');
+      content = content.replace(regPregledano, 'Pregleda $1, komentara: $2</h4>(Status na dan 07.04.2013 prema statistici dotadašnjeg posterous blog sistema)<hr/>');
       var newContent = content.replace(regPosts, '$1\n<!--(bake includes/disqus.html)-->');
 
       if (content.length < 1) {
