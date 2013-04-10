@@ -51,7 +51,11 @@ grunt.registerMultiTask('htmlfix', 'fix HTML', function () {
       //var regPosts= /(<ul.*post_responses list.*<\/ul>)/m
       var regPosts= /(<ul class=\'post_responses list.*\n.*ul>)/m
      
+      var regPregledano = /(\d+) views and (\d+) responses.*<\/h4>/
+
+      content = content.replace(regPregledano, 'Pregleda $1, komentara: $2</h4>(Status na dan 07.04.2013 prema posterous blog statistici ranijeg posterous blog-a)<hr/>');
       var newContent = content.replace(regPosts, '$1\n<!--(bake includes/disqus.html)-->');
+
       if (content.length < 1) {
         grunt.log.warn('Destination not written because minified HTML was empty.');
       } else {
