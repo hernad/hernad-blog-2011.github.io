@@ -36,6 +36,7 @@ grunt.registerMultiTask('htmlfix', 'fix HTML', function () {
 	    }
       } 
 
+      /*
       var linesNew = grunt.util._.lines(content);
       for (var i=0; i<3; i++)
 	      linesNew.pop();
@@ -43,13 +44,18 @@ grunt.registerMultiTask('htmlfix', 'fix HTML', function () {
       linesNew.push("</div>");
       linesNew.push("</body>");
       linesNew.push("</html>");
-
       content = linesNew.join("\n");
+      */
 
+
+      //var regPosts= /(<ul.*post_responses list.*<\/ul>)/m
+      var regPosts= /(<ul class=\'post_responses list.*\n.*ul>)/m
+     
+      var newContent = content.replace(regPosts, '$1\n<!--(bake includes/disqus.html)-->');
       if (content.length < 1) {
         grunt.log.warn('Destination not written because minified HTML was empty.');
       } else {
-        grunt.file.write(file.dest, content);
+        grunt.file.write(file.dest, newContent);
         grunt.log.writeln('File ' + file.dest + ' created.');
       }
     });
@@ -59,7 +65,7 @@ grunt.initConfig( {
  
    htmlfix: {
           standard: {
-	      files: grunt.file.expandMapping("posts/**/*.html", "dest1"),	  
+	      files: grunt.file.expandMapping("posts.orig/**/*.html", "dest1"),	  
           }
    },
 
@@ -70,7 +76,7 @@ grunt.initConfig( {
                              section: ""
             },
 
-            files: grunt.file.expandMapping("dest1/posts/**/*.html", "dest"),
+            files: grunt.file.expandMapping("dest1/posts.orig/**/*.html", "dest"),
        },
 
    },
